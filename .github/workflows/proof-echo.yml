@@ -1,0 +1,18 @@
+name: proof-echo
+on:
+  workflow_dispatch:
+    inputs:
+      note:
+        description: "Proof note from GLEE"
+        required: false
+        default: "glee-proof"
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo proof
+        run: |
+          echo "GLEE proof-echo workflow"
+          echo "note: ${{ inputs.note }}"
+          echo "repo: ${{ github.repository }}"
+          echo "run: ${{ github.run_id }}"
