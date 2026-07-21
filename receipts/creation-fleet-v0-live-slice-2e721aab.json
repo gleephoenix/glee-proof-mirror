@@ -1,0 +1,17 @@
+{
+  "schema": "glee.artifact_receipt.v0",
+  "artifact_id": "creation-fleet-v0-live-slice-2e721aab",
+  "project_id": "proj-glee-platform-fleet-v0",
+  "kind": "creation",
+  "title": "Fleet v0 vertical slice \u2014 live",
+  "summary": "Login -> project page -> artifact card -> GitHub-linked receipt -> Captain publish control -> public mission feed, shipped as one compounding path on the live platform.",
+  "created_at": "2026-07-21T17:23:16Z",
+  "created_by": {
+    "user_id": "google:114882457805565219575",
+    "username": "google-mrmason2928"
+  },
+  "provenance": {
+    "source": "GLEE Platform Workspace",
+    "signer": "GLEE-Platform-Signer-v0"
+  }
+}
