@@ -1,213 +1,213 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-07-21T14:17:26.961361+00:00
+> Last updated: 2026-07-21T14:18:19.507852+00:00
 > Total receipts indexed: 5695
 
 ## Receipt Manifest
 
-| File | Tier | Mutation Set | Output Artifact |
-|------|------|--------------|-----------------|
-| 2026-04-25_W7-smoke-2026-05_pipeline_evidence.md | None | N/A | N/A |
-| META.md | None | N/A | N/A |
-| 2026-04-25_51ztch_dispatch_schema.md | None | N/A | N/A |
-| 2026-04-25_8j1txn_prompt_text_capture.md | None | N/A | N/A |
-| 2026-04-25_a0y4tf_continuous_capture.md | None | N/A | N/A |
-| 2026-04-25_authoring_preflight.md | None | N/A | N/A |
-| 2026-04-25_canary_gate.md | None | N/A | N/A |
-| 2026-04-25_cnnmyf_canary_bailout_dive.md | None | N/A | N/A |
-| 2026-04-25_continuous_capture_followups.md | None | N/A | N/A |
-| 2026-04-25_corpus_atlas_refresh.md | None | N/A | N/A |
-| 2026-04-25_dear0g_l3_orientation.md | None | N/A | N/A |
-| 2026-04-25_meta_grading_design.md | None | N/A | N/A |
-| 2026-04-25_tune_outcome_shape_only.md | None | N/A | N/A |
-| 2026-04-25_w7_notebook_fork.md | None | N/A | N/A |
-| 2026-04-26_59tx5b_action_gate_reconcile.md | None | N/A | N/A |
-| 2026-04-26_ariadne_foreman_tabs_lesson_reuse_2cehyb_receipt.md | None | N/A | N/A |
-| 2026-04-26_session_learning_capture_and_reuse_routing_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_abs_path_ariadne_package_1az48v_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_abs_path_ariadne_reorg_fc6mxe_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_abs_path_final_non_dashboard_ve5y1z_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_abs_path_small_code_batch_1b0w1d_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_dashboard_and_knowledge_gap_closure_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_docs_package_surfaces_0dvp4v_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_external_deps_ast_parser_8ft8f5_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_generated_evidence_policy_k47z1m_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_generated_snapshot_file_rules_crktgn_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_hybrid_l3_path_imports_283dhs_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_named_evidence_surfaces_3hdbnt_receipt.md | None | N/A | N/A |
-| 2026-04-26_ship_lint_workbench_upstream_deps_rmr3cv_receipt.md | None | N/A | N/A |
-| 2026-04-26_task36_sanji_sentinel_liveness_repair.md | None | N/A | N/A |
-| 2026-04-27_ai_innovation_map_closure_dskyv4_receipt.md | None | N/A | N/A |
-| 2026-04-27_continual_learning_agent_os_d2vfbx_receipt.md | None | N/A | N/A |
-| 2026-04-27_experience_record_schema_ygxy5g_receipt.md | None | N/A | N/A |
-| 2026-04-27_experience_registry_ingest_pcvj40_receipt.md | None | N/A | N/A |
-| 2026-04-27_glee_learning_loop_98vb41_receipt.md | None | N/A | N/A |
-| 2026-04-27_glee_learning_loop_correction_2c78sw_receipt.md | None | N/A | N/A |
-| 2026-04-27_mistake_safe_harbor_reward_z2jr8k_receipt.md | None | N/A | N/A |
-| 2026-04-27_model_lab_barrier_optimization_map_n5gnmx_receipt.md | None | N/A | N/A |
-| 2026-04-27_model_screen_bench_52nbn0_receipt.md | None | N/A | N/A |
-| 2026-04-27_orchestration_experience_consciousness_capture_fg85dw_receipt.md | None | N/A | N/A |
-| 2026-04-27_packet_first_context_contract_jamh3b_receipt.md | None | N/A | N/A |
-| 2026-04-27_packet_first_context_rubric_mz7vkh_receipt.md | None | N/A | N/A |
-| 2026-04-27_plans_finalized_meta_d35jt4_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_code_attention_v1_001_Q8EKF6_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_cold_bundle_drift_guard_001_KCVT9R_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_cold_bundle_retire_research_routing_robin_001_EMFSW5_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_cold_tree_freeze_001_EKZF9V_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_cold_tree_freeze_lint_trigger_001_07DDPR_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_lesson_capture_stop_hook_001_HSGWJD_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_node_framing_truncation_guard_001_9F72QK_receipt.md | None | N/A | N/A |
-| 2026-04-27_proc_proposed_node_staleness_detect_001_WYP1DR_receipt.md | None | N/A | N/A |
-| 2026-04-27_replay_candidate_dryrun_v1ddtc_receipt.md | None | N/A | N/A |
-| 2026-04-27_replay_positive_demo_n462xp_receipt.md | None | N/A | N/A |
-| 2026-06-15_d1_te_measurement_baseline_001_T8CVQ3_receipt.md | None | N/A | N/A |
-| 2026-06-17_BTTEST_execution_receipt.md | None | N/A | N/A |
-| 2026-06-28_GLEE-BROWSER-PROVIDER-SETUP_local.md | None | N/A | N/A |
-| 2026-06-28_edge_security_baseline_shipped.md | None | N/A | N/A |
-| 2026-06-28_lint_baseline_audit.md | None | N/A | N/A |
-| 2026-06-28_local_ops_cockpit_v2_shipped.md | None | N/A | N/A |
-| 2026-06-28_workloop_airlock_spec_ratified.md | None | N/A | N/A |
-| 2026-07-04_gate_cards_swarm_integration.md | None | N/A | N/A |
-| 2026-07-04_gate_dev_api_worker.md | None | N/A | N/A |
-| META.md | None | N/A | N/A |
-| foresci_receipt_1782870094.md | None | N/A | N/A |
-| foresci_receipt_1782870180.md | None | N/A | N/A |
-| model_routing_shadow_receipt.md | None | N/A | N/A |
-| model_routing_splice_receipt.md | None | N/A | N/A |
-| receipt_task_8_robin.md | None | N/A | N/A |
-| 2026-03-29_home_self_test.md | None | N/A | N/A |
-| 2026-03-29_local_ops_toolkit.md | None | N/A | N/A |
-| 2026-03-29_local_ops_toolkit_target_filter_repair_receipt.md | None | N/A | N/A |
-| 2026-03-30_capital_shared_artifact_library_and_dispatch_preflight_engineering_review_receipt.md | None | N/A | N/A |
-| 2026-03-30_four_foreman_self_test_engineering_review_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_phoenix_wave0_file_atlas_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_phoenix_wave1a_dependency_map_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_phoenix_wave1b_captain_structure_ui_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_phoenix_wave2_classification_ui_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_root_plans_temperature_wave_a_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_root_plans_temperature_wave_b_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_root_plans_temperature_wave_c_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_root_plans_temperature_wave_d_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_root_plans_temperature_wave_e_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_root_plans_temperature_wave_f_receipt.md | None | N/A | N/A |
-| 2026-03-30_glee_root_plans_temperature_wave_g_receipt.md | None | N/A | N/A |
-| 2026-03-31_capital_provider_runtime_extraction_and_meta_pilot_closeout_repair_receipt.md | None | N/A | N/A |
-| 2026-03-31_capital_provider_runtime_extraction_and_meta_pilot_receipt.md | None | N/A | N/A |
-| 2026-03-31_dashboard_app_semantics_engineering_spike_receipt.md | None | N/A | N/A |
-| 2026-03-31_dashboard_app_semantics_route_b_implementation_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_cold_mass_hygiene_wave3_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_file_organization_closeout_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_hot_research_access_compression_wave2_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_minimum_operating_form_review_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_operating_spine_compression_wave1_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_root_shape_migration_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_self_improvement_first_tranche_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_wave4_memory_batch_receipt.md | None | N/A | N/A |
-| 2026-03-31_glee_wave5_residue_absorption_receipt.md | None | N/A | N/A |
-| 2026-03-31_home_boot_plus_core_scope_crew_launch_pattern_implementation_receipt.md | None | N/A | N/A |
-| 2026-03-31_live_path_truth_repair_captain_input_frameworking_receipt.md | None | N/A | N/A |
-| 2026-03-31_provider_native_completion_spike_receipt.md | None | N/A | N/A |
-| 2026-03-31_provider_native_receipt_ingest_migration_receipt.md | None | N/A | N/A |
-| 2026-03-31_provider_native_workflow_challenge_engineering_receipt.md | None | N/A | N/A |
-| 2026-03-31_provider_native_workflow_challenge_truth_repair_receipt.md | None | N/A | N/A |
-| 2026-03-31_self_improvement_wave_zoro_receipt.md | None | N/A | N/A |
-| 2026-03-31_workflow_creation_meta_lessons_amendment_wave_receipt.md | None | N/A | N/A |
-| captain-launch-receipt.md | None | N/A | N/A |
-| folder-shrink-receipt.md | None | N/A | N/A |
-| folder-shrink-wave2-receipt.md | None | N/A | N/A |
-| 2026-04-03_glee_roadmap_cut1_receipt.md | None | N/A | N/A |
-| 2026-04-04_execution_governance_hardening_one_wave_receipt.md | None | N/A | N/A |
-| 2026-04-04_execution_governance_hardening_wave2_receipt.md | None | N/A | N/A |
-| 2026-04-04_glee_bundle_install_one_wave_receipt.md | None | N/A | N/A |
-| 2026-04-04_glee_harness_improvement_program_receipt.md | None | N/A | N/A |
-| 2026-04-04_mof_wave6_post_absorption_condensation_receipt.md | None | N/A | N/A |
-| 2026-04-04_mof_wave7_packet_family_condensation_receipt.md | None | N/A | N/A |
-| 2026-04-04_mof_wave8_campaign_finalization_receipt.md | None | N/A | N/A |
-| 2026-04-05_programs_residue_normalization_receipt.md | None | N/A | N/A |
-| 2026-04-05_proof_command_exposure_receipt.md | None | N/A | N/A |
-| 2026-04-05_pytest_collection_hardening_receipt.md | None | N/A | N/A |
-| 2026-04-05_pytest_execution_capability_registry_cross_suite_fix_receipt.md | None | N/A | N/A |
-| 2026-04-05_pytest_execution_skills_band_repair_receipt.md | None | N/A | N/A |
-| 2026-04-05_pytest_execution_skills_cross_suite_collision_fix_receipt.md | None | N/A | N/A |
-| 2026-04-05_pytest_execution_three_band_repair_campaign_receipt.md | None | N/A | N/A |
-| 2026-04-05_substrate_and_captain_surface_convergence_one_wave_receipt.md | None | N/A | N/A |
-| 2026-04-05_substrate_and_captain_surface_convergence_wave2_receipt.md | None | N/A | N/A |
-| 2026-04-05_temporary_pytest_adoption_receipt.md | None | N/A | N/A |
-| 2026-04-06_b06_b10_crew_ops_hardening_one_wave_receipt.md | None | N/A | N/A |
-| 2026-04-06_b06_b10_packet_finder_structured_output_followup_receipt.md | None | N/A | N/A |
-| 2026-04-06_captain_review_analytics_v1_receipt.md | None | N/A | N/A |
-| 2026-04-07_context_decay_dispatch_preflight_skill_receipt.md | None | N/A | N/A |
-| 2026-04-08_boundary_receipts_canonization_and_backlog_compaction_receipt.md | None | N/A | N/A |
-| 2026-04-08_captain_prompt_architecture_surface_receipt.md | None | N/A | N/A |
-| 2026-04-08_context_decay_packet_law_and_validation_receipt.md | None | N/A | N/A |
-| 2026-04-08_docs_asset_images_cold_archive_and_hot_cleanup_receipt.md | None | N/A | N/A |
-| 2026-04-08_docs_asset_images_reference_and_austerity_audit_receipt.md | None | N/A | N/A |
-| 2026-04-08_doctrine_chain_harmonization_and_boot_surface_repair_receipt.md | None | N/A | N/A |
-| 2026-04-08_evidence_austerity_wave_1_receipt.md | None | N/A | N/A |
-| 2026-04-08_evidence_deep_dive_austerity_and_proof_mass_receipt.md | None | N/A | N/A |
-| 2026-04-08_glee_top_level_austerity_census_and_pressure_ranking_receipt.md | None | N/A | N/A |
-| 2026-04-08_glee_utilization_atlas_v1_receipt.md | None | N/A | N/A |
-| 2026-04-08_history_500yr_mechanical_index_and_normalization_candidate_inventory_receipt.md | None | N/A | N/A |
-| 2026-04-08_history_50yr_boundary_canonical_review_matrix_receipt.md | None | N/A | N/A |
-| 2026-04-08_history_organization_and_standardization_audit_receipt.md | None | N/A | N/A |
-| 2026-04-08_log_root_canonization_and_tranche_a_receipt.md | None | N/A | N/A |
-| 2026-04-08_log_root_canonization_tranche_b_high_yield_receipt.md | None | N/A | N/A |
-| 2026-04-08_moved_path_drift_audit_and_stale_reference_note_receipt.md | None | N/A | N/A |
-| 2026-04-08_nami_context_budget_generalized_surface_dir_and_test_hardening_receipt.md | None | N/A | N/A |
-| 2026-04-08_parallel_preflight_wave2_scout_conditioned_provider_bridge_receipt.md | None | N/A | N/A |
-| 2026-04-08_two_agent_parallel_preflight_scout_pilot_receipt.md | None | N/A | N/A |
-| 2026-04-09_gleeb_phase1_skeleton_construction_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_ai_overhaul_phase_1_5_doctrine_formalization_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_ai_overhaul_phase_2a_prototype_v1_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_phase_2b_early_air_lock_and_research_rush_repair_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_phase_2c_schema_and_token_validity_repair_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_phase_2d_opening_land_foundation_and_air_repair_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_phase_2e1_parser_research_armor_repair_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_phase_2e2_ahead_of_time_defines_tuning_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_phase_2e_opening_research_gate_and_at_foundation_repair_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_post_2c_hard_air_country_override_repair_receipt.md | None | N/A | N/A |
-| 2026-04-09_hoi4_post_phase_2d_parity_schema_and_truth_recovery_receipt.md | None | N/A | N/A |
-| 2026-04-09_zoro_home_cleanup_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_germany_gold_run_observer_expansion_all_at_once_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_monthly_auto_report_dev_harness_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_observer_expansion_all_at_once_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e3_engine_chain_research_and_gate_repair_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e4_starting_tech_aware_research_and_hard_gate_repair_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e5_focus_authority_and_hard_gate_recovery_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e5a_focus_authority_completion_and_air_category_zeroing_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e6_research_tech_authority_and_residual_gate_recovery_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e7_pp_opener_order_and_residual_production_recovery_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e7a_pp_opener_completion_and_truth_sync_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2e8_residual_production_lock_and_at_completion_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2f_land_template_authority_and_industry_order_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2fa_runtime_authority_closeout_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_phase_2fda_combined_runtime_authority_recovery_receipt.md | None | N/A | N/A |
-| 2026-04-10_hoi4_post_2fda_runtime_behavior_correction_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_combined_germany_reset_and_shared_hard_air_line_seed_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_germany_eighth_imitation_starting_force_conversion_and_medium_template_authority_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_germany_first_imitation_bundled_wave_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_germany_second_imitation_economy_armor_air_correction_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_germany_seventh_imitation_construction_queue_owner_recovery_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_germany_sixth_imitation_cutoff_air_purity_exact_armor_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_germany_third_imitation_combined_air_motorized_construction_correction_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_iteration_discipline_integration_corrective_receipt.md | None | N/A | N/A |
-| 2026-04-11_hoi4_iteration_discipline_systems_receipt.md | None | N/A | N/A |
-| 2026-04-13_hoi4_germany_ninth_imitation_parser_war_order_motorized_scout_repair_receipt.md | None | N/A | N/A |
-| 2026-04-20_ARIADNE_V1_BUILD_RECEIPT.md | None | N/A | N/A |
-| 2026-04-20_ML_ROLLOUT_MASTER_RECEIPT.md | None | N/A | N/A |
-| 2026-04-20_P1_FRONTMATTER_STANDARD_LANDING.md | None | N/A | N/A |
-| 2026-04-20_P2_S1_MEMORY_SCORER_SUBSYSTEM.md | None | N/A | N/A |
-| 2026-04-20_P2_S2_NEURAL_ENGINE.md | None | N/A | N/A |
-| 2026-04-20_P2_S3_MEMORY_INJECTOR_HOOK.md | None | N/A | N/A |
-| 2026-04-20_P2_S4_GLEE_MCP_SEMANTIC_TOOL.md | None | N/A | N/A |
-| 2026-04-20_P3_RECEIPT_MIGRATION.md | None | N/A | N/A |
-| 2026-04-20_P4_PACKET_MIGRATION.md | None | N/A | N/A |
-| 2026-04-20_P5_TELEMETRY.md | None | N/A | N/A |
-| 2026-04-20_P6_TRAINING_AND_SKILLS.md | None | N/A | N/A |
-| 2026-04-20_P7_DOCTRINE_SUMMARY_BLOCKS.md | None | N/A | N/A |
-| 2026-04-20_REORG_A_ROOT_MLSUMMARY.md | None | N/A | N/A |
-| 2026-04-20_REORG_B_CAPITAL_DESC_ENRICH.md | None | N/A | N/A |
-| _(+5495 more — see full manifest JSON)_ | | | |
+| File | Home | Date | Tier | Size |
+|------|------|------|------|------|
+| 2026-07-21_captain_kit_atticized.md | zoro | 2026-07-21 | B | 2271 |
+| 2026-07-21_control_review_skills_all_providers.md | zoro | 2026-07-21 | B | 2287 |
+| 2026-07-21_gemini_md_refreshed.md | zoro | 2026-07-21 | B | 1856 |
+| 2026-07-21_gemini_provider_blocked_auth_deprecation.md | zoro | 2026-07-21 | B | 2501 |
+| 2026-07-21_google_seat_pivot_antigravity.md | zoro | 2026-07-21 | B | 4849 |
+| 2026-07-21_grok_glee_mcp_registered_25_tools.md | zoro | 2026-07-21 | B | 2199 |
+| 2026-07-21_grok_stale_schema_cache_sweep.md | zoro | 2026-07-21 | B | 1888 |
+| 2026-07-21_moltbook_viral_post_4598_to_1.md | zoro | 2026-07-21 | — | 5113 |
+| 2026-07-21_multiharness_evals_codex_grok_green.md | zoro | 2026-07-21 | B | 3969 |
+| 2026-07-21_provider_agnostic_skillforge_5provider.md | zoro | 2026-07-21 | B | 6382 |
+| 2026-07-21_skillforge_evals_5of5_greeting_fix.md | zoro | 2026-07-21 | B | 2201 |
+| 2026-07-21_aos_adoption_thread_closure.md | sanji | 2026-07-21 | A | 2784 |
+| 2026-07-21_chatgpt_tunnel_and_seat_lifecycle_recovery.md | sanji | 2026-07-21 | B | 7403 |
+| 2026-07-21_github_glee_integration_research_and_tools.md | robin | 2026-07-21 | — | 2174 |
+| 2026-07-21_github_integration_phase2_all_modules.md | robin | 2026-07-21 | — | 3709 |
+| 2026-07-20_airlock_opened_seat_dispatch.md | zoro | 2026-07-20 | — | 6225 |
+| 2026-07-20_autonomous_fix_sweep.md | zoro | 2026-07-20 | — | 7034 |
+| 2026-07-20_captain_curriculum_level_design_cutscenes.md | zoro | 2026-07-20 | A | 9451 |
+| 2026-07-20_chatgpt_glee_airlock_gateway.md | zoro | 2026-07-20 | B | 8373 |
+| 2026-07-20_chatgpt_orchestrator_bridge.md | zoro | 2026-07-20 | B | 9811 |
+| 2026-07-20_chatgpt_seat_dispatch_proven_e2e.md | zoro | 2026-07-20 | — | 3955 |
+| 2026-07-20_codhell_first_engine_loop_fogcove.md | zoro | 2026-07-20 | — | 4215 |
+| 2026-07-20_connector_manifest_cache_diagnosis.md | zoro | 2026-07-20 | — | 4005 |
+| 2026-07-20_culture_act3_encounter_and_graphics_wave.md | zoro | 2026-07-20 | C | 11051 |
+| 2026-07-20_culture_live_3d_game_rebuild.md | zoro | 2026-07-20 | C | 6166 |
+| 2026-07-20_duty_roster_organ_and_social_reenable.md | zoro | 2026-07-20 | B | 7245 |
+| 2026-07-20_evolution_arena_vertical_slice.md | zoro | 2026-07-20 | A | 8688 |
+| 2026-07-20_fog_cove_elias_player_character_ratified.md | zoro | 2026-07-20 | — | 18211 |
+| 2026-07-20_fog_cove_watch_first_playable_slice.md | zoro | 2026-07-20 | — | 11103 |
+| 2026-07-20_game_improvement_release_independent_audit.md | zoro | 2026-07-20 | — | 5137 |
+| 2026-07-20_graphics_quality_research_and_toolchain.md | zoro | 2026-07-20 | — | 7060 |
+| 2026-07-20_key_history_purge_and_tree_db_incident.md | zoro | 2026-07-20 | — | 6703 |
+| 2026-07-20_keystore_out_of_tree_kj37rj_d2.md | zoro | 2026-07-20 | — | 8082 |
+| 2026-07-20_manifest_cache_exhausted_levers.md | zoro | 2026-07-20 | — | 4947 |
+| 2026-07-20_orchestrator_terminal_awareness.md | zoro | 2026-07-20 | B | 9442 |
+| 2026-07-20_stale_daemon_and_connector_findings.md | zoro | 2026-07-20 | — | 5507 |
+| 2026-07-20_terminal_liveness_misreport_fix.md | zoro | 2026-07-20 | — | 9420 |
+| 2026-07-20_two_games_split_and_biomech_regrade.md | zoro | 2026-07-20 | A | 5329 |
+| 2026-07-20_useful_autonomy_audit_and_design.md | zoro | 2026-07-20 | A | 4585 |
+| 2026-07-20_agent_bus_pyright_pilot.md | sanji | 2026-07-20 | — | 2120 |
+| 2026-07-20_agent_commune_targeted_recruitment_reply.md | sanji | 2026-07-20 | — | 3803 |
+| 2026-07-20_early_falsification_empirical_closeout.md | sanji | 2026-07-20 | — | 7084 |
+| 2026-07-20_early_falsification_historical_replay.md | sanji | 2026-07-20 | — | 7184 |
+| 2026-07-20_early_falsification_shadow_comparison.md | sanji | 2026-07-20 | — | 5241 |
+| 2026-07-20_frame_engine_typescript_gate.md | sanji | 2026-07-20 | — | 2626 |
+| 2026-07-20_game_improvement_protected_release_audit.md | sanji | 2026-07-20 | — | 2777 |
+| 2026-07-20_glee_agent_commune_approved_production_deploy.md | sanji | 2026-07-20 | — | 3802 |
+| 2026-07-20_glee_agent_commune_shadow_launch.md | sanji | 2026-07-20 | — | 6152 |
+| 2026-07-20_media_studio_typescript_gate.md | sanji | 2026-07-20 | — | 2152 |
+| 2026-07-20_moltbook_playtest_campaign_resume.md | sanji | 2026-07-20 | — | 6199 |
+| 2026-07-20_moltbook_publish_contract_repair.md | sanji | 2026-07-20 | — | 5639 |
+| 2026-07-20_pulse_atomic_and_session_transition_shadow_live.md | sanji | 2026-07-20 | — | 6946 |
+| 2026-07-20_glee_changelog_convention.md | robin | 2026-07-20 | — | 1118 |
+| 2026-07-20_glee_mcp_inspect.md | robin | 2026-07-20 | — | 1366 |
+| 2026-07-20_inspect_prototype.md | robin | 2026-07-20 | — | 1373 |
+| 2026-07-20_marie_byrd_land_research.md | robin | 2026-07-20 | — | 1503 |
+| 2026-07-20_surprise_gated_scheduler.md | robin | 2026-07-20 | — | 1222 |
+| 2026-07-20_token_efficient_orchestration.md | robin | 2026-07-20 | — | 1824 |
+| 2026-07-19_core_estate_cartography_survey.md | zoro | 2026-07-19 | B | 6865 |
+| 2026-07-19_culture_3d_world_integrated.md | zoro | 2026-07-19 | C | 3403 |
+| 2026-07-19_culture_creature_emergence_spike.md | zoro | 2026-07-19 | A | 3917 |
+| 2026-07-19_culture_minimal_3d_spike.md | zoro | 2026-07-19 | A | 3173 |
+| 2026-07-19_culture_multiscale_world_spike.md | zoro | 2026-07-19 | A | 3273 |
+| 2026-07-19_culture_spine_and_reveal_wave2.md | zoro | 2026-07-19 | C | 4393 |
+| 2026-07-19_fog_film_engine_native_pivot.md | zoro | 2026-07-19 | B | 5165 |
+| 2026-07-19_frontier_direction_judge_panel.md | zoro | 2026-07-19 | A | 5331 |
+| 2026-07-19_moltbook_posts_invisible_root_cause.md | zoro | 2026-07-19 | B | 12989 |
+| 2026-07-19_petri_ecosystem_game_v1_live.md | zoro | 2026-07-19 | C | 4561 |
+| 2026-07-19_petri_v2_strategic_encounter_live.md | zoro | 2026-07-19 | C | 3605 |
+| 2026-07-19_research_loop_crank2_landing_pulse_forge.md | zoro | 2026-07-19 | — | 3784 |
+| 2026-07-19_research_loop_engine_v1.md | zoro | 2026-07-19 | — | 5826 |
+| 2026-07-19_story_blueprint_design_and_falsification.md | zoro | 2026-07-19 | — | 6631 |
+| 2026-07-19_agentic_operations_standard_v0_framing.md | sanji | 2026-07-19 | — | 2944 |
+| 2026-07-19_aos_agy_pool_subscription_integration.md | sanji | 2026-07-19 | — | 3037 |
+| 2026-07-19_aos_cross_provider_live_test_preflight.md | sanji | 2026-07-19 | — | 2454 |
+| 2026-07-19_aos_flash_declared_context_comparison.md | sanji | 2026-07-19 | — | 3719 |
+| 2026-07-19_aos_foreground_flash_adoption.md | sanji | 2026-07-19 | — | 4101 |
+| 2026-07-19_aos_per_assignment_tool_scope.md | sanji | 2026-07-19 | — | 2380 |
+| 2026-07-19_aos_subscription_cross_provider_smoke.md | sanji | 2026-07-19 | — | 1883 |
+| 2026-07-19_aos_subscription_handoff_foundation.md | sanji | 2026-07-19 | — | 3459 |
+| 2026-07-19_codebank_social_pin_repair.md | sanji | 2026-07-19 | — | 1861 |
+| 2026-07-19_context_pressure_guard_recovery_feedback.md | sanji | 2026-07-19 | — | 1932 |
+| 2026-07-19_fogcove_generator_portability_lint_fix.md | sanji | 2026-07-19 | — | 1685 |
+| 2026-07-19_game_improvement_commons_pipeline.md | sanji | 2026-07-19 | — | 9342 |
+| 2026-07-19_moltbook_legion_campaign_recovery.md | sanji | 2026-07-19 | — | 4747 |
+| 2026-07-18_agent_round_001_key_backup_and_launch_staged.md | zoro | 2026-07-18 | C | 2323 |
+| 2026-07-18_agent_round_001_manifest_deployed_live.md | zoro | 2026-07-18 | C | 2236 |
+| 2026-07-18_agent_round_001_wallet_created.md | zoro | 2026-07-18 | C | 2115 |
+| 2026-07-18_cc_lc_v0_4_0_protocol_independent_review.md | zoro | 2026-07-18 | B | 3543 |
+| 2026-07-18_crew_app_tab_seat_discovery_fix.md | zoro | 2026-07-18 | B | 7516 |
+| 2026-07-18_fog_cove_overnight_full_cut.md | zoro | 2026-07-18 | A | 5447 |
+| 2026-07-18_fogcove_lookdev_gap_audit.md | zoro | 2026-07-18 | A | 6437 |
+| 2026-07-18_legions_hub_page_live.md | zoro | 2026-07-18 | C | 1764 |
+| 2026-07-18_legions_mobilized_live.md | zoro | 2026-07-18 | C | 3134 |
+| 2026-07-18_legions_trust_spine_built.md | zoro | 2026-07-18 | A | 3450 |
+| 2026-07-18_lookdev_craft_study.md | zoro | 2026-07-18 | A | 8723 |
+| 2026-07-18_moltbook_deshill_post_and_engagement.md | zoro | 2026-07-18 | C | 9804 |
+| 2026-07-18_moltbook_idempotency_and_growth_strategy.md | zoro | 2026-07-18 | A | 3100 |
+| 2026-07-18_nla_causal_steering_level1.md | zoro | 2026-07-18 | — | 5301 |
+| 2026-07-18_nla_step_a_masked_head_diagnostic.md | zoro | 2026-07-18 | — | 4542 |
+| 2026-07-18_petri_cell_designer_zoom_detail.md | zoro | 2026-07-18 | C | 5523 |
+| 2026-07-18_petri_emergent_niches_null_stall.md | zoro | 2026-07-18 | A | 5101 |
+| 2026-07-18_petri_evolution_accuracy_upgrades.md | zoro | 2026-07-18 | C | 5351 |
+| 2026-07-18_petri_gamefeel_ux_pass.md | zoro | 2026-07-18 | C | 3191 |
+| 2026-07-18_petri_v0_live.md | zoro | 2026-07-18 | C | 3176 |
+| 2026-07-18_picture_ab_and_kit_spawn.md | zoro | 2026-07-18 | A | 9867 |
+| 2026-07-18_ship_lint_global_blockers_agora_codebank.md | zoro | 2026-07-18 | A | 2736 |
+| 2026-07-18_CC_LC_BELIEF_GATED_WORKSPACE_REDESIGN.md | sanji | 2026-07-18 | — | 5943 |
+| 2026-07-18_SOLO_CREDIBILITY_INCOME_SWEEP_AND_PROOFPACK.md | sanji | 2026-07-18 | — | 8202 |
+| 2026-07-18_ZERO_CAPITAL_ARB_CL_AND_COOPERATION_PIVOT.md | sanji | 2026-07-18 | — | 8539 |
+| 2026-07-18_ZERO_CAPITAL_ARB_S0_S2_INITIAL_SHADOW.md | sanji | 2026-07-18 | — | 8523 |
+| 2026-07-18_cc_lc_v0_4_0_confirmatory_rejection.md | sanji | 2026-07-18 | B | 8729 |
+| 2026-07-18_glee_pilot_phase3_completion_receipt.md | sanji | 2026-07-18 | — | 1145 |
+| 2026-07-18_glee_pilot_verdict_audit_receipt.md | sanji | 2026-07-18 | — | 1842 |
+| 2026-07-17_agent_round_001_decouple_ruling.md | zoro | 2026-07-17 | — | 4996 |
+| 2026-07-17_agora_monitor_slice2_live_feeds_cron.md | zoro | 2026-07-17 | B | 5806 |
+| 2026-07-17_agora_story_engine_monitoring_scaffold.md | zoro | 2026-07-17 | — | 6913 |
+| 2026-07-17_asset_pack_rights_guard_fix.md | zoro | 2026-07-17 | — | 3820 |
+| 2026-07-17_asset_worldbuilding_takeover_handoff.md | zoro | 2026-07-17 | — | 1924 |
+| 2026-07-17_crash_forensics_hard_reset_diagnosis.md | zoro | 2026-07-17 | — | 5269 |
+| 2026-07-17_crash_repair_and_collateral_fixes.md | zoro | 2026-07-17 | — | 5066 |
+| 2026-07-17_crew_app_session_persistence.md | zoro | 2026-07-17 | B | 10669 |
+| 2026-07-17_critical_store_backup_wave.md | zoro | 2026-07-17 | — | 3697 |
+| 2026-07-17_dual_channel_audit_economics.md | zoro | 2026-07-17 | B | 6918 |
+| 2026-07-17_moltbook_write_path_unblock.md | zoro | 2026-07-17 | A | 2243 |
+| 2026-07-17_no_custom_slash_commands_sweep.md | zoro | 2026-07-17 | — | 2678 |
+| 2026-07-17_offsite_backup_tier.md | zoro | 2026-07-17 | — | 3404 |
+| 2026-07-17_phoenix_scan_integration_first_map.md | zoro | 2026-07-17 | — | 6977 |
+| 2026-07-17_provenance_envelope_signing.md | zoro | 2026-07-17 | — | 4901 |
+| 2026-07-17_seat_race_and_card_clobber_fix.md | zoro | 2026-07-17 | B | 6471 |
+| 2026-07-17_testing_rank3_twin_signal.md | zoro | 2026-07-17 | A | 2401 |
+| 2026-07-17_testing_rank4_6_uvp_gate_mechanical.md | zoro | 2026-07-17 | B | 3231 |
+| 2026-07-17_testing_rank5_paraphrase_tier.md | zoro | 2026-07-17 | A | 2313 |
+| 2026-07-17_testing_rank7_coverage_and_mutation.md | zoro | 2026-07-17 | B | 2717 |
+| 2026-07-17_testing_residual_lens_eval_paraphrase.md | zoro | 2026-07-17 | A | 1629 |
+| 2026-07-17_ZERO_CAPITAL_ARB_FEASIBILITY_SCANNER_PACKET.md | sanji | 2026-07-17 | — | 4102 |
+| 2026-07-17_cc_lc_candidate_contract_suite.md | sanji | 2026-07-17 | — | 7681 |
+| 2026-07-17_creative_asset_worldbuilding_takeover_strategy.md | sanji | 2026-07-17 | — | 6732 |
+| 2026-07-17_creative_assets_wave1_contracts_inventory.md | sanji | 2026-07-17 | — | 9398 |
+| 2026-07-17_crew_app_input_scroll_desktop_sync_fix.md | sanji | 2026-07-17 | — | 7576 |
+| 2026-07-17_fog_cove_exp01_wharf_material.md | sanji | 2026-07-17 | — | 8113 |
+| 2026-07-17_fog_cove_exp02_kelp_vegetation.md | sanji | 2026-07-17 | — | 12163 |
+| 2026-07-17_four_scope_crash_recovery.md | sanji | 2026-07-17 | — | 6867 |
+| 2026-07-17_glee_pilot_plan_one_state_many_views_spec.md | sanji | 2026-07-17 | — | 3788 |
+| 2026-07-17_holy_grail_recovery_wave.md | sanji | 2026-07-17 | — | 5071 |
+| 2026-07-17_platform_deploy_and_verify.md | sanji | 2026-07-17 | — | 2326 |
+| 2026-07-17_provenance_envelope_hostile_review_recovery.md | sanji | 2026-07-17 | — | 6317 |
+| 2026-07-17_shell_conch_material_regeneration.md | sanji | 2026-07-17 | — | 3844 |
+| 2026-07-17_shell_material_regeneration_handoff.md | sanji | 2026-07-17 | — | 1640 |
+| 2026-07-17_ship_lint_doctrine_stage.md | sanji | 2026-07-17 | — | 4101 |
+| 2026-07-17_ship_lint_o3de_boundary.md | sanji | 2026-07-17 | — | 4104 |
+| 2026-07-17_ship_lint_portability_metadata.md | sanji | 2026-07-17 | — | 8458 |
+| 2026-07-17_ship_lint_zero_remediation.md | sanji | 2026-07-17 | — | 9697 |
+| 2026-07-17_world_kit_biome_and_canid_wave.md | sanji | 2026-07-17 | — | 4714 |
+| 2026-07-16_adversarial_experience_loop_roleswap_findings.md | zoro | 2026-07-16 | B | 3601 |
+| 2026-07-16_adversarial_experience_loop_wave4_real_provider_pilot.md | zoro | 2026-07-16 | B | 9016 |
+| 2026-07-16_adversarial_experience_loop_wave5_hard_onpath.md | zoro | 2026-07-16 | B | 6949 |
+| 2026-07-16_adversarial_experience_loop_wave6_autonomous_defender.md | zoro | 2026-07-16 | B | 5548 |
+| 2026-07-16_adversarial_experience_loop_wave7_clean_autonomous.md | zoro | 2026-07-16 | B | 6018 |
+| 2026-07-16_basket_a_asset_pack_pipeline.md | zoro | 2026-07-16 | A | 3292 |
+| 2026-07-16_glee_self_audit_fixes.md | zoro | 2026-07-16 | B | 5427 |
+| 2026-07-16_glee_self_audit_injection_findings.md | zoro | 2026-07-16 | B | 6038 |
+| 2026-07-16_hyperfunction_assets_intake.md | zoro | 2026-07-16 | — | 2799 |
+| 2026-07-16_hyperfunction_slice2_looks_generation_review.md | zoro | 2026-07-16 | — | 4079 |
+| 2026-07-16_hyperfunction_slice3_taste_iteration.md | zoro | 2026-07-16 | — | 27019 |
+| 2026-07-16_hyperfunction_spike_glb_o3de.md | zoro | 2026-07-16 | — | 3265 |
+| 2026-07-16_scaffold_redteam_capability_proof.md | zoro | 2026-07-16 | B | 4402 |
+| 2026-07-16_self_improving_loop_intake_packet.md | zoro | 2026-07-16 | B | 1475 |
+| 2026-07-16_testing_rank1_collection_floor.md | zoro | 2026-07-16 | B | 3269 |
+| 2026-07-16_testing_rank2_verifier_independence.md | zoro | 2026-07-16 | B | 4493 |
+| 2026-07-16_testing_rank3_confound_ladder.md | zoro | 2026-07-16 | A | 3317 |
+| 2026-07-16_CAPTAIN_DESK_READABILITY_REPAIR.md | sanji | 2026-07-16 | — | 3863 |
+| 2026-07-16_EXPLORER_CAPTAIN_OPERATING_IDENTITY_RATIFICATION.md | sanji | 2026-07-16 | — | 2971 |
+| 2026-07-16_GLEE_ADVERSARIAL_EXPERIENCE_LOOP_PLAN.md | sanji | 2026-07-16 | — | 2886 |
+| 2026-07-16_GLEE_ADVERSARIAL_EXPERIENCE_LOOP_WAVES_0_1.md | sanji | 2026-07-16 | — | 8575 |
+| 2026-07-16_GLEE_ADVERSARIAL_EXPERIENCE_LOOP_WAVE_2.md | sanji | 2026-07-16 | — | 7962 |
+| 2026-07-16_GLEE_ADVERSARIAL_EXPERIENCE_LOOP_WAVE_3.md | sanji | 2026-07-16 | — | 4267 |
+| 2026-07-16_GPT_RED_EVIDENCE_CAPTURE.md | sanji | 2026-07-16 | — | 1947 |
+| 2026-07-16_LOCAL_STORAGE_CENSUS_POLICY_RECONCILIATION_RECEIPT.md | sanji | 2026-07-16 | — | 5731 |
+| 2026-07-16_autonomous_world_kit_seed.md | sanji | 2026-07-16 | — | 5287 |
+| 2026-07-16_nautilus_center_cap_frame_diagnosis.md | sanji | 2026-07-16 | — | 6142 |
+| 2026-07-16_reality_first_doctrine_ratified.md | robin | 2026-07-16 | — | 1522 |
+| 2026-07-16_reality_first_integration_complete.md | robin | 2026-07-16 | — | 3620 |
+| 2026-07-16_reality_first_redteam_audit.md | robin | 2026-07-16 | — | 4900 |
+| 2026-07-15_crew_app_terminal_scroll_fix.md | zoro | 2026-07-15 | — | 4966 |
+| 2026-07-15_epistemics_simplicity_doctrine_integration.md | zoro | 2026-07-15 | — | 4987 |
+| 2026-07-15_fog_cove_film_shot1_blockout.md | zoro | 2026-07-15 | A | 6606 |
+| 2026-07-15_fog_cove_hybrid_look_pipeline.md | zoro | 2026-07-15 | A | 4216 |
+| 2026-07-15_fog_cove_photoreal_controlnet_pass.md | zoro | 2026-07-15 | A | 4530 |
+| 2026-07-15_fog_cove_s1_camera_drift_rig.md | zoro | 2026-07-15 | — | 4147 |
+| 2026-07-15_fog_cove_s4_lights_die.md | zoro | 2026-07-15 | — | 2441 |
+| 2026-07-15_taskpacket_v2_independent_rereview_value_contract_gate.md | zoro | 2026-07-15 | — | 9220 |
+| 2026-07-15_CLOUDFLARE_REQUEST_EFFICIENCY_REMEDIATION.md | sanji | 2026-07-15 | — | 5850 |
+| 2026-07-15_CLOUDFLARE_REQUEST_SPIKE_DIAGNOSIS.md | sanji | 2026-07-15 | — | 6359 |
+| 2026-07-15_CONTEXT_AWARE_OUTPUT_GUARD_DESIGN.md | sanji | 2026-07-15 | — | 4010 |
+| 2026-07-15_CONTEXT_AWARE_OUTPUT_GUARD_V2_SHADOW_IMPLEMENTATION.md | sanji | 2026-07-15 | — | 6517 |
+| 2026-07-15_CONTEXT_GUARD_V2_DISAGREEMENT_ANALYSIS.md | sanji | 2026-07-15 | — | 5282 |
+| 2026-07-15_CONTEXT_GUARD_V2_REPAIR_AND_CLEAN_EPOCH.md | sanji | 2026-07-15 | — | 5858 |
+| 2026-07-15_JSPACE_PILOT_001_LOCAL_BEHAVIORAL_PROBE.md | sanji | 2026-07-15 | — | 3892 |
+| 2026-07-14_HOOKFIX1_stop_hook_p1_fixes.md | zoro | 2026-07-14 | — | 2879 |
+| _(+5495 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
