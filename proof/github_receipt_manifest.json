@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 5695,
+  "total_receipts": 5703,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -18588,6 +18588,14 @@
       "size_bytes": 4585
     },
     {
+      "file_name": "2026-07-21_agy_model_routing_ratified.md",
+      "home": "zoro",
+      "rel_path": "2026-07-21_agy_model_routing_ratified.md",
+      "date": "2026-07-21",
+      "tier": "B",
+      "size_bytes": 2517
+    },
+    {
       "file_name": "2026-07-21_captain_kit_atticized.md",
       "home": "zoro",
       "rel_path": "2026-07-21_captain_kit_atticized.md",
@@ -18620,6 +18628,14 @@
       "size_bytes": 2501
     },
     {
+      "file_name": "2026-07-21_github_phase12_verified_fixed_live.md",
+      "home": "zoro",
+      "rel_path": "2026-07-21_github_phase12_verified_fixed_live.md",
+      "date": "2026-07-21",
+      "tier": null,
+      "size_bytes": 10442
+    },
+    {
       "file_name": "2026-07-21_google_seat_pivot_antigravity.md",
       "home": "zoro",
       "rel_path": "2026-07-21_google_seat_pivot_antigravity.md",
@@ -18644,6 +18660,14 @@
       "size_bytes": 1888
     },
     {
+      "file_name": "2026-07-21_moltbook_replies_by_hand_and_live_burn.md",
+      "home": "zoro",
+      "rel_path": "2026-07-21_moltbook_replies_by_hand_and_live_burn.md",
+      "date": "2026-07-21",
+      "tier": null,
+      "size_bytes": 6969
+    },
+    {
       "file_name": "2026-07-21_moltbook_viral_post_4598_to_1.md",
       "home": "zoro",
       "rel_path": "2026-07-21_moltbook_viral_post_4598_to_1.md",
@@ -18660,12 +18684,28 @@
       "size_bytes": 3969
     },
     {
+      "file_name": "2026-07-21_orchestrator_work_model_framework_v02.md",
+      "home": "zoro",
+      "rel_path": "2026-07-21_orchestrator_work_model_framework_v02.md",
+      "date": "2026-07-21",
+      "tier": "B",
+      "size_bytes": 3398
+    },
+    {
       "file_name": "2026-07-21_provider_agnostic_skillforge_5provider.md",
       "home": "zoro",
       "rel_path": "2026-07-21_provider_agnostic_skillforge_5provider.md",
       "date": "2026-07-21",
       "tier": "B",
       "size_bytes": 6382
+    },
+    {
+      "file_name": "2026-07-21_routing_framework_ratified_v1_wired.md",
+      "home": "zoro",
+      "rel_path": "2026-07-21_routing_framework_ratified_v1_wired.md",
+      "date": "2026-07-21",
+      "tier": "B",
+      "size_bytes": 2639
     },
     {
       "file_name": "2026-07-21_skillforge_evals_5of5_greeting_fix.md",
@@ -36441,7 +36481,15 @@
       "rel_path": "2026-07-21_aos_adoption_thread_closure.md",
       "date": "2026-07-21",
       "tier": "A",
-      "size_bytes": 2784
+      "size_bytes": 3198
+    },
+    {
+      "file_name": "2026-07-21_chatgpt_durable_multi_model_orchestration.md",
+      "home": "sanji",
+      "rel_path": "2026-07-21_chatgpt_durable_multi_model_orchestration.md",
+      "date": "2026-07-21",
+      "tier": "B",
+      "size_bytes": 10346
     },
     {
       "file_name": "2026-07-21_chatgpt_tunnel_and_seat_lifecycle_recovery.md",
@@ -36450,6 +36498,22 @@
       "date": "2026-07-21",
       "tier": "B",
       "size_bytes": 7403
+    },
+    {
+      "file_name": "2026-07-21_ship_lint_six_to_zero.md",
+      "home": "sanji",
+      "rel_path": "2026-07-21_ship_lint_six_to_zero.md",
+      "date": "2026-07-21",
+      "tier": "B",
+      "size_bytes": 6143
+    },
+    {
+      "file_name": "2026-07-21_worker_action_v2_hygiene_delegation.md",
+      "home": "sanji",
+      "rel_path": "2026-07-21_worker_action_v2_hygiene_delegation.md",
+      "date": "2026-07-21",
+      "tier": "B",
+      "size_bytes": 8090
     },
     {
       "file_name": "INDEX.md",
