@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 6957,
+  "total_receipts": 6975,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -22234,6 +22234,14 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 12779
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_cutout_backdrop_and_drawn_cast.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_cutout_backdrop_and_drawn_cast.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 5387
     },
     {
       "file_name": "2026-08-02_heavensburg_illustrated_anonymous_art_direction.md",
@@ -55114,6 +55122,142 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 2055
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave52.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave52.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2135
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave53.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave53.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2020
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave54.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave54.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2172
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave55.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave55.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2333
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave56.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave56.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2090
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave57.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave57.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2031
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave58.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave58.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2247
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave59.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave59.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2222
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave60.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave60.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2236
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave61.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave61.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2058
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave62.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave62.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2205
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave63.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave63.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2101
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave64.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave64.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2121
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave65.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave65.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2412
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave66.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave66.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2092
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave67.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave67.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2132
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave68.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave68.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2287
     },
     {
       "file_name": "2DT9FC_sovereign_memory_architecture.md",
