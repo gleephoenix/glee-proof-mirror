@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7028,
+  "total_receipts": 7072,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -22532,6 +22532,62 @@
       "size_bytes": 4849
     },
     {
+      "file_name": "2026-08-03_builder_step_funnel.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_builder_step_funnel.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 5343
+    },
+    {
+      "file_name": "2026-08-03_drawn_icon_set.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_drawn_icon_set.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3592
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_multi_squad_reconciliation.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_echo_breach_multi_squad_reconciliation.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 7869
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_op06_dead_channel_partial.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_echo_breach_op06_dead_channel_partial.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4708
+    },
+    {
+      "file_name": "2026-08-03_fix_all_hero_legibility_and_is_test_split.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_fix_all_hero_legibility_and_is_test_split.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 4823
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_backdrop_calmed_and_trust_strip_built.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_backdrop_calmed_and_trust_strip_built.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 4018
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_backlog_cleared.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_backlog_cleared.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 5222
+    },
+    {
       "file_name": "2026-08-03_heavensburg_customer_accounts_and_farm_actions.md",
       "home": "zoro",
       "rel_path": "2026-08-03_heavensburg_customer_accounts_and_farm_actions.md",
@@ -22556,6 +22612,30 @@
       "size_bytes": 6384
     },
     {
+      "file_name": "2026-08-03_heavensburg_deployed_live.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_deployed_live.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 3613
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_hero_resolution_and_pantry_masthead.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_hero_resolution_and_pantry_masthead.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 4563
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_live_market_mode.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_live_market_mode.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 21053
+    },
+    {
       "file_name": "2026-08-03_heavensburg_orders_list.md",
       "home": "zoro",
       "rel_path": "2026-08-03_heavensburg_orders_list.md",
@@ -22578,6 +22658,62 @@
       "date": "2026-08-03",
       "tier": null,
       "size_bytes": 8277
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_visual_upgrade_and_a_restore_i_got_wrong.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_visual_upgrade_and_a_restore_i_got_wrong.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 7975
+    },
+    {
+      "file_name": "2026-08-03_icon_set_animals_and_objects.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_icon_set_animals_and_objects.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3132
+    },
+    {
+      "file_name": "2026-08-03_icons_wired_across_site.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_icons_wired_across_site.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3579
+    },
+    {
+      "file_name": "2026-08-03_real_farm_logo_on_every_page.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_real_farm_logo_on_every_page.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3200
+    },
+    {
+      "file_name": "2026-08-03_signup_rate_limit_and_source_field_proof.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_signup_rate_limit_and_source_field_proof.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4108
+    },
+    {
+      "file_name": "2026-08-03_standalone_sunflower_mark.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_standalone_sunflower_mark.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4622
+    },
+    {
+      "file_name": "2026-08-03_test_mail_sealed_and_seat_boundary.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_test_mail_sealed_and_seat_boundary.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 3627
     },
     {
       "file_name": "INDEX.md",
@@ -44860,12 +44996,132 @@
       "size_bytes": 4682
     },
     {
+      "file_name": "2026-08-03_ardy_checkpoint_download.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_ardy_checkpoint_download.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 2669
+    },
+    {
+      "file_name": "2026-08-03_ardy_pilot_runner_ready.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_ardy_pilot_runner_ready.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 2700
+    },
+    {
+      "file_name": "2026-08-03_ardy_rtx2070_motion_pilot.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_ardy_rtx2070_motion_pilot.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 2931
+    },
+    {
+      "file_name": "2026-08-03_contingent_hierarchical_planning_proposal.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_contingent_hierarchical_planning_proposal.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 4476
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_destruction_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_echo_breach_destruction_audit.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3181
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_destruction_concept_board.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_echo_breach_destruction_concept_board.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 1747
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_destruction_runtime.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_echo_breach_destruction_runtime.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 2836
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_background_art_direction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_background_art_direction.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4252
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_coordination_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_coordination_reconciliation.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 4699
+    },
+    {
       "file_name": "2026-08-03_heavensburg_csa_preview_deploy.md",
       "home": "sanji",
       "rel_path": "2026-08-03_heavensburg_csa_preview_deploy.md",
       "date": "2026-08-03",
       "tier": "A",
       "size_bytes": 3291
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_current_source_repairs_verified.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_current_source_repairs_verified.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 4913
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_email_support_report.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_email_support_report.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4816
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_feedback_worker_seam_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_feedback_worker_seam_handoff.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3877
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_guided_share_flow.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_guided_share_flow.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 6113
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_guided_ui_handoff_verified.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_guided_ui_handoff_verified.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 5028
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_live_market_public_schedule.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_live_market_public_schedule.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 6315
     },
     {
       "file_name": "2026-08-03_heavensburg_multipage_navigation.md",
@@ -44882,6 +45138,62 @@
       "date": "2026-08-03",
       "tier": "A",
       "size_bytes": 3316
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_pack_a_farm_crate_category_filter.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_pack_a_farm_crate_category_filter.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 5561
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_pack_a_farm_crate_preview.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_pack_a_farm_crate_preview.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 7070
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_production_merge_blocked.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_production_merge_blocked.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 7572
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_site_feedback_overlay.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_site_feedback_overlay.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 7488
+    },
+    {
+      "file_name": "2026-08-03_m6vpf0_tactical_world_schema_fixture_validator.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_m6vpf0_tactical_world_schema_fixture_validator.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4845
+    },
+    {
+      "file_name": "2026-08-03_tactical_timeshift_world_compiler_lesson.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_tactical_timeshift_world_compiler_lesson.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3916
+    },
+    {
+      "file_name": "2026-08-03_tactical_timeshift_world_compiler_plan_activation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_tactical_timeshift_world_compiler_plan_activation.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3600
     },
     {
       "file_name": "INDEX.md",
@@ -55682,6 +55994,46 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 2371
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_full_game_art_library.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_echo_breach_full_game_art_library.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 2893
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_multi_team_orchestrator_gameplay_fix.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_echo_breach_multi_team_orchestrator_gameplay_fix.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3307
+    },
+    {
+      "file_name": "2026-08-03_echo_breach_pixel_forge_integration.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_echo_breach_pixel_forge_integration.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 2019
+    },
+    {
+      "file_name": "2026-08-03_glee_pixel_forge_3d_proof_verification.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_glee_pixel_forge_3d_proof_verification.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 3725
+    },
+    {
+      "file_name": "2026-08-03_glee_pixel_forge_organ_architecture.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_glee_pixel_forge_organ_architecture.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 4036
     },
     {
       "file_name": "2DT9FC_sovereign_memory_architecture.md",
