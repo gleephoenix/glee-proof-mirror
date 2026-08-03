@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 6999,
+  "total_receipts": 7028,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -22284,6 +22284,14 @@
       "size_bytes": 4462
     },
     {
+      "file_name": "2026-08-02_heavensburg_custom_domain_live.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_custom_domain_live.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 5194
+    },
+    {
       "file_name": "2026-08-02_heavensburg_cutout_backdrop_and_drawn_cast.md",
       "home": "zoro",
       "rel_path": "2026-08-02_heavensburg_cutout_backdrop_and_drawn_cast.md",
@@ -22298,6 +22306,14 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 4708
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_family_photos_grade_and_cutouts.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_family_photos_grade_and_cutouts.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 14019
     },
     {
       "file_name": "2026-08-02_heavensburg_hero_photo_email_routing_live.md",
@@ -22316,12 +22332,28 @@
       "size_bytes": 4625
     },
     {
+      "file_name": "2026-08-02_heavensburg_long_horizon_roadmap.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_long_horizon_roadmap.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 4112
+    },
+    {
       "file_name": "2026-08-02_heavensburg_needs_register_and_claim_guard.md",
       "home": "zoro",
       "rel_path": "2026-08-02_heavensburg_needs_register_and_claim_guard.md",
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 3860
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_order_path_tested_no_email.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_order_path_tested_no_email.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 4441
     },
     {
       "file_name": "2026-08-02_heavensburg_photographic_cutout_backdrop.md",
@@ -22332,12 +22364,44 @@
       "size_bytes": 4477
     },
     {
+      "file_name": "2026-08-02_heavensburg_real_farm_photos_and_logo.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_real_farm_photos_and_logo.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 8094
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_register_ids_and_square_payment.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_register_ids_and_square_payment.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 11728
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_sign_art_direction.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_sign_art_direction.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 4747
+    },
+    {
       "file_name": "2026-08-02_heavensburg_stock_library_and_approval_gate.md",
       "home": "zoro",
       "rel_path": "2026-08-02_heavensburg_stock_library_and_approval_gate.md",
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 4801
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_wrong_town_and_family_email.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_wrong_town_and_family_email.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 12732
     },
     {
       "file_name": "2026-08-02_integrity_sweep_and_instrument_repair.md",
@@ -22394,6 +22458,14 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 9338
+    },
+    {
+      "file_name": "2026-08-02_seat_model_pins_and_settings_precedence.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_seat_model_pins_and_settings_precedence.md",
+      "date": "2026-08-02",
+      "tier": "B",
+      "size_bytes": 5518
     },
     {
       "file_name": "2026-08-02_skills_promotion_vocabulary_audit.md",
@@ -22458,6 +22530,54 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 4849
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_customer_accounts_and_farm_actions.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_customer_accounts_and_farm_actions.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 5989
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_customer_confirmation_live.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_customer_confirmation_live.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 4209
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_decisions_notify_and_offline_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_decisions_notify_and_offline_intake.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 6384
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_orders_list.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_orders_list.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 4692
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_orders_now_reach_the_farm.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_orders_now_reach_the_farm.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 4662
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_speed_and_the_second_door.md",
+      "home": "zoro",
+      "rel_path": "2026-08-03_heavensburg_speed_and_the_second_door.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 8277
     },
     {
       "file_name": "INDEX.md",
@@ -44492,6 +44612,94 @@
       "size_bytes": 3161
     },
     {
+      "file_name": "2026-08-02_heavensburg_csa_content_pack.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_csa_content_pack.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 5197
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_csa_explainer.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_csa_explainer.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 3531
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_csa_verbatim_copy.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_csa_verbatim_copy.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 4077
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_page_organization.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_page_organization.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 5801
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_preview_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_preview_verification.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 4600
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_price_list.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_price_list.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 5760
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_search_social_metadata.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_search_social_metadata.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 5355
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_ui_ux_layout_direction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_ui_ux_layout_direction.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 4570
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_ui_ux_layout_slice.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_ui_ux_layout_slice.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 5927
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_wanted_item_price_research_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_wanted_item_price_research_correction.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 5307
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_wanted_items_price_copy_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_heavensburg_wanted_items_price_copy_correction.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 3539
+    },
+    {
       "file_name": "2026-08-02_k3_capability_paging_audit.md",
       "home": "sanji",
       "rel_path": "2026-08-02_k3_capability_paging_audit.md",
@@ -44650,6 +44858,30 @@
       "date": "2026-08-02",
       "tier": "B",
       "size_bytes": 4682
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_csa_preview_deploy.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_csa_preview_deploy.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3291
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_multipage_navigation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_multipage_navigation.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 7642
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_native_photo_framing.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_native_photo_framing.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3316
     },
     {
       "file_name": "INDEX.md",
