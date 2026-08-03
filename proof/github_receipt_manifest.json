@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 6975,
+  "total_receipts": 6999,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -22228,12 +22228,60 @@
       "size_bytes": 10534
     },
     {
+      "file_name": "2026-08-02_all_sixteen_seats_online_and_state_width_bug.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_all_sixteen_seats_online_and_state_width_bug.md",
+      "date": "2026-08-02",
+      "tier": "B",
+      "size_bytes": 6152
+    },
+    {
       "file_name": "2026-08-02_annotated_artifact_provenance_resolver_corrected.md",
       "home": "zoro",
       "rel_path": "2026-08-02_annotated_artifact_provenance_resolver_corrected.md",
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 12779
+    },
+    {
+      "file_name": "2026-08-02_codebank_tested_means_the_suite_passed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_codebank_tested_means_the_suite_passed.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 9167
+    },
+    {
+      "file_name": "2026-08-02_echo_breach_environment_audio.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_echo_breach_environment_audio.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 10760
+    },
+    {
+      "file_name": "2026-08-02_fable_os_absorption_capability_promotion_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_fable_os_absorption_capability_promotion_gate.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 11868
+    },
+    {
+      "file_name": "2026-08-02_game_systems_foundry_codebank_change_impact.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_game_systems_foundry_codebank_change_impact.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 12429
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_animals_and_checkout_research_fields.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_animals_and_checkout_research_fields.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 4462
     },
     {
       "file_name": "2026-08-02_heavensburg_cutout_backdrop_and_drawn_cast.md",
@@ -22244,12 +22292,52 @@
       "size_bytes": 5387
     },
     {
+      "file_name": "2026-08-02_heavensburg_deployed_live.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_deployed_live.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 4708
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_hero_photo_email_routing_live.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_hero_photo_email_routing_live.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 5614
+    },
+    {
       "file_name": "2026-08-02_heavensburg_illustrated_anonymous_art_direction.md",
       "home": "zoro",
       "rel_path": "2026-08-02_heavensburg_illustrated_anonymous_art_direction.md",
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 4625
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_needs_register_and_claim_guard.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_needs_register_and_claim_guard.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 3860
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_photographic_cutout_backdrop.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_photographic_cutout_backdrop.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 4477
+    },
+    {
+      "file_name": "2026-08-02_heavensburg_stock_library_and_approval_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_heavensburg_stock_library_and_approval_gate.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 4801
     },
     {
       "file_name": "2026-08-02_integrity_sweep_and_instrument_repair.md",
@@ -22306,6 +22394,22 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 9338
+    },
+    {
+      "file_name": "2026-08-02_skills_promotion_vocabulary_audit.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_skills_promotion_vocabulary_audit.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 10133
+    },
+    {
+      "file_name": "2026-08-02_terminal_wall_cold_boot_and_conf_load.md",
+      "home": "zoro",
+      "rel_path": "2026-08-02_terminal_wall_cold_boot_and_conf_load.md",
+      "date": "2026-08-02",
+      "tier": "B",
+      "size_bytes": 5363
     },
     {
       "file_name": "2026-08-02_zoro_final_crossreview_peer_claim_repair_CLEAR.md",
@@ -44356,12 +44460,76 @@
       "size_bytes": 4814
     },
     {
+      "file_name": "2026-08-02_asset_forge_tactical_acceptance.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_asset_forge_tactical_acceptance.md",
+      "date": "2026-08-02",
+      "tier": "B",
+      "size_bytes": 5177
+    },
+    {
       "file_name": "2026-08-02_chatgpt_control_plane_gateway_reconciliation_wave.md",
       "home": "sanji",
       "rel_path": "2026-08-02_chatgpt_control_plane_gateway_reconciliation_wave.md",
       "date": "2026-08-02",
       "tier": "B",
       "size_bytes": 2384
+    },
+    {
+      "file_name": "2026-08-02_chrome_ai_routing_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_chrome_ai_routing_audit.md",
+      "date": "2026-08-02",
+      "tier": "B",
+      "size_bytes": 4939
+    },
+    {
+      "file_name": "2026-08-02_google_chrome_upgrade.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_google_chrome_upgrade.md",
+      "date": "2026-08-02",
+      "tier": "C",
+      "size_bytes": 3161
+    },
+    {
+      "file_name": "2026-08-02_k3_capability_paging_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_k3_capability_paging_audit.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 7283
+    },
+    {
+      "file_name": "2026-08-02_live_local_model_registry.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_live_local_model_registry.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 4878
+    },
+    {
+      "file_name": "2026-08-02_model_attractor_probe_research.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_model_attractor_probe_research.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 5456
+    },
+    {
+      "file_name": "2026-08-02_model_attractor_probe_source_calibration.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_model_attractor_probe_source_calibration.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 4715
+    },
+    {
+      "file_name": "2026-08-02_model_registry_screen_evidence_merge.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_model_registry_screen_evidence_merge.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 3872
     },
     {
       "file_name": "2026-08-02_orchestration_health_retry_gate_observability_wave.md",
@@ -44386,6 +44554,14 @@
       "date": "2026-08-02",
       "tier": "B",
       "size_bytes": 4228
+    },
+    {
+      "file_name": "2026-08-02_qwen35_9b_gpu_screen.md",
+      "home": "sanji",
+      "rel_path": "2026-08-02_qwen35_9b_gpu_screen.md",
+      "date": "2026-08-02",
+      "tier": "A",
+      "size_bytes": 6297
     },
     {
       "file_name": "2026-08-02_receipt_root_discovery_canonical_sanji_wave.md",
@@ -55258,6 +55434,22 @@
       "date": "2026-08-02",
       "tier": null,
       "size_bytes": 2287
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave69.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave69.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2260
+    },
+    {
+      "file_name": "2026-08-02_glee_research_wave70.md",
+      "home": "robin",
+      "rel_path": "2026-08-02_glee_research_wave70.md",
+      "date": "2026-08-02",
+      "tier": null,
+      "size_bytes": 2371
     },
     {
       "file_name": "2DT9FC_sovereign_memory_architecture.md",
