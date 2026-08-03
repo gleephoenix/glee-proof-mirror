@@ -1,12 +1,21 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-03T00:41:05.611056+00:00
-> Total receipts indexed: 6999
+> Last updated: 2026-08-03T06:41:06.080120+00:00
+> Total receipts indexed: 7028
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-03_heavensburg_customer_accounts_and_farm_actions.md | zoro | 2026-08-03 | — | 5989 |
+| 2026-08-03_heavensburg_customer_confirmation_live.md | zoro | 2026-08-03 | — | 4209 |
+| 2026-08-03_heavensburg_decisions_notify_and_offline_intake.md | zoro | 2026-08-03 | — | 6384 |
+| 2026-08-03_heavensburg_orders_list.md | zoro | 2026-08-03 | — | 4692 |
+| 2026-08-03_heavensburg_orders_now_reach_the_farm.md | zoro | 2026-08-03 | — | 4662 |
+| 2026-08-03_heavensburg_speed_and_the_second_door.md | zoro | 2026-08-03 | — | 8277 |
+| 2026-08-03_heavensburg_csa_preview_deploy.md | sanji | 2026-08-03 | A | 3291 |
+| 2026-08-03_heavensburg_multipage_navigation.md | sanji | 2026-08-03 | A | 7642 |
+| 2026-08-03_heavensburg_native_photo_framing.md | sanji | 2026-08-03 | A | 3316 |
 | 2026-08-02_luna_estate_candidate_refresh.md | glee | 2026-08-02 | A | 5767 |
 | 2026-08-02_luna_peer_claim_json_discovery_repair.md | glee | 2026-08-02 | A | 5446 |
 | 2026-08-02_luna_t3nas2_owner_gated_preflight.md | glee | 2026-08-02 | A | 7314 |
@@ -19,13 +28,21 @@
 | 2026-08-02_fable_os_absorption_capability_promotion_gate.md | zoro | 2026-08-02 | — | 11868 |
 | 2026-08-02_game_systems_foundry_codebank_change_impact.md | zoro | 2026-08-02 | A | 12429 |
 | 2026-08-02_heavensburg_animals_and_checkout_research_fields.md | zoro | 2026-08-02 | — | 4462 |
+| 2026-08-02_heavensburg_custom_domain_live.md | zoro | 2026-08-02 | — | 5194 |
 | 2026-08-02_heavensburg_cutout_backdrop_and_drawn_cast.md | zoro | 2026-08-02 | — | 5387 |
 | 2026-08-02_heavensburg_deployed_live.md | zoro | 2026-08-02 | — | 4708 |
+| 2026-08-02_heavensburg_family_photos_grade_and_cutouts.md | zoro | 2026-08-02 | — | 14019 |
 | 2026-08-02_heavensburg_hero_photo_email_routing_live.md | zoro | 2026-08-02 | — | 5614 |
 | 2026-08-02_heavensburg_illustrated_anonymous_art_direction.md | zoro | 2026-08-02 | — | 4625 |
+| 2026-08-02_heavensburg_long_horizon_roadmap.md | zoro | 2026-08-02 | — | 4112 |
 | 2026-08-02_heavensburg_needs_register_and_claim_guard.md | zoro | 2026-08-02 | — | 3860 |
+| 2026-08-02_heavensburg_order_path_tested_no_email.md | zoro | 2026-08-02 | — | 4441 |
 | 2026-08-02_heavensburg_photographic_cutout_backdrop.md | zoro | 2026-08-02 | — | 4477 |
+| 2026-08-02_heavensburg_real_farm_photos_and_logo.md | zoro | 2026-08-02 | — | 8094 |
+| 2026-08-02_heavensburg_register_ids_and_square_payment.md | zoro | 2026-08-02 | — | 11728 |
+| 2026-08-02_heavensburg_sign_art_direction.md | zoro | 2026-08-02 | — | 4747 |
 | 2026-08-02_heavensburg_stock_library_and_approval_gate.md | zoro | 2026-08-02 | — | 4801 |
+| 2026-08-02_heavensburg_wrong_town_and_family_email.md | zoro | 2026-08-02 | — | 12732 |
 | 2026-08-02_integrity_sweep_and_instrument_repair.md | zoro | 2026-08-02 | — | 10501 |
 | 2026-08-02_retry_gate_attempting_state_leak_trace.md | zoro | 2026-08-02 | — | 7633 |
 | 2026-08-02_retry_gate_dedup_coupling_trace_corrected.md | zoro | 2026-08-02 | — | 8168 |
@@ -33,6 +50,7 @@
 | 2026-08-02_retry_gate_state_growth_observability.md | zoro | 2026-08-02 | — | 9126 |
 | 2026-08-02_retry_gate_state_growth_observability_corrected.md | zoro | 2026-08-02 | — | 8718 |
 | 2026-08-02_retry_gate_terminalization_review_packet.md | zoro | 2026-08-02 | — | 9338 |
+| 2026-08-02_seat_model_pins_and_settings_precedence.md | zoro | 2026-08-02 | B | 5518 |
 | 2026-08-02_skills_promotion_vocabulary_audit.md | zoro | 2026-08-02 | — | 10133 |
 | 2026-08-02_terminal_wall_cold_boot_and_conf_load.md | zoro | 2026-08-02 | B | 5363 |
 | 2026-08-02_zoro_final_crossreview_peer_claim_repair_CLEAR.md | zoro | 2026-08-02 | — | 7507 |
@@ -45,6 +63,17 @@
 | 2026-08-02_chatgpt_control_plane_gateway_reconciliation_wave.md | sanji | 2026-08-02 | B | 2384 |
 | 2026-08-02_chrome_ai_routing_audit.md | sanji | 2026-08-02 | B | 4939 |
 | 2026-08-02_google_chrome_upgrade.md | sanji | 2026-08-02 | C | 3161 |
+| 2026-08-02_heavensburg_csa_content_pack.md | sanji | 2026-08-02 | A | 5197 |
+| 2026-08-02_heavensburg_csa_explainer.md | sanji | 2026-08-02 | A | 3531 |
+| 2026-08-02_heavensburg_csa_verbatim_copy.md | sanji | 2026-08-02 | A | 4077 |
+| 2026-08-02_heavensburg_page_organization.md | sanji | 2026-08-02 | A | 5801 |
+| 2026-08-02_heavensburg_preview_verification.md | sanji | 2026-08-02 | A | 4600 |
+| 2026-08-02_heavensburg_price_list.md | sanji | 2026-08-02 | A | 5760 |
+| 2026-08-02_heavensburg_search_social_metadata.md | sanji | 2026-08-02 | A | 5355 |
+| 2026-08-02_heavensburg_ui_ux_layout_direction.md | sanji | 2026-08-02 | A | 4570 |
+| 2026-08-02_heavensburg_ui_ux_layout_slice.md | sanji | 2026-08-02 | A | 5927 |
+| 2026-08-02_heavensburg_wanted_item_price_research_correction.md | sanji | 2026-08-02 | A | 5307 |
+| 2026-08-02_heavensburg_wanted_items_price_copy_correction.md | sanji | 2026-08-02 | A | 3539 |
 | 2026-08-02_k3_capability_paging_audit.md | sanji | 2026-08-02 | A | 7283 |
 | 2026-08-02_live_local_model_registry.md | sanji | 2026-08-02 | A | 4878 |
 | 2026-08-02_model_attractor_probe_research.md | sanji | 2026-08-02 | A | 5456 |
@@ -178,36 +207,7 @@
 | 2026-08-01_right_click_fullscreen_wall_native.md | zoro | 2026-08-01 | — | 4450 |
 | 2026-08-01_sabo_discontinued.md | zoro | 2026-08-01 | — | 6216 |
 | 2026-08-01_scene_verify_unreal_adapter.md | zoro | 2026-08-01 | — | 5469 |
-| 2026-08-01_socket_daemon_liveness_and_remaining_queue.md | zoro | 2026-08-01 | — | 4529 |
-| 2026-08-01_standing_grants_have_never_once_fired.md | zoro | 2026-08-01 | — | 4559 |
-| 2026-08-01_standing_grants_now_reach_the_work.md | zoro | 2026-08-01 | — | 5076 |
-| 2026-08-01_supervised_heartbeat_and_held_state_signal.md | zoro | 2026-08-01 | — | 9986 |
-| 2026-08-01_taste_calibration_mechanism.md | zoro | 2026-08-01 | — | 3640 |
-| 2026-08-01_terminal_quadrant_switch_buttons.md | zoro | 2026-08-01 | B | 51849 |
-| 2026-08-01_three_tier_review_stack.md | zoro | 2026-08-01 | C | 8129 |
-| 2026-08-01_tri_orchestrator_chatgpt_visibility_and_test_leak.md | zoro | 2026-08-01 | — | 8387 |
-| 2026-08-01_tri_orchestrator_state_adoption.md | zoro | 2026-08-01 | — | 9631 |
-| 2026-08-01_unreal_capture_hardening.md | zoro | 2026-08-01 | — | 6725 |
-| 2026-08-01_unreal_frame_capture_solved.md | zoro | 2026-08-01 | — | 5706 |
-| 2026-08-01_unreal_persistent_session.md | zoro | 2026-08-01 | — | 8166 |
-| 2026-08-01_wake_gate_stops_asking_the_captain.md | zoro | 2026-08-01 | — | 5211 |
-| 2026-08-01_zone1_exposure_review_and_dead_tool_repair.md | zoro | 2026-08-01 | C | 7837 |
-| 2026-08-01_zoro_toplevel_alias_and_traversal_guard.md | zoro | 2026-08-01 | — | 10534 |
-| 2026-08-01_asset_cell_body_shell_contained_canary.md | sanji | 2026-08-01 | B | 4127 |
-| 2026-08-01_asset_cell_body_shell_deterministic_rebuild.md | sanji | 2026-08-01 | B | 3325 |
-| 2026-08-01_asset_cell_body_shell_generator_source.md | sanji | 2026-08-01 | A | 2771 |
-| 2026-08-01_asset_cell_body_shell_png_canonicalization.md | sanji | 2026-08-01 | B | 3910 |
-| 2026-08-01_asset_cell_body_shell_replay_proof.md | sanji | 2026-08-01 | B | 2593 |
-| 2026-08-01_asset_cell_frame_core_reconciliation.md | sanji | 2026-08-01 | B | 4137 |
-| 2026-08-01_astra_claim_lifecycle_packet_revalidation.md | sanji | 2026-08-01 | B | 4138 |
-| 2026-08-01_astra_public_review_snapshot.md | sanji | 2026-08-01 | A | 4007 |
-| 2026-08-01_astra_review_scan_2.md | sanji | 2026-08-01 | A | 3415 |
-| 2026-08-01_chatgpt_control_connector_surface.md | sanji | 2026-08-01 | B | 3477 |
-| 2026-08-01_chatgpt_v5_callback_repair.md | sanji | 2026-08-01 | A | 6211 |
-| 2026-08-01_chatgpt_v5_control_path_audit.md | sanji | 2026-08-01 | — | 2355 |
-| 2026-08-01_chatgpt_v5_remaining_repairs.md | sanji | 2026-08-01 | A | 7863 |
-| 2026-08-01_claim_lifecycle_child_dispatch.md | sanji | 2026-08-01 | B | 3478 |
-| _(+6799 more — see full manifest JSON)_ | | | | |
+| _(+6828 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
