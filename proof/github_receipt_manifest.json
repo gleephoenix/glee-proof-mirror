@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7171,
+  "total_receipts": 7176,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -22754,6 +22754,14 @@
       "date": "2026-08-03",
       "tier": "B",
       "size_bytes": 3627
+    },
+    {
+      "file_name": "2026-08-04_prompt_forge_evidence_earned_tiers.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_prompt_forge_evidence_earned_tiers.md",
+      "date": "2026-08-04",
+      "tier": null,
+      "size_bytes": 9231
     },
     {
       "file_name": "INDEX.md",
@@ -45866,6 +45874,38 @@
       "date": "2026-08-03",
       "tier": "B",
       "size_bytes": 6933
+    },
+    {
+      "file_name": "2026-08-04_latticefall_control_contract_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-04_latticefall_control_contract_repair.md",
+      "date": "2026-08-04",
+      "tier": "A",
+      "size_bytes": 3426
+    },
+    {
+      "file_name": "2026-08-04_latticefall_human_playtest_verdict.md",
+      "home": "sanji",
+      "rel_path": "2026-08-04_latticefall_human_playtest_verdict.md",
+      "date": "2026-08-04",
+      "tier": "A",
+      "size_bytes": 2647
+    },
+    {
+      "file_name": "2026-08-04_latticefall_interactive_browser_surface.md",
+      "home": "sanji",
+      "rel_path": "2026-08-04_latticefall_interactive_browser_surface.md",
+      "date": "2026-08-04",
+      "tier": "A",
+      "size_bytes": 3120
+    },
+    {
+      "file_name": "2026-08-04_sunny_manager_control_plane_plan.md",
+      "home": "sanji",
+      "rel_path": "2026-08-04_sunny_manager_control_plane_plan.md",
+      "date": "2026-08-04",
+      "tier": "B",
+      "size_bytes": 4477
     },
     {
       "file_name": "INDEX.md",
