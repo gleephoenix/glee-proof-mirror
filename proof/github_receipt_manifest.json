@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7145,
+  "total_receipts": 7171,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -45113,7 +45113,7 @@
       "rel_path": "2026-08-03_contingent_plan_v0_action_loop_integration.md",
       "date": "2026-08-03",
       "tier": "A",
-      "size_bytes": 5160
+      "size_bytes": 5062
     },
     {
       "file_name": "2026-08-03_contingent_plan_v0_replay_proof.md",
@@ -45300,6 +45300,46 @@
       "size_bytes": 2833
     },
     {
+      "file_name": "2026-08-03_evidence_vault_downstream_consumption.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_evidence_vault_downstream_consumption.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3778
+    },
+    {
+      "file_name": "2026-08-03_evidence_vault_downstream_review.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_evidence_vault_downstream_review.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4616
+    },
+    {
+      "file_name": "2026-08-03_evidence_vault_integration.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_evidence_vault_integration.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 5632
+    },
+    {
+      "file_name": "2026-08-03_evidence_vault_integration_seam.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_evidence_vault_integration_seam.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3237
+    },
+    {
+      "file_name": "2026-08-03_evidence_vault_integration_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_evidence_vault_integration_v2.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 2493
+    },
+    {
       "file_name": "2026-08-03_evidence_vault_method_harvest.md",
       "home": "sanji",
       "rel_path": "2026-08-03_evidence_vault_method_harvest.md",
@@ -45330,6 +45370,14 @@
       "date": "2026-08-03",
       "tier": "A",
       "size_bytes": 3139
+    },
+    {
+      "file_name": "2026-08-03_evidence_vault_v0_integration_review.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_evidence_vault_v0_integration_review.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3931
     },
     {
       "file_name": "2026-08-03_evidence_vault_v0_persistence.md",
@@ -45476,12 +45524,84 @@
       "size_bytes": 7572
     },
     {
+      "file_name": "2026-08-03_heavensburg_security_receipt_gate_fixture.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_security_receipt_gate_fixture.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 4290
+    },
+    {
+      "file_name": "2026-08-03_heavensburg_security_receipt_gate_plan.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_heavensburg_security_receipt_gate_plan.md",
+      "date": "2026-08-03",
+      "tier": "B",
+      "size_bytes": 2793
+    },
+    {
       "file_name": "2026-08-03_heavensburg_site_feedback_overlay.md",
       "home": "sanji",
       "rel_path": "2026-08-03_heavensburg_site_feedback_overlay.md",
       "date": "2026-08-03",
       "tier": "A",
       "size_bytes": 7488
+    },
+    {
+      "file_name": "2026-08-03_latticefall_operated_playtest_harness.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_latticefall_operated_playtest_harness.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 5521
+    },
+    {
+      "file_name": "2026-08-03_latticefall_real_project_input_probe.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_latticefall_real_project_input_probe.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3308
+    },
+    {
+      "file_name": "2026-08-03_latticefall_replay_and_receipt_repairs.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_latticefall_replay_and_receipt_repairs.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4494
+    },
+    {
+      "file_name": "2026-08-03_local_search_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_local_search_v0.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 5129
+    },
+    {
+      "file_name": "2026-08-03_local_search_v1_router_seed.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_local_search_v1_router_seed.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 6357
+    },
+    {
+      "file_name": "2026-08-03_local_search_v2_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_local_search_v2_hardening.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 6088
+    },
+    {
+      "file_name": "2026-08-03_local_search_v3_consumption_evaluation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_local_search_v3_consumption_evaluation.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 7689
     },
     {
       "file_name": "2026-08-03_local_workflow_executor_integration.md",
@@ -45500,12 +45620,20 @@
       "size_bytes": 4845
     },
     {
+      "file_name": "2026-08-03_memory_compiler_typed_markdown_fts5_baseline.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_memory_compiler_typed_markdown_fts5_baseline.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 4366
+    },
+    {
       "file_name": "2026-08-03_moltbook_halt_clear_and_post_one.md",
       "home": "sanji",
       "rel_path": "2026-08-03_moltbook_halt_clear_and_post_one.md",
       "date": "2026-08-03",
       "tier": "C",
-      "size_bytes": 2792
+      "size_bytes": 2905
     },
     {
       "file_name": "2026-08-03_moltbook_three_post_wave.md",
@@ -45604,6 +45732,46 @@
       "size_bytes": 4056
     },
     {
+      "file_name": "2026-08-03_tactical_timeshift_episode_ingestion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_tactical_timeshift_episode_ingestion.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 6443
+    },
+    {
+      "file_name": "2026-08-03_tactical_timeshift_independent_review_request.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_tactical_timeshift_independent_review_request.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3172
+    },
+    {
+      "file_name": "2026-08-03_tactical_timeshift_meaningful_routes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_tactical_timeshift_meaningful_routes.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 3098
+    },
+    {
+      "file_name": "2026-08-03_tactical_timeshift_playtest_and_failure_branch.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_tactical_timeshift_playtest_and_failure_branch.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 6332
+    },
+    {
+      "file_name": "2026-08-03_tactical_timeshift_variety_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-03_tactical_timeshift_variety_repair.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 6403
+    },
+    {
       "file_name": "2026-08-03_tactical_timeshift_world_compiler_lesson.md",
       "home": "sanji",
       "rel_path": "2026-08-03_tactical_timeshift_world_compiler_lesson.md",
@@ -45697,7 +45865,7 @@
       "rel_path": "2026-08-03_verified_prototype_live_deploy.md",
       "date": "2026-08-03",
       "tier": "B",
-      "size_bytes": 6863
+      "size_bytes": 6933
     },
     {
       "file_name": "INDEX.md",
@@ -56524,12 +56692,28 @@
       "size_bytes": 2019
     },
     {
+      "file_name": "2026-08-03_evidence_vault_review.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_evidence_vault_review.md",
+      "date": "2026-08-03",
+      "tier": "A",
+      "size_bytes": 1589
+    },
+    {
       "file_name": "2026-08-03_forge_loop_kernel_implementation.md",
       "home": "robin",
       "rel_path": "2026-08-03_forge_loop_kernel_implementation.md",
       "date": "2026-08-03",
       "tier": null,
       "size_bytes": 3703
+    },
+    {
+      "file_name": "2026-08-03_glee_asset_compiler_experiment1.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_glee_asset_compiler_experiment1.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 2386
     },
     {
       "file_name": "2026-08-03_glee_buzz_thin_adapter_implementation.md",
@@ -56548,6 +56732,14 @@
       "size_bytes": 1596
     },
     {
+      "file_name": "2026-08-03_glee_feasibility_escalation_protocol.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_glee_feasibility_escalation_protocol.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 2905
+    },
+    {
       "file_name": "2026-08-03_glee_pixel_forge_3d_proof_verification.md",
       "home": "robin",
       "rel_path": "2026-08-03_glee_pixel_forge_3d_proof_verification.md",
@@ -56562,6 +56754,14 @@
       "date": "2026-08-03",
       "tier": null,
       "size_bytes": 4036
+    },
+    {
+      "file_name": "2026-08-03_godot_headless_runner_implementation.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_godot_headless_runner_implementation.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 1938
     },
     {
       "file_name": "2026-08-03_method_verify_doctrine_baseline_fix.md",
@@ -56610,6 +56810,14 @@
       "date": "2026-08-03",
       "tier": "A",
       "size_bytes": 2995
+    },
+    {
+      "file_name": "2026-08-03_tactical_timeshift_compiler_v0_implementation.md",
+      "home": "robin",
+      "rel_path": "2026-08-03_tactical_timeshift_compiler_v0_implementation.md",
+      "date": "2026-08-03",
+      "tier": null,
+      "size_bytes": 2959
     },
     {
       "file_name": "2026-08-03_vais_phase0_closure_kernel.md",
