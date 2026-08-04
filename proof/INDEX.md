@@ -1,17 +1,64 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-04T12:41:06.413614+00:00
-> Total receipts indexed: 7176
+> Last updated: 2026-08-04T18:41:06.547712+00:00
+> Total receipts indexed: 7223
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-04_echo-breach-hostile-audio-review.md | glee | 2026-08-04 | B | 3195 |
+| 2026-08-04_action_broker_v02_sessions_and_accessibility.md | zoro | 2026-08-04 | — | 8085 |
+| 2026-08-04_background_action_broker_focus_sentinel_repaired.md | zoro | 2026-08-04 | — | 10194 |
+| 2026-08-04_background_action_broker_v0.md | zoro | 2026-08-04 | — | 8477 |
+| 2026-08-04_canonical_work_id_binding.md | zoro | 2026-08-04 | — | 7509 |
+| 2026-08-04_chatgpt_durable_orchestrator_seat.md | zoro | 2026-08-04 | B | 11495 |
+| 2026-08-04_claim_before_scope_gate_and_backfill.md | zoro | 2026-08-04 | — | 6133 |
+| 2026-08-04_claim_takeover_invariant_p0_repaired.md | zoro | 2026-08-04 | — | 6979 |
+| 2026-08-04_crew_coordination_seat_identity_and_scope_leases.md | zoro | 2026-08-04 | — | 7163 |
+| 2026-08-04_estate_consolidation_wave1_architecture_map_blindspot.md | zoro | 2026-08-04 | A | 6858 |
+| 2026-08-04_estate_consolidation_wave2_deadcode_organ.md | zoro | 2026-08-04 | A | 5848 |
+| 2026-08-04_estate_consolidation_wave3_reachability_auditor.md | zoro | 2026-08-04 | A | 6135 |
+| 2026-08-04_estate_consolidation_wave3b_math_airlock_and_correction.md | zoro | 2026-08-04 | B | 6034 |
+| 2026-08-04_estate_consolidation_wave3c_reference_form_conformance.md | zoro | 2026-08-04 | A | 4390 |
+| 2026-08-04_estate_consolidation_wave3d_evidence_ladder.md | zoro | 2026-08-04 | A | 4428 |
+| 2026-08-04_gate_wired_four_paths_strict_mode_withheld.md | zoro | 2026-08-04 | — | 7808 |
+| 2026-08-04_heavensburg_audit_verified_and_digest_fixed.md | zoro | 2026-08-04 | — | 8717 |
+| 2026-08-04_heavensburg_digest_and_seo_deployed_live.md | zoro | 2026-08-04 | — | 4613 |
+| 2026-08-04_mutation_surface_invariant.md | zoro | 2026-08-04 | — | 6292 |
 | 2026-08-04_prompt_forge_evidence_earned_tiers.md | zoro | 2026-08-04 | — | 9231 |
+| 2026-08-04_prompt_forge_public_page_stocking_and_eval.md | zoro | 2026-08-04 | — | 8965 |
+| 2026-08-04_seat_bootstrap_deadlock_closed.md | zoro | 2026-08-04 | — | 5837 |
+| 2026-08-04_seat_identity_end_to_end_activate_patch.md | zoro | 2026-08-04 | — | 5062 |
+| 2026-08-04_seat_liveness_hook_audit_dtv5_ebd6e582.md | zoro | 2026-08-04 | — | 9021 |
+| 2026-08-04_seat_liveness_repair_closure.md | zoro | 2026-08-04 | — | 8172 |
+| 2026-08-04_v5_canary_stage_trace.md | zoro | 2026-08-04 | — | 5334 |
+| 2026-08-04_control_plane_truth_recovery_baseline_and_fail_closed_matrix_verifier.md | sanji | 2026-08-04 | A | 4480 |
+| 2026-08-04_echo_breach_browser_3d_jam_slice.md | sanji | 2026-08-04 | A | 5439 |
+| 2026-08-04_heavensburg_site_hardening_wave.md | sanji | 2026-08-04 | B | 2453 |
+| 2026-08-04_heavensburg_verifier_stall_repair.md | sanji | 2026-08-04 | — | 2045 |
+| 2026-08-04_latticefall_combat_feedback_repair.md | sanji | 2026-08-04 | A | 5021 |
+| 2026-08-04_latticefall_combat_readability_quality_wave.md | sanji | 2026-08-04 | A | 4946 |
 | 2026-08-04_latticefall_control_contract_repair.md | sanji | 2026-08-04 | A | 3426 |
 | 2026-08-04_latticefall_human_playtest_verdict.md | sanji | 2026-08-04 | A | 2647 |
 | 2026-08-04_latticefall_interactive_browser_surface.md | sanji | 2026-08-04 | A | 3120 |
+| 2026-08-04_latticefall_multiview_review_readiness.md | sanji | 2026-08-04 | A | 6037 |
+| 2026-08-04_latticefall_simple_hit_marker_feedback.md | sanji | 2026-08-04 | A | 5014 |
+| 2026-08-04_moltbook_comment_lane_repair.md | sanji | 2026-08-04 | C | 4164 |
+| 2026-08-04_moltbook_daily_contributor_post.md | sanji | 2026-08-04 | C | 3961 |
+| 2026-08-04_moltbook_engagement_observation_and_reply_staging.md | sanji | 2026-08-04 | C | 3380 |
+| 2026-08-04_sunny_manager_autonomy_cycle.md | sanji | 2026-08-04 | B | 5938 |
+| 2026-08-04_sunny_manager_control_phase0_readonly.md | sanji | 2026-08-04 | B | 4678 |
 | 2026-08-04_sunny_manager_control_plane_plan.md | sanji | 2026-08-04 | B | 4477 |
+| 2026-08-04_sunny_manager_coordination_protocol.md | sanji | 2026-08-04 | B | 6184 |
+| 2026-08-04_sunny_manager_mapping_reconciliation.md | sanji | 2026-08-04 | B | 3786 |
+| 2026-08-04_sunny_manager_review_ledger.md | sanji | 2026-08-04 | B | 4808 |
+| 2026-08-04_sunny_manager_status_surface.md | sanji | 2026-08-04 | B | 3277 |
+| 2026-08-04_blender_workstation_implementation.md | robin | 2026-08-04 | — | 1488 |
+| 2026-08-04_continuity_lab_implementation.md | robin | 2026-08-04 | — | 1120 |
+| 2026-08-04_experience_loop_implementation.md | robin | 2026-08-04 | — | 1057 |
+| 2026-08-04_media_studio_organ_implementation.md | robin | 2026-08-04 | — | 1068 |
+| 2026-08-04_procedural_3d_asset_foundry_implementation.md | robin | 2026-08-04 | — | 1790 |
 | 2026-08-03_builder_step_funnel.md | zoro | 2026-08-03 | A | 5343 |
 | 2026-08-03_drawn_icon_set.md | zoro | 2026-08-03 | A | 3592 |
 | 2026-08-03_echo_breach_multi_squad_reconciliation.md | zoro | 2026-08-03 | B | 7869 |
@@ -160,54 +207,7 @@
 | 2026-08-03_revenue_opportunity_engine_implementation.md | robin | 2026-08-03 | — | 3712 |
 | 2026-08-03_revenue_opportunity_engine_spec.md | robin | 2026-08-03 | — | 2913 |
 | 2026-08-03_structured_research_ingestion_engine_v1.md | robin | 2026-08-03 | A | 3219 |
-| 2026-08-03_structured_research_ingestion_engine_v2.md | robin | 2026-08-03 | A | 3089 |
-| 2026-08-03_structured_research_ingestion_engine_v3.md | robin | 2026-08-03 | A | 2995 |
-| 2026-08-03_tactical_timeshift_compiler_v0_implementation.md | robin | 2026-08-03 | — | 2959 |
-| 2026-08-03_vais_phase0_closure_kernel.md | robin | 2026-08-03 | B | 6186 |
-| 2026-08-02_luna_estate_candidate_refresh.md | glee | 2026-08-02 | A | 5767 |
-| 2026-08-02_luna_peer_claim_json_discovery_repair.md | glee | 2026-08-02 | A | 5446 |
-| 2026-08-02_luna_t3nas2_owner_gated_preflight.md | glee | 2026-08-02 | A | 7314 |
-| 2026-08-02_luna_third_orchestrator_estate_sweep.md | glee | 2026-08-02 | B | 7145 |
-| 2026-08-02_luna_xw0wnj_worker_action_contract_review.md | glee | 2026-08-02 | B | 6298 |
-| 2026-08-02_all_sixteen_seats_online_and_state_width_bug.md | zoro | 2026-08-02 | B | 6152 |
-| 2026-08-02_annotated_artifact_provenance_resolver_corrected.md | zoro | 2026-08-02 | — | 12779 |
-| 2026-08-02_codebank_tested_means_the_suite_passed.md | zoro | 2026-08-02 | A | 9167 |
-| 2026-08-02_echo_breach_environment_audio.md | zoro | 2026-08-02 | A | 10760 |
-| 2026-08-02_fable_os_absorption_capability_promotion_gate.md | zoro | 2026-08-02 | — | 11868 |
-| 2026-08-02_game_systems_foundry_codebank_change_impact.md | zoro | 2026-08-02 | A | 12429 |
-| 2026-08-02_heavensburg_animals_and_checkout_research_fields.md | zoro | 2026-08-02 | — | 4462 |
-| 2026-08-02_heavensburg_custom_domain_live.md | zoro | 2026-08-02 | — | 5194 |
-| 2026-08-02_heavensburg_cutout_backdrop_and_drawn_cast.md | zoro | 2026-08-02 | — | 5387 |
-| 2026-08-02_heavensburg_deployed_live.md | zoro | 2026-08-02 | — | 4708 |
-| 2026-08-02_heavensburg_family_photos_grade_and_cutouts.md | zoro | 2026-08-02 | — | 14019 |
-| 2026-08-02_heavensburg_hero_photo_email_routing_live.md | zoro | 2026-08-02 | — | 5614 |
-| 2026-08-02_heavensburg_illustrated_anonymous_art_direction.md | zoro | 2026-08-02 | — | 4625 |
-| 2026-08-02_heavensburg_long_horizon_roadmap.md | zoro | 2026-08-02 | — | 4112 |
-| 2026-08-02_heavensburg_needs_register_and_claim_guard.md | zoro | 2026-08-02 | — | 3860 |
-| 2026-08-02_heavensburg_order_path_tested_no_email.md | zoro | 2026-08-02 | — | 4441 |
-| 2026-08-02_heavensburg_photographic_cutout_backdrop.md | zoro | 2026-08-02 | — | 4477 |
-| 2026-08-02_heavensburg_real_farm_photos_and_logo.md | zoro | 2026-08-02 | — | 8094 |
-| 2026-08-02_heavensburg_register_ids_and_square_payment.md | zoro | 2026-08-02 | — | 11728 |
-| 2026-08-02_heavensburg_sign_art_direction.md | zoro | 2026-08-02 | — | 4747 |
-| 2026-08-02_heavensburg_stock_library_and_approval_gate.md | zoro | 2026-08-02 | — | 4801 |
-| 2026-08-02_heavensburg_wrong_town_and_family_email.md | zoro | 2026-08-02 | — | 12732 |
-| 2026-08-02_integrity_sweep_and_instrument_repair.md | zoro | 2026-08-02 | — | 10501 |
-| 2026-08-02_retry_gate_attempting_state_leak_trace.md | zoro | 2026-08-02 | — | 7633 |
-| 2026-08-02_retry_gate_dedup_coupling_trace_corrected.md | zoro | 2026-08-02 | — | 8168 |
-| 2026-08-02_retry_gate_extension_path_reachability_trace.md | zoro | 2026-08-02 | — | 6415 |
-| 2026-08-02_retry_gate_state_growth_observability.md | zoro | 2026-08-02 | — | 9126 |
-| 2026-08-02_retry_gate_state_growth_observability_corrected.md | zoro | 2026-08-02 | — | 8718 |
-| 2026-08-02_retry_gate_terminalization_review_packet.md | zoro | 2026-08-02 | — | 9338 |
-| 2026-08-02_seat_model_pins_and_settings_precedence.md | zoro | 2026-08-02 | B | 5518 |
-| 2026-08-02_skills_promotion_vocabulary_audit.md | zoro | 2026-08-02 | — | 10133 |
-| 2026-08-02_terminal_wall_cold_boot_and_conf_load.md | zoro | 2026-08-02 | B | 5363 |
-| 2026-08-02_zoro_final_crossreview_peer_claim_repair_CLEAR.md | zoro | 2026-08-02 | — | 7507 |
-| 2026-08-02_zoro_hostile_crossreview_luna_peer_claim_json_repair.md | zoro | 2026-08-02 | — | 7501 |
-| 2026-08-02_zoro_hostile_crossreview_luna_xw0wnj.md | zoro | 2026-08-02 | — | 8317 |
-| 2026-08-02_zoro_hostile_crossreview_t3nas2_acceptance_closure_CLEAR.md | zoro | 2026-08-02 | — | 6431 |
-| 2026-08-02_zoro_hostile_crossreview_t3nas2_mcs_shadow.md | zoro | 2026-08-02 | — | 7265 |
-| 2026-08-02_zoro_ops_monitor_liveness_model_change.md | zoro | 2026-08-02 | — | 4849 |
-| _(+6976 more — see full manifest JSON)_ | | | | |
+| _(+7023 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
