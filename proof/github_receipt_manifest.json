@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7236,
+  "total_receipts": 7247,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -786,6 +786,14 @@
       "date": "2026-08-04",
       "tier": "B",
       "size_bytes": 3195
+    },
+    {
+      "file_name": "2026-08-05_zoro_standing_cost_repeated_window_gate.md",
+      "home": "glee",
+      "rel_path": "2026-08-05_zoro_standing_cost_repeated_window_gate.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 23260
     },
     {
       "file_name": "META.md",
@@ -23036,12 +23044,52 @@
       "size_bytes": 3276
     },
     {
+      "file_name": "2026-08-05_agent_bus_mechanical_scope_grants.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_agent_bus_mechanical_scope_grants.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 9426
+    },
+    {
+      "file_name": "2026-08-05_fleet-control-repair.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_fleet-control-repair.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 11226
+    },
+    {
       "file_name": "2026-08-05_glee_as_training_source_layer1_gate.md",
       "home": "zoro",
       "rel_path": "2026-08-05_glee_as_training_source_layer1_gate.md",
       "date": "2026-08-05",
       "tier": "A",
-      "size_bytes": 11443
+      "size_bytes": 12827
+    },
+    {
+      "file_name": "2026-08-05_live_agentic_timeout_verification.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_live_agentic_timeout_verification.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 4361
+    },
+    {
+      "file_name": "2026-08-05_phase2_runtime_observation_and_gold_expansion.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_phase2_runtime_observation_and_gold_expansion.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 14511
+    },
+    {
+      "file_name": "2026-08-05_prompt_forge_eval_suites_and_honest_denominators.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_prompt_forge_eval_suites_and_honest_denominators.md",
+      "date": "2026-08-05",
+      "tier": null,
+      "size_bytes": 12628
     },
     {
       "file_name": "2026-08-05_prompt_forge_public_deploy_and_reachability_gate.md",
@@ -23057,7 +23105,31 @@
       "rel_path": "2026-08-05_ram_exhaustion_git_repack_and_terminal_wall_lag.md",
       "date": "2026-08-05",
       "tier": "A",
-      "size_bytes": 5690
+      "size_bytes": 38506
+    },
+    {
+      "file_name": "2026-08-05_reachability_gold_set_and_two_direction_scorer.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_reachability_gold_set_and_two_direction_scorer.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 6593
+    },
+    {
+      "file_name": "2026-08-05_repeatability_census_preregistered_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_repeatability_census_preregistered_gate.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 13135
+    },
+    {
+      "file_name": "2026-08-05_scope_inheritance_canary_harness_v0.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_scope_inheritance_canary_harness_v0.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 8111
     },
     {
       "file_name": "2026-08-05_terminals_staffed_and_sonnet_retired_on_sunny.md",
@@ -23065,7 +23137,7 @@
       "rel_path": "2026-08-05_terminals_staffed_and_sonnet_retired_on_sunny.md",
       "date": "2026-08-05",
       "tier": "B",
-      "size_bytes": 9915
+      "size_bytes": 10502
     },
     {
       "file_name": "INDEX.md",
@@ -46346,6 +46418,22 @@
       "date": "2026-08-04",
       "tier": "B",
       "size_bytes": 3277
+    },
+    {
+      "file_name": "2026-08-05_cross_domain_abstraction_rung0.md",
+      "home": "sanji",
+      "rel_path": "2026-08-05_cross_domain_abstraction_rung0.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 3917
+    },
+    {
+      "file_name": "2026-08-05_v5_full_build_rebase.md",
+      "home": "sanji",
+      "rel_path": "2026-08-05_v5_full_build_rebase.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 5675
     },
     {
       "file_name": "INDEX.md",
