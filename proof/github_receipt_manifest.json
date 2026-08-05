@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7223,
+  "total_receipts": 7232,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -22788,6 +22788,14 @@
       "size_bytes": 8477
     },
     {
+      "file_name": "2026-08-04_bounded_activation_codex_agy.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_bounded_activation_codex_agy.md",
+      "date": "2026-08-04",
+      "tier": null,
+      "size_bytes": 5302
+    },
+    {
       "file_name": "2026-08-04_canonical_work_id_binding.md",
       "home": "zoro",
       "rel_path": "2026-08-04_canonical_work_id_binding.md",
@@ -22876,6 +22884,30 @@
       "size_bytes": 4428
     },
     {
+      "file_name": "2026-08-04_estate_consolidation_wave4_evidentiary_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_estate_consolidation_wave4_evidentiary_gate.md",
+      "date": "2026-08-04",
+      "tier": "A",
+      "size_bytes": 4878
+    },
+    {
+      "file_name": "2026-08-04_estate_consolidation_wave5_round3_and_charter_packet.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_estate_consolidation_wave5_round3_and_charter_packet.md",
+      "date": "2026-08-04",
+      "tier": "A",
+      "size_bytes": 7256
+    },
+    {
+      "file_name": "2026-08-04_fleet_cold_seat_registry_never_readopted.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_fleet_cold_seat_registry_never_readopted.md",
+      "date": "2026-08-04",
+      "tier": "B",
+      "size_bytes": 4531
+    },
+    {
       "file_name": "2026-08-04_gate_wired_four_paths_strict_mode_withheld.md",
       "home": "zoro",
       "rel_path": "2026-08-04_gate_wired_four_paths_strict_mode_withheld.md",
@@ -22906,6 +22938,14 @@
       "date": "2026-08-04",
       "tier": null,
       "size_bytes": 6292
+    },
+    {
+      "file_name": "2026-08-04_orchestrator_drain_rootcause_and_view_hardening.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_orchestrator_drain_rootcause_and_view_hardening.md",
+      "date": "2026-08-04",
+      "tier": null,
+      "size_bytes": 4476
     },
     {
       "file_name": "2026-08-04_prompt_forge_evidence_earned_tiers.md",
@@ -22956,12 +22996,44 @@
       "size_bytes": 8172
     },
     {
+      "file_name": "2026-08-04_ticket_propagation_rows_8_9.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_ticket_propagation_rows_8_9.md",
+      "date": "2026-08-04",
+      "tier": null,
+      "size_bytes": 6926
+    },
+    {
+      "file_name": "2026-08-04_token_provenance_and_corrected_blast_radius.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_token_provenance_and_corrected_blast_radius.md",
+      "date": "2026-08-04",
+      "tier": null,
+      "size_bytes": 7301
+    },
+    {
       "file_name": "2026-08-04_v5_canary_stage_trace.md",
       "home": "zoro",
       "rel_path": "2026-08-04_v5_canary_stage_trace.md",
       "date": "2026-08-04",
       "tier": null,
       "size_bytes": 5334
+    },
+    {
+      "file_name": "2026-08-04_v5_finalization_outbox.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_v5_finalization_outbox.md",
+      "date": "2026-08-04",
+      "tier": null,
+      "size_bytes": 4274
+    },
+    {
+      "file_name": "2026-08-04_v5_target_namespace_canonical_seat.md",
+      "home": "zoro",
+      "rel_path": "2026-08-04_v5_target_namespace_canonical_seat.md",
+      "date": "2026-08-04",
+      "tier": null,
+      "size_bytes": 3276
     },
     {
       "file_name": "INDEX.md",
