@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7232,
+  "total_receipts": 7236,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -23034,6 +23034,38 @@
       "date": "2026-08-04",
       "tier": null,
       "size_bytes": 3276
+    },
+    {
+      "file_name": "2026-08-05_glee_as_training_source_layer1_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_glee_as_training_source_layer1_gate.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 11443
+    },
+    {
+      "file_name": "2026-08-05_prompt_forge_public_deploy_and_reachability_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_prompt_forge_public_deploy_and_reachability_gate.md",
+      "date": "2026-08-05",
+      "tier": null,
+      "size_bytes": 8321
+    },
+    {
+      "file_name": "2026-08-05_ram_exhaustion_git_repack_and_terminal_wall_lag.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_ram_exhaustion_git_repack_and_terminal_wall_lag.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 5690
+    },
+    {
+      "file_name": "2026-08-05_terminals_staffed_and_sonnet_retired_on_sunny.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_terminals_staffed_and_sonnet_retired_on_sunny.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 9915
     },
     {
       "file_name": "INDEX.md",
