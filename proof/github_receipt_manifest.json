@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7247,
+  "total_receipts": 7253,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -833,7 +833,7 @@
       "rel_path": "model_routing_splice_receipt.md",
       "date": null,
       "tier": null,
-      "size_bytes": 887855
+      "size_bytes": 908637
     },
     {
       "file_name": "receipt_task_8_robin.md",
@@ -23052,12 +23052,36 @@
       "size_bytes": 9426
     },
     {
+      "file_name": "2026-08-05_claude_lane_never_drains_and_300s_reaper.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_claude_lane_never_drains_and_300s_reaper.md",
+      "date": "2026-08-05",
+      "tier": "A",
+      "size_bytes": 7166
+    },
+    {
+      "file_name": "2026-08-05_decisive_trial_phase0_3_author_packet.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_decisive_trial_phase0_3_author_packet.md",
+      "date": "2026-08-05",
+      "tier": "C",
+      "size_bytes": 4961
+    },
+    {
+      "file_name": "2026-08-05_experience_ledger_readout_honesty.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_experience_ledger_readout_honesty.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 7363
+    },
+    {
       "file_name": "2026-08-05_fleet-control-repair.md",
       "home": "zoro",
       "rel_path": "2026-08-05_fleet-control-repair.md",
       "date": "2026-08-05",
       "tier": "B",
-      "size_bytes": 11226
+      "size_bytes": 17290
     },
     {
       "file_name": "2026-08-05_glee_as_training_source_layer1_gate.md",
@@ -23132,12 +23156,36 @@
       "size_bytes": 8111
     },
     {
+      "file_name": "2026-08-05_sdc_instrument_fabrication_repair.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_sdc_instrument_fabrication_repair.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 7432
+    },
+    {
+      "file_name": "2026-08-05_terminal_wall_staffed_codex_austerity_luna.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_terminal_wall_staffed_codex_austerity_luna.md",
+      "date": "2026-08-05",
+      "tier": null,
+      "size_bytes": 6525
+    },
+    {
       "file_name": "2026-08-05_terminals_staffed_and_sonnet_retired_on_sunny.md",
       "home": "zoro",
       "rel_path": "2026-08-05_terminals_staffed_and_sonnet_retired_on_sunny.md",
       "date": "2026-08-05",
       "tier": "B",
       "size_bytes": 10502
+    },
+    {
+      "file_name": "2026-08-05_worker_action_requested_model_routing_repair.md",
+      "home": "zoro",
+      "rel_path": "2026-08-05_worker_action_requested_model_routing_repair.md",
+      "date": "2026-08-05",
+      "tier": "B",
+      "size_bytes": 10236
     },
     {
       "file_name": "INDEX.md",
