@@ -1,30 +1,44 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-06T12:41:09.740860+00:00
-> Total receipts indexed: 7307
+> Last updated: 2026-08-06T18:41:06.111599+00:00
+> Total receipts indexed: 7321
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-06_echo-breach-v2-w1-meta-loop.md | glee | 2026-08-06 | — | 4983 |
+| 2026-08-06_echo-breach-v2-w1-staging-ui.md | glee | 2026-08-06 | — | 4771 |
+| 2026-08-06_echo-breach-v2-w2-pickups-and-munitions.md | glee | 2026-08-06 | — | 6735 |
+| 2026-08-06_echo-breach-v2-w3-cold-harbour.md | glee | 2026-08-06 | — | 8745 |
+| 2026-08-06_echo-breach-v2-w4-the-warden.md | glee | 2026-08-06 | — | 7737 |
+| 2026-08-06_moltbook_delivery_verification_hostile_review.md | glee | 2026-08-06 | A | 1627 |
 | 2026-08-06_ablation_reachability_do_not_build.md | zoro | 2026-08-06 | B | 5239 |
+| 2026-08-06_addenda_inflation_guard.md | zoro | 2026-08-06 | B | 4022 |
 | 2026-08-06_adoption_check_count_triggered.md | zoro | 2026-08-06 | B | 4253 |
+| 2026-08-06_adoption_verdict_prereg_and_notification.md | zoro | 2026-08-06 | B | 5564 |
 | 2026-08-06_agent_origin_axis_and_community_agent_gap.md | zoro | 2026-08-06 | B | 5137 |
 | 2026-08-06_agent_visibility_private_by_design.md | zoro | 2026-08-06 | B | 4419 |
 | 2026-08-06_chain_disclosure_model_and_git_provenance_discovery.md | zoro | 2026-08-06 | B | 5318 |
 | 2026-08-06_claim_time_freeze_adoption_glee_receipt.md | zoro | 2026-08-06 | B | 4686 |
 | 2026-08-06_decisive_trial_corpus_generator.md | zoro | 2026-08-06 | B | 8878 |
 | 2026-08-06_derived_baseline_experiment_map_and_presence_gate_fix.md | zoro | 2026-08-06 | B | 4979 |
+| 2026-08-06_exclusions_contract_repair_and_prereg_label.md | zoro | 2026-08-06 | B | 4570 |
+| 2026-08-06_fix_all_contrast_nav_pipeline.md | zoro | 2026-08-06 | C | 6340 |
 | 2026-08-06_four_arm_reliability_rung1_veto.md | zoro | 2026-08-06 | B | 4505 |
+| 2026-08-06_goal_question_persistence_doctrine.md | zoro | 2026-08-06 | C | 8334 |
 | 2026-08-06_ict1_lane_probes_and_repo_freeze.md | zoro | 2026-08-06 | B | 6441 |
 | 2026-08-06_ict1_tasks_authored_and_answer_leak_closed.md | zoro | 2026-08-06 | B | 6951 |
-| 2026-08-06_moltbook_engagement_wave_and_readback_false_negative_repair.md | zoro | 2026-08-06 | B | 13511 |
+| 2026-08-06_moltbook_agents_post_and_operator_directive_gate.md | zoro | 2026-08-06 | B | 24397 |
+| 2026-08-06_moltbook_engagement_wave_and_readback_false_negative_repair.md | zoro | 2026-08-06 | B | 25920 |
 | 2026-08-06_narrative_geometric_patina_brand_system.md | zoro | 2026-08-06 | B | 7109 |
 | 2026-08-06_receipt_corpus_blind_spot_seven_homes.md | zoro | 2026-08-06 | B | 9060 |
 | 2026-08-06_scorer_integrity_and_inc007_rescope.md | zoro | 2026-08-06 | B | 6262 |
+| 2026-08-06_site_interiors_flagship_and_multistyle_verify.md | zoro | 2026-08-06 | C | 6890 |
 | 2026-08-06_standard_nav_and_art_mounted.md | zoro | 2026-08-06 | C | 6767 |
 | 2026-08-06_style_system_bios_admitted_art_rule_flipped.md | zoro | 2026-08-06 | C | 5497 |
 | 2026-08-06_token_adoption_pass_site_reskinnable.md | zoro | 2026-08-06 | C | 6520 |
+| 2026-08-06_verification_addendum_unblocks_adoption.md | zoro | 2026-08-06 | B | 4680 |
 | 2026-08-06_verification_evidence_classing_writer_repair.md | zoro | 2026-08-06 | B | 4463 |
 | 2026-08-06_verifier_attribution_not_observable_inc007_close.md | zoro | 2026-08-06 | B | 4763 |
 | 2026-08-06_warm_ground_correction.md | zoro | 2026-08-06 | B | 4923 |
@@ -193,21 +207,7 @@
 | 2026-08-03_delegated_truth_boundary_producer_fix.md | sanji | 2026-08-03 | A | 5443 |
 | 2026-08-03_delegated_truth_boundary_regression.md | sanji | 2026-08-03 | A | 4899 |
 | 2026-08-03_delegated_truth_eight_wave_execution.md | sanji | 2026-08-03 | A | 6857 |
-| 2026-08-03_delegated_truth_integration_wave.md | sanji | 2026-08-03 | A | 6626 |
-| 2026-08-03_delegated_truth_wave1_envelope_admission.md | sanji | 2026-08-03 | A | 6185 |
-| 2026-08-03_delegated_truth_wave2_capability_inspector.md | sanji | 2026-08-03 | A | 4732 |
-| 2026-08-03_delegated_truth_wave3_context_firewall.md | sanji | 2026-08-03 | A | 4238 |
-| 2026-08-03_delegated_truth_wave4_challenge_protocol.md | sanji | 2026-08-03 | A | 4044 |
-| 2026-08-03_delegated_truth_wave5_trust_vector.md | sanji | 2026-08-03 | A | 4143 |
-| 2026-08-03_delegated_truth_wave6_adversarial_harness.md | sanji | 2026-08-03 | A | 3865 |
-| 2026-08-03_delegated_truth_wave7_human_control_policy.md | sanji | 2026-08-03 | A | 3985 |
-| 2026-08-03_echo_breach_destruction_audit.md | sanji | 2026-08-03 | A | 3178 |
-| 2026-08-03_echo_breach_destruction_concept_board.md | sanji | 2026-08-03 | A | 1744 |
-| 2026-08-03_echo_breach_destruction_runtime.md | sanji | 2026-08-03 | A | 2833 |
-| 2026-08-03_evidence_vault_downstream_consumption.md | sanji | 2026-08-03 | A | 3778 |
-| 2026-08-03_evidence_vault_downstream_review.md | sanji | 2026-08-03 | A | 4616 |
-| 2026-08-03_evidence_vault_integration.md | sanji | 2026-08-03 | A | 5632 |
-| _(+7107 more — see full manifest JSON)_ | | | | |
+| _(+7121 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
