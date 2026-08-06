@@ -1,17 +1,71 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-06T06:41:05.998835+00:00
-> Total receipts indexed: 7253
+> Last updated: 2026-08-06T12:41:09.740860+00:00
+> Total receipts indexed: 7307
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-06_ablation_reachability_do_not_build.md | zoro | 2026-08-06 | B | 5239 |
+| 2026-08-06_adoption_check_count_triggered.md | zoro | 2026-08-06 | B | 4253 |
+| 2026-08-06_agent_origin_axis_and_community_agent_gap.md | zoro | 2026-08-06 | B | 5137 |
+| 2026-08-06_agent_visibility_private_by_design.md | zoro | 2026-08-06 | B | 4419 |
+| 2026-08-06_chain_disclosure_model_and_git_provenance_discovery.md | zoro | 2026-08-06 | B | 5318 |
+| 2026-08-06_claim_time_freeze_adoption_glee_receipt.md | zoro | 2026-08-06 | B | 4686 |
+| 2026-08-06_decisive_trial_corpus_generator.md | zoro | 2026-08-06 | B | 8878 |
+| 2026-08-06_derived_baseline_experiment_map_and_presence_gate_fix.md | zoro | 2026-08-06 | B | 4979 |
+| 2026-08-06_four_arm_reliability_rung1_veto.md | zoro | 2026-08-06 | B | 4505 |
+| 2026-08-06_ict1_lane_probes_and_repo_freeze.md | zoro | 2026-08-06 | B | 6441 |
+| 2026-08-06_ict1_tasks_authored_and_answer_leak_closed.md | zoro | 2026-08-06 | B | 6951 |
+| 2026-08-06_moltbook_engagement_wave_and_readback_false_negative_repair.md | zoro | 2026-08-06 | B | 13511 |
+| 2026-08-06_narrative_geometric_patina_brand_system.md | zoro | 2026-08-06 | B | 7109 |
+| 2026-08-06_receipt_corpus_blind_spot_seven_homes.md | zoro | 2026-08-06 | B | 9060 |
+| 2026-08-06_scorer_integrity_and_inc007_rescope.md | zoro | 2026-08-06 | B | 6262 |
+| 2026-08-06_standard_nav_and_art_mounted.md | zoro | 2026-08-06 | C | 6767 |
+| 2026-08-06_style_system_bios_admitted_art_rule_flipped.md | zoro | 2026-08-06 | C | 5497 |
+| 2026-08-06_token_adoption_pass_site_reskinnable.md | zoro | 2026-08-06 | C | 6520 |
+| 2026-08-06_verification_evidence_classing_writer_repair.md | zoro | 2026-08-06 | B | 4463 |
+| 2026-08-06_verifier_attribution_not_observable_inc007_close.md | zoro | 2026-08-06 | B | 4763 |
+| 2026-08-06_warm_ground_correction.md | zoro | 2026-08-06 | B | 4923 |
+| 2026-08-06_worker_dispatch_lane_repair_foreign_model_guard_and_agy_adapter.md | zoro | 2026-08-06 | — | 7606 |
+| 2026-08-06_worker_dispatch_lane_repair_foreman_model_guard_and_agy_adapter.md | zoro | 2026-08-06 | — | 13292 |
+| 2026-08-06_agent_workbench_foundation.md | sanji | 2026-08-06 | — | 4323 |
+| 2026-08-06_agent_workbench_protocol_v1.md | sanji | 2026-08-06 | C | 9942 |
+| 2026-08-06_glee_agora_decision_ready_review.md | sanji | 2026-08-06 | B | 3562 |
+| 2026-08-06_glee_agora_editorial_review_boundary.md | sanji | 2026-08-06 | B | 2951 |
+| 2026-08-06_glee_agora_editorial_review_screen.md | sanji | 2026-08-06 | B | 3873 |
+| 2026-08-06_glee_agora_editorial_review_signin_repair.md | sanji | 2026-08-06 | B | 2042 |
+| 2026-08-06_glee_agora_homepage_live.md | sanji | 2026-08-06 | B | 3007 |
+| 2026-08-06_glee_agora_homepage_preview.md | sanji | 2026-08-06 | B | 2720 |
+| 2026-08-06_glee_agora_intelligence_frame.md | sanji | 2026-08-06 | B | 3180 |
+| 2026-08-06_glee_agora_openalex_discovery_probe.md | sanji | 2026-08-06 | B | 3170 |
+| 2026-08-06_glee_agora_promotion_retry.md | sanji | 2026-08-06 | B | 1890 |
+| 2026-08-06_glee_agora_realm_registry.md | sanji | 2026-08-06 | B | 3477 |
+| 2026-08-06_glee_agora_source_health.md | sanji | 2026-08-06 | B | 3605 |
+| 2026-08-06_glee_platform_map_expansion.md | sanji | 2026-08-06 | B | 3239 |
+| 2026-08-06_glee_public_front_door_wave.md | sanji | 2026-08-06 | B | 4051 |
+| 2026-08-06_glee_public_platform_audit.md | sanji | 2026-08-06 | A | 2346 |
+| 2026-08-06_gpt_oss_transient_provider_retry_repair.md | sanji | 2026-08-06 | B | 4264 |
+| 2026-08-06_heavensburg_background_texture_contrast.md | sanji | 2026-08-06 | B | 2314 |
+| 2026-08-06_heavensburg_header_overlay_removed.md | sanji | 2026-08-06 | B | 2111 |
+| 2026-08-06_heavensburg_ia_sales_modes.md | sanji | 2026-08-06 | B | 5661 |
+| 2026-08-06_heavensburg_sales_modes_and_verifier.md | sanji | 2026-08-06 | B | 3755 |
+| 2026-08-06_heavensburg_visual_draft_offer_truth_pause.md | sanji | 2026-08-06 | B | 2899 |
+| 2026-08-06_heavensburg_visual_improvement_deployed.md | sanji | 2026-08-06 | B | 3769 |
+| 2026-08-06_heavensburg_website_visual_analysis_plan.md | sanji | 2026-08-06 | A | 2479 |
+| 2026-08-06_terminal_dispatch_submission_state_repair.md | sanji | 2026-08-06 | B | 3344 |
+| 2026-08-06_v5_live_matrix_terminalization.md | sanji | 2026-08-06 | — | 3568 |
+| 2026-08-06_v5_remaining_defects_repaired.md | sanji | 2026-08-06 | A | 3696 |
+| 2026-08-06_v5_transient_finalization_projection.md | sanji | 2026-08-06 | — | 3364 |
+| 2026-08-06_work_packet_bridge_finalization_matrix.md | sanji | 2026-08-06 | C | 5320 |
+| 2026-08-06_work_packet_containment.md | sanji | 2026-08-06 | C | 4185 |
+| 2026-08-06_work_packet_v1_foundation.md | sanji | 2026-08-06 | B | 4762 |
 | 2026-08-05_zoro_standing_cost_repeated_window_gate.md | glee | 2026-08-05 | A | 23260 |
 | 2026-08-05_agent_bus_mechanical_scope_grants.md | zoro | 2026-08-05 | B | 9426 |
 | 2026-08-05_claude_lane_never_drains_and_300s_reaper.md | zoro | 2026-08-05 | A | 7166 |
-| 2026-08-05_decisive_trial_phase0_3_author_packet.md | zoro | 2026-08-05 | C | 4961 |
-| 2026-08-05_experience_ledger_readout_honesty.md | zoro | 2026-08-05 | B | 7363 |
+| 2026-08-05_decisive_trial_phase0_3_author_packet.md | zoro | 2026-08-05 | C | 7020 |
+| 2026-08-05_experience_ledger_readout_honesty.md | zoro | 2026-08-05 | B | 16657 |
 | 2026-08-05_fleet-control-repair.md | zoro | 2026-08-05 | B | 17290 |
 | 2026-08-05_glee_as_training_source_layer1_gate.md | zoro | 2026-08-05 | A | 12827 |
 | 2026-08-05_live_agentic_timeout_verification.md | zoro | 2026-08-05 | A | 4361 |
@@ -153,61 +207,7 @@
 | 2026-08-03_evidence_vault_downstream_consumption.md | sanji | 2026-08-03 | A | 3778 |
 | 2026-08-03_evidence_vault_downstream_review.md | sanji | 2026-08-03 | A | 4616 |
 | 2026-08-03_evidence_vault_integration.md | sanji | 2026-08-03 | A | 5632 |
-| 2026-08-03_evidence_vault_integration_seam.md | sanji | 2026-08-03 | A | 3237 |
-| 2026-08-03_evidence_vault_integration_v2.md | sanji | 2026-08-03 | — | 2493 |
-| 2026-08-03_evidence_vault_method_harvest.md | sanji | 2026-08-03 | A | 4982 |
-| 2026-08-03_evidence_vault_v0_build.md | sanji | 2026-08-03 | A | 5475 |
-| 2026-08-03_evidence_vault_v0_contract.md | sanji | 2026-08-03 | A | 3653 |
-| 2026-08-03_evidence_vault_v0_durable_persistence.md | sanji | 2026-08-03 | A | 3139 |
-| 2026-08-03_evidence_vault_v0_integration_review.md | sanji | 2026-08-03 | A | 3931 |
-| 2026-08-03_evidence_vault_v0_persistence.md | sanji | 2026-08-03 | A | 3533 |
-| 2026-08-03_heavensburg_background_art_direction.md | sanji | 2026-08-03 | A | 4252 |
-| 2026-08-03_heavensburg_coordination_reconciliation.md | sanji | 2026-08-03 | B | 4699 |
-| 2026-08-03_heavensburg_csa_preview_deploy.md | sanji | 2026-08-03 | A | 3291 |
-| 2026-08-03_heavensburg_current_source_repairs_verified.md | sanji | 2026-08-03 | B | 4957 |
-| 2026-08-03_heavensburg_email_support_report.md | sanji | 2026-08-03 | A | 4816 |
-| 2026-08-03_heavensburg_feedback_worker_seam_handoff.md | sanji | 2026-08-03 | A | 3877 |
-| 2026-08-03_heavensburg_guided_share_flow.md | sanji | 2026-08-03 | A | 6113 |
-| 2026-08-03_heavensburg_guided_ui_handoff_verified.md | sanji | 2026-08-03 | B | 5028 |
-| 2026-08-03_heavensburg_live_market_public_schedule.md | sanji | 2026-08-03 | A | 6315 |
-| 2026-08-03_heavensburg_multipage_navigation.md | sanji | 2026-08-03 | A | 7642 |
-| 2026-08-03_heavensburg_native_photo_framing.md | sanji | 2026-08-03 | A | 3316 |
-| 2026-08-03_heavensburg_pack_a_farm_crate_category_filter.md | sanji | 2026-08-03 | A | 5561 |
-| 2026-08-03_heavensburg_pack_a_farm_crate_preview.md | sanji | 2026-08-03 | A | 7070 |
-| 2026-08-03_heavensburg_pos_overview_shared_slice.md | sanji | 2026-08-03 | A | 6067 |
-| 2026-08-03_heavensburg_pos_v0_local_replay.md | sanji | 2026-08-03 | A | 5104 |
-| 2026-08-03_heavensburg_pos_v0_without_payment_plan.md | sanji | 2026-08-03 | B | 4739 |
-| 2026-08-03_heavensburg_production_merge_blocked.md | sanji | 2026-08-03 | B | 7572 |
-| 2026-08-03_heavensburg_security_receipt_gate_fixture.md | sanji | 2026-08-03 | B | 4290 |
-| 2026-08-03_heavensburg_security_receipt_gate_plan.md | sanji | 2026-08-03 | B | 2793 |
-| 2026-08-03_heavensburg_site_feedback_overlay.md | sanji | 2026-08-03 | A | 7488 |
-| 2026-08-03_latticefall_operated_playtest_harness.md | sanji | 2026-08-03 | A | 5521 |
-| 2026-08-03_latticefall_real_project_input_probe.md | sanji | 2026-08-03 | A | 3308 |
-| 2026-08-03_latticefall_replay_and_receipt_repairs.md | sanji | 2026-08-03 | A | 4494 |
-| 2026-08-03_local_search_v0.md | sanji | 2026-08-03 | A | 5129 |
-| 2026-08-03_local_search_v1_router_seed.md | sanji | 2026-08-03 | A | 6357 |
-| 2026-08-03_local_search_v2_hardening.md | sanji | 2026-08-03 | A | 6088 |
-| 2026-08-03_local_search_v3_consumption_evaluation.md | sanji | 2026-08-03 | A | 7689 |
-| 2026-08-03_local_workflow_executor_integration.md | sanji | 2026-08-03 | A | 3438 |
-| 2026-08-03_m6vpf0_tactical_world_schema_fixture_validator.md | sanji | 2026-08-03 | A | 4845 |
-| 2026-08-03_memory_compiler_typed_markdown_fts5_baseline.md | sanji | 2026-08-03 | A | 4366 |
-| 2026-08-03_moltbook_halt_clear_and_post_one.md | sanji | 2026-08-03 | C | 2905 |
-| 2026-08-03_moltbook_three_post_wave.md | sanji | 2026-08-03 | B | 3146 |
-| 2026-08-03_nova3d_local_asset_compiler_refinement.md | sanji | 2026-08-03 | B | 4925 |
-| 2026-08-03_nova3d_mcp_external_edge_gate_packet.md | sanji | 2026-08-03 | C | 3747 |
-| 2026-08-03_nova3d_mcp_g1_capability_inventory.md | sanji | 2026-08-03 | C | 3306 |
-| 2026-08-03_nova3d_mcp_g1_compatibility_reproduction.md | sanji | 2026-08-03 | C | 3229 |
-| 2026-08-03_nova3d_mcp_g2_auth_status.md | sanji | 2026-08-03 | C | 3331 |
-| 2026-08-03_nova3d_semantic_asset_blender_route.md | sanji | 2026-08-03 | B | 4169 |
-| 2026-08-03_nova3d_semantic_asset_canary_execution.md | sanji | 2026-08-03 | B | 5421 |
-| 2026-08-03_nova3d_semantic_asset_canary_packet.md | sanji | 2026-08-03 | B | 3325 |
-| 2026-08-03_receipt_verifier_historical_quarantine_repair.md | sanji | 2026-08-03 | A | 4208 |
-| 2026-08-03_studio_dual_repair.md | sanji | 2026-08-03 | — | 2499 |
-| 2026-08-03_studio_recovery_service_fix.md | sanji | 2026-08-03 | B | 4056 |
-| 2026-08-03_tactical_timeshift_episode_ingestion.md | sanji | 2026-08-03 | A | 6443 |
-| 2026-08-03_tactical_timeshift_independent_review_request.md | sanji | 2026-08-03 | A | 3172 |
-| 2026-08-03_tactical_timeshift_meaningful_routes.md | sanji | 2026-08-03 | A | 3098 |
-| _(+7053 more — see full manifest JSON)_ | | | | |
+| _(+7107 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
