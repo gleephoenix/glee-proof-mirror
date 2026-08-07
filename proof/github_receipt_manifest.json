@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7411,
+  "total_receipts": 7420,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -801,7 +801,7 @@
       "rel_path": "2026-08-06_agent_workbench_hostile_verification.md",
       "date": "2026-08-06",
       "tier": null,
-      "size_bytes": 12948
+      "size_bytes": 15136
     },
     {
       "file_name": "2026-08-06_ally_packet_capability_context.md",
@@ -849,7 +849,7 @@
       "rel_path": "2026-08-06_echo-breach-3d-assets-and-look.md",
       "date": "2026-08-06",
       "tier": null,
-      "size_bytes": 17377
+      "size_bytes": 21572
     },
     {
       "file_name": "2026-08-06_echo-breach-3d-conversion-day1.md",
@@ -23521,7 +23521,7 @@
       "rel_path": "2026-08-06_capability_distribution_split_slice0_reconciliation.md",
       "date": "2026-08-06",
       "tier": "A",
-      "size_bytes": 19919
+      "size_bytes": 26260
     },
     {
       "file_name": "2026-08-06_capability_first_packet_slice0_reconciliation.md",
@@ -23632,8 +23632,8 @@
       "home": "zoro",
       "rel_path": "2026-08-06_digitalhandyman_takedown.md",
       "date": "2026-08-06",
-      "tier": "B",
-      "size_bytes": 6946
+      "tier": null,
+      "size_bytes": 3804
     },
     {
       "file_name": "2026-08-06_dpcp_slice0_reconciliation.md",
@@ -23889,7 +23889,7 @@
       "rel_path": "2026-08-06_moltbook_profile_audit_and_rewrite.md",
       "date": "2026-08-06",
       "tier": null,
-      "size_bytes": 12552
+      "size_bytes": 15620
     },
     {
       "file_name": "2026-08-06_motion_primitive_canon.md",
@@ -23897,7 +23897,7 @@
       "rel_path": "2026-08-06_motion_primitive_canon.md",
       "date": "2026-08-06",
       "tier": "B",
-      "size_bytes": 10439
+      "size_bytes": 18919
     },
     {
       "file_name": "2026-08-06_narrative_geometric_patina_brand_system.md",
@@ -24172,6 +24172,22 @@
       "size_bytes": 13292
     },
     {
+      "file_name": "2026-08-07_canon_rule4_focus_never_moves.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_canon_rule4_focus_never_moves.md",
+      "date": "2026-08-07",
+      "tier": "A",
+      "size_bytes": 11257
+    },
+    {
+      "file_name": "2026-08-07_compute_efficient_intelligence_program_and_instrument_audit.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_compute_efficient_intelligence_program_and_instrument_audit.md",
+      "date": "2026-08-07",
+      "tier": "B",
+      "size_bytes": 7300
+    },
+    {
       "file_name": "2026-08-07_decisive_trial_corpus_frozen.md",
       "home": "zoro",
       "rel_path": "2026-08-07_decisive_trial_corpus_frozen.md",
@@ -24180,12 +24196,60 @@
       "size_bytes": 5304
     },
     {
+      "file_name": "2026-08-07_decisive_trial_refreeze_semantic_completeness.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_decisive_trial_refreeze_semantic_completeness.md",
+      "date": "2026-08-07",
+      "tier": "C",
+      "size_bytes": 6362
+    },
+    {
+      "file_name": "2026-08-07_l3_identity_contract_and_efficiency_metric.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_l3_identity_contract_and_efficiency_metric.md",
+      "date": "2026-08-07",
+      "tier": "B",
+      "size_bytes": 8491
+    },
+    {
       "file_name": "2026-08-07_moltbook_effectiveness_four_repairs.md",
       "home": "zoro",
       "rel_path": "2026-08-07_moltbook_effectiveness_four_repairs.md",
       "date": "2026-08-07",
       "tier": "B",
-      "size_bytes": 8365
+      "size_bytes": 17887
+    },
+    {
+      "file_name": "2026-08-07_motion_canon_page_recovered_and_shell_hook_carry_fixed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_motion_canon_page_recovered_and_shell_hook_carry_fixed.md",
+      "date": "2026-08-07",
+      "tier": "A",
+      "size_bytes": 11234
+    },
+    {
+      "file_name": "2026-08-07_offsite_backup_fail_closed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_offsite_backup_fail_closed.md",
+      "date": "2026-08-07",
+      "tier": "A",
+      "size_bytes": 8672
+    },
+    {
+      "file_name": "2026-08-07_paired_measurement_rejected_attribution_validated.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_paired_measurement_rejected_attribution_validated.md",
+      "date": "2026-08-07",
+      "tier": "B",
+      "size_bytes": 8898
+    },
+    {
+      "file_name": "2026-08-07_takedown_ship_path_repairs.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_takedown_ship_path_repairs.md",
+      "date": "2026-08-07",
+      "tier": "B",
+      "size_bytes": 4627
     },
     {
       "file_name": "INDEX.md",
@@ -41177,7 +41241,7 @@
       "rel_path": "2026-07-11_digital_handyman_card_live.md",
       "date": "2026-07-11",
       "tier": null,
-      "size_bytes": 5385
+      "size_bytes": 832
     },
     {
       "file_name": "2026-07-11_digital_handyman_contact_logo_typography_refine.md",
@@ -41185,7 +41249,7 @@
       "rel_path": "2026-07-11_digital_handyman_contact_logo_typography_refine.md",
       "date": "2026-07-11",
       "tier": null,
-      "size_bytes": 3109
+      "size_bytes": 832
     },
     {
       "file_name": "2026-07-11_digital_handyman_visual_and_phone_routing_fix.md",
@@ -41193,7 +41257,7 @@
       "rel_path": "2026-07-11_digital_handyman_visual_and_phone_routing_fix.md",
       "date": "2026-07-11",
       "tier": null,
-      "size_bytes": 3279
+      "size_bytes": 832
     },
     {
       "file_name": "2026-07-11_eu5_campaign_health_audit.md",
@@ -47730,6 +47794,14 @@
       "date": "2026-08-06",
       "tier": "B",
       "size_bytes": 4762
+    },
+    {
+      "file_name": "2026-08-07_open_cad_studio_domain_engineering_research_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-07_open_cad_studio_domain_engineering_research_card.md",
+      "date": "2026-08-07",
+      "tier": "A",
+      "size_bytes": 4876
     },
     {
       "file_name": "INDEX.md",
