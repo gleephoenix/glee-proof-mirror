@@ -1,22 +1,45 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-07T12:41:06.781700+00:00
-> Total receipts indexed: 7420
+> Last updated: 2026-08-07T18:41:06.868368+00:00
+> Total receipts indexed: 7443
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-07_echo-breach-lighting-and-level-scale.md | glee | 2026-08-07 | — | 10299 |
+| 2026-08-07_motion_capability_public_publication.md | glee | 2026-08-07 | B | 13200 |
+| 2026-08-07_tracker_epoch_cutover_evidence_preserving_v2.md | glee | 2026-08-07 | — | 9479 |
+| 2026-08-07_a7_lint_triage.md | zoro | 2026-08-07 | B | 16106 |
+| 2026-08-07_advance_transition_graduated.md | zoro | 2026-08-07 | B | 10236 |
+| 2026-08-07_agent_bus_provider_lane_diagnosis.md | zoro | 2026-08-07 | A | 13867 |
+| 2026-08-07_authority_invariant_across_runners.md | zoro | 2026-08-07 | C | 7886 |
+| 2026-08-07_bus_supervisor_detached_owned_execution.md | zoro | 2026-08-07 | C | 24826 |
 | 2026-08-07_canon_rule4_focus_never_moves.md | zoro | 2026-08-07 | A | 11257 |
 | 2026-08-07_compute_efficient_intelligence_program_and_instrument_audit.md | zoro | 2026-08-07 | B | 7300 |
-| 2026-08-07_decisive_trial_corpus_frozen.md | zoro | 2026-08-07 | C | 5304 |
-| 2026-08-07_decisive_trial_refreeze_semantic_completeness.md | zoro | 2026-08-07 | C | 6362 |
+| 2026-08-07_cw001_v0i_governed_fallback.md | zoro | 2026-08-07 | B | 6473 |
+| 2026-08-07_daemon_log_evidence_hygiene.md | zoro | 2026-08-07 | A | 4980 |
+| 2026-08-07_decisive_trial_corpus_frozen.md | zoro | 2026-08-07 | C | 6541 |
+| 2026-08-07_decisive_trial_refreeze_semantic_completeness.md | zoro | 2026-08-07 | C | 7319 |
 | 2026-08-07_l3_identity_contract_and_efficiency_metric.md | zoro | 2026-08-07 | B | 8491 |
 | 2026-08-07_moltbook_effectiveness_four_repairs.md | zoro | 2026-08-07 | B | 17887 |
-| 2026-08-07_motion_canon_page_recovered_and_shell_hook_carry_fixed.md | zoro | 2026-08-07 | A | 11234 |
+| 2026-08-07_motion_canon_page_recovered_and_shell_hook_carry_fixed.md | zoro | 2026-08-07 | A | 12237 |
+| 2026-08-07_mutation_authority_from_job_contract.md | zoro | 2026-08-07 | C | 7888 |
 | 2026-08-07_offsite_backup_fail_closed.md | zoro | 2026-08-07 | A | 8672 |
+| 2026-08-07_out_default_untracked_bleed_stop.md | zoro | 2026-08-07 | A | 10405 |
 | 2026-08-07_paired_measurement_rejected_attribution_validated.md | zoro | 2026-08-07 | B | 8898 |
+| 2026-08-07_premature_verdict_guard_and_state_triggered_qualifier.md | zoro | 2026-08-07 | B | 5113 |
+| 2026-08-07_promote_gate_repair.md | zoro | 2026-08-07 | A | 6097 |
+| 2026-08-07_provider_neutral_identity_envelope.md | zoro | 2026-08-07 | A | 28175 |
+| 2026-08-07_research_warrants_staged_exposure.md | zoro | 2026-08-07 | A | 20745 |
+| 2026-08-07_resident_identity_drift_closed.md | zoro | 2026-08-07 | B | 5422 |
+| 2026-08-07_resource_denominator_gpu_axes.md | zoro | 2026-08-07 | B | 5840 |
+| 2026-08-07_runtime_execution_gate_on_deploy_path.md | zoro | 2026-08-07 | A | 10537 |
+| 2026-08-07_seat_dispatch_exclusion_p0.md | zoro | 2026-08-07 | B | 5490 |
 | 2026-08-07_takedown_ship_path_repairs.md | zoro | 2026-08-07 | B | 4627 |
+| 2026-08-07_terminal_enforcement_declared_or_advisory.md | zoro | 2026-08-07 | B | 5136 |
+| 2026-08-07_tournament_contract_frozen_substrate_qualification_preregistered.md | zoro | 2026-08-07 | B | 6781 |
+| 2026-08-07_watcher_hardened_dt12c67036.md | zoro | 2026-08-07 | B | 6332 |
 | 2026-08-07_open_cad_studio_domain_engineering_research_card.md | sanji | 2026-08-07 | A | 4876 |
 | 2026-08-06_agent_workbench_hostile_verification.md | glee | 2026-08-06 | — | 15136 |
 | 2026-08-06_ally_packet_capability_context.md | glee | 2026-08-06 | A | 5695 |
@@ -73,7 +96,7 @@
 | 2026-08-06_decisive_trial_corpus_generator.md | zoro | 2026-08-06 | B | 8878 |
 | 2026-08-06_decisive_trial_scanner_recovery.md | zoro | 2026-08-06 | B | 6266 |
 | 2026-08-06_derived_baseline_experiment_map_and_presence_gate_fix.md | zoro | 2026-08-06 | B | 4979 |
-| 2026-08-06_digitalhandyman_takedown.md | zoro | 2026-08-06 | — | 3804 |
+| 2026-08-06_digitalhandyman_takedown.md | zoro | 2026-08-06 | — | 11351 |
 | 2026-08-06_dpcp_slice0_reconciliation.md | zoro | 2026-08-06 | — | 8731 |
 | 2026-08-06_exclusions_contract_repair_and_prereg_label.md | zoro | 2026-08-06 | B | 4570 |
 | 2026-08-06_execution_topology_build.md | zoro | 2026-08-06 | B | 6505 |
@@ -106,7 +129,7 @@
 | 2026-08-06_moltbook_agents_post_and_operator_directive_gate.md | zoro | 2026-08-06 | B | 31929 |
 | 2026-08-06_moltbook_engagement_wave_and_readback_false_negative_repair.md | zoro | 2026-08-06 | B | 25920 |
 | 2026-08-06_moltbook_profile_audit_and_rewrite.md | zoro | 2026-08-06 | — | 15620 |
-| 2026-08-06_motion_primitive_canon.md | zoro | 2026-08-06 | B | 18919 |
+| 2026-08-06_motion_primitive_canon.md | zoro | 2026-08-06 | B | 24862 |
 | 2026-08-06_narrative_geometric_patina_brand_system.md | zoro | 2026-08-06 | B | 7109 |
 | 2026-08-06_open_hypothesis_adjudication.md | zoro | 2026-08-06 | A | 5577 |
 | 2026-08-06_operationalized_inquiry_packet_slice0.md | zoro | 2026-08-06 | A | 5334 |
@@ -177,37 +200,14 @@
 | 2026-08-05_zoro_standing_cost_repeated_window_gate.md | glee | 2026-08-05 | A | 23738 |
 | 2026-08-05_agent_bus_mechanical_scope_grants.md | zoro | 2026-08-05 | B | 9426 |
 | 2026-08-05_claude_lane_never_drains_and_300s_reaper.md | zoro | 2026-08-05 | A | 7166 |
-| 2026-08-05_decisive_trial_phase0_3_author_packet.md | zoro | 2026-08-05 | C | 7020 |
+| 2026-08-05_decisive_trial_phase0_3_author_packet.md | zoro | 2026-08-05 | C | 7698 |
 | 2026-08-05_experience_ledger_readout_honesty.md | zoro | 2026-08-05 | B | 16657 |
 | 2026-08-05_fleet-control-repair.md | zoro | 2026-08-05 | B | 17290 |
 | 2026-08-05_glee_as_training_source_layer1_gate.md | zoro | 2026-08-05 | A | 12827 |
 | 2026-08-05_live_agentic_timeout_verification.md | zoro | 2026-08-05 | A | 4361 |
 | 2026-08-05_phase2_runtime_observation_and_gold_expansion.md | zoro | 2026-08-05 | A | 14511 |
 | 2026-08-05_prompt_forge_eval_suites_and_honest_denominators.md | zoro | 2026-08-05 | — | 12628 |
-| 2026-08-05_prompt_forge_public_deploy_and_reachability_gate.md | zoro | 2026-08-05 | — | 8321 |
-| 2026-08-05_ram_exhaustion_git_repack_and_terminal_wall_lag.md | zoro | 2026-08-05 | A | 38506 |
-| 2026-08-05_reachability_gold_set_and_two_direction_scorer.md | zoro | 2026-08-05 | A | 6593 |
-| 2026-08-05_repeatability_census_preregistered_gate.md | zoro | 2026-08-05 | B | 13135 |
-| 2026-08-05_scope_inheritance_canary_harness_v0.md | zoro | 2026-08-05 | A | 8111 |
-| 2026-08-05_sdc_instrument_fabrication_repair.md | zoro | 2026-08-05 | B | 7432 |
-| 2026-08-05_terminal_wall_staffed_codex_austerity_luna.md | zoro | 2026-08-05 | — | 6525 |
-| 2026-08-05_terminals_staffed_and_sonnet_retired_on_sunny.md | zoro | 2026-08-05 | B | 10502 |
-| 2026-08-05_worker_action_requested_model_routing_repair.md | zoro | 2026-08-05 | B | 10236 |
-| 2026-08-05_cross_domain_abstraction_rung0.md | sanji | 2026-08-05 | A | 3917 |
-| 2026-08-05_v5_full_build_rebase.md | sanji | 2026-08-05 | B | 5675 |
-| 2026-08-04_echo-breach-hostile-audio-review.md | glee | 2026-08-04 | B | 3195 |
-| 2026-08-04_action_broker_v02_sessions_and_accessibility.md | zoro | 2026-08-04 | — | 8085 |
-| 2026-08-04_background_action_broker_focus_sentinel_repaired.md | zoro | 2026-08-04 | — | 10194 |
-| 2026-08-04_background_action_broker_v0.md | zoro | 2026-08-04 | — | 8477 |
-| 2026-08-04_bounded_activation_codex_agy.md | zoro | 2026-08-04 | — | 5302 |
-| 2026-08-04_canonical_work_id_binding.md | zoro | 2026-08-04 | — | 7509 |
-| 2026-08-04_chatgpt_durable_orchestrator_seat.md | zoro | 2026-08-04 | B | 11495 |
-| 2026-08-04_claim_before_scope_gate_and_backfill.md | zoro | 2026-08-04 | — | 6133 |
-| 2026-08-04_claim_takeover_invariant_p0_repaired.md | zoro | 2026-08-04 | — | 6979 |
-| 2026-08-04_crew_coordination_seat_identity_and_scope_leases.md | zoro | 2026-08-04 | — | 7163 |
-| 2026-08-04_estate_consolidation_wave1_architecture_map_blindspot.md | zoro | 2026-08-04 | A | 6858 |
-| 2026-08-04_estate_consolidation_wave2_deadcode_organ.md | zoro | 2026-08-04 | A | 5848 |
-| _(+7220 more — see full manifest JSON)_ | | | | |
+| _(+7243 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
