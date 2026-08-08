@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7495,
+  "total_receipts": 7503,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -1066,6 +1066,14 @@
       "date": "2026-08-07",
       "tier": null,
       "size_bytes": 1836
+    },
+    {
+      "file_name": "2026-08-08_motion_capability_recovery_and_workbench_amendment.md",
+      "home": "glee",
+      "rel_path": "2026-08-08_motion_capability_recovery_and_workbench_amendment.md",
+      "date": "2026-08-08",
+      "tier": "B",
+      "size_bytes": 11452
     },
     {
       "file_name": "2026-08-08_seat_state_semantic_split_and_probe.md",
@@ -24393,7 +24401,7 @@
       "rel_path": "2026-08-07_moltbook_management_wave_and_send_path_closed.md",
       "date": "2026-08-07",
       "tier": "B",
-      "size_bytes": 9205
+      "size_bytes": 20152
     },
     {
       "file_name": "2026-08-07_motion_canon_page_recovered_and_shell_hook_carry_fixed.md",
@@ -24626,6 +24634,22 @@
       "date": "2026-08-07",
       "tier": "B",
       "size_bytes": 14742
+    },
+    {
+      "file_name": "2026-08-08_objective_activity_and_out_of_bus_reconciliation.md",
+      "home": "zoro",
+      "rel_path": "2026-08-08_objective_activity_and_out_of_bus_reconciliation.md",
+      "date": "2026-08-08",
+      "tier": "B",
+      "size_bytes": 12007
+    },
+    {
+      "file_name": "2026-08-08_objective_closure_deadlock_diagnosis.md",
+      "home": "zoro",
+      "rel_path": "2026-08-08_objective_closure_deadlock_diagnosis.md",
+      "date": "2026-08-08",
+      "tier": "B",
+      "size_bytes": 9681
     },
     {
       "file_name": "INDEX.md",
@@ -48281,7 +48305,7 @@
       "rel_path": "2026-08-07_heavensburg_header_market_panel.md",
       "date": "2026-08-07",
       "tier": "A",
-      "size_bytes": 5364
+      "size_bytes": 6710
     },
     {
       "file_name": "2026-08-07_heavensburg_market_catalog_photos.md",
@@ -48330,6 +48354,22 @@
       "date": "2026-08-07",
       "tier": "B",
       "size_bytes": 6657
+    },
+    {
+      "file_name": "2026-08-08_artifact_fabric_graph_v0_1_status_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-08_artifact_fabric_graph_v0_1_status_correction.md",
+      "date": "2026-08-08",
+      "tier": "B",
+      "size_bytes": 8113
+    },
+    {
+      "file_name": "2026-08-08_heavensburg_market_approval_package.md",
+      "home": "sanji",
+      "rel_path": "2026-08-08_heavensburg_market_approval_package.md",
+      "date": "2026-08-08",
+      "tier": "A",
+      "size_bytes": 3899
     },
     {
       "file_name": "INDEX.md",
@@ -59418,6 +59458,30 @@
       "date": "2026-08-07",
       "tier": null,
       "size_bytes": 1835
+    },
+    {
+      "file_name": "2026-08-08_glee_geometric_patina_amend_ratification_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-08_glee_geometric_patina_amend_ratification_receipt.md",
+      "date": "2026-08-08",
+      "tier": null,
+      "size_bytes": 3860
+    },
+    {
+      "file_name": "2026-08-08_heavensburg_operational_state_model_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-08_heavensburg_operational_state_model_receipt.md",
+      "date": "2026-08-08",
+      "tier": null,
+      "size_bytes": 1953
+    },
+    {
+      "file_name": "2026-08-08_heavensburg_schema_and_journeys_execution_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-08_heavensburg_schema_and_journeys_execution_receipt.md",
+      "date": "2026-08-08",
+      "tier": null,
+      "size_bytes": 2389
     },
     {
       "file_name": "2DT9FC_sovereign_memory_architecture.md",
