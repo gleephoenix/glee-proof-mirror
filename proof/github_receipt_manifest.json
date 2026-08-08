@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7443,
+  "total_receipts": 7445,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -23657,7 +23657,7 @@
       "rel_path": "2026-08-06_digitalhandyman_takedown.md",
       "date": "2026-08-06",
       "tier": null,
-      "size_bytes": 11351
+      "size_bytes": 11743
     },
     {
       "file_name": "2026-08-06_dpcp_slice0_reconciliation.md",
@@ -24201,7 +24201,7 @@
       "rel_path": "2026-08-07_a7_lint_triage.md",
       "date": "2026-08-07",
       "tier": "B",
-      "size_bytes": 16106
+      "size_bytes": 21541
     },
     {
       "file_name": "2026-08-07_advance_transition_graduated.md",
@@ -24388,6 +24388,14 @@
       "size_bytes": 5840
     },
     {
+      "file_name": "2026-08-07_run_lineage_repair.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_run_lineage_repair.md",
+      "date": "2026-08-07",
+      "tier": "B",
+      "size_bytes": 4905
+    },
+    {
       "file_name": "2026-08-07_runtime_execution_gate_on_deploy_path.md",
       "home": "zoro",
       "rel_path": "2026-08-07_runtime_execution_gate_on_deploy_path.md",
@@ -24418,6 +24426,14 @@
       "date": "2026-08-07",
       "tier": "B",
       "size_bytes": 5136
+    },
+    {
+      "file_name": "2026-08-07_terminal_task_context_projection.md",
+      "home": "zoro",
+      "rel_path": "2026-08-07_terminal_task_context_projection.md",
+      "date": "2026-08-07",
+      "tier": "A",
+      "size_bytes": 8399
     },
     {
       "file_name": "2026-08-07_tournament_contract_frozen_substrate_qualification_preregistered.md",
