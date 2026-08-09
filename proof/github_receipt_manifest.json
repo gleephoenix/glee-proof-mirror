@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 7610,
+  "total_receipts": 7615,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -49020,12 +49020,52 @@
       "size_bytes": 5773
     },
     {
+      "file_name": "2026-08-09_captain_recoup_accounting_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-09_captain_recoup_accounting_candidate.md",
+      "date": "2026-08-09",
+      "tier": "B",
+      "size_bytes": 8448
+    },
+    {
       "file_name": "2026-08-09_moltbook_authority_successor_drafts_and_live_drain.md",
       "home": "sanji",
       "rel_path": "2026-08-09_moltbook_authority_successor_drafts_and_live_drain.md",
       "date": "2026-08-09",
       "tier": "B",
       "size_bytes": 6541
+    },
+    {
+      "file_name": "2026-08-09_proofpack_builder_second_prospect.md",
+      "home": "sanji",
+      "rel_path": "2026-08-09_proofpack_builder_second_prospect.md",
+      "date": "2026-08-09",
+      "tier": "B",
+      "size_bytes": 7563
+    },
+    {
+      "file_name": "2026-08-09_proofpack_builder_second_prospect_attested.md",
+      "home": "sanji",
+      "rel_path": "2026-08-09_proofpack_builder_second_prospect_attested.md",
+      "date": "2026-08-09",
+      "tier": "B",
+      "size_bytes": 3881
+    },
+    {
+      "file_name": "2026-08-09_proofpack_portable_offline_delivery.md",
+      "home": "sanji",
+      "rel_path": "2026-08-09_proofpack_portable_offline_delivery.md",
+      "date": "2026-08-09",
+      "tier": "B",
+      "size_bytes": 7909
+    },
+    {
+      "file_name": "2026-08-09_standard_reader_pr116_proofpack_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-09_standard_reader_pr116_proofpack_audit.md",
+      "date": "2026-08-09",
+      "tier": "B",
+      "size_bytes": 6387
     },
     {
       "file_name": "INDEX.md",
