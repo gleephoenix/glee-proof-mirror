@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 8233,
+  "total_receipts": 8350,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -25804,12 +25804,84 @@
       "size_bytes": 2684
     },
     {
+      "file_name": "2026-08-11_agent_economy_envelope_drain.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_agent_economy_envelope_drain.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 7714
+    },
+    {
+      "file_name": "2026-08-11_agent_economy_radar_v1.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_agent_economy_radar_v1.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 9341
+    },
+    {
+      "file_name": "2026-08-11_capital_git_object_loss_c0_recovery.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_capital_git_object_loss_c0_recovery.md",
+      "date": "2026-08-11",
+      "tier": "C",
+      "size_bytes": 6017
+    },
+    {
+      "file_name": "2026-08-11_captain_card_destroyed_by_misconfigured_watcher.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_captain_card_destroyed_by_misconfigured_watcher.md",
+      "date": "2026-08-11",
+      "tier": "C",
+      "size_bytes": 4626
+    },
+    {
+      "file_name": "2026-08-11_captain_relay_destroyer_stopped.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_captain_relay_destroyer_stopped.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 7698
+    },
+    {
+      "file_name": "2026-08-11_circuit_wars_ai_playtest_and_four_ui_defects.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_circuit_wars_ai_playtest_and_four_ui_defects.md",
+      "date": "2026-08-11",
+      "tier": null,
+      "size_bytes": 8309
+    },
+    {
+      "file_name": "2026-08-11_circuit_wars_desktop_only_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_circuit_wars_desktop_only_gate.md",
+      "date": "2026-08-11",
+      "tier": null,
+      "size_bytes": 5035
+    },
+    {
       "file_name": "2026-08-11_circuit_wars_economy_was_switched_off.md",
       "home": "zoro",
       "rel_path": "2026-08-11_circuit_wars_economy_was_switched_off.md",
       "date": "2026-08-11",
       "tier": "A",
-      "size_bytes": 41686
+      "size_bytes": 52994
+    },
+    {
+      "file_name": "2026-08-11_devops_tab_slot0_predicate_and_capital_git_recovery.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_devops_tab_slot0_predicate_and_capital_git_recovery.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 9990
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_ai_playtest_harness_v1.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_echo_breach_ai_playtest_harness_v1.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 4900
     },
     {
       "file_name": "2026-08-11_echo_breach_armoury_false_choice_audit.md",
@@ -25828,6 +25900,14 @@
       "size_bytes": 3928
     },
     {
+      "file_name": "2026-08-11_echo_breach_byte_count_treadmill_ended.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_echo_breach_byte_count_treadmill_ended.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3550
+    },
+    {
       "file_name": "2026-08-11_echo_breach_contract_pay_verified_and_latent_fragility.md",
       "home": "zoro",
       "rel_path": "2026-08-11_echo_breach_contract_pay_verified_and_latent_fragility.md",
@@ -25836,12 +25916,36 @@
       "size_bytes": 3747
     },
     {
+      "file_name": "2026-08-11_echo_breach_deploy_order_is_a_real_choice.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_echo_breach_deploy_order_is_a_real_choice.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3736
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_desktop_gate_was_blind_to_touch.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_echo_breach_desktop_gate_was_blind_to_touch.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3551
+    },
+    {
       "file_name": "2026-08-11_echo_breach_first_run_audit_and_stale_visual_kit.md",
       "home": "zoro",
       "rel_path": "2026-08-11_echo_breach_first_run_audit_and_stale_visual_kit.md",
       "date": "2026-08-11",
       "tier": "B",
       "size_bytes": 7002
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_gate_notice_made_true_for_tablets.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_echo_breach_gate_notice_made_true_for_tablets.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2649
     },
     {
       "file_name": "2026-08-11_echo_breach_hidden_second_weapon_taught.md",
@@ -25876,6 +25980,14 @@
       "size_bytes": 3657
     },
     {
+      "file_name": "2026-08-11_echo_breach_shipped_3d_path_hypothesis_disproved.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_echo_breach_shipped_3d_path_hypothesis_disproved.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2964
+    },
+    {
       "file_name": "2026-08-11_echo_breach_staged_package_claim_verified.md",
       "home": "zoro",
       "rel_path": "2026-08-11_echo_breach_staged_package_claim_verified.md",
@@ -25900,12 +26012,108 @@
       "size_bytes": 5051
     },
     {
+      "file_name": "2026-08-11_echo_breach_teaching_beats_verified_in_the_staged_artifact.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_echo_breach_teaching_beats_verified_in_the_staged_artifact.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3309
+    },
+    {
       "file_name": "2026-08-11_echo_breach_upload_candidate_check_and_gate_confirm.md",
       "home": "zoro",
       "rel_path": "2026-08-11_echo_breach_upload_candidate_check_and_gate_confirm.md",
       "date": "2026-08-11",
       "tier": "B",
       "size_bytes": 3776
+    },
+    {
+      "file_name": "2026-08-11_git_maintenance_enforcement_and_unbiased_coalescing.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_git_maintenance_enforcement_and_unbiased_coalescing.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 12438
+    },
+    {
+      "file_name": "2026-08-11_glee_connect_identity_join_step1.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_glee_connect_identity_join_step1.md",
+      "date": "2026-08-11",
+      "tier": null,
+      "size_bytes": 5288
+    },
+    {
+      "file_name": "2026-08-11_glee_verify_v0_executed_verification.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_glee_verify_v0_executed_verification.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 6026
+    },
+    {
+      "file_name": "2026-08-11_idea_acquisition_substrate_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_idea_acquisition_substrate_intake.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 9201
+    },
+    {
+      "file_name": "2026-08-11_loop_defect_remediation_wave_one.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_loop_defect_remediation_wave_one.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 8788
+    },
+    {
+      "file_name": "2026-08-11_loop_defect_remediation_wave_two.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_loop_defect_remediation_wave_two.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 7584
+    },
+    {
+      "file_name": "2026-08-11_playtest002_causal_shift_instrumented.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_playtest002_causal_shift_instrumented.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 5418
+    },
+    {
+      "file_name": "2026-08-11_research_os_already_exists_scheduler_was_dead.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_research_os_already_exists_scheduler_was_dead.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 7550
+    },
+    {
+      "file_name": "2026-08-11_runner_retirement_and_maintenance_invariant.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_runner_retirement_and_maintenance_invariant.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 7376
+    },
+    {
+      "file_name": "2026-08-11_substrate_watch_no_longer_destroys_peer_captain_cards.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_substrate_watch_no_longer_destroys_peer_captain_cards.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3728
+    },
+    {
+      "file_name": "2026-08-11_verify_v02_gates_1_to_4.md",
+      "home": "zoro",
+      "rel_path": "2026-08-11_verify_v02_gates_1_to_4.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 8702
     },
     {
       "file_name": "INDEX.md",
@@ -52036,6 +52244,22 @@
       "size_bytes": 2952
     },
     {
+      "file_name": "2026-08-11_autonomy_progress_horizon_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_autonomy_progress_horizon_v0.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 7883
+    },
+    {
+      "file_name": "2026-08-11_charge_circuit_wars_final_repack_slot2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_charge_circuit_wars_final_repack_slot2.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 7354
+    },
+    {
       "file_name": "2026-08-11_charge_yard_active_source_settlement_gate.md",
       "home": "sanji",
       "rel_path": "2026-08-11_charge_yard_active_source_settlement_gate.md",
@@ -52114,6 +52338,14 @@
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 3056
+    },
+    {
+      "file_name": "2026-08-11_charge_yard_hosted_playtest_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_charge_yard_hosted_playtest_card.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 1730
     },
     {
       "file_name": "2026-08-11_charge_yard_local_upload_handoff.md",
@@ -52292,12 +52524,44 @@
       "size_bytes": 1291
     },
     {
+      "file_name": "2026-08-11_dispatch_recovery_0701.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_dispatch_recovery_0701.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 5413
+    },
+    {
       "file_name": "2026-08-11_dispatch_recovery_boundary_0627.md",
       "home": "sanji",
       "rel_path": "2026-08-11_dispatch_recovery_boundary_0627.md",
       "date": "2026-08-11",
       "tier": "B",
       "size_bytes": 6408
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_actor_cliff_sim_1141.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_actor_cliff_sim_1141.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2885
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_asset_provenance_inventory_0748.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_asset_provenance_inventory_0748.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3952
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_audio_recheck_1126.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_audio_recheck_1126.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2783
     },
     {
       "file_name": "2026-08-11_echo_breach_bot_regression_independent.md",
@@ -52314,6 +52578,70 @@
       "date": "2026-08-11",
       "tier": null,
       "size_bytes": 3931
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_bot_session_sweep_1151.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_bot_session_sweep_1151.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2922
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_campaign_audit_recheck_1042.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_campaign_audit_recheck_1042.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2908
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_campaign_run_smoke_1133.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_campaign_run_smoke_1133.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2809
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_captain_playtest_card_0648.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_captain_playtest_card_0648.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2624
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_charge_recheck_1117.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_charge_recheck_1117.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2762
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_content_accounting_campaign_audit_1035.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_content_accounting_campaign_audit_1035.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4165
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_content_accounting_recheck_1038.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_content_accounting_recheck_1038.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2975
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_contextual_hint_focused_probe_0910.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_contextual_hint_focused_probe_0910.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2604
     },
     {
       "file_name": "2026-08-11_echo_breach_cover_alignment.md",
@@ -52348,6 +52676,46 @@
       "size_bytes": 2171
     },
     {
+      "file_name": "2026-08-11_echo_breach_deploy_target_recheck_1131.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_deploy_target_recheck_1131.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2815
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_destruction_recheck_1130.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_destruction_recheck_1130.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2808
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_determinism_recheck_1122.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_determinism_recheck_1122.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2790
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_echo_ai_recheck_1123.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_echo_ai_recheck_1123.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2729
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_expansion_recheck_1135.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_expansion_recheck_1135.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3108
+    },
+    {
       "file_name": "2026-08-11_echo_breach_focused_claim_regression_0604.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_focused_claim_regression_0604.md",
@@ -52364,12 +52732,36 @@
       "size_bytes": 2525
     },
     {
+      "file_name": "2026-08-11_echo_breach_hosted_page_identity_0804.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_hosted_page_identity_0804.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3490
+    },
+    {
       "file_name": "2026-08-11_echo_breach_index3d_alias_verify.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_index3d_alias_verify.md",
       "date": "2026-08-11",
       "tier": null,
       "size_bytes": 2499
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_index3d_compatibility_1108.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_index3d_compatibility_1108.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2844
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_itch_controls_publication_safety_0706.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_itch_controls_publication_safety_0706.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2603
     },
     {
       "file_name": "2026-08-11_echo_breach_itch_copy_freshness.md",
@@ -52388,12 +52780,44 @@
       "size_bytes": 4122
     },
     {
+      "file_name": "2026-08-11_echo_breach_jam_ruling_current_state_0828.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_jam_ruling_current_state_0828.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4147
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_large_level_recheck_1110.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_large_level_recheck_1110.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2719
+    },
+    {
       "file_name": "2026-08-11_echo_breach_licensing_provenance_audit_0504.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_licensing_provenance_audit_0504.md",
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 2879
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_meta_recheck_1120.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_meta_recheck_1120.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2751
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_mission_sanity_1134.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_mission_sanity_1134.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2797
     },
     {
       "file_name": "2026-08-11_echo_breach_mobile_gate_repair.md",
@@ -52404,12 +52828,140 @@
       "size_bytes": 3990
     },
     {
+      "file_name": "2026-08-11_echo_breach_op06_telemetry_identity_recheck_0906.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op06_telemetry_identity_recheck_0906.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2593
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op06_telemetry_recheck_1109.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op06_telemetry_recheck_1109.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2817
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op07_fresh_page_draw_probe_1010.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op07_fresh_page_draw_probe_1010.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4843
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op07_post_pad_transition_probe_0951.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op07_post_pad_transition_probe_0951.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2936
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op07_profile_draw_unmeasured_1015.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op07_profile_draw_unmeasured_1015.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4056
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op07_verifier_stall_0949.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op07_verifier_stall_0949.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 5070
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op08_warden_recheck_1115.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op08_warden_recheck_1115.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2751
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op09_contract_recheck_1113.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op09_contract_recheck_1113.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2868
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op09_route_diagnosis_1115.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op09_route_diagnosis_1115.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3611
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op_progression_3d_browser_smoke_1156.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op_progression_3d_browser_smoke_1156.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3343
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_op_progression_browser_smoke_1153.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_op_progression_browser_smoke_1153.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3295
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_operation04_browser_proof_0911.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_operation04_browser_proof_0911.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 5045
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_operation_id_repair_0849.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_operation_id_repair_0849.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4035
+    },
+    {
       "file_name": "2026-08-11_echo_breach_package_freshness.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_package_freshness.md",
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 3509
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_package_verify_recheck_1105.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_package_verify_recheck_1105.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3082
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_paths_probe_1142.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_paths_probe_1142.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2750
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_pickups_recheck_1127.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_pickups_recheck_1127.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2763
     },
     {
       "file_name": "2026-08-11_echo_breach_playable_entry_recheck.md",
@@ -52444,12 +52996,36 @@
       "size_bytes": 3390
     },
     {
+      "file_name": "2026-08-11_echo_breach_playtest_card_current_tree_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_playtest_card_current_tree_audit.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3082
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_pressure_pad_contract_1055.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_pressure_pad_contract_1055.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3582
+    },
+    {
       "file_name": "2026-08-11_echo_breach_provenance_audit.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_provenance_audit.md",
       "date": "2026-08-11",
       "tier": null,
       "size_bytes": 3149
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_provenance_license_gate_1040.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_provenance_license_gate_1040.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3444
     },
     {
       "file_name": "2026-08-11_echo_breach_provenance_release_recheck.md",
@@ -52484,6 +53060,30 @@
       "size_bytes": 4498
     },
     {
+      "file_name": "2026-08-11_echo_breach_publication_kit_mixed_capture_1036.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_publication_kit_mixed_capture_1036.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3557
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_publication_target_identity_0725.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_publication_target_identity_0725.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2590
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_release_gate_1209.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_release_gate_1209.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3696
+    },
+    {
       "file_name": "2026-08-11_echo_breach_release_gate_after_copy_repair.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_release_gate_after_copy_repair.md",
@@ -52508,12 +53108,52 @@
       "size_bytes": 2738
     },
     {
+      "file_name": "2026-08-11_echo_breach_release_gate_recheck_1159.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_release_gate_recheck_1159.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3818
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_route_probe_1144.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_route_probe_1144.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2691
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_same_page_hint_probe_0825.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_same_page_hint_probe_0825.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2824
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_scale_probe_1137.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_scale_probe_1137.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2875
+    },
+    {
       "file_name": "2026-08-11_echo_breach_screenshot_refresh.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_screenshot_refresh.md",
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 3859
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_self_owned_alias_0644.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_self_owned_alias_0644.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3092
     },
     {
       "file_name": "2026-08-11_echo_breach_self_owned_canonical_ui_0524.md",
@@ -52524,12 +53164,60 @@
       "size_bytes": 2635
     },
     {
+      "file_name": "2026-08-11_echo_breach_size_probe_1136.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_size_probe_1136.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2791
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_solids_probe_1139.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_solids_probe_1139.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2793
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_solvability_recheck_1119.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_solvability_recheck_1119.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2820
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_spec_current_state_warning.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_spec_current_state_warning.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3642
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_stale_byte_claim_recheck_0905.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_stale_byte_claim_recheck_0905.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2315
+    },
+    {
       "file_name": "2026-08-11_echo_breach_store_metadata_truth_repair.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_store_metadata_truth_repair.md",
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 4089
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_switching_recheck_1125.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_switching_recheck_1125.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2725
     },
     {
       "file_name": "2026-08-11_echo_breach_teaching_beats_release_recheck.md",
@@ -52548,12 +53236,52 @@
       "size_bytes": 3387
     },
     {
+      "file_name": "2026-08-11_echo_breach_traits_recheck_1129.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_traits_recheck_1129.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2708
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_ui_alias_verify_1158.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_ui_alias_verify_1158.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 3252
+    },
+    {
       "file_name": "2026-08-11_echo_breach_ui_prompt_verifier_repair.md",
       "home": "sanji",
       "rel_path": "2026-08-11_echo_breach_ui_prompt_verifier_repair.md",
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 5038
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_ui_verify_1202.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_ui_verify_1202.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3498
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_unlisted_asset_reference_triage_0805.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_unlisted_asset_reference_triage_0805.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3005
+    },
+    {
+      "file_name": "2026-08-11_echo_breach_weapon_identity_recheck_1147.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_echo_breach_weapon_identity_recheck_1147.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 2800
     },
     {
       "file_name": "2026-08-11_webdevops_agent_claim_boundary_0535.md",
@@ -52612,6 +53340,46 @@
       "size_bytes": 2200
     },
     {
+      "file_name": "2026-08-11_webdevops_authority_census_0746.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_authority_census_0746.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2991
+    },
+    {
+      "file_name": "2026-08-11_webdevops_authority_census_0751.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_authority_census_0751.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2982
+    },
+    {
+      "file_name": "2026-08-11_webdevops_authority_census_1146.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_authority_census_1146.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2466
+    },
+    {
+      "file_name": "2026-08-11_webdevops_authority_census_1147.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_authority_census_1147.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2678
+    },
+    {
+      "file_name": "2026-08-11_webdevops_authority_existing_organs_0925.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_authority_existing_organs_0925.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3302
+    },
+    {
       "file_name": "2026-08-11_webdevops_authority_recheck_0135.md",
       "home": "sanji",
       "rel_path": "2026-08-11_webdevops_authority_recheck_0135.md",
@@ -52642,6 +53410,22 @@
       "date": "2026-08-11",
       "tier": null,
       "size_bytes": 2714
+    },
+    {
+      "file_name": "2026-08-11_webdevops_cold_website_audit_0706.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_cold_website_audit_0706.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2800
+    },
+    {
+      "file_name": "2026-08-11_webdevops_cold_website_audit_0846.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_cold_website_audit_0846.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3526
     },
     {
       "file_name": "2026-08-11_webdevops_exact_binding_path_audit.md",
@@ -52700,6 +53484,14 @@
       "size_bytes": 2706
     },
     {
+      "file_name": "2026-08-11_webdevops_homepage_semantics_1024.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_homepage_semantics_1024.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3342
+    },
+    {
       "file_name": "2026-08-11_webdevops_linkability_authority_recheck.md",
       "home": "sanji",
       "rel_path": "2026-08-11_webdevops_linkability_authority_recheck.md",
@@ -52732,6 +53524,14 @@
       "size_bytes": 2773
     },
     {
+      "file_name": "2026-08-11_webdevops_linkability_renderer_recheck_0804.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_linkability_renderer_recheck_0804.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3177
+    },
+    {
       "file_name": "2026-08-11_webdevops_linkability_renderer_replay_0348.md",
       "home": "sanji",
       "rel_path": "2026-08-11_webdevops_linkability_renderer_replay_0348.md",
@@ -52756,6 +53556,46 @@
       "size_bytes": 3509
     },
     {
+      "file_name": "2026-08-11_webdevops_moltbook_attribution_durability_1104.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_moltbook_attribution_durability_1104.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3136
+    },
+    {
+      "file_name": "2026-08-11_webdevops_moltbook_queue_linkability_1044.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_moltbook_queue_linkability_1044.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3664
+    },
+    {
+      "file_name": "2026-08-11_webdevops_moltbook_ref_injectivity_1127.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_moltbook_ref_injectivity_1127.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2629
+    },
+    {
+      "file_name": "2026-08-11_webdevops_moltbook_ref_injectivity_1128.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_moltbook_ref_injectivity_1128.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2609
+    },
+    {
+      "file_name": "2026-08-11_webdevops_moltbook_ref_injectivity_1129.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_moltbook_ref_injectivity_1129.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2761
+    },
+    {
       "file_name": "2026-08-11_webdevops_non_moltbook_client_gate_audit.md",
       "home": "sanji",
       "rel_path": "2026-08-11_webdevops_non_moltbook_client_gate_audit.md",
@@ -52764,12 +53604,60 @@
       "size_bytes": 1755
     },
     {
+      "file_name": "2026-08-11_webdevops_platform_arrival_smoke_1204.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_platform_arrival_smoke_1204.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2461
+    },
+    {
       "file_name": "2026-08-11_webdevops_platform_path_trace_0615.md",
       "home": "sanji",
       "rel_path": "2026-08-11_webdevops_platform_path_trace_0615.md",
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 2483
+    },
+    {
+      "file_name": "2026-08-11_webdevops_platform_path_trace_0826.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_platform_path_trace_0826.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3330
+    },
+    {
+      "file_name": "2026-08-11_webdevops_pricing_live_route_matrix_1004.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_pricing_live_route_matrix_1004.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2484
+    },
+    {
+      "file_name": "2026-08-11_webdevops_pricing_route_ownership_parity_0906.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_pricing_route_ownership_parity_0906.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3518
+    },
+    {
+      "file_name": "2026-08-11_webdevops_pricing_route_recheck_0725.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_pricing_route_recheck_0725.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2477
+    },
+    {
+      "file_name": "2026-08-11_webdevops_pricing_route_repair_packet_0945.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_pricing_route_repair_packet_0945.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 3311
     },
     {
       "file_name": "2026-08-11_webdevops_pricing_route_repair_readiness_0455.md",
@@ -52834,6 +53722,14 @@
       "date": "2026-08-11",
       "tier": "A",
       "size_bytes": 1989
+    },
+    {
+      "file_name": "2026-08-11_webdevops_website_stranger_audit_1224.md",
+      "home": "sanji",
+      "rel_path": "2026-08-11_webdevops_website_stranger_audit_1224.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 2309
     },
     {
       "file_name": "INDEX.md",
@@ -64921,7 +65817,7 @@
       "rel_path": "2026-08-10_chargeyard_scoring_integrity_receipt.md",
       "date": "2026-08-10",
       "tier": "A",
-      "size_bytes": 6016
+      "size_bytes": 6020
     },
     {
       "file_name": "2026-08-10_chargeyard_thruster_fx_receipt.md",
@@ -65282,6 +66178,46 @@
       "date": "2026-08-10",
       "tier": null,
       "size_bytes": 4312
+    },
+    {
+      "file_name": "2026-08-11_AUTONOMOUS_AI_RESEARCH_ENGINE.md",
+      "home": "robin",
+      "rel_path": "2026-08-11_AUTONOMOUS_AI_RESEARCH_ENGINE.md",
+      "date": "2026-08-11",
+      "tier": "B",
+      "size_bytes": 4973
+    },
+    {
+      "file_name": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_02.md",
+      "home": "robin",
+      "rel_path": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_02.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4731
+    },
+    {
+      "file_name": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_03.md",
+      "home": "robin",
+      "rel_path": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_03.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4845
+    },
+    {
+      "file_name": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_04.md",
+      "home": "robin",
+      "rel_path": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_04.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 4152
+    },
+    {
+      "file_name": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_05.md",
+      "home": "robin",
+      "rel_path": "2026-08-11_AUTONOMOUS_AI_RESEARCH_FRONTIER_MILESTONE_05.md",
+      "date": "2026-08-11",
+      "tier": "A",
+      "size_bytes": 5020
     },
     {
       "file_name": "2026-08-11_GOAL_AS_PERSISTENT_AGENCY_DESIGN.md",
