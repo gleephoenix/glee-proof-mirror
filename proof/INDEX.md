@@ -1,23 +1,59 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-11T18:41:06.352550+00:00
-> Total receipts indexed: 8350
+> Last updated: 2026-08-12T12:41:05.972737+00:00
+> Total receipts indexed: 8463
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-12_agent_arrival_manifest_pointed_at_a_mock.md | zoro | 2026-08-12 | B | 5746 |
+| 2026-08-12_campaign_url_referral_repair.md | zoro | 2026-08-12 | B | 4253 |
+| 2026-08-12_codex_desktop_app_installed.md | zoro | 2026-08-12 | A | 7574 |
+| 2026-08-12_connect_dropped_referral_attribution.md | zoro | 2026-08-12 | B | 4557 |
+| 2026-08-12_echo_breach_op07_op09_solvable_claim_is_not_earned.md | zoro | 2026-08-12 | B | 11777 |
+| 2026-08-12_echo_breach_package_boundary_closed_and_a_regression_found.md | zoro | 2026-08-12 | B | 6490 |
+| 2026-08-12_mcp_client_control_plane_discovery_repair.md | zoro | 2026-08-12 | B | 6845 |
+| 2026-08-12_mcp_oauth_discovery_chain_was_never_reachable.md | zoro | 2026-08-12 | B | 11317 |
+| 2026-08-12_wall_tabs_lost_to_tmp_and_captain_corner_roster.md | zoro | 2026-08-12 | B | 6343 |
+| 2026-08-12_autonomy_spine_implementation_reconciliation.md | sanji | 2026-08-12 | B | 6039 |
+| 2026-08-12_claude_desktop_linux_install.md | sanji | 2026-08-12 | B | 2743 |
+| 2026-08-12_glee_control_execution_assurance_reconciliation.md | sanji | 2026-08-12 | B | 4088 |
+| 2026-08-12_autonomous_ai_quality_redirection_receipt.md | robin | 2026-08-12 | A | 2693 |
+| 2026-08-12_autonomous_ai_quality_synthesis_receipt.md | robin | 2026-08-12 | A | 2304 |
+| 2026-08-12_echo_breach_slot02_ai_playtest_combat_trace_receipt.md | robin | 2026-08-12 | — | 3861 |
+| 2026-08-12_moltbook_campaign_landing_url_fix_receipt.md | robin | 2026-08-12 | — | 2358 |
+| 2026-08-11_simple_first_compute_doctrine.md | glee | 2026-08-11 | A | 3451 |
+| 2026-08-11_task_conditioned_loadouts.md | glee | 2026-08-11 | — | 4018 |
+| 2026-08-11_CORRECTION_connect_identity_join_proof_was_never_executed.md | zoro | 2026-08-11 | — | 4151 |
+| 2026-08-11_action_gate_byte_binding_removed_for_moltbook.md | zoro | 2026-08-11 | C | 9076 |
 | 2026-08-11_agent_economy_envelope_drain.md | zoro | 2026-08-11 | B | 7714 |
 | 2026-08-11_agent_economy_radar_v1.md | zoro | 2026-08-11 | B | 9341 |
+| 2026-08-11_an_agent_crossed_and_the_claim_path_is_broken.md | zoro | 2026-08-11 | B | 6567 |
+| 2026-08-11_bus_claim_was_not_exclusive.md | zoro | 2026-08-11 | B | 5672 |
 | 2026-08-11_capital_git_object_loss_c0_recovery.md | zoro | 2026-08-11 | C | 6017 |
 | 2026-08-11_captain_card_destroyed_by_misconfigured_watcher.md | zoro | 2026-08-11 | C | 4626 |
 | 2026-08-11_captain_relay_destroyer_stopped.md | zoro | 2026-08-11 | B | 7698 |
+| 2026-08-11_charge_yard_itch_copy_controls_and_filecount_repair.md | zoro | 2026-08-11 | A | 3923 |
+| 2026-08-11_charge_yard_screenshots_refreshed_post_polish.md | zoro | 2026-08-11 | A | 4149 |
+| 2026-08-11_charge_yard_signage_supersample_fix.md | zoro | 2026-08-11 | A | 3901 |
+| 2026-08-11_charge_yard_visual_polish_wave_and_repackage.md | zoro | 2026-08-11 | A | 4192 |
+| 2026-08-11_charge_yard_wall_local_work_closed.md | zoro | 2026-08-11 | A | 4714 |
 | 2026-08-11_circuit_wars_ai_playtest_and_four_ui_defects.md | zoro | 2026-08-11 | — | 8309 |
+| 2026-08-11_circuit_wars_brownout_adjudication.md | zoro | 2026-08-11 | — | 8947 |
+| 2026-08-11_circuit_wars_cold_open_hint_moved_earlier.md | zoro | 2026-08-11 | A | 5175 |
 | 2026-08-11_circuit_wars_desktop_only_gate.md | zoro | 2026-08-11 | — | 5035 |
+| 2026-08-11_circuit_wars_early_brownout_grace_window.md | zoro | 2026-08-11 | A | 6284 |
 | 2026-08-11_circuit_wars_economy_was_switched_off.md | zoro | 2026-08-11 | A | 52994 |
+| 2026-08-11_circuit_wars_itch_assets_were_pre_art_pass.md | zoro | 2026-08-11 | A | 4244 |
+| 2026-08-11_circuit_wars_slot02_verification.md | zoro | 2026-08-11 | A | 3602 |
+| 2026-08-11_circuit_wars_wall_closure.md | zoro | 2026-08-11 | A | 5117 |
+| 2026-08-11_connect_credential_path_was_unreachable.md | zoro | 2026-08-11 | — | 12675 |
+| 2026-08-11_connector_outage_revoked_pairings_and_capurl_arity_bug.md | zoro | 2026-08-11 | — | 8987 |
 | 2026-08-11_devops_tab_slot0_predicate_and_capital_git_recovery.md | zoro | 2026-08-11 | B | 9990 |
 | 2026-08-11_echo_breach_ai_playtest_harness_v1.md | zoro | 2026-08-11 | B | 4900 |
 | 2026-08-11_echo_breach_armoury_false_choice_audit.md | zoro | 2026-08-11 | B | 4167 |
+| 2026-08-11_echo_breach_bot_soak_closed.md | zoro | 2026-08-11 | A | 3138 |
 | 2026-08-11_echo_breach_browser_audio_level_measurement.md | zoro | 2026-08-11 | B | 3928 |
 | 2026-08-11_echo_breach_byte_count_treadmill_ended.md | zoro | 2026-08-11 | B | 3550 |
 | 2026-08-11_echo_breach_contract_pay_verified_and_latent_fragility.md | zoro | 2026-08-11 | B | 3747 |
@@ -29,24 +65,50 @@
 | 2026-08-11_echo_breach_licence_audit_independent_verification.md | zoro | 2026-08-11 | B | 4185 |
 | 2026-08-11_echo_breach_live_capture_pass_and_cover_candidate.md | zoro | 2026-08-11 | B | 5154 |
 | 2026-08-11_echo_breach_measurement_substrate_verified.md | zoro | 2026-08-11 | B | 3657 |
+| 2026-08-11_echo_breach_op02_diagnosis_superseded.md | zoro | 2026-08-11 | A | 4104 |
+| 2026-08-11_echo_breach_op07_bypass_correlated_behaviourally.md | zoro | 2026-08-11 | B | 3867 |
+| 2026-08-11_echo_breach_op09_route_gate_diagnosis.md | zoro | 2026-08-11 | B | 7125 |
+| 2026-08-11_echo_breach_op09_unreachable_diagnosis.md | zoro | 2026-08-11 | A | 5219 |
+| 2026-08-11_echo_breach_reqverbs_reachability_fix.md | zoro | 2026-08-11 | A | 4457 |
 | 2026-08-11_echo_breach_shipped_3d_path_hypothesis_disproved.md | zoro | 2026-08-11 | B | 2964 |
 | 2026-08-11_echo_breach_staged_package_claim_verified.md | zoro | 2026-08-11 | B | 2350 |
+| 2026-08-11_echo_breach_staging_gap_traced_to_release_gate.md | zoro | 2026-08-11 | A | 2666 |
 | 2026-08-11_echo_breach_store_copy_factual_errors.md | zoro | 2026-08-11 | B | 4185 |
 | 2026-08-11_echo_breach_teaching_beats_for_untaught_keys.md | zoro | 2026-08-11 | A | 5051 |
 | 2026-08-11_echo_breach_teaching_beats_verified_in_the_staged_artifact.md | zoro | 2026-08-11 | B | 3309 |
 | 2026-08-11_echo_breach_upload_candidate_check_and_gate_confirm.md | zoro | 2026-08-11 | B | 3776 |
+| 2026-08-11_echo_breach_wall_orchestrator_ruling.md | zoro | 2026-08-11 | B | 6791 |
 | 2026-08-11_git_maintenance_enforcement_and_unbiased_coalescing.md | zoro | 2026-08-11 | B | 12438 |
 | 2026-08-11_glee_connect_identity_join_step1.md | zoro | 2026-08-11 | — | 5288 |
 | 2026-08-11_glee_verify_v0_executed_verification.md | zoro | 2026-08-11 | B | 6026 |
+| 2026-08-11_hook_chain_outage_and_five_dead_hooks.md | zoro | 2026-08-11 | C | 13084 |
+| 2026-08-11_hook_control_plane_assessment_and_reachability.md | zoro | 2026-08-11 | B | 11827 |
 | 2026-08-11_idea_acquisition_substrate_intake.md | zoro | 2026-08-11 | B | 9201 |
 | 2026-08-11_loop_defect_remediation_wave_one.md | zoro | 2026-08-11 | B | 8788 |
 | 2026-08-11_loop_defect_remediation_wave_two.md | zoro | 2026-08-11 | B | 7584 |
+| 2026-08-11_moltbook_markdown_linkability_verified.md | zoro | 2026-08-11 | B | 4354 |
+| 2026-08-11_moltbook_to_platform_path_traced.md | zoro | 2026-08-11 | B | 5188 |
 | 2026-08-11_playtest002_causal_shift_instrumented.md | zoro | 2026-08-11 | B | 5418 |
+| 2026-08-11_playtest002_complete_anchor_is_the_missing_verb.md | zoro | 2026-08-11 | B | 5234 |
 | 2026-08-11_research_os_already_exists_scheduler_was_dead.md | zoro | 2026-08-11 | A | 7550 |
 | 2026-08-11_runner_retirement_and_maintenance_invariant.md | zoro | 2026-08-11 | B | 7376 |
+| 2026-08-11_shared_capability_registry_glee_context_get_v1.md | zoro | 2026-08-11 | — | 6092 |
+| 2026-08-11_substrate_qualification_and_two_ratified_laws.md | zoro | 2026-08-11 | B | 6475 |
 | 2026-08-11_substrate_watch_no_longer_destroys_peer_captain_cards.md | zoro | 2026-08-11 | B | 3728 |
+| 2026-08-11_terminal_wall_restaffed_and_recovery_unit_revived.md | zoro | 2026-08-11 | B | 4840 |
+| 2026-08-11_tmux_copy_mode_captured_the_whole_client.md | zoro | 2026-08-11 | A | 3523 |
+| 2026-08-11_verify_catalog_scan_kills_nobody_executes.md | zoro | 2026-08-11 | B | 8300 |
+| 2026-08-11_verify_edge_mcp_2026_07_28.md | zoro | 2026-08-11 | B | 6271 |
+| 2026-08-11_verify_egress_guard_and_acceptance_gate.md | zoro | 2026-08-11 | B | 6441 |
 | 2026-08-11_verify_v02_gates_1_to_4.md | zoro | 2026-08-11 | B | 8702 |
+| 2026-08-11_webdevops_comms_gate_approver_bug_and_six_reply_drain.md | zoro | 2026-08-11 | A | 9225 |
+| 2026-08-11_webdevops_landing_copy_fix_redrafted.md | zoro | 2026-08-11 | B | 5293 |
+| 2026-08-11_website_cold_stranger_audit.md | zoro | 2026-08-11 | B | 4815 |
+| 2026-08-11_agent_service_trial_research.md | sanji | 2026-08-11 | A | 4319 |
 | 2026-08-11_autonomy_progress_horizon_v0.md | sanji | 2026-08-11 | A | 7883 |
+| 2026-08-11_captain_now_fixture_followups_1359.md | sanji | 2026-08-11 | B | 2749 |
+| 2026-08-11_charge_circuit_wars_ai_playtest_judgment.md | sanji | 2026-08-11 | A | 4541 |
+| 2026-08-11_charge_circuit_wars_brownout_live_judgment.md | sanji | 2026-08-11 | A | 3646 |
 | 2026-08-11_charge_circuit_wars_final_repack_slot2.md | sanji | 2026-08-11 | A | 7354 |
 | 2026-08-11_charge_yard_active_source_settlement_gate.md | sanji | 2026-08-11 | A | 2774 |
 | 2026-08-11_charge_yard_active_source_settlement_gate_v2.md | sanji | 2026-08-11 | A | 2835 |
@@ -81,6 +143,8 @@
 | 2026-08-11_circuitwars_scorecard_package_recheck_0323.md | sanji | 2026-08-11 | A | 2327 |
 | 2026-08-11_circuitwars_strategic_package_recheck.md | sanji | 2026-08-11 | B | 3358 |
 | 2026-08-11_circuitwars_strategic_release_recheck_0416.md | sanji | 2026-08-11 | — | 1291 |
+| 2026-08-11_computer_agency_existing_provider_contract.md | sanji | 2026-08-11 | B | 4425 |
+| 2026-08-11_computer_agency_github_surface_designation.md | sanji | 2026-08-11 | B | 9460 |
 | 2026-08-11_dispatch_recovery_0701.md | sanji | 2026-08-11 | B | 5413 |
 | 2026-08-11_dispatch_recovery_boundary_0627.md | sanji | 2026-08-11 | B | 6408 |
 | 2026-08-11_echo_breach_actor_cliff_sim_1141.md | sanji | 2026-08-11 | B | 2885 |
@@ -124,6 +188,7 @@
 | 2026-08-11_echo_breach_op07_fresh_page_draw_probe_1010.md | sanji | 2026-08-11 | A | 4843 |
 | 2026-08-11_echo_breach_op07_post_pad_transition_probe_0951.md | sanji | 2026-08-11 | A | 2936 |
 | 2026-08-11_echo_breach_op07_profile_draw_unmeasured_1015.md | sanji | 2026-08-11 | A | 4056 |
+| 2026-08-11_echo_breach_op07_route_gate_diagnosis_1408.md | sanji | 2026-08-11 | A | 4735 |
 | 2026-08-11_echo_breach_op07_verifier_stall_0949.md | sanji | 2026-08-11 | A | 5070 |
 | 2026-08-11_echo_breach_op08_warden_recheck_1115.md | sanji | 2026-08-11 | B | 2751 |
 | 2026-08-11_echo_breach_op09_contract_recheck_1113.md | sanji | 2026-08-11 | B | 2868 |
@@ -142,72 +207,7 @@
 | 2026-08-11_echo_breach_player_docs_truth_repair.md | sanji | 2026-08-11 | A | 3390 |
 | 2026-08-11_echo_breach_playtest_card_current_tree_audit.md | sanji | 2026-08-11 | A | 3082 |
 | 2026-08-11_echo_breach_pressure_pad_contract_1055.md | sanji | 2026-08-11 | A | 3582 |
-| 2026-08-11_echo_breach_provenance_audit.md | sanji | 2026-08-11 | — | 3149 |
-| 2026-08-11_echo_breach_provenance_license_gate_1040.md | sanji | 2026-08-11 | A | 3444 |
-| 2026-08-11_echo_breach_provenance_release_recheck.md | sanji | 2026-08-11 | A | 3669 |
-| 2026-08-11_echo_breach_provenance_wording_repair.md | sanji | 2026-08-11 | A | 4282 |
-| 2026-08-11_echo_breach_publication_candidate_audit_0424.md | sanji | 2026-08-11 | A | 2777 |
-| 2026-08-11_echo_breach_publication_candidate_truth_repair.md | sanji | 2026-08-11 | A | 4498 |
-| 2026-08-11_echo_breach_publication_kit_mixed_capture_1036.md | sanji | 2026-08-11 | B | 3557 |
-| 2026-08-11_echo_breach_publication_target_identity_0725.md | sanji | 2026-08-11 | A | 2590 |
-| 2026-08-11_echo_breach_release_gate_1209.md | sanji | 2026-08-11 | A | 3696 |
-| 2026-08-11_echo_breach_release_gate_after_copy_repair.md | sanji | 2026-08-11 | B | 5769 |
-| 2026-08-11_echo_breach_release_gate_after_mobile_repair.md | sanji | 2026-08-11 | — | 2545 |
-| 2026-08-11_echo_breach_release_gate_audit_0404.md | sanji | 2026-08-11 | A | 2738 |
-| 2026-08-11_echo_breach_release_gate_recheck_1159.md | sanji | 2026-08-11 | A | 3818 |
-| 2026-08-11_echo_breach_route_probe_1144.md | sanji | 2026-08-11 | B | 2691 |
-| 2026-08-11_echo_breach_same_page_hint_probe_0825.md | sanji | 2026-08-11 | A | 2824 |
-| 2026-08-11_echo_breach_scale_probe_1137.md | sanji | 2026-08-11 | B | 2875 |
-| 2026-08-11_echo_breach_screenshot_refresh.md | sanji | 2026-08-11 | A | 3859 |
-| 2026-08-11_echo_breach_self_owned_alias_0644.md | sanji | 2026-08-11 | A | 3092 |
-| 2026-08-11_echo_breach_self_owned_canonical_ui_0524.md | sanji | 2026-08-11 | A | 2635 |
-| 2026-08-11_echo_breach_size_probe_1136.md | sanji | 2026-08-11 | B | 2791 |
-| 2026-08-11_echo_breach_solids_probe_1139.md | sanji | 2026-08-11 | B | 2793 |
-| 2026-08-11_echo_breach_solvability_recheck_1119.md | sanji | 2026-08-11 | B | 2820 |
-| 2026-08-11_echo_breach_spec_current_state_warning.md | sanji | 2026-08-11 | A | 3642 |
-| 2026-08-11_echo_breach_stale_byte_claim_recheck_0905.md | sanji | 2026-08-11 | A | 2315 |
-| 2026-08-11_echo_breach_store_metadata_truth_repair.md | sanji | 2026-08-11 | A | 4089 |
-| 2026-08-11_echo_breach_switching_recheck_1125.md | sanji | 2026-08-11 | B | 2725 |
-| 2026-08-11_echo_breach_teaching_beats_release_recheck.md | sanji | 2026-08-11 | A | 4149 |
-| 2026-08-11_echo_breach_teaching_delta_recheck.md | sanji | 2026-08-11 | A | 3387 |
-| 2026-08-11_echo_breach_traits_recheck_1129.md | sanji | 2026-08-11 | B | 2708 |
-| 2026-08-11_echo_breach_ui_alias_verify_1158.md | sanji | 2026-08-11 | B | 3252 |
-| 2026-08-11_echo_breach_ui_prompt_verifier_repair.md | sanji | 2026-08-11 | A | 5038 |
-| 2026-08-11_echo_breach_ui_verify_1202.md | sanji | 2026-08-11 | A | 3498 |
-| 2026-08-11_echo_breach_unlisted_asset_reference_triage_0805.md | sanji | 2026-08-11 | A | 3005 |
-| 2026-08-11_echo_breach_weapon_identity_recheck_1147.md | sanji | 2026-08-11 | B | 2800 |
-| 2026-08-11_webdevops_agent_claim_boundary_0535.md | sanji | 2026-08-11 | A | 2124 |
-| 2026-08-11_webdevops_agent_claim_boundary_recheck_0548.md | sanji | 2026-08-11 | A | 2892 |
-| 2026-08-11_webdevops_authority_binding_preservation_0145.md | sanji | 2026-08-11 | A | 2459 |
-| 2026-08-11_webdevops_authority_cadence_refresh.md | sanji | 2026-08-11 | — | 3866 |
-| 2026-08-11_webdevops_authority_census_0257.md | sanji | 2026-08-11 | A | 2616 |
-| 2026-08-11_webdevops_authority_census_0435.md | sanji | 2026-08-11 | A | 2493 |
-| 2026-08-11_webdevops_authority_census_0435_correction.md | sanji | 2026-08-11 | A | 2200 |
-| 2026-08-11_webdevops_authority_census_0746.md | sanji | 2026-08-11 | A | 2991 |
-| 2026-08-11_webdevops_authority_census_0751.md | sanji | 2026-08-11 | A | 2982 |
-| 2026-08-11_webdevops_authority_census_1146.md | sanji | 2026-08-11 | A | 2466 |
-| 2026-08-11_webdevops_authority_census_1147.md | sanji | 2026-08-11 | A | 2678 |
-| 2026-08-11_webdevops_authority_existing_organs_0925.md | sanji | 2026-08-11 | A | 3302 |
-| 2026-08-11_webdevops_authority_recheck_0135.md | sanji | 2026-08-11 | B | 1961 |
-| 2026-08-11_webdevops_authority_state_refresh.md | sanji | 2026-08-11 | B | 2192 |
-| 2026-08-11_webdevops_authorization_alarm_wording_0315.md | sanji | 2026-08-11 | A | 2428 |
-| 2026-08-11_webdevops_cold_website_audit_0414.md | sanji | 2026-08-11 | — | 2714 |
-| 2026-08-11_webdevops_cold_website_audit_0706.md | sanji | 2026-08-11 | A | 2800 |
-| 2026-08-11_webdevops_cold_website_audit_0846.md | sanji | 2026-08-11 | A | 3526 |
-| 2026-08-11_webdevops_exact_binding_path_audit.md | sanji | 2026-08-11 | B | 2895 |
-| 2026-08-11_webdevops_exact_binding_path_audit_corrected.md | sanji | 2026-08-11 | B | 2870 |
-| 2026-08-11_webdevops_exact_binding_preservation_recheck.md | sanji | 2026-08-11 | A | 2335 |
-| 2026-08-11_webdevops_exact_bound_review_inventory_0307.md | sanji | 2026-08-11 | A | 3121 |
-| 2026-08-11_webdevops_factual_posting_freeze_replay_0315.md | sanji | 2026-08-11 | A | 2587 |
-| 2026-08-11_webdevops_funnel_authority_boundary_0344.md | sanji | 2026-08-11 | A | 2360 |
-| 2026-08-11_webdevops_funnel_trace_cold_audit_0204.md | sanji | 2026-08-11 | A | 2706 |
-| 2026-08-11_webdevops_homepage_semantics_1024.md | sanji | 2026-08-11 | A | 3342 |
-| 2026-08-11_webdevops_linkability_authority_recheck.md | sanji | 2026-08-11 | A | 2922 |
-| 2026-08-11_webdevops_linkability_canonical_recheck_0336.md | sanji | 2026-08-11 | A | 3362 |
-| 2026-08-11_webdevops_linkability_public_sample_0155.md | sanji | 2026-08-11 | A | 2025 |
-| 2026-08-11_webdevops_linkability_renderer_recheck_0556.md | sanji | 2026-08-11 | A | 2773 |
-| 2026-08-11_webdevops_linkability_renderer_recheck_0804.md | sanji | 2026-08-11 | A | 3177 |
-| _(+8150 more — see full manifest JSON)_ | | | | |
+| _(+8263 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
