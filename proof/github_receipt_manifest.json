@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 9176,
+  "total_receipts": 9217,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -27929,7 +27929,15 @@
       "rel_path": "2026-08-14_deploy_authority_binds_bytes.md",
       "date": "2026-08-14",
       "tier": null,
-      "size_bytes": 12545
+      "size_bytes": 16337
+    },
+    {
+      "file_name": "2026-08-14_enforcement_verified_and_repack_proven_lossless.md",
+      "home": "zoro",
+      "rel_path": "2026-08-14_enforcement_verified_and_repack_proven_lossless.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 4473
     },
     {
       "file_name": "2026-08-14_execution_assurance_split_seats_reusable.md",
@@ -27938,6 +27946,22 @@
       "date": "2026-08-14",
       "tier": "C",
       "size_bytes": 6854
+    },
+    {
+      "file_name": "2026-08-14_experience_ledger_growth_and_git_blocked.md",
+      "home": "zoro",
+      "rel_path": "2026-08-14_experience_ledger_growth_and_git_blocked.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 5522
+    },
+    {
+      "file_name": "2026-08-14_fsck_capital_completed_reflog_referenced_missing_objects.md",
+      "home": "zoro",
+      "rel_path": "2026-08-14_fsck_capital_completed_reflog_referenced_missing_objects.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 9507
     },
     {
       "file_name": "2026-08-14_grammar_v2_coverage_1_to_4.md",
@@ -27980,12 +28004,44 @@
       "size_bytes": 7916
     },
     {
+      "file_name": "2026-08-14_object_db_gate_closed_FAIL_reflog_scoped.md",
+      "home": "zoro",
+      "rel_path": "2026-08-14_object_db_gate_closed_FAIL_reflog_scoped.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 7706
+    },
+    {
       "file_name": "2026-08-14_observed_verifier_context.md",
       "home": "zoro",
       "rel_path": "2026-08-14_observed_verifier_context.md",
       "date": "2026-08-14",
       "tier": "B",
       "size_bytes": 9199
+    },
+    {
+      "file_name": "2026-08-14_p1_terminal_write_amplification.md",
+      "home": "zoro",
+      "rel_path": "2026-08-14_p1_terminal_write_amplification.md",
+      "date": "2026-08-14",
+      "tier": null,
+      "size_bytes": 11802
+    },
+    {
+      "file_name": "2026-08-14_redesign_executed_pack_ledger_and_free_space_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-14_redesign_executed_pack_ledger_and_free_space_gate.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 6466
+    },
+    {
+      "file_name": "2026-08-14_resolved_projection_closes_generation_apparatus.md",
+      "home": "zoro",
+      "rel_path": "2026-08-14_resolved_projection_closes_generation_apparatus.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 6675
     },
     {
       "file_name": "2026-08-14_seat_closure_trapdoor_diagnosis.md",
@@ -28017,7 +28073,7 @@
       "rel_path": "2026-08-14_verifier_ingress_census_001.md",
       "date": "2026-08-14",
       "tier": "B",
-      "size_bytes": 6090
+      "size_bytes": 11453
     },
     {
       "file_name": "INDEX.md",
@@ -59636,12 +59692,28 @@
       "size_bytes": 2821
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_boss_awakened.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_boss_awakened.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4286
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_boss_card.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_boss_card.md",
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 2653
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_boss_card_clamp.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_boss_card_clamp.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3723
     },
     {
       "file_name": "2026-08-14_echo_breach_arena_boss_edge_marker.md",
@@ -59668,6 +59740,46 @@
       "size_bytes": 3193
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_boss_phase_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_boss_phase_card.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4010
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_boss_phase_edge.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_boss_phase_edge.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3967
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_boss_phase_lane.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_boss_phase_lane.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4977
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_bullet_ink.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_bullet_ink.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4507
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_bullet_ink_depth.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_bullet_ink_depth.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4231
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_damage_number_identity.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_damage_number_identity.md",
@@ -59676,12 +59788,44 @@
       "size_bytes": 3691
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_dash_viewport_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_dash_viewport_audit.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3499
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_death_punctuation.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_death_punctuation.md",
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 2728
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_equip_lane.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_equip_lane.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4986
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_equipped_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_equipped_card.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3537
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_healthbars.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_healthbars.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4599
     },
     {
       "file_name": "2026-08-14_echo_breach_arena_hit_reaction.md",
@@ -59732,12 +59876,52 @@
       "size_bytes": 3499
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_kill_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_kill_card.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3559
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_level2_spore_field.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_level2_spore_field.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4155
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_level3_starfield.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_level3_starfield.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4384
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_low_vitals.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_low_vitals.md",
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 3716
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_muzzle_core.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_muzzle_core.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3863
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_muzzle_feedback.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_muzzle_feedback.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3726
     },
     {
       "file_name": "2026-08-14_echo_breach_arena_muzzle_profile_correction.md",
@@ -59754,6 +59938,14 @@
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 2850
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_objective_direction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_objective_direction.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4302
     },
     {
       "file_name": "2026-08-14_echo_breach_arena_orbitbreaker_identity.md",
@@ -59788,12 +59980,44 @@
       "size_bytes": 2789
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_pickup_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_pickup_card.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3593
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_pickup_card_edge.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_pickup_card_edge.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3955
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_pickup_card_lane.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_pickup_card_lane.md",
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 3277
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_pickup_lane.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_pickup_lane.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4326
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_player_chevron.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_player_chevron.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4255
     },
     {
       "file_name": "2026-08-14_echo_breach_arena_player_hit_flinch.md",
@@ -59804,12 +60028,36 @@
       "size_bytes": 3665
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_projectile_readability_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_projectile_readability_audit.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3169
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_reload_body_beat.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_reload_body_beat.md",
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 3629
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_reload_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_reload_card.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3559
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_reload_lane.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_reload_lane.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4484
     },
     {
       "file_name": "2026-08-14_echo_breach_arena_role_badges.md",
@@ -59868,6 +60116,22 @@
       "size_bytes": 4253
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_target_down_edge.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_target_down_edge.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4263
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_target_down_lane.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_target_down_lane.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3980
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_void_needle_identity.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_void_needle_identity.md",
@@ -59900,12 +60164,36 @@
       "size_bytes": 2842
     },
     {
+      "file_name": "2026-08-14_echo_breach_arena_weapon_reticle.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_weapon_reticle.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4954
+    },
+    {
       "file_name": "2026-08-14_echo_breach_arena_weapon_round_accents.md",
       "home": "sanji",
       "rel_path": "2026-08-14_echo_breach_arena_weapon_round_accents.md",
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 3132
+    },
+    {
+      "file_name": "2026-08-14_execution_envelope_local_cloud.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_execution_envelope_local_cloud.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 7869
+    },
+    {
+      "file_name": "2026-08-14_execution_envelope_platform_live.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_execution_envelope_platform_live.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 8104
     },
     {
       "file_name": "2026-08-14_human_teach_by_demonstration_acceptance.md",
@@ -59988,6 +60276,22 @@
       "size_bytes": 6823
     },
     {
+      "file_name": "2026-08-14_orchestrator_resurrection_pulse_bus_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_orchestrator_resurrection_pulse_bus_v1.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 5586
+    },
+    {
+      "file_name": "2026-08-14_orchestrator_resurrection_pulse_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_orchestrator_resurrection_pulse_v0.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 5294
+    },
+    {
       "file_name": "2026-08-14_platform_benchmark_publication_authority_packet.md",
       "home": "sanji",
       "rel_path": "2026-08-14_platform_benchmark_publication_authority_packet.md",
@@ -60004,12 +60308,28 @@
       "size_bytes": 5413
     },
     {
+      "file_name": "2026-08-14_project_observer_milestone_digest.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_project_observer_milestone_digest.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 5383
+    },
+    {
       "file_name": "2026-08-14_public_agent_endpoint_compatibility_matrix.md",
       "home": "sanji",
       "rel_path": "2026-08-14_public_agent_endpoint_compatibility_matrix.md",
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 5346
+    },
+    {
+      "file_name": "2026-08-14_reddit_context_recovery_integration.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_reddit_context_recovery_integration.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 5516
     },
     {
       "file_name": "2026-08-14_team_benchmark_summary.md",
@@ -60074,6 +60394,14 @@
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 2552
+    },
+    {
+      "file_name": "2026-08-14_verified_parametric_animation_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_verified_parametric_animation_v0.md",
+      "date": "2026-08-14",
+      "tier": "B",
+      "size_bytes": 8418
     },
     {
       "file_name": "INDEX.md",
