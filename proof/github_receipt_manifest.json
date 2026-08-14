@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 8913,
+  "total_receipts": 9106,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -1450,6 +1450,46 @@
       "date": "2026-08-12",
       "tier": "A",
       "size_bytes": 7232
+    },
+    {
+      "file_name": "2026-08-13_crossmint_fuel_rail_built.md",
+      "home": "glee",
+      "rel_path": "2026-08-13_crossmint_fuel_rail_built.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 3741
+    },
+    {
+      "file_name": "2026-08-13_cursor_state_record_invariant.md",
+      "home": "glee",
+      "rel_path": "2026-08-13_cursor_state_record_invariant.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 3994
+    },
+    {
+      "file_name": "2026-08-13_landing_page_zero_state_ssr.md",
+      "home": "glee",
+      "rel_path": "2026-08-13_landing_page_zero_state_ssr.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 1819
+    },
+    {
+      "file_name": "2026-08-13_moltbook_growth_loop_phase0_deployed.md",
+      "home": "glee",
+      "rel_path": "2026-08-13_moltbook_growth_loop_phase0_deployed.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 2485
+    },
+    {
+      "file_name": "2026-08-14_landing_evidence_js_deployed.md",
+      "home": "glee",
+      "rel_path": "2026-08-14_landing_evidence_js_deployed.md",
+      "date": "2026-08-14",
+      "tier": null,
+      "size_bytes": 2387
     },
     {
       "file_name": "META.md",
@@ -27316,6 +27356,14 @@
       "size_bytes": 6343
     },
     {
+      "file_name": "2026-08-13_a_retry_that_is_not_idempotent_leaves_two_live_comments.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_a_retry_that_is_not_idempotent_leaves_two_live_comments.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2716
+    },
+    {
       "file_name": "2026-08-13_a_scoped_read_published_itself_as_the_whole_fleet.md",
       "home": "zoro",
       "rel_path": "2026-08-13_a_scoped_read_published_itself_as_the_whole_fleet.md",
@@ -27345,7 +27393,15 @@
       "rel_path": "2026-08-13_auth_js_oauth_hardening_review.md",
       "date": "2026-08-13",
       "tier": "A",
-      "size_bytes": 7265
+      "size_bytes": 10594
+    },
+    {
+      "file_name": "2026-08-13_auth_js_security_review_no_defect_one_dead_duplicate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_auth_js_security_review_no_defect_one_dead_duplicate.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3960
     },
     {
       "file_name": "2026-08-13_authority_across_every_channel_this_wall_owns.md",
@@ -27362,6 +27418,46 @@
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 6237
+    },
+    {
+      "file_name": "2026-08-13_backup_upload_retry_and_growth_driver.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_backup_upload_retry_and_growth_driver.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 6863
+    },
+    {
+      "file_name": "2026-08-13_blackbox_reconstruction_behavior_vs_mechanism.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_blackbox_reconstruction_behavior_vs_mechanism.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 9994
+    },
+    {
+      "file_name": "2026-08-13_capital_damage_from_executing_harvested_code.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_capital_damage_from_executing_harvested_code.md",
+      "date": "2026-08-13",
+      "tier": "C",
+      "size_bytes": 9083
+    },
+    {
+      "file_name": "2026-08-13_capital_integrity_sweep_and_full_recovery.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_capital_integrity_sweep_and_full_recovery.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 6763
+    },
+    {
+      "file_name": "2026-08-13_claim_evidence_gate_has_never_caught_a_falsehood.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_claim_evidence_gate_has_never_caught_a_falsehood.md",
+      "date": "2026-08-13",
+      "tier": "C",
+      "size_bytes": 4230
     },
     {
       "file_name": "2026-08-13_compact_ir_headroom_measured.md",
@@ -27388,6 +27484,54 @@
       "size_bytes": 6262
     },
     {
+      "file_name": "2026-08-13_csp_fix_and_platform_deploy_blast_radius.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_csp_fix_and_platform_deploy_blast_radius.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3679
+    },
+    {
+      "file_name": "2026-08-13_d1_at_cap_platform_write_outage.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_d1_at_cap_platform_write_outage.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 9855
+    },
+    {
+      "file_name": "2026-08-13_d1_growth_fixes_output_coalescing_and_alarm.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_d1_growth_fixes_output_coalescing_and_alarm.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 6706
+    },
+    {
+      "file_name": "2026-08-13_d1_storage_audit_it_is_one_table_not_a_category.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_d1_storage_audit_it_is_one_table_not_a_category.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3444
+    },
+    {
+      "file_name": "2026-08-13_deploy_blocker_dissolved_by_the_checkpointer.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_deploy_blocker_dissolved_by_the_checkpointer.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3807
+    },
+    {
+      "file_name": "2026-08-13_docs_wave_agent_bus_forge_loop.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_docs_wave_agent_bus_forge_loop.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 25575
+    },
+    {
       "file_name": "2026-08-13_doctrine_gate_test_hardening.md",
       "home": "zoro",
       "rel_path": "2026-08-13_doctrine_gate_test_hardening.md",
@@ -27412,6 +27556,14 @@
       "size_bytes": 2931
     },
     {
+      "file_name": "2026-08-13_event_driven_liveness_was_already_built_the_stamper_was_silent.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_event_driven_liveness_was_already_built_the_stamper_was_silent.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4462
+    },
+    {
       "file_name": "2026-08-13_execute_all_gate_freeze_and_two_shell_bugs.md",
       "home": "zoro",
       "rel_path": "2026-08-13_execute_all_gate_freeze_and_two_shell_bugs.md",
@@ -27428,12 +27580,44 @@
       "size_bytes": 3777
     },
     {
+      "file_name": "2026-08-13_frozen_trial_method006_two_live_targets.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_frozen_trial_method006_two_live_targets.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 8467
+    },
+    {
+      "file_name": "2026-08-13_gate_cut_applied_prose_advisory_numbers_still_fail_closed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_gate_cut_applied_prose_advisory_numbers_still_fail_closed.md",
+      "date": "2026-08-13",
+      "tier": "C",
+      "size_bytes": 4533
+    },
+    {
       "file_name": "2026-08-13_git_integrity_diagnosis.md",
       "home": "zoro",
       "rel_path": "2026-08-13_git_integrity_diagnosis.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 3579
+    },
+    {
+      "file_name": "2026-08-13_git_integrity_recovery.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_git_integrity_recovery.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5006
+    },
+    {
+      "file_name": "2026-08-13_glee_map_v1.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_glee_map_v1.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6936
     },
     {
       "file_name": "2026-08-13_goal_state_gating_operational_end_to_end.md",
@@ -27452,6 +27636,38 @@
       "size_bytes": 3577
     },
     {
+      "file_name": "2026-08-13_method_extracted_ab_tested_and_promoted.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_method_extracted_ab_tested_and_promoted.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6002
+    },
+    {
+      "file_name": "2026-08-13_moltbook_profile_audit_and_reply_batch.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_moltbook_profile_audit_and_reply_batch.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 9010
+    },
+    {
+      "file_name": "2026-08-13_moltbook_to_platform_path_trace.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_moltbook_to_platform_path_trace.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6480
+    },
+    {
+      "file_name": "2026-08-13_offsite_slot_guard_protects_last_backup.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_offsite_slot_guard_protects_last_backup.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4890
+    },
+    {
       "file_name": "2026-08-13_only_captains_name_where_captain_signed.md",
       "home": "zoro",
       "rel_path": "2026-08-13_only_captains_name_where_captain_signed.md",
@@ -27466,6 +27682,30 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 3525
+    },
+    {
+      "file_name": "2026-08-13_r2_cost_traced_to_capital_git_growth.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_r2_cost_traced_to_capital_git_growth.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7741
+    },
+    {
+      "file_name": "2026-08-13_reachability_is_not_authorization_owl_nate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_reachability_is_not_authorization_owl_nate.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5910
+    },
+    {
+      "file_name": "2026-08-13_refresh_rotation_stranded_the_connector.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_refresh_rotation_stranded_the_connector.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4674
     },
     {
       "file_name": "2026-08-13_reserve_then_settle_closure.md",
@@ -27484,12 +27724,36 @@
       "size_bytes": 3027
     },
     {
+      "file_name": "2026-08-13_reverse_specification_baseline_and_falsification.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_reverse_specification_baseline_and_falsification.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 16633
+    },
+    {
       "file_name": "2026-08-13_router_rebuilt_on_the_current_efficient_ladder.md",
       "home": "zoro",
       "rel_path": "2026-08-13_router_rebuilt_on_the_current_efficient_ladder.md",
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 7036
+    },
+    {
+      "file_name": "2026-08-13_shield_monitor_masked_telemetry_finding.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_shield_monitor_masked_telemetry_finding.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 7750
+    },
+    {
+      "file_name": "2026-08-13_slot1_restore_drill_and_backup_coverage_gap.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_slot1_restore_drill_and_backup_coverage_gap.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 6451
     },
     {
       "file_name": "2026-08-13_the_desk_could_start_sol_without_anyone_choosing_to.md",
@@ -27578,6 +27842,22 @@
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 7430
+    },
+    {
+      "file_name": "2026-08-13_webdevops_authority_state_and_linkability_reconfirm.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_webdevops_authority_state_and_linkability_reconfirm.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4969
+    },
+    {
+      "file_name": "2026-08-13_website_cold_visitor_audit.md",
+      "home": "zoro",
+      "rel_path": "2026-08-13_website_cold_visitor_audit.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5649
     },
     {
       "file_name": "2026-08-13_where_the_crossing_actually_breaks.md",
@@ -56052,6 +56332,30 @@
       "size_bytes": 2826
     },
     {
+      "file_name": "2026-08-13_admission_preflight_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_admission_preflight_closeout.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3221
+    },
+    {
+      "file_name": "2026-08-13_admitted_full_family_tutor_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_admitted_full_family_tutor_closeout.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4951
+    },
+    {
+      "file_name": "2026-08-13_agent_workbench_team_copy_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_agent_workbench_team_copy_repair.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5253
+    },
+    {
       "file_name": "2026-08-13_all_provider_adapter_handoff.md",
       "home": "sanji",
       "rel_path": "2026-08-13_all_provider_adapter_handoff.md",
@@ -56076,12 +56380,76 @@
       "size_bytes": 2866
     },
     {
+      "file_name": "2026-08-13_atlas_actionable_assignments.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_actionable_assignments.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5471
+    },
+    {
+      "file_name": "2026-08-13_atlas_actionable_evidence_work.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_actionable_evidence_work.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4233
+    },
+    {
+      "file_name": "2026-08-13_atlas_actionable_work_feed.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_actionable_work_feed.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 3354
+    },
+    {
+      "file_name": "2026-08-13_atlas_actionable_work_feed_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_actionable_work_feed_v2.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3456
+    },
+    {
+      "file_name": "2026-08-13_atlas_actionable_work_feed_v3.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_actionable_work_feed_v3.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2956
+    },
+    {
+      "file_name": "2026-08-13_atlas_actionable_work_feed_v4.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_actionable_work_feed_v4.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3159
+    },
+    {
+      "file_name": "2026-08-13_atlas_actionable_work_feed_v5.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_actionable_work_feed_v5.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3140
+    },
+    {
       "file_name": "2026-08-13_atlas_agent_manifest_pending_contract.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_agent_manifest_pending_contract.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 5568
+    },
+    {
+      "file_name": "2026-08-13_atlas_article_provenance.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_article_provenance.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7240
     },
     {
       "file_name": "2026-08-13_atlas_capacity_decision_packet.md",
@@ -56132,6 +56500,14 @@
       "size_bytes": 4260
     },
     {
+      "file_name": "2026-08-13_atlas_changes_page_pagination.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_changes_page_pagination.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4178
+    },
+    {
       "file_name": "2026-08-13_atlas_claim22_next_refactor_publication.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_claim22_next_refactor_publication.md",
@@ -56172,6 +56548,14 @@
       "size_bytes": 5748
     },
     {
+      "file_name": "2026-08-13_atlas_claims_privacy_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_claims_privacy_projection.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7401
+    },
+    {
       "file_name": "2026-08-13_atlas_content_backed_revision_projection.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_content_backed_revision_projection.md",
@@ -56188,12 +56572,52 @@
       "size_bytes": 6096
     },
     {
+      "file_name": "2026-08-13_atlas_contribution_envelope.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_contribution_envelope.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5231
+    },
+    {
+      "file_name": "2026-08-13_atlas_contribution_failure_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_contribution_failure_contract.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5154
+    },
+    {
+      "file_name": "2026-08-13_atlas_contribution_receipt_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_contribution_receipt_contract.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5281
+    },
+    {
+      "file_name": "2026-08-13_atlas_cors_interoperability.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_cors_interoperability.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4606
+    },
+    {
       "file_name": "2026-08-13_atlas_explicit_promotion_gate.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_explicit_promotion_gate.md",
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 6210
+    },
+    {
+      "file_name": "2026-08-13_atlas_human_navigation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_human_navigation.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4336
     },
     {
       "file_name": "2026-08-13_atlas_human_verifier_lane.md",
@@ -56236,12 +56660,52 @@
       "size_bytes": 5276
     },
     {
+      "file_name": "2026-08-13_atlas_maintenance_page.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_maintenance_page.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 6160
+    },
+    {
+      "file_name": "2026-08-13_atlas_maintenance_pagination.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_maintenance_pagination.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5576
+    },
+    {
+      "file_name": "2026-08-13_atlas_maintenance_privacy_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_maintenance_privacy_projection.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7557
+    },
+    {
       "file_name": "2026-08-13_atlas_maintenance_wave1.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_maintenance_wave1.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 8171
+    },
+    {
+      "file_name": "2026-08-13_atlas_manifest_interop_parity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_manifest_interop_parity.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4807
+    },
+    {
+      "file_name": "2026-08-13_atlas_manifest_parity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_manifest_parity.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4247
     },
     {
       "file_name": "2026-08-13_atlas_next_sourced_claim_primary_review.md",
@@ -56266,6 +56730,14 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 7305
+    },
+    {
+      "file_name": "2026-08-13_atlas_operation_contracts.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_operation_contracts.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7219
     },
     {
       "file_name": "2026-08-13_atlas_pending_human_notice.md",
@@ -56316,6 +56788,14 @@
       "size_bytes": 8971
     },
     {
+      "file_name": "2026-08-13_atlas_privacy_safe_public_projections.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_privacy_safe_public_projections.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 8490
+    },
+    {
       "file_name": "2026-08-13_atlas_public_appeal_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_public_appeal_reconciliation.md",
@@ -56332,12 +56812,28 @@
       "size_bytes": 5697
     },
     {
+      "file_name": "2026-08-13_atlas_public_contribution_guide.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_public_contribution_guide.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 8951
+    },
+    {
       "file_name": "2026-08-13_atlas_public_revision_review_transition.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_public_revision_review_transition.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 6596
+    },
+    {
+      "file_name": "2026-08-13_atlas_public_work_queue_page.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_public_work_queue_page.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4470
     },
     {
       "file_name": "2026-08-13_atlas_queued_maintenance_claim.md",
@@ -56362,6 +56858,14 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 5520
+    },
+    {
+      "file_name": "2026-08-13_atlas_read_graph_manifest.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_read_graph_manifest.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3756
     },
     {
       "file_name": "2026-08-13_atlas_recent_changes_page.md",
@@ -56452,12 +56956,44 @@
       "size_bytes": 6114
     },
     {
+      "file_name": "2026-08-13_atlas_verified_only_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_verified_only_projection.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 8555
+    },
+    {
       "file_name": "2026-08-13_atlas_verifier_result_projection.md",
       "home": "sanji",
       "rel_path": "2026-08-13_atlas_verifier_result_projection.md",
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 5749
+    },
+    {
+      "file_name": "2026-08-13_atlas_work_cited_sources_page.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_work_cited_sources_page.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4002
+    },
+    {
+      "file_name": "2026-08-13_atlas_work_feed_pagination.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_work_feed_pagination.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4000
+    },
+    {
+      "file_name": "2026-08-13_atlas_work_page_pagination.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_atlas_work_page_pagination.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4039
     },
     {
       "file_name": "2026-08-13_atomic_context_reservation_hardening.md",
@@ -56474,6 +57010,14 @@
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 5125
+    },
+    {
+      "file_name": "2026-08-13_benchmark_persistence_bridge.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_benchmark_persistence_bridge.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 10192
     },
     {
       "file_name": "2026-08-13_bonsai_context_paired_positive.md",
@@ -56628,12 +57172,52 @@
       "size_bytes": 4575
     },
     {
+      "file_name": "2026-08-13_canonical_benchmark_adjudication_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_canonical_benchmark_adjudication_guard.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5359
+    },
+    {
+      "file_name": "2026-08-13_canonical_benchmark_trial_pack.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_canonical_benchmark_trial_pack.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 8345
+    },
+    {
+      "file_name": "2026-08-13_canonical_three_trial_replay_regression.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_canonical_three_trial_replay_regression.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4697
+    },
+    {
+      "file_name": "2026-08-13_canonical_trial_replay.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_canonical_trial_replay.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4375
+    },
+    {
       "file_name": "2026-08-13_clause_tutor_variability_boundary.md",
       "home": "sanji",
       "rel_path": "2026-08-13_clause_tutor_variability_boundary.md",
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 4856
+    },
+    {
+      "file_name": "2026-08-13_codebank_customization_warnings_repaired.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_codebank_customization_warnings_repaired.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5062
     },
     {
       "file_name": "2026-08-13_common_contract_candidate_retired.md",
@@ -56692,12 +57276,36 @@
       "size_bytes": 2903
     },
     {
+      "file_name": "2026-08-13_developer_recovery_budget_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_developer_recovery_budget_closeout.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6077
+    },
+    {
+      "file_name": "2026-08-13_developer_recovery_budget_closeout_clean.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_developer_recovery_budget_closeout_clean.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5250
+    },
+    {
       "file_name": "2026-08-13_developer_trial_harness_review_gap_hardening.md",
       "home": "sanji",
       "rel_path": "2026-08-13_developer_trial_harness_review_gap_hardening.md",
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 4481
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_actor_ink_fill.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_actor_ink_fill.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5669
     },
     {
       "file_name": "2026-08-13_echo_breach_arena_aim_read.md",
@@ -56716,6 +57324,38 @@
       "size_bytes": 5016
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_ambient_motes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_ambient_motes.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3578
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_apron_service_panels.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_apron_service_panels.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3325
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_boss_identity_card.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_boss_identity_card.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4561
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_boss_phase_crest.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_boss_phase_crest.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3834
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_cast_readability.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_cast_readability.md",
@@ -56724,12 +57364,28 @@
       "size_bytes": 4439
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_chaser_wake.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_chaser_wake.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3384
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_comic_impact_star.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_comic_impact_star.md",
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 3614
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_contact_shadows.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_contact_shadows.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3331
     },
     {
       "file_name": "2026-08-13_echo_breach_arena_damage_feedback.md",
@@ -56748,12 +57404,20 @@
       "size_bytes": 4225
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_dash_direction_read.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_dash_direction_read.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3493
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_dash_feedback.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_dash_feedback.md",
       "date": "2026-08-13",
       "tier": "A",
-      "size_bytes": 4300
+      "size_bytes": 5118
     },
     {
       "file_name": "2026-08-13_echo_breach_arena_death_feedback.md",
@@ -56804,6 +57468,14 @@
       "size_bytes": 4294
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_foundry_embers.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_foundry_embers.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3639
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_frame_diagnosis.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_frame_diagnosis.md",
@@ -56828,12 +57500,36 @@
       "size_bytes": 3955
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_hit_punctuation_billboard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_hit_punctuation_billboard.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3697
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_hit_reaction.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_hit_reaction.md",
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 2480
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_hit_stamp.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_hit_stamp.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4306
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_hostile_role_glow.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_hostile_role_glow.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3929
     },
     {
       "file_name": "2026-08-13_echo_breach_arena_ink.md",
@@ -56844,12 +57540,36 @@
       "size_bytes": 1825
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_intent_telegraph_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_intent_telegraph_correction.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5145
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_intent_telegraphs.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_intent_telegraphs.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 5327
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_kill_punctuation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_kill_punctuation.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4470
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_kill_settle.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_kill_settle.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4930
     },
     {
       "file_name": "2026-08-13_echo_breach_arena_landmark_identity.md",
@@ -56860,12 +57580,36 @@
       "size_bytes": 4599
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_landmark_motion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_landmark_motion.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3541
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_loot_beacon_readability.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_loot_beacon_readability.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 3747
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_loot_label_avoidance.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_loot_label_avoidance.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3883
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_loot_lanes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_loot_lanes.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3619
     },
     {
       "file_name": "2026-08-13_echo_breach_arena_loot_readability.md",
@@ -56876,6 +57620,62 @@
       "size_bytes": 2436
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_muzzle_profiles.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_muzzle_profiles.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5285
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_objective_beacon.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_objective_beacon.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6534
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_objective_direction_guide.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_objective_direction_guide.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 6025
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_pickup_glyph.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_pickup_glyph.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3176
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_player_hit_marker.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_player_hit_marker.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4766
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_player_hit_read.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_player_hit_read.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4872
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_prefire_shapes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_prefire_shapes.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5376
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_projectile_trails.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_projectile_trails.md",
@@ -56884,12 +57684,140 @@
       "size_bytes": 4685
     },
     {
+      "file_name": "2026-08-13_echo_breach_arena_prop_feedback.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_prop_feedback.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3828
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_reload_feedback.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_reload_feedback.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5591
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_rewind_burst.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_rewind_burst.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3553
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_rewind_marker.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_rewind_marker.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3142
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_role_motion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_role_motion.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2933
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_role_silhouettes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_role_silhouettes.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5974
+    },
+    {
       "file_name": "2026-08-13_echo_breach_arena_silhouette.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_arena_silhouette.md",
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 1351
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_swarmer_nodes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_swarmer_nodes.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3023
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_target_card_lane.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_target_card_lane.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3700
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_target_down_layout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_target_down_layout.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3836
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_test_nan_fix.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_test_nan_fix.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3016
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_turret_telegraph.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_turret_telegraph.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4937
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_weapon_audio_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_weapon_audio_identity.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3942
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_weapon_ejection.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_weapon_ejection.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3581
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_weapon_kick.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_weapon_kick.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5210
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_weapon_launch_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_weapon_launch_identity.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3614
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_weapon_motion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_weapon_motion.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2874
     },
     {
       "file_name": "2026-08-13_echo_breach_arena_weapon_rail.md",
@@ -56906,6 +57834,22 @@
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 1765
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_weapon_swap_punctuation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_weapon_swap_punctuation.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5423
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_arena_weapon_toast_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_arena_weapon_toast_identity.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2398
     },
     {
       "file_name": "2026-08-13_echo_breach_authored_pickup_projectiles.md",
@@ -56938,6 +57882,30 @@
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 2056
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_boss_audio_punctuation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_boss_audio_punctuation.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2920
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_boss_awakening_punctuation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_boss_awakening_punctuation.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2635
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_boss_phase_shift_punctuation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_boss_phase_shift_punctuation.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4063
     },
     {
       "file_name": "2026-08-13_echo_breach_boss_phase_surge.md",
@@ -57060,6 +58028,22 @@
       "size_bytes": 1846
     },
     {
+      "file_name": "2026-08-13_echo_breach_foundry_catwalk_dressing.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_foundry_catwalk_dressing.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3327
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_foundry_slag_dressing.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_foundry_slag_dressing.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5093
+    },
+    {
       "file_name": "2026-08-13_echo_breach_gate_recheck_repo_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_gate_recheck_repo_integrity.md",
@@ -57074,6 +58058,30 @@
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 1690
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_hit_stamp_gate_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_hit_stamp_gate_recheck.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2233
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_hornet_impact_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_hornet_impact_identity.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2889
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_hornet_inhand_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_hornet_inhand_identity.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2749
     },
     {
       "file_name": "2026-08-13_echo_breach_hostile_projectile_signatures.md",
@@ -57124,6 +58132,22 @@
       "size_bytes": 4965
     },
     {
+      "file_name": "2026-08-13_echo_breach_hud_viewport_followup_20260813.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_hud_viewport_followup_20260813.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3391
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_hud_viewport_gate_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_hud_viewport_gate_recheck.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2195
+    },
+    {
       "file_name": "2026-08-13_echo_breach_hud_viewport_reverification.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_hud_viewport_reverification.md",
@@ -57148,6 +58172,14 @@
       "size_bytes": 3996
     },
     {
+      "file_name": "2026-08-13_echo_breach_hud_viewport_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_hud_viewport_verification.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2640
+    },
+    {
       "file_name": "2026-08-13_echo_breach_hud_viewport_weapon_headlines.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_hud_viewport_weapon_headlines.md",
@@ -57162,6 +58194,14 @@
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 2305
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_kill_punctuation_gate_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_kill_punctuation_gate_recheck.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2207
     },
     {
       "file_name": "2026-08-13_echo_breach_lance_impact_fixture.md",
@@ -57186,6 +58226,14 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 2656
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_level1_weapon_rewards.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_level1_weapon_rewards.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3370
     },
     {
       "file_name": "2026-08-13_echo_breach_level2_boss_obstruction_diagnostic.md",
@@ -57332,6 +58380,14 @@
       "size_bytes": 2230
     },
     {
+      "file_name": "2026-08-13_echo_breach_prefire_gate_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_prefire_gate_recheck.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2232
+    },
+    {
       "file_name": "2026-08-13_echo_breach_projectile_halo.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_projectile_halo.md",
@@ -57340,12 +58396,36 @@
       "size_bytes": 1671
     },
     {
+      "file_name": "2026-08-13_echo_breach_public_runtime_restage.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_public_runtime_restage.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7877
+    },
+    {
       "file_name": "2026-08-13_echo_breach_release_gate_recheck.md",
       "home": "sanji",
       "rel_path": "2026-08-13_echo_breach_release_gate_recheck.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 2851
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_slugger_impact_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_slugger_impact_identity.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3661
+    },
+    {
+      "file_name": "2026-08-13_echo_breach_slugger_role_truthfulness.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_echo_breach_slugger_role_truthfulness.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2201
     },
     {
       "file_name": "2026-08-13_echo_breach_target_cue_gate_recheck.md",
@@ -57428,12 +58508,44 @@
       "size_bytes": 3965
     },
     {
+      "file_name": "2026-08-13_game_asset_workbench_architecture.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_game_asset_workbench_architecture.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 5083
+    },
+    {
+      "file_name": "2026-08-13_game_asset_workbench_live_slice.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_game_asset_workbench_live_slice.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 7422
+    },
+    {
+      "file_name": "2026-08-13_game_asset_workbench_offline_slice.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_game_asset_workbench_offline_slice.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6660
+    },
+    {
       "file_name": "2026-08-13_hash_replay_provider_profile_provenance.md",
       "home": "sanji",
       "rel_path": "2026-08-13_hash_replay_provider_profile_provenance.md",
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 4835
+    },
+    {
+      "file_name": "2026-08-13_intent_continuity_separation_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_intent_continuity_separation_repair.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6849
     },
     {
       "file_name": "2026-08-13_l3_timeout_and_bonsai_output_reliability.md",
@@ -57474,6 +58586,14 @@
       "date": "2026-08-13",
       "tier": null,
       "size_bytes": 984
+    },
+    {
+      "file_name": "2026-08-13_moltbook_draft_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_moltbook_draft_wave.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4260
     },
     {
       "file_name": "2026-08-13_moltbook_due_observability.md",
@@ -57530,6 +58650,38 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 5077
+    },
+    {
+      "file_name": "2026-08-13_moltbook_publication_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_moltbook_publication_wave.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 4226
+    },
+    {
+      "file_name": "2026-08-13_passported_http_team_flow.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_passported_http_team_flow.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7598
+    },
+    {
+      "file_name": "2026-08-13_persisted_team_run.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_persisted_team_run.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 9259
+    },
+    {
+      "file_name": "2026-08-13_platform_deploy_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_platform_deploy_preflight.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7363
     },
     {
       "file_name": "2026-08-13_provider_complete_measurement_packet.md",
@@ -57596,6 +58748,54 @@
       "size_bytes": 4823
     },
     {
+      "file_name": "2026-08-13_public_probe_diagnosis_closeout_clean.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_public_probe_diagnosis_closeout_clean.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4897
+    },
+    {
+      "file_name": "2026-08-13_public_probe_diagnosis_closeout_clean_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_public_probe_diagnosis_closeout_clean_v2.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3463
+    },
+    {
+      "file_name": "2026-08-13_public_probe_monotonic_recovery_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_public_probe_monotonic_recovery_closeout.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4681
+    },
+    {
+      "file_name": "2026-08-13_public_probe_monotonic_recovery_closeout_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_public_probe_monotonic_recovery_closeout_v2.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4446
+    },
+    {
+      "file_name": "2026-08-13_public_probe_monotonic_retry_fix_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_public_probe_monotonic_retry_fix_closeout.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4070
+    },
+    {
+      "file_name": "2026-08-13_public_probe_quiet_window_contract_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_public_probe_quiet_window_contract_closeout.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 3702
+    },
+    {
       "file_name": "2026-08-13_public_probe_tool_recovery_insufficient.md",
       "home": "sanji",
       "rel_path": "2026-08-13_public_probe_tool_recovery_insufficient.md",
@@ -57634,6 +58834,110 @@
       "date": "2026-08-13",
       "tier": "B",
       "size_bytes": 4977
+    },
+    {
+      "file_name": "2026-08-13_ship_lint_blockers_cleared.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_ship_lint_blockers_cleared.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3715
+    },
+    {
+      "file_name": "2026-08-13_sunny2_luna_xhigh_banner_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_sunny2_luna_xhigh_banner_correction.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5233
+    },
+    {
+      "file_name": "2026-08-13_team_benchmark_candidate_preparation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_benchmark_candidate_preparation.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7126
+    },
+    {
+      "file_name": "2026-08-13_team_benchmark_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_benchmark_contract.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 9923
+    },
+    {
+      "file_name": "2026-08-13_team_benchmark_end_to_end_replay.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_benchmark_end_to_end_replay.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7980
+    },
+    {
+      "file_name": "2026-08-13_team_benchmark_independent_review.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_benchmark_independent_review.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 5767
+    },
+    {
+      "file_name": "2026-08-13_team_benchmark_review_surface.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_benchmark_review_surface.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7229
+    },
+    {
+      "file_name": "2026-08-13_team_route_flow.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_route_flow.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 6797
+    },
+    {
+      "file_name": "2026-08-13_team_synthesis_preview.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_synthesis_preview.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6319
+    },
+    {
+      "file_name": "2026-08-13_team_trial_execution_guide.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_trial_execution_guide.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 6466
+    },
+    {
+      "file_name": "2026-08-13_team_trial_ledger_ui.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_team_trial_ledger_ui.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 6992
+    },
+    {
+      "file_name": "2026-08-13_tutor_admission_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_tutor_admission_boundary.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4370
+    },
+    {
+      "file_name": "2026-08-13_tutor_admission_boundary_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_tutor_admission_boundary_closeout.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4106
     },
     {
       "file_name": "2026-08-13_typed_action_240_budget_probe.md",
@@ -57716,6 +59020,14 @@
       "size_bytes": 4162
     },
     {
+      "file_name": "2026-08-13_verified_teach_by_demonstration_routine.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_verified_teach_by_demonstration_routine.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 7364
+    },
+    {
       "file_name": "2026-08-13_webdevops_agent_feed_parity_recheck.md",
       "home": "sanji",
       "rel_path": "2026-08-13_webdevops_agent_feed_parity_recheck.md",
@@ -57740,6 +59052,38 @@
       "size_bytes": 3390
     },
     {
+      "file_name": "2026-08-13_webdevops_authority_boundary_post_publication.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_authority_boundary_post_publication.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3092
+    },
+    {
+      "file_name": "2026-08-13_webdevops_authority_census.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_authority_census.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 1719
+    },
+    {
+      "file_name": "2026-08-13_webdevops_authority_census_1614.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_authority_census_1614.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 1865
+    },
+    {
+      "file_name": "2026-08-13_webdevops_authority_engagement_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_authority_engagement_recheck.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3300
+    },
+    {
       "file_name": "2026-08-13_webdevops_authority_path_audit.md",
       "home": "sanji",
       "rel_path": "2026-08-13_webdevops_authority_path_audit.md",
@@ -57756,12 +59100,52 @@
       "size_bytes": 3969
     },
     {
+      "file_name": "2026-08-13_webdevops_cadence_comment_throughput.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_cadence_comment_throughput.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3559
+    },
+    {
+      "file_name": "2026-08-13_webdevops_charter_audit_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_charter_audit_partial.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 2205
+    },
+    {
+      "file_name": "2026-08-13_webdevops_charter_continuation_1808.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_charter_continuation_1808.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3857
+    },
+    {
       "file_name": "2026-08-13_webdevops_charter_continuation_funnel_site.md",
       "home": "sanji",
       "rel_path": "2026-08-13_webdevops_charter_continuation_funnel_site.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 3613
+    },
+    {
+      "file_name": "2026-08-13_webdevops_charter_correction_1812.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_charter_correction_1812.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3194
+    },
+    {
+      "file_name": "2026-08-13_webdevops_hot_feed_strategy_snapshot.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_hot_feed_strategy_snapshot.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 2756
     },
     {
       "file_name": "2026-08-13_webdevops_hot_new_feed_snapshot.md",
@@ -57786,6 +59170,30 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 2991
+    },
+    {
+      "file_name": "2026-08-13_webdevops_moltbook_blocked_draft_gate_triage_1633.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_blocked_draft_gate_triage_1633.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 1984
+    },
+    {
+      "file_name": "2026-08-13_webdevops_moltbook_candidate_supply_and_claim_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_candidate_supply_and_claim_binding.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 3822
+    },
+    {
+      "file_name": "2026-08-13_webdevops_moltbook_comment_quality_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_comment_quality_repair.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 2808
     },
     {
       "file_name": "2026-08-13_webdevops_moltbook_hot_feed_strategy_refresh.md",
@@ -57820,6 +59228,30 @@
       "size_bytes": 4769
     },
     {
+      "file_name": "2026-08-13_webdevops_moltbook_own_performance.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_own_performance.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 1808
+    },
+    {
+      "file_name": "2026-08-13_webdevops_moltbook_platform_contract_post_publication.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_platform_contract_post_publication.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2204
+    },
+    {
+      "file_name": "2026-08-13_webdevops_moltbook_platform_trace.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_platform_trace.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 1914
+    },
+    {
       "file_name": "2026-08-13_webdevops_moltbook_post_feedback_analysis.md",
       "home": "sanji",
       "rel_path": "2026-08-13_webdevops_moltbook_post_feedback_analysis.md",
@@ -57836,12 +59268,36 @@
       "size_bytes": 3298
     },
     {
+      "file_name": "2026-08-13_webdevops_moltbook_post_queue_readiness_1615.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_post_queue_readiness_1615.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 1852
+    },
+    {
       "file_name": "2026-08-13_webdevops_moltbook_post_recovery.md",
       "home": "sanji",
       "rel_path": "2026-08-13_webdevops_moltbook_post_recovery.md",
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 4432
+    },
+    {
+      "file_name": "2026-08-13_webdevops_moltbook_reply_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_reply_handoff.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 1985
+    },
+    {
+      "file_name": "2026-08-13_webdevops_moltbook_reply_relevance_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_moltbook_reply_relevance_repair.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 2229
     },
     {
       "file_name": "2026-08-13_webdevops_moltbook_return_chain_checkpoint.md",
@@ -57900,12 +59356,28 @@
       "size_bytes": 4835
     },
     {
+      "file_name": "2026-08-13_webdevops_site_gate_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_site_gate_repair.md",
+      "date": "2026-08-13",
+      "tier": null,
+      "size_bytes": 2275
+    },
+    {
+      "file_name": "2026-08-13_webdevops_site_repair_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_site_repair_partial.md",
+      "date": "2026-08-13",
+      "tier": "B",
+      "size_bytes": 4940
+    },
+    {
       "file_name": "2026-08-13_webdevops_stranger_site_audit.md",
       "home": "sanji",
       "rel_path": "2026-08-13_webdevops_stranger_site_audit.md",
       "date": "2026-08-13",
-      "tier": "A",
-      "size_bytes": 3967
+      "tier": "B",
+      "size_bytes": 1634
     },
     {
       "file_name": "2026-08-13_webdevops_stranger_site_audit_refresh.md",
@@ -57930,6 +59402,14 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 4172
+    },
+    {
+      "file_name": "2026-08-13_webdevops_three_fields_inbound_handoff_reconcile.md",
+      "home": "sanji",
+      "rel_path": "2026-08-13_webdevops_three_fields_inbound_handoff_reconcile.md",
+      "date": "2026-08-13",
+      "tier": "A",
+      "size_bytes": 2826
     },
     {
       "file_name": "2026-08-13_webdevops_three_fields_post_publication_readback.md",
@@ -57970,6 +59450,70 @@
       "date": "2026-08-13",
       "tier": "A",
       "size_bytes": 2448
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_hostile_role_glow.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_hostile_role_glow.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 3929
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_hostile_trails.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_hostile_trails.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4610
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_target_card_clearance.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_target_card_clearance.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4253
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_weapon_profiles.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_weapon_profiles.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 4546
+    },
+    {
+      "file_name": "2026-08-14_echo_breach_arena_weapon_profiles_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_echo_breach_arena_weapon_profiles_correction.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 2842
+    },
+    {
+      "file_name": "2026-08-14_team_benchmark_summary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_team_benchmark_summary.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 5093
+    },
+    {
+      "file_name": "2026-08-14_team_creation_save.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_team_creation_save.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 6442
+    },
+    {
+      "file_name": "2026-08-14_team_run_preparation_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-08-14_team_run_preparation_packet.md",
+      "date": "2026-08-14",
+      "tier": "A",
+      "size_bytes": 5333
     },
     {
       "file_name": "INDEX.md",
