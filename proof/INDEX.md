@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-14T12:41:07.196126+00:00
-> Total receipts indexed: 9176
+> Last updated: 2026-08-14T18:41:06.553723+00:00
+> Total receipts indexed: 9217
 
 ## Receipt Manifest
 
@@ -15,44 +15,75 @@
 | 2026-08-14_containment_proven_and_trial3_blocked.md | zoro | 2026-08-14 | B | 7815 |
 | 2026-08-14_contrast_coverage_and_contained_execution.md | zoro | 2026-08-14 | B | 8278 |
 | 2026-08-14_d1_cap_outage_login_blocked.md | zoro | 2026-08-14 | — | 10267 |
-| 2026-08-14_deploy_authority_binds_bytes.md | zoro | 2026-08-14 | — | 12545 |
+| 2026-08-14_deploy_authority_binds_bytes.md | zoro | 2026-08-14 | — | 16337 |
+| 2026-08-14_enforcement_verified_and_repack_proven_lossless.md | zoro | 2026-08-14 | B | 4473 |
 | 2026-08-14_execution_assurance_split_seats_reusable.md | zoro | 2026-08-14 | C | 6854 |
+| 2026-08-14_experience_ledger_growth_and_git_blocked.md | zoro | 2026-08-14 | B | 5522 |
+| 2026-08-14_fsck_capital_completed_reflog_referenced_missing_objects.md | zoro | 2026-08-14 | B | 9507 |
 | 2026-08-14_grammar_v2_coverage_1_to_4.md | zoro | 2026-08-14 | A | 8099 |
 | 2026-08-14_integrity_gate_instrument_proven_and_ref_audit.md | zoro | 2026-08-14 | A | 9695 |
 | 2026-08-14_item5_autonomy_verifier_ingress_mediated.md | zoro | 2026-08-14 | B | 5964 |
 | 2026-08-14_item6_self_improve_ingress_mediated.md | zoro | 2026-08-14 | B | 6698 |
 | 2026-08-14_item7_packet_reachability.md | zoro | 2026-08-14 | B | 7916 |
+| 2026-08-14_object_db_gate_closed_FAIL_reflog_scoped.md | zoro | 2026-08-14 | A | 7706 |
 | 2026-08-14_observed_verifier_context.md | zoro | 2026-08-14 | B | 9199 |
+| 2026-08-14_p1_terminal_write_amplification.md | zoro | 2026-08-14 | — | 11802 |
+| 2026-08-14_redesign_executed_pack_ledger_and_free_space_gate.md | zoro | 2026-08-14 | B | 6466 |
+| 2026-08-14_resolved_projection_closes_generation_apparatus.md | zoro | 2026-08-14 | B | 6675 |
 | 2026-08-14_seat_closure_trapdoor_diagnosis.md | zoro | 2026-08-14 | B | 4429 |
 | 2026-08-14_thirteen_live_posts_no_send_record.md | zoro | 2026-08-14 | B | 5717 |
 | 2026-08-14_trial2_ranking_tie_and_coverage_overstated.md | zoro | 2026-08-14 | B | 6243 |
-| 2026-08-14_verifier_ingress_census_001.md | zoro | 2026-08-14 | B | 6090 |
+| 2026-08-14_verifier_ingress_census_001.md | zoro | 2026-08-14 | B | 11453 |
 | 2026-08-14_durable_operator_demonstration_gate.md | sanji | 2026-08-14 | B | 6298 |
 | 2026-08-14_echo_breach_arena_arc_lance_impact_correction.md | sanji | 2026-08-14 | A | 3609 |
 | 2026-08-14_echo_breach_arena_body_hit_flash.md | sanji | 2026-08-14 | A | 4018 |
 | 2026-08-14_echo_breach_arena_body_recoil.md | sanji | 2026-08-14 | A | 2821 |
+| 2026-08-14_echo_breach_arena_boss_awakened.md | sanji | 2026-08-14 | A | 4286 |
 | 2026-08-14_echo_breach_arena_boss_card.md | sanji | 2026-08-14 | A | 2653 |
+| 2026-08-14_echo_breach_arena_boss_card_clamp.md | sanji | 2026-08-14 | A | 3723 |
 | 2026-08-14_echo_breach_arena_boss_edge_marker.md | sanji | 2026-08-14 | A | 3947 |
 | 2026-08-14_echo_breach_arena_boss_health_lane.md | sanji | 2026-08-14 | A | 3229 |
 | 2026-08-14_echo_breach_arena_boss_identity_lane.md | sanji | 2026-08-14 | A | 3193 |
+| 2026-08-14_echo_breach_arena_boss_phase_card.md | sanji | 2026-08-14 | A | 4010 |
+| 2026-08-14_echo_breach_arena_boss_phase_edge.md | sanji | 2026-08-14 | A | 3967 |
+| 2026-08-14_echo_breach_arena_boss_phase_lane.md | sanji | 2026-08-14 | A | 4977 |
+| 2026-08-14_echo_breach_arena_bullet_ink.md | sanji | 2026-08-14 | A | 4507 |
+| 2026-08-14_echo_breach_arena_bullet_ink_depth.md | sanji | 2026-08-14 | A | 4231 |
 | 2026-08-14_echo_breach_arena_damage_number_identity.md | sanji | 2026-08-14 | A | 3691 |
+| 2026-08-14_echo_breach_arena_dash_viewport_audit.md | sanji | 2026-08-14 | A | 3499 |
 | 2026-08-14_echo_breach_arena_death_punctuation.md | sanji | 2026-08-14 | A | 2728 |
+| 2026-08-14_echo_breach_arena_equip_lane.md | sanji | 2026-08-14 | A | 4986 |
+| 2026-08-14_echo_breach_arena_equipped_card.md | sanji | 2026-08-14 | A | 3537 |
+| 2026-08-14_echo_breach_arena_healthbars.md | sanji | 2026-08-14 | A | 4599 |
 | 2026-08-14_echo_breach_arena_hit_reaction.md | sanji | 2026-08-14 | A | 2660 |
 | 2026-08-14_echo_breach_arena_hostile_core.md | sanji | 2026-08-14 | A | 2737 |
 | 2026-08-14_echo_breach_arena_hostile_core_readability.md | sanji | 2026-08-14 | A | 3468 |
 | 2026-08-14_echo_breach_arena_hostile_role_glow.md | sanji | 2026-08-14 | A | 3929 |
 | 2026-08-14_echo_breach_arena_hostile_trails.md | sanji | 2026-08-14 | A | 4610 |
 | 2026-08-14_echo_breach_arena_impact_identity_audit.md | sanji | 2026-08-14 | A | 3499 |
+| 2026-08-14_echo_breach_arena_kill_card.md | sanji | 2026-08-14 | A | 3559 |
+| 2026-08-14_echo_breach_arena_level2_spore_field.md | sanji | 2026-08-14 | A | 4155 |
+| 2026-08-14_echo_breach_arena_level3_starfield.md | sanji | 2026-08-14 | A | 4384 |
 | 2026-08-14_echo_breach_arena_low_vitals.md | sanji | 2026-08-14 | A | 3716 |
+| 2026-08-14_echo_breach_arena_muzzle_core.md | sanji | 2026-08-14 | A | 3863 |
+| 2026-08-14_echo_breach_arena_muzzle_feedback.md | sanji | 2026-08-14 | A | 3726 |
 | 2026-08-14_echo_breach_arena_muzzle_profile_correction.md | sanji | 2026-08-14 | A | 3579 |
 | 2026-08-14_echo_breach_arena_muzzle_readability.md | sanji | 2026-08-14 | A | 2850 |
+| 2026-08-14_echo_breach_arena_objective_direction.md | sanji | 2026-08-14 | A | 4302 |
 | 2026-08-14_echo_breach_arena_orbitbreaker_identity.md | sanji | 2026-08-14 | A | 3782 |
 | 2026-08-14_echo_breach_arena_perimeter_belts.md | sanji | 2026-08-14 | A | 2934 |
 | 2026-08-14_echo_breach_arena_pickup_accent_correction.md | sanji | 2026-08-14 | A | 3552 |
 | 2026-08-14_echo_breach_arena_pickup_acquisition.md | sanji | 2026-08-14 | A | 2789 |
+| 2026-08-14_echo_breach_arena_pickup_card.md | sanji | 2026-08-14 | A | 3593 |
+| 2026-08-14_echo_breach_arena_pickup_card_edge.md | sanji | 2026-08-14 | A | 3955 |
 | 2026-08-14_echo_breach_arena_pickup_card_lane.md | sanji | 2026-08-14 | A | 3277 |
+| 2026-08-14_echo_breach_arena_pickup_lane.md | sanji | 2026-08-14 | A | 4326 |
+| 2026-08-14_echo_breach_arena_player_chevron.md | sanji | 2026-08-14 | A | 4255 |
 | 2026-08-14_echo_breach_arena_player_hit_flinch.md | sanji | 2026-08-14 | A | 3665 |
+| 2026-08-14_echo_breach_arena_projectile_readability_audit.md | sanji | 2026-08-14 | A | 3169 |
 | 2026-08-14_echo_breach_arena_reload_body_beat.md | sanji | 2026-08-14 | A | 3629 |
+| 2026-08-14_echo_breach_arena_reload_card.md | sanji | 2026-08-14 | A | 3559 |
+| 2026-08-14_echo_breach_arena_reload_lane.md | sanji | 2026-08-14 | A | 4484 |
 | 2026-08-14_echo_breach_arena_role_badges.md | sanji | 2026-08-14 | A | 3087 |
 | 2026-08-14_echo_breach_arena_role_rigs.md | sanji | 2026-08-14 | A | 4039 |
 | 2026-08-14_echo_breach_arena_role_telegraphs.md | sanji | 2026-08-14 | A | 3597 |
@@ -60,11 +91,16 @@
 | 2026-08-14_echo_breach_arena_supernova_impact_identity.md | sanji | 2026-08-14 | A | 3685 |
 | 2026-08-14_echo_breach_arena_surface_impact_identity.md | sanji | 2026-08-14 | A | 3697 |
 | 2026-08-14_echo_breach_arena_target_card_clearance.md | sanji | 2026-08-14 | A | 4253 |
+| 2026-08-14_echo_breach_arena_target_down_edge.md | sanji | 2026-08-14 | A | 4263 |
+| 2026-08-14_echo_breach_arena_target_down_lane.md | sanji | 2026-08-14 | A | 3980 |
 | 2026-08-14_echo_breach_arena_void_needle_identity.md | sanji | 2026-08-14 | A | 3564 |
 | 2026-08-14_echo_breach_arena_weapon_ink.md | sanji | 2026-08-14 | A | 3748 |
 | 2026-08-14_echo_breach_arena_weapon_profiles.md | sanji | 2026-08-14 | A | 4546 |
 | 2026-08-14_echo_breach_arena_weapon_profiles_correction.md | sanji | 2026-08-14 | A | 2842 |
+| 2026-08-14_echo_breach_arena_weapon_reticle.md | sanji | 2026-08-14 | A | 4954 |
 | 2026-08-14_echo_breach_arena_weapon_round_accents.md | sanji | 2026-08-14 | A | 3132 |
+| 2026-08-14_execution_envelope_local_cloud.md | sanji | 2026-08-14 | B | 7869 |
+| 2026-08-14_execution_envelope_platform_live.md | sanji | 2026-08-14 | A | 8104 |
 | 2026-08-14_human_teach_by_demonstration_acceptance.md | sanji | 2026-08-14 | B | 7412 |
 | 2026-08-14_local_native_three_trial_benchmark.md | sanji | 2026-08-14 | A | 6871 |
 | 2026-08-14_luna_only_sol_hold_incident.md | sanji | 2026-08-14 | A | 4881 |
@@ -75,9 +111,13 @@
 | 2026-08-14_model_discovery_review_gate_tightening.md | sanji | 2026-08-14 | A | 5385 |
 | 2026-08-14_model_discovery_v0_execution.md | sanji | 2026-08-14 | A | 6986 |
 | 2026-08-14_model_discovery_v1_execution.md | sanji | 2026-08-14 | A | 6823 |
+| 2026-08-14_orchestrator_resurrection_pulse_bus_v1.md | sanji | 2026-08-14 | A | 5586 |
+| 2026-08-14_orchestrator_resurrection_pulse_v0.md | sanji | 2026-08-14 | A | 5294 |
 | 2026-08-14_platform_benchmark_publication_authority_packet.md | sanji | 2026-08-14 | C | 6034 |
 | 2026-08-14_platform_public_benchmark_gate_rebase.md | sanji | 2026-08-14 | A | 5413 |
+| 2026-08-14_project_observer_milestone_digest.md | sanji | 2026-08-14 | B | 5383 |
 | 2026-08-14_public_agent_endpoint_compatibility_matrix.md | sanji | 2026-08-14 | A | 5346 |
+| 2026-08-14_reddit_context_recovery_integration.md | sanji | 2026-08-14 | A | 5516 |
 | 2026-08-14_team_benchmark_summary.md | sanji | 2026-08-14 | A | 5093 |
 | 2026-08-14_team_creation_authenticated_consumption.md | sanji | 2026-08-14 | A | 7165 |
 | 2026-08-14_team_creation_save.md | sanji | 2026-08-14 | A | 6442 |
@@ -86,6 +126,7 @@
 | 2026-08-14_team_synthesis_static_pages_publication.md | sanji | 2026-08-14 | A | 9200 |
 | 2026-08-14_terminal_escape_paste_repair.md | sanji | 2026-08-14 | A | 5759 |
 | 2026-08-14_threadless_usage_refresh.md | sanji | 2026-08-14 | A | 2552 |
+| 2026-08-14_verified_parametric_animation_v0.md | sanji | 2026-08-14 | B | 8418 |
 | 2026-08-13_crossmint_fuel_rail_built.md | glee | 2026-08-13 | — | 3741 |
 | 2026-08-13_cursor_state_record_invariant.md | glee | 2026-08-13 | — | 3994 |
 | 2026-08-13_landing_page_zero_state_ssr.md | glee | 2026-08-13 | — | 1819 |
@@ -166,48 +207,7 @@
 | 2026-08-13_atlas_actionable_work_feed_v2.md | sanji | 2026-08-13 | A | 3456 |
 | 2026-08-13_atlas_actionable_work_feed_v3.md | sanji | 2026-08-13 | A | 2956 |
 | 2026-08-13_atlas_actionable_work_feed_v4.md | sanji | 2026-08-13 | A | 3159 |
-| 2026-08-13_atlas_actionable_work_feed_v5.md | sanji | 2026-08-13 | A | 3140 |
-| 2026-08-13_atlas_agent_manifest_pending_contract.md | sanji | 2026-08-13 | A | 5568 |
-| 2026-08-13_atlas_article_provenance.md | sanji | 2026-08-13 | A | 7240 |
-| 2026-08-13_atlas_capacity_decision_packet.md | sanji | 2026-08-13 | A | 5136 |
-| 2026-08-13_atlas_capacity_guard_live_repair.md | sanji | 2026-08-13 | A | 5860 |
-| 2026-08-13_atlas_capacity_guard_live_repair_v2.md | sanji | 2026-08-13 | A | 4131 |
-| 2026-08-13_atlas_capacity_live_recheck.md | sanji | 2026-08-13 | A | 4185 |
-| 2026-08-13_atlas_capacity_manifest_boundary.md | sanji | 2026-08-13 | A | 4716 |
-| 2026-08-13_atlas_changes_cursor_pagination.md | sanji | 2026-08-13 | A | 4260 |
-| 2026-08-13_atlas_changes_page_pagination.md | sanji | 2026-08-13 | A | 4178 |
-| 2026-08-13_atlas_claim22_next_refactor_publication.md | sanji | 2026-08-13 | A | 6771 |
-| 2026-08-13_atlas_claim22_superseded_refactor.md | sanji | 2026-08-13 | A | 5724 |
-| 2026-08-13_atlas_claim49_primary_reconciliation.md | sanji | 2026-08-13 | A | 7380 |
-| 2026-08-13_atlas_claim50_next_refactor_blocked.md | sanji | 2026-08-13 | B | 4405 |
-| 2026-08-13_atlas_claim50_retracted_refactor.md | sanji | 2026-08-13 | A | 5748 |
-| 2026-08-13_atlas_claims_privacy_projection.md | sanji | 2026-08-13 | A | 7401 |
-| 2026-08-13_atlas_content_backed_revision_projection.md | sanji | 2026-08-13 | A | 6816 |
-| 2026-08-13_atlas_contested_refactor_rejection.md | sanji | 2026-08-13 | A | 6096 |
-| 2026-08-13_atlas_contribution_envelope.md | sanji | 2026-08-13 | A | 5231 |
-| 2026-08-13_atlas_contribution_failure_contract.md | sanji | 2026-08-13 | A | 5154 |
-| 2026-08-13_atlas_contribution_receipt_contract.md | sanji | 2026-08-13 | A | 5281 |
-| 2026-08-13_atlas_cors_interoperability.md | sanji | 2026-08-13 | A | 4606 |
-| 2026-08-13_atlas_explicit_promotion_gate.md | sanji | 2026-08-13 | B | 6210 |
-| 2026-08-13_atlas_human_navigation.md | sanji | 2026-08-13 | A | 4336 |
-| 2026-08-13_atlas_human_verifier_lane.md | sanji | 2026-08-13 | B | 5284 |
-| 2026-08-13_atlas_live_commons_rollout.md | sanji | 2026-08-13 | B | 8004 |
-| 2026-08-13_atlas_live_promotion_proof.md | sanji | 2026-08-13 | B | 7589 |
-| 2026-08-13_atlas_maintenance_completion_refactor.md | sanji | 2026-08-13 | A | 7086 |
-| 2026-08-13_atlas_maintenance_manifest_contract.md | sanji | 2026-08-13 | A | 5276 |
-| 2026-08-13_atlas_maintenance_page.md | sanji | 2026-08-13 | A | 6160 |
-| 2026-08-13_atlas_maintenance_pagination.md | sanji | 2026-08-13 | A | 5576 |
-| 2026-08-13_atlas_maintenance_privacy_projection.md | sanji | 2026-08-13 | A | 7557 |
-| 2026-08-13_atlas_maintenance_wave1.md | sanji | 2026-08-13 | A | 8171 |
-| 2026-08-13_atlas_manifest_interop_parity.md | sanji | 2026-08-13 | A | 4807 |
-| 2026-08-13_atlas_manifest_parity.md | sanji | 2026-08-13 | A | 4247 |
-| 2026-08-13_atlas_next_sourced_claim_primary_review.md | sanji | 2026-08-13 | A | 6478 |
-| 2026-08-13_atlas_official_process_source_reconciliation.md | sanji | 2026-08-13 | A | 6237 |
-| 2026-08-13_atlas_open_commons_round_zero.md | sanji | 2026-08-13 | A | 7305 |
-| 2026-08-13_atlas_operation_contracts.md | sanji | 2026-08-13 | A | 7219 |
-| 2026-08-13_atlas_pending_human_notice.md | sanji | 2026-08-13 | A | 6012 |
-| 2026-08-13_atlas_pending_index_projection.md | sanji | 2026-08-13 | A | 6442 |
-| _(+8976 more — see full manifest JSON)_ | | | | |
+| _(+9017 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
