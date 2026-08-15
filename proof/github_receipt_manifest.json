@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 9340,
+  "total_receipts": 9499,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -1498,6 +1498,22 @@
       "date": "2026-08-14",
       "tier": null,
       "size_bytes": 3571
+    },
+    {
+      "file_name": "2026-08-15_ai_start_evidence_strip.md",
+      "home": "glee",
+      "rel_path": "2026-08-15_ai_start_evidence_strip.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 2428
+    },
+    {
+      "file_name": "2026-08-15_live_evidence_loop.md",
+      "home": "glee",
+      "rel_path": "2026-08-15_live_evidence_loop.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 2966
     },
     {
       "file_name": "META.md",
@@ -28388,12 +28404,52 @@
       "size_bytes": 7755
     },
     {
+      "file_name": "2026-08-15_85_percent_of_the_atlas_ledger_was_written_by_identities_that_do_not_exist.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_85_percent_of_the_atlas_ledger_was_written_by_identities_that_do_not_exist.md",
+      "date": "2026-08-15",
+      "tier": "C",
+      "size_bytes": 7800
+    },
+    {
+      "file_name": "2026-08-15_a_policy_flag_in_the_credential_slot_stopped_the_hn_lane.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_a_policy_flag_in_the_credential_slot_stopped_the_hn_lane.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 7633
+    },
+    {
+      "file_name": "2026-08-15_a_required_prompt_header_section_is_intermittently_missing_and_it_is_a_timeout_race.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_a_required_prompt_header_section_is_intermittently_missing_and_it_is_a_timeout_race.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5515
+    },
+    {
+      "file_name": "2026-08-15_agent_signup_is_not_idempotent_and_our_one_real_arrival_proves_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_agent_signup_is_not_idempotent_and_our_one_real_arrival_proves_it.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 6352
+    },
+    {
       "file_name": "2026-08-15_autonomous_mode_already_exists_and_is_fail_closed_on_two_blockers.md",
       "home": "zoro",
       "rel_path": "2026-08-15_autonomous_mode_already_exists_and_is_fail_closed_on_two_blockers.md",
       "date": "2026-08-15",
       "tier": null,
       "size_bytes": 9606
+    },
+    {
+      "file_name": "2026-08-15_bluesky_attribution_has_been_dead_since_july_17.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_bluesky_attribution_has_been_dead_since_july_17.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5319
     },
     {
       "file_name": "2026-08-15_bluesky_carries_the_canned_pool_and_a_200_char_cap_killed_my_comparison.md",
@@ -28404,12 +28460,52 @@
       "size_bytes": 5050
     },
     {
+      "file_name": "2026-08-15_c0rq_surface_works_as_designed_but_has_not_grown_in_45_days.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_c0rq_surface_works_as_designed_but_has_not_grown_in_45_days.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 3072
+    },
+    {
+      "file_name": "2026-08-15_calibration_a_verifier_must_prove_it_can_find_before_it_reports_absence.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_calibration_a_verifier_must_prove_it_can_find_before_it_reports_absence.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5652
+    },
+    {
+      "file_name": "2026-08-15_canned_replies_do_not_underperform_and_that_kills_my_argument.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_canned_replies_do_not_underperform_and_that_kills_my_argument.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5001
+    },
+    {
+      "file_name": "2026-08-15_cold_landing_audit_the_copy_works_the_live_panels_undercut_it_and_agents_see_zeros.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_cold_landing_audit_the_copy_works_the_live_panels_undercut_it_and_agents_see_zeros.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 7583
+    },
+    {
       "file_name": "2026-08-15_comment_order_sizing_correction_it_was_not_clock_only.md",
       "home": "zoro",
       "rel_path": "2026-08-15_comment_order_sizing_correction_it_was_not_clock_only.md",
       "date": "2026-08-15",
       "tier": "B",
       "size_bytes": 3152
+    },
+    {
+      "file_name": "2026-08-15_comment_order_sizing_correction_windows_must_match.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_comment_order_sizing_correction_windows_must_match.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 2435
     },
     {
       "file_name": "2026-08-15_comment_order_sizing_two_independent_axes.md",
@@ -28420,12 +28516,548 @@
       "size_bytes": 3454
     },
     {
+      "file_name": "2026-08-15_connector_liveness_suite_could_not_run_and_one_test_had_no_power.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_connector_liveness_suite_could_not_run_and_one_test_had_no_power.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5014
+    },
+    {
+      "file_name": "2026-08-15_corrected_referral_baseline_three_external_clients.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_corrected_referral_baseline_three_external_clients.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4666
+    },
+    {
+      "file_name": "2026-08-15_declined_to_build_the_roster_header_and_why.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_declined_to_build_the_roster_header_and_why.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4206
+    },
+    {
+      "file_name": "2026-08-15_deploy_gates_are_green_against_the_arena_fix.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_deploy_gates_are_green_against_the_arena_fix.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 6107
+    },
+    {
+      "file_name": "2026-08-15_doctrine_owns_the_c0rq_namespace_and_a_newer_registry_took_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_doctrine_owns_the_c0rq_namespace_and_a_newer_registry_took_it.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 7158
+    },
+    {
+      "file_name": "2026-08-15_drained_two_verification_debt_jobs_and_left_the_named_one_correctly_unverified.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_drained_two_verification_debt_jobs_and_left_the_named_one_correctly_unverified.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4929
+    },
+    {
+      "file_name": "2026-08-15_echo_breach_borderlands_wave1_cel_camera_clutter.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_echo_breach_borderlands_wave1_cel_camera_clutter.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6574
+    },
+    {
+      "file_name": "2026-08-15_echo_breach_independent_outward_check.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_echo_breach_independent_outward_check.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 11816
+    },
+    {
+      "file_name": "2026-08-15_echo_breach_instrumented_the_assembly.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_echo_breach_instrumented_the_assembly.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6779
+    },
+    {
+      "file_name": "2026-08-15_empty_start_seat_architecture_and_scoped_reconcile.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_empty_start_seat_architecture_and_scoped_reconcile.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 12969
+    },
+    {
+      "file_name": "2026-08-15_evidence_binding_shipped_and_the_delta_measured_honestly.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_evidence_binding_shipped_and_the_delta_measured_honestly.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 8498
+    },
+    {
+      "file_name": "2026-08-15_evidence_class_as_a_dispatch_contract.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_evidence_class_as_a_dispatch_contract.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5559
+    },
+    {
+      "file_name": "2026-08-15_evidence_ledger_duplicate_ref_promotion_fixed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_evidence_ledger_duplicate_ref_promotion_fixed.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 3992
+    },
+    {
+      "file_name": "2026-08-15_evidence_routing_by_claim_type_and_my_eighth_instrument_error.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_evidence_routing_by_claim_type_and_my_eighth_instrument_error.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5032
+    },
+    {
+      "file_name": "2026-08-15_execution_and_verification_split_with_typed_evidence.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_execution_and_verification_split_with_typed_evidence.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 12952
+    },
+    {
+      "file_name": "2026-08-15_fallback_lane_verified_live_and_deployed_vs_local_provenance_narrowed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_fallback_lane_verified_live_and_deployed_vs_local_provenance_narrowed.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4972
+    },
+    {
+      "file_name": "2026-08-15_fixed_coord_seats_crashing_on_a_missing_verb.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_fixed_coord_seats_crashing_on_a_missing_verb.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4835
+    },
+    {
       "file_name": "2026-08-15_fleet_reported_zero_capacity_while_thirteen_agents_ran.md",
       "home": "zoro",
       "rel_path": "2026-08-15_fleet_reported_zero_capacity_while_thirteen_agents_ran.md",
       "date": "2026-08-15",
       "tier": null,
-      "size_bytes": 11877
+      "size_bytes": 17539
+    },
+    {
+      "file_name": "2026-08-15_found_the_08_11_commit_a_correct_hardening_with_half_the_fix.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_found_the_08_11_commit_a_correct_hardening_with_half_the_fix.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5110
+    },
+    {
+      "file_name": "2026-08-15_four_live_bluesky_posts_leak_an_internal_log_line.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_four_live_bluesky_posts_leak_an_internal_log_line.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5094
+    },
+    {
+      "file_name": "2026-08-15_github_cannot_tell_broken_from_idle.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_github_cannot_tell_broken_from_idle.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 7283
+    },
+    {
+      "file_name": "2026-08-15_hn_never_published_and_its_queue_holds_24_leaked_prompts.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_hn_never_published_and_its_queue_holds_24_leaked_prompts.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 7471
+    },
+    {
+      "file_name": "2026-08-15_hn_says_queued_and_queues_nothing.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_hn_says_queued_and_queues_nothing.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5539
+    },
+    {
+      "file_name": "2026-08-15_hook_plumbing_drift_cleared_and_a_captain_hold_living_in_an_uncommitted_file.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_hook_plumbing_drift_cleared_and_a_captain_hold_living_in_an_uncommitted_file.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 8246
+    },
+    {
+      "file_name": "2026-08-15_i_claimed_a_pattern_the_base_rate_refutes_it_and_the_real_finding_is_bigger.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_i_claimed_a_pattern_the_base_rate_refutes_it_and_the_real_finding_is_bigger.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3886
+    },
+    {
+      "file_name": "2026-08-15_i_passed_along_a_stale_constraint_captain_had_already_overruled.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_i_passed_along_a_stale_constraint_captain_had_already_overruled.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4711
+    },
+    {
+      "file_name": "2026-08-15_i_told_a_peer_the_stager_could_not_help_and_the_stager_is_the_path.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_i_told_a_peer_the_stager_could_not_help_and_the_stager_is_the_path.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5122
+    },
+    {
+      "file_name": "2026-08-15_inbox_staleness_sweep_four_of_four_were_stale.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_inbox_staleness_sweep_four_of_four_were_stale.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6298
+    },
+    {
+      "file_name": "2026-08-15_independent_review_caught_a_second_error_scope_is_a_topic_key_not_a_claim_key.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_independent_review_caught_a_second_error_scope_is_a_topic_key_not_a_claim_key.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4858
+    },
+    {
+      "file_name": "2026-08-15_js_rendered_surfaces_clean_too.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_js_rendered_surfaces_clean_too.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 3874
+    },
+    {
+      "file_name": "2026-08-15_length_floor_is_advisory_not_a_regression_i_should_silently_fix.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_length_floor_is_advisory_not_a_regression_i_should_silently_fix.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4784
+    },
+    {
+      "file_name": "2026-08-15_linkability_verified_the_priority_1_gate_is_open_and_our_syntax_was_the_block.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_linkability_verified_the_priority_1_gate_is_open_and_our_syntax_was_the_block.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 7374
+    },
+    {
+      "file_name": "2026-08-15_loot_tiers_built_from_the_comment_that_promised_them.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_loot_tiers_built_from_the_comment_that_promised_them.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6914
+    },
+    {
+      "file_name": "2026-08-15_measured_the_unwired_instrument_pattern_and_refused_to_call_16_percent_a_defect.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_measured_the_unwired_instrument_pattern_and_refused_to_call_16_percent_a_defect.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4615
+    },
+    {
+      "file_name": "2026-08-15_moltbook_comment_lane_has_zero_grantable_authority_and_order_31_expired_unused.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_moltbook_comment_lane_has_zero_grantable_authority_and_order_31_expired_unused.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4278
+    },
+    {
+      "file_name": "2026-08-15_moltbook_has_been_dark_30_hours_platform_side_proof.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_moltbook_has_been_dark_30_hours_platform_side_proof.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 3052
+    },
+    {
+      "file_name": "2026-08-15_moltbook_is_dark_for_two_different_reasons.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_moltbook_is_dark_for_two_different_reasons.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4945
+    },
+    {
+      "file_name": "2026-08-15_moltbook_to_platform_trace_identity_works_the_arrival_counter_does_not.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_moltbook_to_platform_trace_identity_works_the_arrival_counter_does_not.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 9311
+    },
+    {
+      "file_name": "2026-08-15_objective_replenishment_gate_done_is_now_a_claim_requiring_evidence.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_objective_replenishment_gate_done_is_now_a_claim_requiring_evidence.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5947
+    },
+    {
+      "file_name": "2026-08-15_observatory_inc010_h2_auditor_confound.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_observatory_inc010_h2_auditor_confound.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 14376
+    },
+    {
+      "file_name": "2026-08-15_one_in_three_bluesky_replies_is_one_of_nine_sentences.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_one_in_three_bluesky_replies_is_one_of_nine_sentences.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5351
+    },
+    {
+      "file_name": "2026-08-15_only_one_channel_of_five_is_instrumented.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_only_one_channel_of_five_is_instrumented.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5379
+    },
+    {
+      "file_name": "2026-08-15_open_redirect_in_safe_next_url_found_and_fixed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_open_redirect_in_safe_next_url_found_and_fixed.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4812
+    },
+    {
+      "file_name": "2026-08-15_our_own_error_codes_mislead_the_agents_we_invite.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_our_own_error_codes_mislead_the_agents_we_invite.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 6623
+    },
+    {
+      "file_name": "2026-08-15_overnight_webdevops_index.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_overnight_webdevops_index.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 7979
+    },
+    {
+      "file_name": "2026-08-15_ownership_notices_downgraded_and_three_stale_gate_tests_repointed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_ownership_notices_downgraded_and_three_stale_gate_tests_repointed.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4411
+    },
+    {
+      "file_name": "2026-08-15_pre_funnel_referral_baseline_captured_before_the_first_link_exists.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_pre_funnel_referral_baseline_captured_before_the_first_link_exists.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4179
+    },
+    {
+      "file_name": "2026-08-15_public_surfaces_scan_clean_a_negative_with_detection_power.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_public_surfaces_scan_clean_a_negative_with_detection_power.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4518
+    },
+    {
+      "file_name": "2026-08-15_queue_contamination_is_broad_but_only_bluesky_ever_published_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_queue_contamination_is_broad_but_only_bluesky_ever_published_it.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5717
+    },
+    {
+      "file_name": "2026-08-15_recovery_job_failed_silently_and_the_live_estate_view_is_truncated.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_recovery_job_failed_silently_and_the_live_estate_view_is_truncated.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5412
+    },
+    {
+      "file_name": "2026-08-15_routed_the_channel_alarm_into_the_daily_digest.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_routed_the_channel_alarm_into_the_daily_digest.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5277
+    },
+    {
+      "file_name": "2026-08-15_salvaged_the_failed_agy_workers_supervisor_and_fixed_four_defects_in_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_salvaged_the_failed_agy_workers_supervisor_and_fixed_four_defects_in_it.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6115
+    },
+    {
+      "file_name": "2026-08-15_second_action_claim_proves_in_the_ledger_and_two_more_instrument_errors.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_second_action_claim_proves_in_the_ledger_and_two_more_instrument_errors.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4389
+    },
+    {
+      "file_name": "2026-08-15_settled_a_third_debt_job_suspected_a_misfire_and_found_the_chain_sound.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_settled_a_third_debt_job_suspected_a_misfire_and_found_the_chain_sound.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4938
+    },
+    {
+      "file_name": "2026-08-15_settled_verification_debt_experience_ledger_routing_channel.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_settled_verification_debt_experience_ledger_routing_channel.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 3255
+    },
+    {
+      "file_name": "2026-08-15_shipped_channel_health_into_the_prompt_header.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_shipped_channel_health_into_the_prompt_header.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 6323
+    },
+    {
+      "file_name": "2026-08-15_shipped_the_bluesky_post_provenance_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_shipped_the_bluesky_post_provenance_gate.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5289
+    },
+    {
+      "file_name": "2026-08-15_stale_lease_root_caused_source_scoped_out_of_reconciliation.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_stale_lease_root_caused_source_scoped_out_of_reconciliation.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 2983
+    },
+    {
+      "file_name": "2026-08-15_stop_certificate_and_the_manager_review_window_is_35_minutes_of_a_23_day_backlog.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_stop_certificate_and_the_manager_review_window_is_35_minutes_of_a_23_day_backlog.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5951
+    },
+    {
+      "file_name": "2026-08-15_stop_certificate_is_now_constitutional_bound_to_the_real_turn_boundary.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_stop_certificate_is_now_constitutional_bound_to_the_real_turn_boundary.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6141
+    },
+    {
+      "file_name": "2026-08-15_takedown_verifier_and_the_job_that_settled_while_i_built_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_takedown_verifier_and_the_job_that_settled_while_i_built_it.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5348
+    },
+    {
+      "file_name": "2026-08-15_termination_gate_three_valued_stop_certificate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_termination_gate_three_valued_stop_certificate.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 10408
+    },
+    {
+      "file_name": "2026-08-15_the_agent_dock_data_layer_falls_back_to_fixtures_in_nine_places.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_agent_dock_data_layer_falls_back_to_fixtures_in_nine_places.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 9263
+    },
+    {
+      "file_name": "2026-08-15_the_alarm_fired_and_nobody_read_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_alarm_fired_and_nobody_read_it.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4600
+    },
+    {
+      "file_name": "2026-08-15_the_arena_code_is_fixed_the_live_page_is_not_and_my_patches_did_not_apply.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_arena_code_is_fixed_the_live_page_is_not_and_my_patches_did_not_apply.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4624
+    },
+    {
+      "file_name": "2026-08-15_the_bluesky_post_path_would_publish_a_traceback_today.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_bluesky_post_path_would_publish_a_traceback_today.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 8615
+    },
+    {
+      "file_name": "2026-08-15_the_c0rq_spec_already_answers_decision_1.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_c0rq_spec_already_answers_decision_1.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4502
+    },
+    {
+      "file_name": "2026-08-15_the_compute_ledger_is_honest_and_has_no_producer.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_compute_ledger_is_honest_and_has_no_producer.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4915
     },
     {
       "file_name": "2026-08-15_the_duplicate_class_is_nine_items_on_two_days.md",
@@ -28436,12 +29068,204 @@
       "size_bytes": 4999
     },
     {
+      "file_name": "2026-08-15_the_edge_is_gated_my_escalation_overstated_the_risk.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_edge_is_gated_my_escalation_overstated_the_risk.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4833
+    },
+    {
+      "file_name": "2026-08-15_the_estate_diagnoses_itself_faster_than_it_reads_itself.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_estate_diagnoses_itself_faster_than_it_reads_itself.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4758
+    },
+    {
+      "file_name": "2026-08-15_the_evidence_was_never_in_the_receipt_corpus_action_claims_prove_in_the_ledger.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_evidence_was_never_in_the_receipt_corpus_action_claims_prove_in_the_ledger.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4779
+    },
+    {
+      "file_name": "2026-08-15_the_false_zero_is_fixed_and_better_than_i_proposed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_false_zero_is_fixed_and_better_than_i_proposed.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 3963
+    },
+    {
+      "file_name": "2026-08-15_the_four_leaked_posts_verified_live_and_right_sized.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_four_leaked_posts_verified_live_and_right_sized.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 3544
+    },
+    {
+      "file_name": "2026-08-15_the_gate_sent_me_to_verification_debt_and_half_of_it_is_a_linkage_defect.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_gate_sent_me_to_verification_debt_and_half_of_it_is_a_linkage_defect.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5029
+    },
+    {
+      "file_name": "2026-08-15_the_generator_is_live_but_nothing_consumes_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_generator_is_live_but_nothing_consumes_it.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 5053
+    },
+    {
+      "file_name": "2026-08-15_the_github_lane_is_healthy_and_that_is_the_useful_part.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_github_lane_is_healthy_and_that_is_the_useful_part.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4397
+    },
+    {
+      "file_name": "2026-08-15_the_github_token_is_dead_and_three_layers_hid_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_github_token_is_dead_and_three_layers_hid_it.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4389
+    },
+    {
+      "file_name": "2026-08-15_the_hn_lane_spent_37_days_on_one_thread.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_hn_lane_spent_37_days_on_one_thread.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 6874
+    },
+    {
+      "file_name": "2026-08-15_the_homepage_ssr_produces_zeros_where_its_own_design_says_real_values.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_homepage_ssr_produces_zeros_where_its_own_design_says_real_values.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 5053
+    },
+    {
+      "file_name": "2026-08-15_the_log_leak_cause_is_intact_and_feeds_four_more_channels.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_log_leak_cause_is_intact_and_feeds_four_more_channels.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5115
+    },
+    {
+      "file_name": "2026-08-15_the_only_halted_channel_is_invisible_to_the_halt_surface.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_only_halted_channel_is_invisible_to_the_halt_surface.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 5708
+    },
+    {
+      "file_name": "2026-08-15_the_peer_bus_reported_the_whole_crew_dead_because_nothing_feeds_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_peer_bus_reported_the_whole_crew_dead_because_nothing_feeds_it.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5335
+    },
+    {
       "file_name": "2026-08-15_the_reply_assembler_has_a_ceiling_of_65_and_is_60_percent_full.md",
       "home": "zoro",
       "rel_path": "2026-08-15_the_reply_assembler_has_a_ceiling_of_65_and_is_60_percent_full.md",
       "date": "2026-08-15",
       "tier": "A",
       "size_bytes": 5650
+    },
+    {
+      "file_name": "2026-08-15_the_scene_was_built_twice_and_every_instrument_agreed_with_it.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_scene_was_built_twice_and_every_instrument_agreed_with_it.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 16975
+    },
+    {
+      "file_name": "2026-08-15_the_story_miner_leak_fix_exists_but_is_not_committed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_story_miner_leak_fix_exists_but_is_not_committed.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4072
+    },
+    {
+      "file_name": "2026-08-15_the_swarm_arena_is_publicly_serving_a_fabricated_claim_and_a_fabricated_PASS.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_swarm_arena_is_publicly_serving_a_fabricated_claim_and_a_fabricated_PASS.md",
+      "date": "2026-08-15",
+      "tier": "C",
+      "size_bytes": 13201
+    },
+    {
+      "file_name": "2026-08-15_the_twelve_humans_are_probably_one_poller.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_twelve_humans_are_probably_one_poller.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5947
+    },
+    {
+      "file_name": "2026-08-15_the_wall_has_twelve_human_candidate_visits_in_its_entire_history.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_the_wall_has_twelve_human_candidate_visits_in_its_entire_history.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4948
+    },
+    {
+      "file_name": "2026-08-15_there_are_two_github_credentials_and_only_one_is_dead.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_there_are_two_github_credentials_and_only_one_is_dead.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4026
+    },
+    {
+      "file_name": "2026-08-15_thirtytwo_moltbook_failures_are_at_least_three_causes.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_thirtytwo_moltbook_failures_are_at_least_three_causes.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 3752
+    },
+    {
+      "file_name": "2026-08-15_true_authority_state_all_channels_and_the_deploy_grant_is_exhausted.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_true_authority_state_all_channels_and_the_deploy_grant_is_exhausted.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 6732
+    },
+    {
+      "file_name": "2026-08-15_truncation_eliminated_731_candidates_and_the_gate_found_the_dead_holders_objective.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_truncation_eliminated_731_candidates_and_the_gate_found_the_dead_holders_objective.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4998
+    },
+    {
+      "file_name": "2026-08-15_two_adapters_live_663_candidates_and_the_agy_task_has_not_arrived.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_two_adapters_live_663_candidates_and_the_agy_task_has_not_arrived.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 4499
     },
     {
       "file_name": "2026-08-15_two_bounded_reply_generators_and_a_guard_pointed_at_the_wrong_half.md",
@@ -28452,12 +29276,84 @@
       "size_bytes": 5124
     },
     {
+      "file_name": "2026-08-15_two_c0rq_registries_share_an_id_namespace_and_no_content.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_two_c0rq_registries_share_an_id_namespace_and_no_content.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5838
+    },
+    {
+      "file_name": "2026-08-15_two_coordination_surfaces_disagree_about_whether_a_peer_is_alive.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_two_coordination_surfaces_disagree_about_whether_a_peer_is_alive.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4883
+    },
+    {
+      "file_name": "2026-08-15_v5_ingest_fix_prepared_tested_and_mutation_proven_deploy_is_the_only_captain_edge.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_v5_ingest_fix_prepared_tested_and_mutation_proven_deploy_is_the_only_captain_edge.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5895
+    },
+    {
+      "file_name": "2026-08-15_v5_lane_dead_8_days_ingest_sends_a_display_summary_where_the_bridge_expects_a_sealed_bundle.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_v5_lane_dead_8_days_ingest_sends_a_display_summary_where_the_bridge_expects_a_sealed_bundle.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6501
+    },
+    {
+      "file_name": "2026-08-15_verification_by_execution_not_by_a_ref_i_wrote_myself.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_verification_by_execution_not_by_a_ref_i_wrote_myself.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 7087
+    },
+    {
+      "file_name": "2026-08-15_verification_debt_settled_by_artifact_proof.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_verification_debt_settled_by_artifact_proof.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 6277
+    },
+    {
+      "file_name": "2026-08-15_verified_the_desk_16_of_16_linkage_on_four_axes.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_verified_the_desk_16_of_16_linkage_on_four_axes.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4405
+    },
+    {
+      "file_name": "2026-08-15_verified_three_slot01_findings_and_reframed_the_idea_index_one.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_verified_three_slot01_findings_and_reframed_the_idea_index_one.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 84991
+    },
+    {
       "file_name": "2026-08-15_visitor_passport_can_actually_claim_work.md",
       "home": "zoro",
       "rel_path": "2026-08-15_visitor_passport_can_actually_claim_work.md",
       "date": "2026-08-15",
       "tier": "B",
       "size_bytes": 3301
+    },
+    {
+      "file_name": "2026-08-15_what_active_agent_passports_8_actually_decomposes_to.md",
+      "home": "zoro",
+      "rel_path": "2026-08-15_what_active_agent_passports_8_actually_decomposes_to.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5167
     },
     {
       "file_name": "2026-08-15_zero_duplicates_but_16_percent_of_our_replies_are_copy_paste.md",
@@ -61220,12 +62116,92 @@
       "size_bytes": 2071
     },
     {
+      "file_name": "2026-08-15_adaptive_routing_shadow_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_adaptive_routing_shadow_gate.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4342
+    },
+    {
+      "file_name": "2026-08-15_autonomous_continuation_admission.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_autonomous_continuation_admission.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 5561
+    },
+    {
+      "file_name": "2026-08-15_autonomous_mission_liveness_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_autonomous_mission_liveness_repair.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 7677
+    },
+    {
+      "file_name": "2026-08-15_autonomy_dependency_resolver.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_autonomy_dependency_resolver.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 2852
+    },
+    {
+      "file_name": "2026-08-15_bluesky_log_leak_live_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_bluesky_log_leak_live_recheck.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1665
+    },
+    {
+      "file_name": "2026-08-15_coding_capture_substrate_probe.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_coding_capture_substrate_probe.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 2022
+    },
+    {
+      "file_name": "2026-08-15_coding_episode_manifest_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_coding_episode_manifest_audit.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4400
+    },
+    {
+      "file_name": "2026-08-15_continuation_successor_executor.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_continuation_successor_executor.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5700
+    },
+    {
+      "file_name": "2026-08-15_glee_compounding_engine_full_roadmap.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_glee_compounding_engine_full_roadmap.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 4299
+    },
+    {
       "file_name": "2026-08-15_glee_compounding_engine_overnight_research.md",
       "home": "sanji",
       "rel_path": "2026-08-15_glee_compounding_engine_overnight_research.md",
       "date": "2026-08-15",
       "tier": "A",
       "size_bytes": 5789
+    },
+    {
+      "file_name": "2026-08-15_glee_next_value_verification_debt.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_glee_next_value_verification_debt.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 8366
     },
     {
       "file_name": "2026-08-15_gleephoenix_candidate_deploy_readiness.md",
@@ -61290,6 +62266,278 @@
       "date": "2026-08-15",
       "tier": "B",
       "size_bytes": 2806
+    },
+    {
+      "file_name": "2026-08-15_multiagent_constitutional_coordination_plan.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_multiagent_constitutional_coordination_plan.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 2406
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_autonomous_evidence_acquisition.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_autonomous_evidence_acquisition.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 5396
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_autonomous_evidence_acquisition_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_autonomous_evidence_acquisition_closeout.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 5027
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_bounded_acquisition_manifest.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_bounded_acquisition_manifest.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3915
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_bounded_acquisition_manifest_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_bounded_acquisition_manifest_v2.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3970
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_estate_testing_family.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_estate_testing_family.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4581
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_live_evidence_chain_canary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_live_evidence_chain_canary.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4416
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_live_evidence_chain_canary_corrected.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_live_evidence_chain_canary_corrected.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5126
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_live_evidence_chain_canary_final.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_live_evidence_chain_canary_final.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5326
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_live_evidence_chain_identity_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_live_evidence_chain_identity_repair.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5115
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_metadata_complete_canary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_metadata_complete_canary.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4755
+    },
+    {
+      "file_name": "2026-08-15_phase_2_5_terminal_path_matrix.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_phase_2_5_terminal_path_matrix.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4401
+    },
+    {
+      "file_name": "2026-08-15_provenance_capture_build_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_provenance_capture_build_packet.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3812
+    },
+    {
+      "file_name": "2026-08-15_provenance_capture_implementation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_provenance_capture_implementation.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4973
+    },
+    {
+      "file_name": "2026-08-15_provenance_verifier_join.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_provenance_verifier_join.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3969
+    },
+    {
+      "file_name": "2026-08-15_routing_join_feasibility.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_routing_join_feasibility.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3855
+    },
+    {
+      "file_name": "2026-08-15_secnmb_verification_debt_settlement.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_secnmb_verification_debt_settlement.md",
+      "date": "2026-08-15",
+      "tier": "A",
+      "size_bytes": 2522
+    },
+    {
+      "file_name": "2026-08-15_verification_debt_linkage_proof_pipeline.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_verification_debt_linkage_proof_pipeline.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5171
+    },
+    {
+      "file_name": "2026-08-15_verification_debt_second_exact_settlement.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_verification_debt_second_exact_settlement.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3714
+    },
+    {
+      "file_name": "2026-08-15_webdevops_bluesky_recent_marker_scan.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_bluesky_recent_marker_scan.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 994
+    },
+    {
+      "file_name": "2026-08-15_webdevops_boundary_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_boundary_recheck.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 2350
+    },
+    {
+      "file_name": "2026-08-15_webdevops_expansion_early_credential_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_expansion_early_credential_gate.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1275
+    },
+    {
+      "file_name": "2026-08-15_webdevops_expansion_gate_runtime_proof.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_expansion_gate_runtime_proof.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1076
+    },
+    {
+      "file_name": "2026-08-15_webdevops_expansion_reachability.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_expansion_reachability.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 2150
+    },
+    {
+      "file_name": "2026-08-15_webdevops_fastpath_authorization_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_fastpath_authorization_packet.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 2380
+    },
+    {
+      "file_name": "2026-08-15_webdevops_final_clean_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_final_clean_candidate.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 2812
+    },
+    {
+      "file_name": "2026-08-15_webdevops_finalclean_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_finalclean_candidate.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 2742
+    },
+    {
+      "file_name": "2026-08-15_webdevops_log_leak_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_log_leak_guard.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1848
+    },
+    {
+      "file_name": "2026-08-15_webdevops_log_leak_residual_consumer_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_log_leak_residual_consumer_guard.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1494
+    },
+    {
+      "file_name": "2026-08-15_webdevops_log_leak_runtime_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_log_leak_runtime_recheck.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1370
+    },
+    {
+      "file_name": "2026-08-15_webdevops_media_regression_breadth.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_media_regression_breadth.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1090
+    },
+    {
+      "file_name": "2026-08-15_webdevops_overnight_health_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_overnight_health_recheck.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1926
+    },
+    {
+      "file_name": "2026-08-15_webdevops_retired_cycle_miner_removed.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_retired_cycle_miner_removed.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 1032
+    },
+    {
+      "file_name": "2026-08-15_webdevops_v5_fastpath_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-15_webdevops_v5_fastpath_candidate.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 3456
     },
     {
       "file_name": "2026-08-15_webdevops_v5_gate_diagnosis.md",
@@ -74138,6 +75386,30 @@
       "date": "2026-08-14",
       "tier": "A",
       "size_bytes": 4545
+    },
+    {
+      "file_name": "2026-08-15_ai_retopology_pipeline.md",
+      "home": "robin",
+      "rel_path": "2026-08-15_ai_retopology_pipeline.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 4860
+    },
+    {
+      "file_name": "2026-08-15_autonomous_branching_research_engine.md",
+      "home": "robin",
+      "rel_path": "2026-08-15_autonomous_branching_research_engine.md",
+      "date": "2026-08-15",
+      "tier": "B",
+      "size_bytes": 5458
+    },
+    {
+      "file_name": "2026-08-15_glee_trusted_kernel_reboot_and_probation_battery.md",
+      "home": "robin",
+      "rel_path": "2026-08-15_glee_trusted_kernel_reboot_and_probation_battery.md",
+      "date": "2026-08-15",
+      "tier": null,
+      "size_bytes": 5550
     },
     {
       "file_name": "2026-08-15_lhes_reciprocal_teaching_loop_and_generation_boundary.md",
