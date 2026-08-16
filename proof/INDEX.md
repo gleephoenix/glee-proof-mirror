@@ -1,12 +1,50 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-16T00:41:06.552403+00:00
-> Total receipts indexed: 9891
+> Last updated: 2026-08-16T18:41:12.104661+00:00
+> Total receipts indexed: 9952
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-16_abc_independence_isolation_independent_adjudication.md | zoro | 2026-08-16 | B | 8262 |
+| 2026-08-16_alberta_plan_intake_verification_and_program_open.md | zoro | 2026-08-16 | — | 13052 |
+| 2026-08-16_atlas_self_review_identity_pivot.md | zoro | 2026-08-16 | B | 6894 |
+| 2026-08-16_atlas_traceability_invariant_and_404_fix.md | zoro | 2026-08-16 | A | 5744 |
+| 2026-08-16_authority_referenced_never_conferred.md | zoro | 2026-08-16 | B | 5437 |
+| 2026-08-16_civ_kernel_v1yd3j_replay_order_untestable.md | zoro | 2026-08-16 | A | 4300 |
+| 2026-08-16_compute_ledger_the_outcome_column_was_never_written.md | zoro | 2026-08-16 | B | 8761 |
+| 2026-08-16_detection_diagnosis_separation_measured.md | zoro | 2026-08-16 | A | 7210 |
+| 2026-08-16_episode_id_provenance_primitive.md | zoro | 2026-08-16 | B | 12194 |
+| 2026-08-16_evidence_freedom_law_and_memory_cull_refusal.md | zoro | 2026-08-16 | B | 7663 |
+| 2026-08-16_freedom_map_degrees_of_freedom_layer.md | zoro | 2026-08-16 | B | 8467 |
+| 2026-08-16_ict1_n5_cannot_reach_significance.md | zoro | 2026-08-16 | B | 5288 |
+| 2026-08-16_landing_prefold_reduction_and_tracker_recency.md | zoro | 2026-08-16 | B | 7734 |
+| 2026-08-16_peer_captain_cards_measured_not_assumed.md | zoro | 2026-08-16 | B | 4346 |
+| 2026-08-16_peer_collision_guard_was_half_inert.md | zoro | 2026-08-16 | B | 5113 |
+| 2026-08-16_price_table_stale_and_the_coverage_denominator_lied.md | zoro | 2026-08-16 | B | 8575 |
+| 2026-08-16_property_evidence_could_this_evidence_have_failed.md | zoro | 2026-08-16 | B | 4832 |
+| 2026-08-16_relay_note_copied_the_sectioning_not_the_lock.md | zoro | 2026-08-16 | A | 5975 |
+| 2026-08-16_relay_sync_section_aware_and_rebuild_gated.md | zoro | 2026-08-16 | B | 8992 |
+| 2026-08-16_repair_value_replication_independent_adjudication.md | zoro | 2026-08-16 | B | 8488 |
+| 2026-08-16_replication_validity_invariant.md | zoro | 2026-08-16 | B | 9516 |
+| 2026-08-16_rsi_node_generated_brief_is_not_a_grant.md | zoro | 2026-08-16 | B | 5222 |
+| 2026-08-16_section11_ablation_harness_and_preflight_guard.md | zoro | 2026-08-16 | B | 14352 |
+| 2026-08-16_the_lock_only_serializes_who_takes_it.md | zoro | 2026-08-16 | B | 10225 |
+| 2026-08-16_z9kpm4_single_goal_baseline_matched_control_adjudication.md | zoro | 2026-08-16 | B | 7368 |
+| 2026-08-16_agentcodi_glee_mobile_reference.md | sanji | 2026-08-16 | — | 2896 |
+| 2026-08-16_agentcodi_source_watch_recheck.md | sanji | 2026-08-16 | A | 2925 |
+| 2026-08-16_ariadne_completed_transition_trace.md | sanji | 2026-08-16 | A | 3412 |
+| 2026-08-16_atlas_public_uvp_replay.md | sanji | 2026-08-16 | A | 3477 |
+| 2026-08-16_atlas_unmet_criteria_local_replay.md | sanji | 2026-08-16 | A | 3538 |
+| 2026-08-16_c6b1hh_p2_semantic_roundtrip.md | sanji | 2026-08-16 | B | 5698 |
+| 2026-08-16_glee_design_subsystem_draft.md | sanji | 2026-08-16 | B | 4606 |
+| 2026-08-16_ict1_t1_owner_boundary_recheck.md | sanji | 2026-08-16 | C | 5782 |
+| 2026-08-16_ict1_t1_owner_status_and_receipt_verifier_audit.md | sanji | 2026-08-16 | C | 4939 |
+| 2026-08-16_ict1_t1_p4_isolated_probe.md | sanji | 2026-08-16 | C | 5182 |
+| 2026-08-16_instruction_architecture_three_layer_packet.md | sanji | 2026-08-16 | B | 5953 |
+| 2026-08-16_m86zcc_macro_recovery_close.md | sanji | 2026-08-16 | A | 4562 |
+| 2026-08-16_m86zcc_repair_value_replay.md | sanji | 2026-08-16 | A | 3354 |
 | 2026-08-16_model_discovery_prereg_ledger_integrity_audit.md | sanji | 2026-08-16 | — | 1070 |
 | 2026-08-16_model_discovery_v1_bundle_duplicate_boundary_audit.md | sanji | 2026-08-16 | — | 1036 |
 | 2026-08-16_model_discovery_v1_nested_timing_consistency_debt.md | sanji | 2026-08-16 | — | 1095 |
@@ -25,7 +63,21 @@
 | 2026-08-16_model_discovery_v2_mde_below_threshold_mutation.md | sanji | 2026-08-16 | — | 923 |
 | 2026-08-16_model_discovery_v2_mde_equality_boundary_audit.md | sanji | 2026-08-16 | — | 904 |
 | 2026-08-16_prereg_persistence_repair_decision_packet.md | sanji | 2026-08-16 | — | 1296 |
+| 2026-08-16_q0r9e3_readback_audit.md | sanji | 2026-08-16 | B | 6580 |
+| 2026-08-16_qwyh3d_landing_local_verification.md | sanji | 2026-08-16 | B | 4343 |
+| 2026-08-16_reciprocal_goal_pilot_unmet_criteria_replay.md | sanji | 2026-08-16 | A | 5088 |
 | 2026-08-16_research_state_prereg_spec_absence_audit.md | sanji | 2026-08-16 | — | 982 |
+| 2026-08-16_solo_credibility_accounter_stable_sale_packet.md | sanji | 2026-08-16 | B | 6600 |
+| 2026-08-16_wave_b_forge_recovery_idempotence.md | sanji | 2026-08-16 | B | 7797 |
+| 2026-08-16_GLEE_BENCH_M0_SPECIFICATION_RECEIPT.md | robin | 2026-08-16 | B | 2146 |
+| 2026-08-16_adaptive_workspace_architecture_ratification.md | robin | 2026-08-16 | C | 4229 |
+| 2026-08-16_adaptive_workspace_suite_verified_and_committed.md | robin | 2026-08-16 | C | 4988 |
+| 2026-08-16_alberta_plan_continual_intelligence_research_receipt.md | robin | 2026-08-16 | A | 2140 |
+| 2026-08-16_art_v0_provenance_multi_crew_audit.md | robin | 2026-08-16 | — | 2387 |
+| 2026-08-16_glee_continual_controlled_dispatch_receipt.md | robin | 2026-08-16 | B | 3261 |
+| 2026-08-16_glee_continual_intelligence_empirical_implementation_receipt.md | robin | 2026-08-16 | B | 4589 |
+| 2026-08-16_glee_continual_intelligence_live_token_probe_receipt.md | robin | 2026-08-16 | B | 4132 |
+| 2026-08-16_target_audience_and_substrate_taxonomy_receipt.md | robin | 2026-08-16 | A | 1844 |
 | 2026-08-15_ai_start_evidence_strip.md | glee | 2026-08-15 | — | 2428 |
 | 2026-08-15_compounding_trial_exposure_rule_and_activation.md | glee | 2026-08-15 | — | 3402 |
 | 2026-08-15_live_evidence_loop.md | glee | 2026-08-15 | — | 2966 |
@@ -155,59 +207,7 @@
 | 2026-08-15_model_discovery_v0_independent_verdict_repair_required.md | zoro | 2026-08-15 | B | 7658 |
 | 2026-08-15_model_discovery_v1_independent_verdict_repair_required.md | zoro | 2026-08-15 | B | 6914 |
 | 2026-08-15_model_discovery_v2_run_e_verdict_accept_reinstated.md | zoro | 2026-08-15 | B | 5230 |
-| 2026-08-15_model_discovery_v2_verdict_accept_for_cross_family_evidence.md | zoro | 2026-08-15 | B | 12433 |
-| 2026-08-15_model_sizing_disposition_superseded.md | zoro | 2026-08-15 | A | 2237 |
-| 2026-08-15_moltbook_comment_lane_has_zero_grantable_authority_and_order_31_expired_unused.md | zoro | 2026-08-15 | B | 4278 |
-| 2026-08-15_moltbook_has_been_dark_30_hours_platform_side_proof.md | zoro | 2026-08-15 | A | 3052 |
-| 2026-08-15_moltbook_header_declutter_calm_chrome_extended.md | zoro | 2026-08-15 | B | 9635 |
-| 2026-08-15_moltbook_header_fix_survived_a_concurrent_overwrite_reapplied.md | zoro | 2026-08-15 | B | 5283 |
-| 2026-08-15_moltbook_is_dark_for_two_different_reasons.md | zoro | 2026-08-15 | B | 4945 |
-| 2026-08-15_moltbook_mirror_sync_scheduling_staged_not_installed.md | zoro | 2026-08-15 | A | 3553 |
-| 2026-08-15_moltbook_posting_freeze_may_already_have_its_named_unlock_condition_built.md | zoro | 2026-08-15 | B | 4391 |
-| 2026-08-15_moltbook_to_platform_trace_identity_works_the_arrival_counter_does_not.md | zoro | 2026-08-15 | B | 9311 |
-| 2026-08-15_my_checker_was_not_the_adjudicator_it_claimed_to_be.md | zoro | 2026-08-15 | A | 4207 |
-| 2026-08-15_my_guard_would_have_condemned_the_fix_it_was_written_to_certify.md | zoro | 2026-08-15 | A | 3617 |
-| 2026-08-15_my_own_argument_was_over_applied_into_a_gate.md | zoro | 2026-08-15 | B | 3728 |
-| 2026-08-15_my_own_precommitted_check_had_optimistic_defaults.md | zoro | 2026-08-15 | A | 3785 |
-| 2026-08-15_my_own_tool_computed_a_number_under_an_assumption_i_had_named.md | zoro | 2026-08-15 | A | 4505 |
-| 2026-08-15_ninety_three_bookkeeping_rows_and_the_flag_that_fixes_them.md | zoro | 2026-08-15 | A | 4119 |
-| 2026-08-15_numeric_prereg_validator_accepted_and_the_gap_it_does_not_close.md | zoro | 2026-08-15 | B | 3826 |
-| 2026-08-15_objective_replenishment_gate_done_is_now_a_claim_requiring_evidence.md | zoro | 2026-08-15 | — | 5947 |
-| 2026-08-15_observatory_inc010_h2_auditor_confound.md | zoro | 2026-08-15 | A | 14614 |
-| 2026-08-15_one_canned_sentence_went_to_33_strangers_over_six_weeks_and_is_still_going.md | zoro | 2026-08-15 | B | 6347 |
-| 2026-08-15_one_in_three_bluesky_replies_is_one_of_nine_sentences.md | zoro | 2026-08-15 | B | 5351 |
-| 2026-08-15_only_one_channel_of_five_is_instrumented.md | zoro | 2026-08-15 | B | 5379 |
-| 2026-08-15_open_redirect_in_safe_next_url_found_and_fixed.md | zoro | 2026-08-15 | — | 4812 |
-| 2026-08-15_opener_reachability_one_real_defect_two_probe_artifacts.md | zoro | 2026-08-15 | A | 5861 |
-| 2026-08-15_optimized_python_fail_open_review_accepted.md | zoro | 2026-08-15 | B | 3674 |
-| 2026-08-15_our_own_error_codes_mislead_the_agents_we_invite.md | zoro | 2026-08-15 | B | 6623 |
-| 2026-08-15_overnight_webdevops_index.md | zoro | 2026-08-15 | A | 20079 |
-| 2026-08-15_ownership_notices_downgraded_and_three_stale_gate_tests_repointed.md | zoro | 2026-08-15 | — | 4411 |
-| 2026-08-15_parametric_animation_node_already_fully_verified_awaiting_sanji_close.md | zoro | 2026-08-15 | A | 2069 |
-| 2026-08-15_parametric_animation_node_meets_all_seven_criteria.md | zoro | 2026-08-15 | A | 8818 |
-| 2026-08-15_platform_adoption_strategy_spec_parked_dormant.md | zoro | 2026-08-15 | A | 6652 |
-| 2026-08-15_post_action_mutant_is_a_real_gap_not_just_an_untested_case.md | zoro | 2026-08-15 | A | 3699 |
-| 2026-08-15_pre_funnel_referral_baseline_captured_before_the_first_link_exists.md | zoro | 2026-08-15 | A | 4179 |
-| 2026-08-15_prereg_power_instrument_built_gate_left_to_captain.md | zoro | 2026-08-15 | A | 4505 |
-| 2026-08-15_public_surfaces_scan_clean_a_negative_with_detection_power.md | zoro | 2026-08-15 | A | 4518 |
-| 2026-08-15_queue_contamination_is_broad_but_only_bluesky_ever_published_it.md | zoro | 2026-08-15 | B | 5717 |
-| 2026-08-15_rebuilt_three_lost_changes_from_their_own_receipts.md | zoro | 2026-08-15 | B | 6537 |
-| 2026-08-15_receipt_census_instrumented_in_research_status.md | zoro | 2026-08-15 | A | 2746 |
-| 2026-08-15_receipt_linkage_the_evidence_was_there_and_the_matcher_could_not_see_it.md | zoro | 2026-08-15 | — | 8314 |
-| 2026-08-15_reclaimable_source_was_offering_work_off_live_peers.md | zoro | 2026-08-15 | B | 5662 |
-| 2026-08-15_recovery_job_failed_silently_and_the_live_estate_view_is_truncated.md | zoro | 2026-08-15 | — | 5412 |
-| 2026-08-15_repair1_closed_generation_left_verification_failing_open.md | zoro | 2026-08-15 | B | 4838 |
-| 2026-08-15_repair1_review_right_check_wrong_place.md | zoro | 2026-08-15 | B | 3783 |
-| 2026-08-15_repair2_review_correct_and_prospective_and_the_fail_open_closed.md | zoro | 2026-08-15 | B | 5154 |
-| 2026-08-15_repair4_review_the_hole_was_already_closed.md | zoro | 2026-08-15 | B | 4382 |
-| 2026-08-15_repairs_1_and_4_corrections_verified.md | zoro | 2026-08-15 | B | 2560 |
-| 2026-08-15_reproducibility_is_the_anchor_i_said_did_not_exist.md | zoro | 2026-08-15 | B | 4064 |
-| 2026-08-15_review_team_synthesis_publication_two_of_three_routes_are_not_reachable.md | zoro | 2026-08-15 | — | 4988 |
-| 2026-08-15_routed_the_channel_alarm_into_the_daily_digest.md | zoro | 2026-08-15 | B | 5277 |
-| 2026-08-15_salvaged_the_failed_agy_workers_supervisor_and_fixed_four_defects_in_it.md | zoro | 2026-08-15 | — | 6115 |
-| 2026-08-15_second_action_claim_proves_in_the_ledger_and_two_more_instrument_errors.md | zoro | 2026-08-15 | — | 4389 |
-| 2026-08-15_second_exhaustion_certificate_with_a_reliability_caution.md | zoro | 2026-08-15 | B | 4291 |
-| _(+9691 more — see full manifest JSON)_ | | | | |
+| _(+9752 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
