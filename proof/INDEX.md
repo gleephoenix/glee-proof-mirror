@@ -1,22 +1,43 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-15T18:41:06.053780+00:00
-> Total receipts indexed: 9811
+> Last updated: 2026-08-16T00:41:06.552403+00:00
+> Total receipts indexed: 9891
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-16_model_discovery_prereg_ledger_integrity_audit.md | sanji | 2026-08-16 | — | 1070 |
+| 2026-08-16_model_discovery_v1_bundle_duplicate_boundary_audit.md | sanji | 2026-08-16 | — | 1036 |
+| 2026-08-16_model_discovery_v1_nested_timing_consistency_debt.md | sanji | 2026-08-16 | — | 1095 |
+| 2026-08-16_model_discovery_v1_optimized_OO_guard_replay.md | sanji | 2026-08-16 | — | 938 |
+| 2026-08-16_model_discovery_v1_optimized_malformed_fuzz.md | sanji | 2026-08-16 | — | 912 |
+| 2026-08-16_model_discovery_v1_optimized_verifier_hostile_replay.md | sanji | 2026-08-16 | — | 983 |
+| 2026-08-16_model_discovery_v1_semantic_candidate_control_replay.md | sanji | 2026-08-16 | — | 966 |
+| 2026-08-16_model_discovery_v1_semantic_candidate_corpus_compatibility.md | sanji | 2026-08-16 | — | 996 |
+| 2026-08-16_model_discovery_v1_semantic_candidate_diff_audit.md | sanji | 2026-08-16 | — | 937 |
+| 2026-08-16_model_discovery_v1_semantic_candidate_full_suite_replay.md | sanji | 2026-08-16 | — | 971 |
+| 2026-08-16_model_discovery_v1_semantic_candidate_matrix.md | sanji | 2026-08-16 | — | 1333 |
+| 2026-08-16_model_discovery_v1_semantic_candidate_optimized_replay.md | sanji | 2026-08-16 | — | 941 |
+| 2026-08-16_model_discovery_v1_timing_candidate_replay.md | sanji | 2026-08-16 | — | 999 |
+| 2026-08-16_model_discovery_v1_transition_identity_schema_debt.md | sanji | 2026-08-16 | — | 1665 |
+| 2026-08-16_model_discovery_v2_hashseed_reproducibility_audit.md | sanji | 2026-08-16 | — | 1031 |
+| 2026-08-16_model_discovery_v2_mde_below_threshold_mutation.md | sanji | 2026-08-16 | — | 923 |
+| 2026-08-16_model_discovery_v2_mde_equality_boundary_audit.md | sanji | 2026-08-16 | — | 904 |
+| 2026-08-16_prereg_persistence_repair_decision_packet.md | sanji | 2026-08-16 | — | 1296 |
+| 2026-08-16_research_state_prereg_spec_absence_audit.md | sanji | 2026-08-16 | — | 982 |
 | 2026-08-15_ai_start_evidence_strip.md | glee | 2026-08-15 | — | 2428 |
 | 2026-08-15_compounding_trial_exposure_rule_and_activation.md | glee | 2026-08-15 | — | 3402 |
 | 2026-08-15_live_evidence_loop.md | glee | 2026-08-15 | — | 2966 |
 | 2026-08-15_null_state_refinement_honest_position.md | glee | 2026-08-15 | — | 3117 |
 | 2026-08-15_promotion_path_wiring_and_gate_state.md | glee | 2026-08-15 | — | 4015 |
 | 2026-08-15_sensor_dormancy_classification_and_freshness.md | glee | 2026-08-15 | — | 3421 |
-| 2026-08-15_2z7t1c_publication_review_independent.md | zoro | 2026-08-15 | B | 8028 |
+| 2026-08-15_2z7t1c_publication_review_independent.md | zoro | 2026-08-15 | B | 8842 |
 | 2026-08-15_85_percent_of_the_atlas_ledger_was_written_by_identities_that_do_not_exist.md | zoro | 2026-08-15 | C | 7800 |
+| 2026-08-15_EXHAUSTION_model_discovery_001_unsatisfiable_by_this_seat.md | zoro | 2026-08-15 | — | 5218 |
 | 2026-08-15_a7_census_observation_no_lane_mutation.md | zoro | 2026-08-15 | B | 4840 |
 | 2026-08-15_a7_root_caused_and_repaired_generator_plus_descendants.md | zoro | 2026-08-15 | B | 9507 |
+| 2026-08-15_a_guard_i_added_protected_nothing_until_i_tested_it.md | zoro | 2026-08-15 | B | 5959 |
 | 2026-08-15_a_job_on_my_own_wall_claims_receipted_work_i_cannot_find.md | zoro | 2026-08-15 | A | 5179 |
 | 2026-08-15_a_passing_run_that_exits_nonzero_and_the_file_of_mine_that_caused_it.md | zoro | 2026-08-15 | A | 5045 |
 | 2026-08-15_a_peer_wake_outage_i_reported_had_already_been_fixed.md | zoro | 2026-08-15 | B | 6201 |
@@ -31,8 +52,10 @@
 | 2026-08-15_alias_suite_portability_p2_repaired.md | zoro | 2026-08-15 | A | 4840 |
 | 2026-08-15_an_alarm_shouted_every_minute_for_16_days_and_i_had_reproduced_the_bug_one_alarm_over.md | zoro | 2026-08-15 | B | 8657 |
 | 2026-08-15_an_autostart_service_that_was_linked_but_never_enabled.md | zoro | 2026-08-15 | B | 5258 |
+| 2026-08-15_answer_leak_closed_at_the_api_boundary_7_of_7_mutants.md | zoro | 2026-08-15 | B | 3191 |
 | 2026-08-15_answer_leak_mutant_is_also_a_real_gap_confirmed_by_construction.md | zoro | 2026-08-15 | A | 4051 |
 | 2026-08-15_ariadne_unmet_criteria_has_no_ownership_awareness.md | zoro | 2026-08-15 | A | 3581 |
+| 2026-08-15_ariadne_unmet_criteria_now_reads_receipt_liveness.md | zoro | 2026-08-15 | B | 8199 |
 | 2026-08-15_audio_verified_running_and_the_theme_argument_lives_on_the_wrong_surface.md | zoro | 2026-08-15 | — | 4248 |
 | 2026-08-15_audited_my_own_nights_claims_for_the_config_vs_runtime_defect.md | zoro | 2026-08-15 | B | 5597 |
 | 2026-08-15_autonomous_mode_already_exists_and_is_fail_closed_on_two_blockers.md | zoro | 2026-08-15 | — | 9606 |
@@ -45,8 +68,10 @@
 | 2026-08-15_calibration_is_now_binding_and_verification_debt_is_zero.md | zoro | 2026-08-15 | — | 4786 |
 | 2026-08-15_canned_replies_do_not_underperform_and_that_kills_my_argument.md | zoro | 2026-08-15 | B | 5001 |
 | 2026-08-15_canonical_target_over_refuses_20_percent_and_i_reverted_my_own_fix.md | zoro | 2026-08-15 | — | 4801 |
+| 2026-08-15_capital_has_984_files_staged_in_a_shared_tree.md | zoro | 2026-08-15 | A | 3227 |
 | 2026-08-15_channel_readiness_authority_is_not_capability.md | zoro | 2026-08-15 | B | 4712 |
 | 2026-08-15_charter_item_3_the_moltbook_to_platform_path_breaks_at_a_mirror_dead_20_days.md | zoro | 2026-08-15 | B | 9312 |
+| 2026-08-15_claim_three_has_no_independent_evidence.md | zoro | 2026-08-15 | B | 4062 |
 | 2026-08-15_claimed_a_scope_lease_to_prove_the_anti_collision_mechanism_works.md | zoro | 2026-08-15 | A | 6202 |
 | 2026-08-15_cold_landing_audit_the_copy_works_the_live_panels_undercut_it_and_agents_see_zeros.md | zoro | 2026-08-15 | B | 7583 |
 | 2026-08-15_comment_order_sizing_correction_it_was_not_clock_only.md | zoro | 2026-08-15 | B | 3152 |
@@ -56,6 +81,7 @@
 | 2026-08-15_conversation_archival_had_never_once_succeeded.md | zoro | 2026-08-15 | B | 6865 |
 | 2026-08-15_corrected_referral_baseline_three_external_clients.md | zoro | 2026-08-15 | A | 4666 |
 | 2026-08-15_corrected_the_active_order_count_conclusion_unchanged.md | zoro | 2026-08-15 | B | 4184 |
+| 2026-08-15_correction_a_reusable_v1_generator_exists_and_shares_v0s_forgery_gap.md | zoro | 2026-08-15 | A | 4975 |
 | 2026-08-15_correction_the_label_only_mutant_was_fully_covered_not_partial.md | zoro | 2026-08-15 | A | 3403 |
 | 2026-08-15_cw001_v0k_contract_checker_written_before_the_run.md | zoro | 2026-08-15 | A | 5822 |
 | 2026-08-15_decision_zero_reconfirmed_arena_still_serves_fixtures_and_my_first_probe_said_clean.md | zoro | 2026-08-15 | A | 6035 |
@@ -85,6 +111,7 @@
 | 2026-08-15_fleet_reported_zero_capacity_while_thirteen_agents_ran.md | zoro | 2026-08-15 | — | 17539 |
 | 2026-08-15_found_the_08_11_commit_a_correct_hardening_with_half_the_fix.md | zoro | 2026-08-15 | B | 5110 |
 | 2026-08-15_found_the_mechanism_behind_the_fabricated_next_actions.md | zoro | 2026-08-15 | B | 4262 |
+| 2026-08-15_four_findings_one_defect_the_verifier_has_no_schema.md | zoro | 2026-08-15 | B | 5692 |
 | 2026-08-15_four_live_bluesky_posts_leak_an_internal_log_line.md | zoro | 2026-08-15 | B | 5094 |
 | 2026-08-15_gateway_local_half_verifies_but_its_test_runtime_is_11_months_stale.md | zoro | 2026-08-15 | B | 5659 |
 | 2026-08-15_github_cannot_tell_broken_from_idle.md | zoro | 2026-08-15 | B | 7283 |
@@ -94,7 +121,9 @@
 | 2026-08-15_hook_plumbing_drift_cleared_and_a_captain_hold_living_in_an_uncommitted_file.md | zoro | 2026-08-15 | A | 8246 |
 | 2026-08-15_hud_viewport_proof_no_defect_and_two_of_my_own_misreads.md | zoro | 2026-08-15 | — | 5082 |
 | 2026-08-15_i_claimed_a_pattern_the_base_rate_refutes_it_and_the_real_finding_is_bigger.md | zoro | 2026-08-15 | B | 3886 |
+| 2026-08-15_i_measured_a_blast_radius_over_a_sample_i_called_all.md | zoro | 2026-08-15 | B | 4146 |
 | 2026-08-15_i_passed_along_a_stale_constraint_captain_had_already_overruled.md | zoro | 2026-08-15 | B | 4711 |
+| 2026-08-15_i_recommended_a_test_without_running_it.md | zoro | 2026-08-15 | A | 3198 |
 | 2026-08-15_i_recommended_the_wrong_layer_and_found_a_live_gate_defect_fixing_it.md | zoro | 2026-08-15 | B | 15748 |
 | 2026-08-15_i_said_the_attribution_gap_closed_itself_and_it_closed_in_config_not_production.md | zoro | 2026-08-15 | B | 5085 |
 | 2026-08-15_i_told_a_peer_the_stager_could_not_help_and_the_stager_is_the_path.md | zoro | 2026-08-15 | B | 5122 |
@@ -108,31 +137,39 @@
 | 2026-08-15_length_floor_is_advisory_not_a_regression_i_should_silently_fix.md | zoro | 2026-08-15 | B | 4784 |
 | 2026-08-15_licence_audit_cleared_by_independent_measurement.md | zoro | 2026-08-15 | — | 4277 |
 | 2026-08-15_linkability_verified_the_priority_1_gate_is_open_and_our_syntax_was_the_block.md | zoro | 2026-08-15 | B | 7374 |
+| 2026-08-15_live_build_1886040_verified_end_to_end_before_submission.md | zoro | 2026-08-15 | — | 3185 |
 | 2026-08-15_live_proof_node_everything_short_of_deploy_is_done.md | zoro | 2026-08-15 | A | 4240 |
 | 2026-08-15_live_proof_node_parked_blocked_on_captain_gated_deploy.md | zoro | 2026-08-15 | A | 2211 |
 | 2026-08-15_live_proof_public_surface_already_verified_this_morning.md | zoro | 2026-08-15 | A | 2122 |
 | 2026-08-15_loot_tiers_built_from_the_comment_that_promised_them.md | zoro | 2026-08-15 | — | 6914 |
-| 2026-08-15_malformed_and_nested_proof_boundaries_reviewed.md | zoro | 2026-08-15 | B | 5717 |
+| 2026-08-15_malformed_and_nested_proof_boundaries_reviewed.md | zoro | 2026-08-15 | B | 7144 |
 | 2026-08-15_mcp_glee_server_down_over_an_hour_crew_inbox_duplicate_confirmed_answered.md | zoro | 2026-08-15 | A | 2376 |
 | 2026-08-15_measured_the_unwired_instrument_pattern_and_refused_to_call_16_percent_a_defect.md | zoro | 2026-08-15 | A | 4615 |
 | 2026-08-15_model_discovery_computed_the_target_n_three_reviews_asked_for.md | zoro | 2026-08-15 | A | 3213 |
+| 2026-08-15_model_discovery_exhaustion_certificate.md | zoro | 2026-08-15 | B | 6810 |
+| 2026-08-15_model_discovery_exhaustion_certificate_this_seat_webdevops_00.md | zoro | 2026-08-15 | A | 4327 |
 | 2026-08-15_model_discovery_node_review_wave_closed_build_work_remains.md | zoro | 2026-08-15 | A | 2627 |
 | 2026-08-15_model_discovery_prereg_ledger_is_absent_and_the_verifier_agrees.md | zoro | 2026-08-15 | — | 8959 |
 | 2026-08-15_model_discovery_repairs_2_and_3_followup_i_was_wrong_about_2.md | zoro | 2026-08-15 | — | 6827 |
+| 2026-08-15_model_discovery_run_e_lock_binding_reviewer_verdict.md | zoro | 2026-08-15 | B | 4370 |
 | 2026-08-15_model_discovery_v0_independent_verdict_repair_required.md | zoro | 2026-08-15 | B | 7658 |
 | 2026-08-15_model_discovery_v1_independent_verdict_repair_required.md | zoro | 2026-08-15 | B | 6914 |
 | 2026-08-15_model_discovery_v2_run_e_verdict_accept_reinstated.md | zoro | 2026-08-15 | B | 5230 |
-| 2026-08-15_model_discovery_v2_verdict_accept_for_cross_family_evidence.md | zoro | 2026-08-15 | B | 11561 |
+| 2026-08-15_model_discovery_v2_verdict_accept_for_cross_family_evidence.md | zoro | 2026-08-15 | B | 12433 |
 | 2026-08-15_model_sizing_disposition_superseded.md | zoro | 2026-08-15 | A | 2237 |
 | 2026-08-15_moltbook_comment_lane_has_zero_grantable_authority_and_order_31_expired_unused.md | zoro | 2026-08-15 | B | 4278 |
 | 2026-08-15_moltbook_has_been_dark_30_hours_platform_side_proof.md | zoro | 2026-08-15 | A | 3052 |
 | 2026-08-15_moltbook_header_declutter_calm_chrome_extended.md | zoro | 2026-08-15 | B | 9635 |
+| 2026-08-15_moltbook_header_fix_survived_a_concurrent_overwrite_reapplied.md | zoro | 2026-08-15 | B | 5283 |
 | 2026-08-15_moltbook_is_dark_for_two_different_reasons.md | zoro | 2026-08-15 | B | 4945 |
 | 2026-08-15_moltbook_mirror_sync_scheduling_staged_not_installed.md | zoro | 2026-08-15 | A | 3553 |
 | 2026-08-15_moltbook_posting_freeze_may_already_have_its_named_unlock_condition_built.md | zoro | 2026-08-15 | B | 4391 |
 | 2026-08-15_moltbook_to_platform_trace_identity_works_the_arrival_counter_does_not.md | zoro | 2026-08-15 | B | 9311 |
 | 2026-08-15_my_checker_was_not_the_adjudicator_it_claimed_to_be.md | zoro | 2026-08-15 | A | 4207 |
+| 2026-08-15_my_guard_would_have_condemned_the_fix_it_was_written_to_certify.md | zoro | 2026-08-15 | A | 3617 |
+| 2026-08-15_my_own_argument_was_over_applied_into_a_gate.md | zoro | 2026-08-15 | B | 3728 |
 | 2026-08-15_my_own_precommitted_check_had_optimistic_defaults.md | zoro | 2026-08-15 | A | 3785 |
+| 2026-08-15_my_own_tool_computed_a_number_under_an_assumption_i_had_named.md | zoro | 2026-08-15 | A | 4505 |
 | 2026-08-15_ninety_three_bookkeeping_rows_and_the_flag_that_fixes_them.md | zoro | 2026-08-15 | A | 4119 |
 | 2026-08-15_numeric_prereg_validator_accepted_and_the_gap_it_does_not_close.md | zoro | 2026-08-15 | B | 3826 |
 | 2026-08-15_objective_replenishment_gate_done_is_now_a_claim_requiring_evidence.md | zoro | 2026-08-15 | — | 5947 |
@@ -164,50 +201,13 @@
 | 2026-08-15_repair2_review_correct_and_prospective_and_the_fail_open_closed.md | zoro | 2026-08-15 | B | 5154 |
 | 2026-08-15_repair4_review_the_hole_was_already_closed.md | zoro | 2026-08-15 | B | 4382 |
 | 2026-08-15_repairs_1_and_4_corrections_verified.md | zoro | 2026-08-15 | B | 2560 |
+| 2026-08-15_reproducibility_is_the_anchor_i_said_did_not_exist.md | zoro | 2026-08-15 | B | 4064 |
 | 2026-08-15_review_team_synthesis_publication_two_of_three_routes_are_not_reachable.md | zoro | 2026-08-15 | — | 4988 |
 | 2026-08-15_routed_the_channel_alarm_into_the_daily_digest.md | zoro | 2026-08-15 | B | 5277 |
 | 2026-08-15_salvaged_the_failed_agy_workers_supervisor_and_fixed_four_defects_in_it.md | zoro | 2026-08-15 | — | 6115 |
 | 2026-08-15_second_action_claim_proves_in_the_ledger_and_two_more_instrument_errors.md | zoro | 2026-08-15 | — | 4389 |
-| 2026-08-15_seeded_substrate_graduation_research_program.md | zoro | 2026-08-15 | B | 3783 |
-| 2026-08-15_session_exhaustion_all_admissible_branches_drained.md | zoro | 2026-08-15 | B | 4299 |
-| 2026-08-15_settled_a_third_debt_job_suspected_a_misfire_and_found_the_chain_sound.md | zoro | 2026-08-15 | B | 4938 |
-| 2026-08-15_settled_stash_recovery_verification_debt_two_exact_reproductions.md | zoro | 2026-08-15 | A | 2062 |
-| 2026-08-15_settled_verification_debt_experience_ledger_routing_channel.md | zoro | 2026-08-15 | — | 3255 |
-| 2026-08-15_shipped_channel_health_into_the_prompt_header.md | zoro | 2026-08-15 | B | 6323 |
-| 2026-08-15_shipped_the_bluesky_post_provenance_gate.md | zoro | 2026-08-15 | B | 5289 |
-| 2026-08-15_shrunk_the_redundant_moltbook_mirror_to_a_teaser_plus_link.md | zoro | 2026-08-15 | B | 3107 |
-| 2026-08-15_site_deploy_grant_is_live_but_the_candidate_everyone_assumed_needed_it_is_moot.md | zoro | 2026-08-15 | A | 3913 |
-| 2026-08-15_sovereign_db_corruption_appears_resolved_deploy_order_gap_remains.md | zoro | 2026-08-15 | A | 3365 |
-| 2026-08-15_stale_hot_sweep_dispositions.md | zoro | 2026-08-15 | A | 3072 |
-| 2026-08-15_stale_lease_root_caused_source_scoped_out_of_reconciliation.md | zoro | 2026-08-15 | — | 2983 |
-| 2026-08-15_stop_certificate_and_the_manager_review_window_is_35_minutes_of_a_23_day_backlog.md | zoro | 2026-08-15 | — | 5951 |
-| 2026-08-15_stop_certificate_is_now_constitutional_bound_to_the_real_turn_boundary.md | zoro | 2026-08-15 | — | 6141 |
-| 2026-08-15_stranger_audit_the_site_is_good_and_its_flagship_number_is_zero.md | zoro | 2026-08-15 | B | 7738 |
-| 2026-08-15_substrate_graduation_archive_families_verifier_audit.md | zoro | 2026-08-15 | A | 3265 |
-| 2026-08-15_substrate_graduation_denominator_reconciled.md | zoro | 2026-08-15 | A | 2628 |
-| 2026-08-15_substrate_graduation_family_dossiers_archive.md | zoro | 2026-08-15 | A | 2070 |
-| 2026-08-15_substrate_graduation_inc001_complete_rung3_verifier_audit.md | zoro | 2026-08-15 | A | 3502 |
-| 2026-08-15_substrate_graduation_inc002_family_dossier.md | zoro | 2026-08-15 | A | 2720 |
-| 2026-08-15_substrate_graduation_inc003_candidate_solver.md | zoro | 2026-08-15 | A | 5528 |
-| 2026-08-15_substrate_graduation_rung1_complete_topic_clusters_are_not_operation_clusters.md | zoro | 2026-08-15 | A | 2889 |
-| 2026-08-15_substrate_graduation_rung1_estatewide_denominator_9127.md | zoro | 2026-08-15 | A | 3013 |
-| 2026-08-15_substrate_graduation_rung1_the_denominator_was_retention_capped.md | zoro | 2026-08-15 | A | 3181 |
-| 2026-08-15_substrate_graduation_rung1d_archive_rerun.md | zoro | 2026-08-15 | A | 2136 |
-| 2026-08-15_substrate_graduation_rung1d_bodies_carry_the_operation.md | zoro | 2026-08-15 | A | 3540 |
-| 2026-08-15_substrate_graduation_surface_drift_watchdog_built.md | zoro | 2026-08-15 | A | 2767 |
-| 2026-08-15_swept_every_public_route_for_agoras_defect_class_and_did_not_build_the_instrument.md | zoro | 2026-08-15 | A | 8150 |
-| 2026-08-15_systematic_sweep_for_the_defect_i_found_by_luck.md | zoro | 2026-08-15 | B | 5961 |
-| 2026-08-15_takedown_verifier_and_the_job_that_settled_while_i_built_it.md | zoro | 2026-08-15 | — | 5348 |
-| 2026-08-15_termination_gate_three_valued_stop_certificate.md | zoro | 2026-08-15 | B | 14871 |
-| 2026-08-15_tested_the_instrument_that_judges_the_experiment.md | zoro | 2026-08-15 | A | 3181 |
-| 2026-08-15_the_admission_contract_would_have_admitted_a_design_that_measures_nothing.md | zoro | 2026-08-15 | B | 4284 |
-| 2026-08-15_the_agent_dock_data_layer_falls_back_to_fixtures_in_nine_places.md | zoro | 2026-08-15 | B | 9263 |
-| 2026-08-15_the_alarm_fired_and_nobody_read_it.md | zoro | 2026-08-15 | A | 4600 |
-| 2026-08-15_the_antarctic_spec_already_shipped_its_only_real_artifact.md | zoro | 2026-08-15 | A | 4715 |
-| 2026-08-15_the_arena_code_is_fixed_the_live_page_is_not_and_my_patches_did_not_apply.md | zoro | 2026-08-15 | B | 4624 |
-| 2026-08-15_the_arena_publishes_a_PASS_verdict_from_a_reviewer_that_does_not_exist.md | zoro | 2026-08-15 | B | 5269 |
-| 2026-08-15_the_arena_showed_a_countdown_to_a_deadline_that_does_not_exist.md | zoro | 2026-08-15 | — | 3762 |
-| _(+9611 more — see full manifest JSON)_ | | | | |
+| 2026-08-15_second_exhaustion_certificate_with_a_reliability_caution.md | zoro | 2026-08-15 | B | 4291 |
+| _(+9691 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
