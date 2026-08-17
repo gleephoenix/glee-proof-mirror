@@ -1,24 +1,92 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-17T06:41:06.520731+00:00
-> Total receipts indexed: 10053
+> Last updated: 2026-08-17T12:41:06.242710+00:00
+> Total receipts indexed: 10121
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
-| 2026-08-17_garl_ran_zero_experiments_for_fifty_days.md | zoro | 2026-08-17 | A | 5792 |
+| 2026-08-17_corpus_contract.md | glee | 2026-08-17 | — | 6578 |
+| 2026-08-17_corpus_decision.md | glee | 2026-08-17 | — | 3468 |
+| 2026-08-17_license_clarification_2409.11416.md | glee | 2026-08-17 | — | 5193 |
+| 2026-08-17_m3_citylearn_translation_trace.md | glee | 2026-08-17 | — | 5810 |
+| 2026-08-17_m4_translation_repro_harness.md | glee | 2026-08-17 | — | 5395 |
+| 2026-08-17_m5_packaging.md | glee | 2026-08-17 | — | 5070 |
+| 2026-08-17_widened_search.md | glee | 2026-08-17 | — | 4506 |
+| 2026-08-17_a_card_that_cleared_on_code_that_never_ran.md | zoro | 2026-08-17 | B | 4810 |
+| 2026-08-17_fd001_the_third_rig_was_flat_before_it_was_drawn.md | zoro | 2026-08-17 | — | 6260 |
+| 2026-08-17_fd001_two_rigs_on_one_line.md | zoro | 2026-08-17 | — | 6665 |
+| 2026-08-17_garl_ran_zero_experiments_for_fifty_days.md | zoro | 2026-08-17 | A | 9651 |
+| 2026-08-17_garl_was_three_outages_and_nobody_was_running_it.md | zoro | 2026-08-17 | A | 9305 |
+| 2026-08-17_he_shoots_at_nothing_the_demo_shot_had_no_net.md | zoro | 2026-08-17 | B | 7256 |
+| 2026-08-17_ontology_shell_five_objects_one_instrument_each.md | zoro | 2026-08-17 | — | 7568 |
+| 2026-08-17_rail_truncation_the_open_object_that_was_not_on_the_map.md | zoro | 2026-08-17 | — | 6626 |
+| 2026-08-17_the_fallback_that_could_not_match_anything.md | zoro | 2026-08-17 | — | 8431 |
+| 2026-08-17_the_optimistic_default_i_shipped_inside_the_fix_for_optimistic_defaults.md | zoro | 2026-08-17 | B | 9009 |
 | 2026-08-17_the_renderer_was_drawing_the_filename.md | zoro | 2026-08-17 | A | 6166 |
+| 2026-08-17_wcp_v1_independent_pilot_done_is_a_position_not_a_claim.md | zoro | 2026-08-17 | A | 7208 |
+| 2026-08-17_adjacent_shots_audio_encode_proof.md | sanji | 2026-08-17 | A | 6132 |
+| 2026-08-17_agent_evidence_exchange_hardening.md | sanji | 2026-08-17 | A | 4600 |
+| 2026-08-17_compute_efficient_capability_scaling_reframe.md | sanji | 2026-08-17 | B | 3894 |
+| 2026-08-17_fd001_crew_moves_canonical_closure_boundary.md | sanji | 2026-08-17 | A | 4802 |
+| 2026-08-17_fd001_crew_moves_take_v002.md | sanji | 2026-08-17 | A | 5828 |
+| 2026-08-17_glee_closure_decomposition_v1.md | sanji | 2026-08-17 | A | 5004 |
+| 2026-08-17_goal-durable-unit.md | sanji | 2026-08-17 | B | 5194 |
 | 2026-08-17_hyperfunction_attribution_ui.md | sanji | 2026-08-17 | B | 5556 |
 | 2026-08-17_hyperfunction_criterion2_authoring.md | sanji | 2026-08-17 | B | 5825 |
 | 2026-08-17_hyperfunction_criterion2_five_exports.md | sanji | 2026-08-17 | B | 3814 |
 | 2026-08-17_hyperfunction_criterion2_inventory.md | sanji | 2026-08-17 | B | 3863 |
+| 2026-08-17_hyperfunction_o3de_launcher_boundary.md | sanji | 2026-08-17 | B | 3042 |
+| 2026-08-17_hyperfunction_o3de_launcher_boundary_correction.md | sanji | 2026-08-17 | B | 2367 |
 | 2026-08-17_hyperfunction_param_diff_receipt.md | sanji | 2026-08-17 | B | 5855 |
 | 2026-08-17_hyperfunction_pixel_determinism_check.md | sanji | 2026-08-17 | B | 4560 |
 | 2026-08-17_hyperfunction_pixel_test_reconciliation.md | sanji | 2026-08-17 | B | 3803 |
+| 2026-08-17_hyperfunction_regression_o3de_boundary.md | sanji | 2026-08-17 | B | 2722 |
 | 2026-08-17_hyperfunction_ui_recheck.md | sanji | 2026-08-17 | B | 4909 |
+| 2026-08-17_receipt_lifecycle_freeze_contract.md | sanji | 2026-08-17 | B | 5144 |
+| 2026-08-17_research_resolve_hn_arxiv_ingestion.md | sanji | 2026-08-17 | A | 4283 |
+| 2026-08-17_session_mode_contract_v1.md | sanji | 2026-08-17 | A | 6190 |
+| 2026-08-17_shot_a_dream_arrives_ariadne_unmet_criteria.md | sanji | 2026-08-17 | A | 4192 |
+| 2026-08-17_shot_a_dream_arrives_mutation_correction.md | sanji | 2026-08-17 | A | 3174 |
+| 2026-08-17_shot_black_boot_ariadne_unmet_criteria.md | sanji | 2026-08-17 | A | 6098 |
+| 2026-08-17_shot_black_boot_closure_addendum.md | sanji | 2026-08-17 | A | 2881 |
+| 2026-08-17_shot_black_boot_closure_correction.md | sanji | 2026-08-17 | A | 2409 |
+| 2026-08-17_shot_black_boot_closure_correction_v2.md | sanji | 2026-08-17 | A | 2345 |
+| 2026-08-17_shot_black_boot_lint_boundary.md | sanji | 2026-08-17 | A | 1770 |
+| 2026-08-17_shot_black_boot_terminal_audit.md | sanji | 2026-08-17 | A | 3475 |
+| 2026-08-17_shot_butterfly_current_engine_replay.md | sanji | 2026-08-17 | A | 4784 |
+| 2026-08-17_shot_he_shoots_ariadne_unmet_criteria.md | sanji | 2026-08-17 | A | 6627 |
+| 2026-08-17_shot_interface_assembles_ariadne_unmet_criteria.md | sanji | 2026-08-17 | A | 6257 |
+| 2026-08-17_transactional_ariadne_closure_receipt.md | sanji | 2026-08-17 | A | 6721 |
+| 2026-08-17_wcp_pilot_002_garl_independent_review.md | sanji | 2026-08-17 | B | 8127 |
+| 2026-08-17_wcp_v1_parent_independent_review.md | sanji | 2026-08-17 | B | 5924 |
+| 2026-08-17_wcp_v1_workspace_report_contract_repair.md | sanji | 2026-08-17 | A | 7020 |
+| 2026-08-17_webmcp_sellside_w1.md | sanji | 2026-08-17 | A | 6792 |
+| 2026-08-17_webmcp_sellside_w1_harness_runner_hardening.md | sanji | 2026-08-17 | A | 5423 |
+| 2026-08-17_webmcp_sellside_w1_sanji_reconciliation.md | sanji | 2026-08-17 | A | 6355 |
+| 2026-08-17_ablation_experiments_hdc_z3.md | robin | 2026-08-17 | A | 3726 |
+| 2026-08-17_advanced_non_llm_ai_full_stack_foundation.md | robin | 2026-08-17 | A | 5581 |
+| 2026-08-17_chatgpt_v5_terminal_adoption_repair.md | robin | 2026-08-17 | B | 4041 |
+| 2026-08-17_epistemic_capability_substrate.md | robin | 2026-08-17 | — | 5117 |
+| 2026-08-17_epistemic_substrate_phase1_5_sealed.md | robin | 2026-08-17 | — | 4336 |
 | 2026-08-17_fleet_hud_operational_proof.md | robin | 2026-08-17 | B | 4534 |
 | 2026-08-17_four_surface_classes_and_instrument_contract_ratification_receipt.md | robin | 2026-08-17 | — | 2869 |
+| 2026-08-17_glee_engine_m1_core_decoupling.md | robin | 2026-08-17 | B | 5887 |
+| 2026-08-17_glee_engine_m2_benchmark_and_grammar_dispatch.md | robin | 2026-08-17 | B | 4886 |
+| 2026-08-17_glee_engine_m3_specialist_fleet_architecture_complete.md | robin | 2026-08-17 | B | 4322 |
+| 2026-08-17_hardened_scientific_experiments_1_to_4.md | robin | 2026-08-17 | — | 7556 |
+| 2026-08-17_phase2a_proposition_registry.md | robin | 2026-08-17 | — | 3613 |
+| 2026-08-17_phase2b_experiment_compiler_and_reproduction_engine.md | robin | 2026-08-17 | A | 5510 |
+| 2026-08-17_phase2c_milestone0_milestone1_ingestion_and_truth_contract.md | robin | 2026-08-17 | — | 5112 |
+| 2026-08-17_phase2c_milestone2_evidence_grounded_extractor.md | robin | 2026-08-17 | — | 5432 |
+| 2026-08-17_phase2c_milestone3_four_engine_semantic_qualification.md | robin | 2026-08-17 | — | 5063 |
+| 2026-08-17_phase2c_milestone4_spec_compilation_gate.md | robin | 2026-08-17 | — | 4892 |
+| 2026-08-17_phase2c_milestones3_to_6_autonomous_research_pipeline.md | robin | 2026-08-17 | — | 6562 |
+| 2026-08-17_phase3_capability_crystallization_and_experience_learning.md | robin | 2026-08-17 | — | 5124 |
+| 2026-08-17_phase4_capability_gain_science_empirical_evaluation.md | robin | 2026-08-17 | — | 3100 |
+| 2026-08-17_spec_to_code_drift_audit.md | robin | 2026-08-17 | A | 2369 |
+| 2026-08-17_terminal_transport_and_dispatch_control_plane_repair.md | robin | 2026-08-17 | — | 6327 |
 | 2026-08-16_conversation_gateway_execution_bridge.md | glee | 2026-08-16 | — | 7042 |
 | 2026-08-16_conversation_gateway_v1.md | glee | 2026-08-16 | — | 6525 |
 | 2026-08-16_track1_research_resolve_and_cockpit_packets.md | glee | 2026-08-16 | — | 6889 |
@@ -139,75 +207,7 @@
 | 2026-08-16_wave_b_forge_recovery_idempotence.md | sanji | 2026-08-16 | B | 7797 |
 | 2026-08-16_x2c9dg_bus_supervisor_test_isolation.md | sanji | 2026-08-16 | B | 5139 |
 | 2026-08-16_zero_capital_arb_current_shadow_replay.md | sanji | 2026-08-16 | B | 4022 |
-| 2026-08-16_CAPTAINS_DESK_CONTINUITY_WORKBOARD_RECEIPT.md | robin | 2026-08-16 | B | 4558 |
-| 2026-08-16_CAPTAINS_DESK_HOSTILE_AUDIT_AND_LIVE_VERIFICATION_RECEIPT.md | robin | 2026-08-16 | — | 5157 |
-| 2026-08-16_CAPTAINS_DESK_PERMANENT_PROMOTION_LEDGER.md | robin | 2026-08-16 | — | 2810 |
-| 2026-08-16_DISPATCH_WATCHDOG_AND_CONTINUITY_REMEDIATION_RECEIPT.md | robin | 2026-08-16 | B | 3485 |
-| 2026-08-16_DOCTRINE_LOCKIN_AND_PLATFORM_INTEGRATION_RECEIPT.md | robin | 2026-08-16 | B | 6410 |
-| 2026-08-16_GLEE_BENCH_GATE10_FALSIFIABILITY_PASS_RECEIPT.md | robin | 2026-08-16 | B | 4773 |
-| 2026-08-16_GLEE_BENCH_M0_SPECIFICATION_RECEIPT.md | robin | 2026-08-16 | B | 2146 |
-| 2026-08-16_GLEE_LIVE_ANTI_RECURSION_ISOLATION_RECEIPT.md | robin | 2026-08-16 | B | 3102 |
-| 2026-08-16_GLEE_LIVE_MULTI_AGENT_CANVAS_ARENA_PROTOTYPE_RECEIPT.md | robin | 2026-08-16 | B | 4292 |
-| 2026-08-16_GLEE_LIVE_THIN_LAYER_UI_REDESIGN_RECEIPT.md | robin | 2026-08-16 | B | 3467 |
-| 2026-08-16_HAI1_RUNTIME_ISOLATION_PROOF_RECEIPT.md | robin | 2026-08-16 | B | 5108 |
-| 2026-08-16_HAI2_INTEGRATED_ANTI_RECURSION_PROOF_RECEIPT.md | robin | 2026-08-16 | B | 4797 |
-| 2026-08-16_HAI3_ADVERSARIAL_FUZZ_ISOLATION_PROOF_RECEIPT.md | robin | 2026-08-16 | B | 5299 |
-| 2026-08-16_HAI_BOUNDARY_INTEGRATION_RECEIPT.md | robin | 2026-08-16 | B | 2864 |
-| 2026-08-16_HETEROGENEOUS_COGNITION_ROUTER_HCR001_RECEIPT.md | robin | 2026-08-16 | — | 5483 |
-| 2026-08-16_HOST_ARTIFACT_ISOLATION_AND_SCOPED_PERCEPTION_SPECIFICATION_RECEIPT.md | robin | 2026-08-16 | B | 3856 |
-| 2026-08-16_LIVE_MCP_INTEGRATION_AND_END_TO_END_SESSION_DRILLS_RECEIPT.md | robin | 2026-08-16 | B | 5597 |
-| 2026-08-16_SPARK_AIRLOCK_DECOUPLING_AND_OPENBRAIN_DIRECTIVES_2_3_RECEIPT.md | robin | 2026-08-16 | B | 7641 |
-| 2026-08-16_STEP7_PROVIDER_COMPLETION_ADAPTERS_RECEIPT.md | robin | 2026-08-16 | B | 3458 |
-| 2026-08-16_VECTOR2_OPEN_BRAIN_CONTEXT_MEMORY_AND_SYNC_ROUTER_RECEIPT.md | robin | 2026-08-16 | B | 4730 |
-| 2026-08-16_VECTOR3A_MODEL_DISPATCH_ENGINE_RECEIPT.md | robin | 2026-08-16 | B | 4700 |
-| 2026-08-16_VECTOR3B_HOSTILE_EVAL_GATE_RECEIPT.md | robin | 2026-08-16 | B | 4913 |
-| 2026-08-16_VECTOR3C_VERIFIED_STATE_TRANSITION_AND_CLOSURE_AUTHORITY_RECEIPT.md | robin | 2026-08-16 | B | 6060 |
-| 2026-08-16_VECTOR4A_DURABLE_SESSION_LEDGER_RECEIPT.md | robin | 2026-08-16 | B | 5431 |
-| 2026-08-16_VECTOR4BC_SHARED_CONTEXT_PROJECTION_RECEIPT.md | robin | 2026-08-16 | B | 5133 |
-| 2026-08-16_VECTOR4DE_COLLABORATIVE_EXECUTION_LOOP_RECEIPT.md | robin | 2026-08-16 | B | 5316 |
-| 2026-08-16_VECTOR4FG_LIVE_ADAPTER_MCP_RECEIPT.md | robin | 2026-08-16 | B | 4541 |
-| 2026-08-16_VECTOR_4F_4G_LIVE_CONVERSATION_PROOF_AND_ADAPTER_HEALTH_RECEIPT.md | robin | 2026-08-16 | B | 7091 |
-| 2026-08-16_adaptive_workspace_architecture_ratification.md | robin | 2026-08-16 | C | 4229 |
-| 2026-08-16_adaptive_workspace_suite_verified_and_committed.md | robin | 2026-08-16 | C | 4988 |
-| 2026-08-16_alberta_plan_continual_intelligence_research_receipt.md | robin | 2026-08-16 | A | 2140 |
-| 2026-08-16_art_v0_provenance_multi_crew_audit.md | robin | 2026-08-16 | — | 2387 |
-| 2026-08-16_glee_continual_controlled_dispatch_receipt.md | robin | 2026-08-16 | B | 3261 |
-| 2026-08-16_glee_continual_intelligence_empirical_implementation_receipt.md | robin | 2026-08-16 | B | 4589 |
-| 2026-08-16_glee_continual_intelligence_live_token_probe_receipt.md | robin | 2026-08-16 | B | 4132 |
-| 2026-08-16_target_audience_and_substrate_taxonomy_receipt.md | robin | 2026-08-16 | A | 1844 |
-| 2026-08-15_ai_start_evidence_strip.md | glee | 2026-08-15 | — | 2428 |
-| 2026-08-15_compounding_trial_exposure_rule_and_activation.md | glee | 2026-08-15 | — | 3402 |
-| 2026-08-15_live_evidence_loop.md | glee | 2026-08-15 | — | 2966 |
-| 2026-08-15_null_state_refinement_honest_position.md | glee | 2026-08-15 | — | 3117 |
-| 2026-08-15_promotion_path_wiring_and_gate_state.md | glee | 2026-08-15 | — | 4015 |
-| 2026-08-15_sensor_dormancy_classification_and_freshness.md | glee | 2026-08-15 | — | 3421 |
-| 2026-08-15_2z7t1c_publication_review_independent.md | zoro | 2026-08-15 | B | 8842 |
-| 2026-08-15_85_percent_of_the_atlas_ledger_was_written_by_identities_that_do_not_exist.md | zoro | 2026-08-15 | C | 7800 |
-| 2026-08-15_EXHAUSTION_model_discovery_001_unsatisfiable_by_this_seat.md | zoro | 2026-08-15 | — | 5218 |
-| 2026-08-15_a7_census_observation_no_lane_mutation.md | zoro | 2026-08-15 | B | 4840 |
-| 2026-08-15_a7_root_caused_and_repaired_generator_plus_descendants.md | zoro | 2026-08-15 | B | 9507 |
-| 2026-08-15_a_guard_i_added_protected_nothing_until_i_tested_it.md | zoro | 2026-08-15 | B | 5959 |
-| 2026-08-15_a_job_on_my_own_wall_claims_receipted_work_i_cannot_find.md | zoro | 2026-08-15 | A | 5179 |
-| 2026-08-15_a_passing_run_that_exits_nonzero_and_the_file_of_mine_that_caused_it.md | zoro | 2026-08-15 | A | 5045 |
-| 2026-08-15_a_peer_wake_outage_i_reported_had_already_been_fixed.md | zoro | 2026-08-15 | B | 6201 |
-| 2026-08-15_a_perfect_answer_could_only_score_080.md | zoro | 2026-08-15 | B | 5169 |
-| 2026-08-15_a_policy_flag_in_the_credential_slot_stopped_the_hn_lane.md | zoro | 2026-08-15 | B | 7633 |
-| 2026-08-15_a_required_prompt_header_section_is_intermittently_missing_and_it_is_a_timeout_race.md | zoro | 2026-08-15 | B | 5515 |
-| 2026-08-15_agent_signup_is_not_idempotent_and_our_one_real_arrival_proves_it.md | zoro | 2026-08-15 | B | 6352 |
-| 2026-08-15_agora_is_blank_on_every_desktop_and_perfect_on_phones_dead_markup_is_why.md | zoro | 2026-08-15 | B | 11978 |
-| 2026-08-15_ai_jam_4_intelligence_thread_closed_with_evidence.md | zoro | 2026-08-15 | A | 2837 |
-| 2026-08-15_ai_start_is_the_strongest_surface_we_have_and_the_funnel_around_it_is_the_weak_part.md | zoro | 2026-08-15 | B | 7105 |
-| 2026-08-15_alias_review_criterion_5_is_stale_not_the_code.md | zoro | 2026-08-15 | B | 5240 |
-| 2026-08-15_alias_suite_portability_p2_repaired.md | zoro | 2026-08-15 | A | 4840 |
-| 2026-08-15_an_alarm_shouted_every_minute_for_16_days_and_i_had_reproduced_the_bug_one_alarm_over.md | zoro | 2026-08-15 | B | 8657 |
-| 2026-08-15_an_autostart_service_that_was_linked_but_never_enabled.md | zoro | 2026-08-15 | B | 5258 |
-| 2026-08-15_answer_leak_closed_at_the_api_boundary_7_of_7_mutants.md | zoro | 2026-08-15 | B | 3191 |
-| 2026-08-15_answer_leak_mutant_is_also_a_real_gap_confirmed_by_construction.md | zoro | 2026-08-15 | A | 4051 |
-| 2026-08-15_ariadne_unmet_criteria_has_no_ownership_awareness.md | zoro | 2026-08-15 | A | 3581 |
-| 2026-08-15_ariadne_unmet_criteria_now_reads_receipt_liveness.md | zoro | 2026-08-15 | B | 8199 |
-| 2026-08-15_audio_verified_running_and_the_theme_argument_lives_on_the_wrong_surface.md | zoro | 2026-08-15 | — | 4248 |
-| 2026-08-15_audited_my_own_nights_claims_for_the_config_vs_runtime_defect.md | zoro | 2026-08-15 | B | 5597 |
-| _(+9853 more — see full manifest JSON)_ | | | | |
+| _(+9921 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
