@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-17T18:41:05.886139+00:00
-> Total receipts indexed: 10181
+> Last updated: 2026-08-18T00:41:06.914790+00:00
+> Total receipts indexed: 10202
 
 ## Receipt Manifest
 
@@ -13,6 +13,7 @@
 | 2026-08-17_m3_citylearn_translation_trace.md | glee | 2026-08-17 | — | 5810 |
 | 2026-08-17_m4_translation_repro_harness.md | glee | 2026-08-17 | — | 5395 |
 | 2026-08-17_m5_packaging.md | glee | 2026-08-17 | — | 5070 |
+| 2026-08-17_model_portfolio_subscriptions.md | glee | 2026-08-17 | — | 4542 |
 | 2026-08-17_widened_search.md | glee | 2026-08-17 | — | 4506 |
 | 2026-08-17_a_card_that_cleared_on_code_that_never_ran.md | zoro | 2026-08-17 | B | 4810 |
 | 2026-08-17_fd001_the_third_rig_was_flat_before_it_was_drawn.md | zoro | 2026-08-17 | — | 6260 |
@@ -38,6 +39,7 @@
 | 2026-08-17_dtv5_943e2ca9_local_verification_boundary.md | sanji | 2026-08-17 | A | 4556 |
 | 2026-08-17_dtv5_global_blocked_stop_certificate.md | sanji | 2026-08-17 | A | 3744 |
 | 2026-08-17_dtv5_global_blocked_stop_certificate_v2.md | sanji | 2026-08-17 | A | 2882 |
+| 2026-08-17_echo_breach_jam_ship_wave.md | sanji | 2026-08-17 | B | 5171 |
 | 2026-08-17_fd001_crew_moves_canonical_closure_boundary.md | sanji | 2026-08-17 | A | 4802 |
 | 2026-08-17_fd001_crew_moves_closure_correction.md | sanji | 2026-08-17 | A | 4292 |
 | 2026-08-17_fd001_crew_moves_closure_correction_v2.md | sanji | 2026-08-17 | A | 4000 |
@@ -47,8 +49,19 @@
 | 2026-08-17_fl01_promotion_boundary_verification_addendum.md | sanji | 2026-08-17 | A | 5256 |
 | 2026-08-17_fl01_ship_lint_full_verification_addendum.md | sanji | 2026-08-17 | A | 2101 |
 | 2026-08-17_foundry_demos_parent_exhaustion.md | sanji | 2026-08-17 | A | 3860 |
+| 2026-08-17_fsi_artifact_integrity_hardening.md | sanji | 2026-08-17 | A | 3985 |
 | 2026-08-17_fsi_bridge_web_projection_fixture.md | sanji | 2026-08-17 | A | 4652 |
 | 2026-08-17_fsi_bridge_web_projection_preview_page.md | sanji | 2026-08-17 | A | 4159 |
+| 2026-08-17_fsi_console_projection_isolation.md | sanji | 2026-08-17 | A | 3888 |
+| 2026-08-17_fsi_continuation_gateway_redaction_hardening.md | sanji | 2026-08-17 | A | 3449 |
+| 2026-08-17_fsi_embedded_event_stream_raw_field_completeness.md | sanji | 2026-08-17 | A | 3629 |
+| 2026-08-17_fsi_executor_isolation_hardening.md | sanji | 2026-08-17 | A | 4092 |
+| 2026-08-17_fsi_gateway_raw_field_completeness.md | sanji | 2026-08-17 | A | 3394 |
+| 2026-08-17_fsi_gateway_redaction_hardening.md | sanji | 2026-08-17 | A | 3522 |
+| 2026-08-17_fsi_local_exhaustion.md | sanji | 2026-08-17 | A | 3516 |
+| 2026-08-17_fsi_parent_local_exhaustion.md | sanji | 2026-08-17 | A | 3375 |
+| 2026-08-17_fsi_pure_bridge_raw_field_completeness.md | sanji | 2026-08-17 | A | 3568 |
+| 2026-08-17_fsi_receipt_gateway_integrity_hardening.md | sanji | 2026-08-17 | A | 3442 |
 | 2026-08-17_fsi_v0_ablation_adoption.md | sanji | 2026-08-17 | A | 3067 |
 | 2026-08-17_fsi_v0_cognitive_workbench.md | sanji | 2026-08-17 | — | 4996 |
 | 2026-08-17_fsi_v0_cross_model_adoption.md | sanji | 2026-08-17 | A | 3064 |
@@ -76,10 +89,13 @@
 | 2026-08-17_full_stack_intelligence_receipt_verify_gateway.md | sanji | 2026-08-17 | A | 5047 |
 | 2026-08-17_full_stack_intelligence_same_model_adapter.md | sanji | 2026-08-17 | A | 3981 |
 | 2026-08-17_full_stack_intelligence_v0_cognitive_workbench.md | sanji | 2026-08-17 | A | 4237 |
+| 2026-08-17_full_stack_intelligence_v0_composition_runner.md | sanji | 2026-08-17 | A | 6769 |
+| 2026-08-17_full_stack_intelligence_v0_exhaustion.md | sanji | 2026-08-17 | A | 4098 |
 | 2026-08-17_glee_closure_decomposition_v1.md | sanji | 2026-08-17 | A | 5004 |
 | 2026-08-17_glee_computer_bridge_w1.md | sanji | 2026-08-17 | C | 4741 |
 | 2026-08-17_glee_dispatch_v0.md | sanji | 2026-08-17 | A | 4661 |
 | 2026-08-17_glee_genesis_trailer_assembly_proof.md | sanji | 2026-08-17 | A | 5267 |
+| 2026-08-17_glee_small_intelligence_program_frame.md | sanji | 2026-08-17 | A | 6008 |
 | 2026-08-17_goal-durable-unit.md | sanji | 2026-08-17 | B | 5194 |
 | 2026-08-17_hyperfunction_attribution_ui.md | sanji | 2026-08-17 | B | 5556 |
 | 2026-08-17_hyperfunction_criterion2_authoring.md | sanji | 2026-08-17 | B | 5825 |
@@ -96,6 +112,8 @@
 | 2026-08-17_multi_phoenix_catalogue_ui_system.md | sanji | 2026-08-17 | A | 5641 |
 | 2026-08-17_phoenix_canonical_landing_entrance.md | sanji | 2026-08-17 | B | 6252 |
 | 2026-08-17_pizza_architecture_watch_registration.md | sanji | 2026-08-17 | A | 4665 |
+| 2026-08-17_plat001_w6_exhaustion.md | sanji | 2026-08-17 | A | 2039 |
+| 2026-08-17_plat001_w6_payment_authority_contract.md | sanji | 2026-08-17 | B | 5150 |
 | 2026-08-17_production_visible_closure_wave1.md | sanji | 2026-08-17 | A | 5395 |
 | 2026-08-17_production_visible_closure_wave1_hardening.md | sanji | 2026-08-17 | A | 3199 |
 | 2026-08-17_receipt_lifecycle_freeze_contract.md | sanji | 2026-08-17 | B | 5144 |
@@ -118,6 +136,7 @@
 | 2026-08-17_shot_interface_assembles_ariadne_unmet_criteria.md | sanji | 2026-08-17 | A | 6257 |
 | 2026-08-17_shot_proof_becomes_real_ariadne_unmet_criteria.md | sanji | 2026-08-17 | A | 6568 |
 | 2026-08-17_shot_proof_becomes_real_sh05_correction.md | sanji | 2026-08-17 | A | 6517 |
+| 2026-08-17_spatial_intelligence_substrate_plan.md | sanji | 2026-08-17 | A | 3614 |
 | 2026-08-17_transactional_ariadne_closure_receipt.md | sanji | 2026-08-17 | A | 6721 |
 | 2026-08-17_wcp_pilot_002_garl_independent_review.md | sanji | 2026-08-17 | B | 8127 |
 | 2026-08-17_wcp_v1_parent_independent_review.md | sanji | 2026-08-17 | B | 5924 |
@@ -128,6 +147,7 @@
 | 2026-08-17_ablation_experiments_hdc_z3.md | robin | 2026-08-17 | A | 3726 |
 | 2026-08-17_advanced_non_llm_ai_full_stack_foundation.md | robin | 2026-08-17 | A | 5581 |
 | 2026-08-17_chatgpt_v5_terminal_adoption_repair.md | robin | 2026-08-17 | B | 4041 |
+| 2026-08-17_data_lane_gateway_and_spark_contributor.md | robin | 2026-08-17 | B | 7094 |
 | 2026-08-17_epistemic_capability_substrate.md | robin | 2026-08-17 | — | 5117 |
 | 2026-08-17_epistemic_substrate_phase1_5_sealed.md | robin | 2026-08-17 | — | 4336 |
 | 2026-08-17_fleet_hud_operational_proof.md | robin | 2026-08-17 | B | 4534 |
@@ -136,6 +156,7 @@
 | 2026-08-17_glee_engine_m2_benchmark_and_grammar_dispatch.md | robin | 2026-08-17 | B | 4886 |
 | 2026-08-17_glee_engine_m3_specialist_fleet_architecture_complete.md | robin | 2026-08-17 | B | 4322 |
 | 2026-08-17_hardened_scientific_experiments_1_to_4.md | robin | 2026-08-17 | — | 7556 |
+| 2026-08-17_openclaw_hermes_glee_synthesis.md | robin | 2026-08-17 | A | 6598 |
 | 2026-08-17_phase2a_proposition_registry.md | robin | 2026-08-17 | — | 3613 |
 | 2026-08-17_phase2b_experiment_compiler_and_reproduction_engine.md | robin | 2026-08-17 | A | 5510 |
 | 2026-08-17_phase2c_milestone0_milestone1_ingestion_and_truth_contract.md | robin | 2026-08-17 | — | 5112 |
@@ -186,28 +207,7 @@
 | 2026-08-16_replication_validity_invariant.md | zoro | 2026-08-16 | B | 9516 |
 | 2026-08-16_retrieval_index_15_days_stale_promoted.md | zoro | 2026-08-16 | B | 6024 |
 | 2026-08-16_rsi_node_generated_brief_is_not_a_grant.md | zoro | 2026-08-16 | B | 5222 |
-| 2026-08-16_seam_watch_active_on_existing_tick.md | zoro | 2026-08-16 | B | 4428 |
-| 2026-08-16_section11_ablation_harness_and_preflight_guard.md | zoro | 2026-08-16 | B | 14352 |
-| 2026-08-16_spark_manifest_parity_stranded_tools.md | zoro | 2026-08-16 | B | 9422 |
-| 2026-08-16_spark_relay_500_root_cause_three_stacked_defects.md | zoro | 2026-08-16 | B | 9199 |
-| 2026-08-16_tactical_timeshift_v0_horizon_pinned.md | zoro | 2026-08-16 | A | 4465 |
-| 2026-08-16_the_alarm_that_could_not_say_why.md | zoro | 2026-08-16 | B | 7058 |
-| 2026-08-16_the_backoff_that_never_backed_off.md | zoro | 2026-08-16 | B | 5803 |
-| 2026-08-16_the_determinism_nobody_rechecked.md | zoro | 2026-08-16 | A | 5678 |
-| 2026-08-16_the_lock_only_serializes_who_takes_it.md | zoro | 2026-08-16 | B | 10225 |
-| 2026-08-16_the_storm_had_a_second_trigger.md | zoro | 2026-08-16 | B | 6017 |
-| 2026-08-16_three_rulings_spec_review_and_dual_axis_provenance.md | zoro | 2026-08-16 | B | 5895 |
-| 2026-08-16_z9kpm4_single_goal_baseline_matched_control_adjudication.md | zoro | 2026-08-16 | B | 7368 |
-| 2026-08-16_agentcodi_glee_mobile_reference.md | sanji | 2026-08-16 | — | 2896 |
-| 2026-08-16_agentcodi_source_watch_recheck.md | sanji | 2026-08-16 | A | 2925 |
-| 2026-08-16_agora_alert_gate_and_escalation.md | sanji | 2026-08-16 | A | 4742 |
-| 2026-08-16_agora_live_replay_deployment_boundary.md | sanji | 2026-08-16 | A | 4113 |
-| 2026-08-16_agora_story_engine_monitoring_readonly_replay.md | sanji | 2026-08-16 | B | 4680 |
-| 2026-08-16_ariadne_completed_transition_trace.md | sanji | 2026-08-16 | A | 3412 |
-| 2026-08-16_atlas_public_uvp_replay.md | sanji | 2026-08-16 | A | 3477 |
-| 2026-08-16_atlas_unmet_criteria_local_replay.md | sanji | 2026-08-16 | A | 3538 |
-| 2026-08-16_c6b1hh_p2_semantic_roundtrip.md | sanji | 2026-08-16 | B | 5698 |
-| _(+9981 more — see full manifest JSON)_ | | | | |
+| _(+10002 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
