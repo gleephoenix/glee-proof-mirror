@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 10202,
+  "total_receipts": 10267,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -1633,7 +1633,7 @@
       "rel_path": "2026-08-17_model_portfolio_subscriptions.md",
       "date": "2026-08-17",
       "tier": null,
-      "size_bytes": 4542
+      "size_bytes": 4945
     },
     {
       "file_name": "2026-08-17_widened_search.md",
@@ -1642,6 +1642,22 @@
       "date": "2026-08-17",
       "tier": null,
       "size_bytes": 4506
+    },
+    {
+      "file_name": "2026-08-18_ode_dispatch_receipt_wiring.md",
+      "home": "glee",
+      "rel_path": "2026-08-18_ode_dispatch_receipt_wiring.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 5040
+    },
+    {
+      "file_name": "2026-08-18_v2_shadow_recommendations.md",
+      "home": "glee",
+      "rel_path": "2026-08-18_v2_shadow_recommendations.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 3586
     },
     {
       "file_name": "META.md",
@@ -1697,7 +1713,7 @@
       "rel_path": "model_routing_splice_receipt.md",
       "date": null,
       "tier": null,
-      "size_bytes": 969584
+      "size_bytes": 979113
     },
     {
       "file_name": "receipt_task_8_robin.md",
@@ -66700,6 +66716,14 @@
       "size_bytes": 4022
     },
     {
+      "file_name": "2026-08-17_abc_independence_isolation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_abc_independence_isolation.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 2802
+    },
+    {
       "file_name": "2026-08-17_adjacent_shots_audio_encode_proof.md",
       "home": "sanji",
       "rel_path": "2026-08-17_adjacent_shots_audio_encode_proof.md",
@@ -66756,6 +66780,14 @@
       "size_bytes": 5286
     },
     {
+      "file_name": "2026-08-17_atlas_round_zero_local_served_replay.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_atlas_round_zero_local_served_replay.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 2648
+    },
+    {
       "file_name": "2026-08-17_c0syav_exhaustion.md",
       "home": "sanji",
       "rel_path": "2026-08-17_c0syav_exhaustion.md",
@@ -66802,6 +66834,70 @@
       "date": "2026-08-17",
       "tier": "B",
       "size_bytes": 5171
+    },
+    {
+      "file_name": "2026-08-17_echobreach_asset_claim_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_asset_claim_refresh.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 1896
+    },
+    {
+      "file_name": "2026-08-17_echobreach_current_playable_state_ruling.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_current_playable_state_ruling.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 4210
+    },
+    {
+      "file_name": "2026-08-17_echobreach_dual_entry_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_dual_entry_audit.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 2604
+    },
+    {
+      "file_name": "2026-08-17_echobreach_keeper_current_build_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_keeper_current_build_audit.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 2402
+    },
+    {
+      "file_name": "2026-08-17_echobreach_keeper_release_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_keeper_release_audit.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 4186
+    },
+    {
+      "file_name": "2026-08-17_echobreach_provenance_asset_claim_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_provenance_asset_claim_audit.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 3934
+    },
+    {
+      "file_name": "2026-08-17_echobreach_public_asset_recapture.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_public_asset_recapture.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 3932
+    },
+    {
+      "file_name": "2026-08-17_echobreach_shadow_map_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_echobreach_shadow_map_repair.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 4213
     },
     {
       "file_name": "2026-08-17_fd001_crew_moves_canonical_closure_boundary.md",
@@ -67036,6 +67132,38 @@
       "size_bytes": 3162
     },
     {
+      "file_name": "2026-08-17_fsi_v1_capability_delta_real_local.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_fsi_v1_capability_delta_real_local.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 8100
+    },
+    {
+      "file_name": "2026-08-17_fsi_v1_live_fixed_model_measurement.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_fsi_v1_live_fixed_model_measurement.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 6120
+    },
+    {
+      "file_name": "2026-08-17_fsi_v1_live_fixed_model_measurement_verification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_fsi_v1_live_fixed_model_measurement_verification_addendum.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4529
+    },
+    {
+      "file_name": "2026-08-17_fsi_v1_real_fixed_model_capability_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_fsi_v1_real_fixed_model_capability_delta.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 4359
+    },
+    {
       "file_name": "2026-08-17_full_stack_intelligence_ablation_adapter.md",
       "home": "sanji",
       "rel_path": "2026-08-17_full_stack_intelligence_ablation_adapter.md",
@@ -67228,6 +67356,14 @@
       "size_bytes": 4741
     },
     {
+      "file_name": "2026-08-17_glee_computer_mcp_bridge_wave1.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_glee_computer_mcp_bridge_wave1.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 7166
+    },
+    {
       "file_name": "2026-08-17_glee_dispatch_v0.md",
       "home": "sanji",
       "rel_path": "2026-08-17_glee_dispatch_v0.md",
@@ -67348,6 +67484,14 @@
       "size_bytes": 4909
     },
     {
+      "file_name": "2026-08-17_learning_candidate_bridge_implementation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_learning_candidate_bridge_implementation.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 3447
+    },
+    {
       "file_name": "2026-08-17_local_mcp_bridge.md",
       "home": "sanji",
       "rel_path": "2026-08-17_local_mcp_bridge.md",
@@ -67356,12 +67500,76 @@
       "size_bytes": 4338
     },
     {
+      "file_name": "2026-08-17_mcp_u2_control_submit_mrtr_progress.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_mcp_u2_control_submit_mrtr_progress.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 3545
+    },
+    {
+      "file_name": "2026-08-17_model_discovery_001_replay_bundle_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_model_discovery_001_replay_bundle_contract.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 8305
+    },
+    {
+      "file_name": "2026-08-17_model_discovery_pre_observation_witness_path.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_model_discovery_pre_observation_witness_path.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 5985
+    },
+    {
+      "file_name": "2026-08-17_model_discovery_transition_schema_guard_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_model_discovery_transition_schema_guard_repair.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 6934
+    },
+    {
       "file_name": "2026-08-17_multi_phoenix_catalogue_ui_system.md",
       "home": "sanji",
       "rel_path": "2026-08-17_multi_phoenix_catalogue_ui_system.md",
       "date": "2026-08-17",
       "tier": "A",
       "size_bytes": 5641
+    },
+    {
+      "file_name": "2026-08-17_openclaw_hermes_baseline_integrity_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_openclaw_hermes_baseline_integrity_audit.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4688
+    },
+    {
+      "file_name": "2026-08-17_openclaw_hermes_learning_bridge_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_openclaw_hermes_learning_bridge_packet.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 3524
+    },
+    {
+      "file_name": "2026-08-17_openclaw_hermes_semantic_audit_method_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_openclaw_hermes_semantic_audit_method_addendum.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 5196
+    },
+    {
+      "file_name": "2026-08-17_openclaw_hermes_to_glee_lessons.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_openclaw_hermes_to_glee_lessons.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 3402
     },
     {
       "file_name": "2026-08-17_phoenix_canonical_landing_entrance.md",
@@ -67380,6 +67588,30 @@
       "size_bytes": 4665
     },
     {
+      "file_name": "2026-08-17_plat001_a1_w2_captain_ratification.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_plat001_a1_w2_captain_ratification.md",
+      "date": "2026-08-17",
+      "tier": "C",
+      "size_bytes": 4170
+    },
+    {
+      "file_name": "2026-08-17_plat001_a1_w2_exhaustion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_plat001_a1_w2_exhaustion.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3753
+    },
+    {
+      "file_name": "2026-08-17_plat001_a1_w2_mcp_2026_07_28_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_plat001_a1_w2_mcp_2026_07_28_adapter.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 5676
+    },
+    {
       "file_name": "2026-08-17_plat001_w6_exhaustion.md",
       "home": "sanji",
       "rel_path": "2026-08-17_plat001_w6_exhaustion.md",
@@ -67394,6 +67626,22 @@
       "date": "2026-08-17",
       "tier": "B",
       "size_bytes": 5150
+    },
+    {
+      "file_name": "2026-08-17_plat_w2_auth_task_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_plat_w2_auth_task_binding.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 5129
+    },
+    {
+      "file_name": "2026-08-17_plat_w3_work_contract_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_plat_w3_work_contract_v2.md",
+      "date": "2026-08-17",
+      "tier": "B",
+      "size_bytes": 2784
     },
     {
       "file_name": "2026-08-17_production_visible_closure_wave1.md",
@@ -67420,12 +67668,36 @@
       "size_bytes": 5144
     },
     {
+      "file_name": "2026-08-17_repair_value_replication.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_repair_value_replication.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3023
+    },
+    {
       "file_name": "2026-08-17_research_resolve_hn_arxiv_ingestion.md",
       "home": "sanji",
       "rel_path": "2026-08-17_research_resolve_hn_arxiv_ingestion.md",
       "date": "2026-08-17",
       "tier": "A",
       "size_bytes": 4283
+    },
+    {
+      "file_name": "2026-08-17_rsi_strict_gate_exhaustion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_rsi_strict_gate_exhaustion.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3506
+    },
+    {
+      "file_name": "2026-08-17_rsi_strict_integrity_status.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_rsi_strict_integrity_status.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3889
     },
     {
       "file_name": "2026-08-17_session_mode_contract_v1.md",
@@ -67572,12 +67844,84 @@
       "size_bytes": 6517
     },
     {
+      "file_name": "2026-08-17_single_goal_baseline.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_single_goal_baseline.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 2642
+    },
+    {
+      "file_name": "2026-08-17_spatial_benchmark_catalog_adjudication.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_benchmark_catalog_adjudication.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4311
+    },
+    {
+      "file_name": "2026-08-17_spatial_durable_benchmark_fixture.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_durable_benchmark_fixture.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3896
+    },
+    {
       "file_name": "2026-08-17_spatial_intelligence_substrate_plan.md",
       "home": "sanji",
       "rel_path": "2026-08-17_spatial_intelligence_substrate_plan.md",
       "date": "2026-08-17",
       "tier": "A",
       "size_bytes": 3614
+    },
+    {
+      "file_name": "2026-08-17_spatial_intelligence_substrate_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_intelligence_substrate_v0.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4376
+    },
+    {
+      "file_name": "2026-08-17_spatial_intelligence_substrate_v0_exhaustion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_intelligence_substrate_v0_exhaustion.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4600
+    },
+    {
+      "file_name": "2026-08-17_spatial_paired_benchmark_harness.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_paired_benchmark_harness.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4338
+    },
+    {
+      "file_name": "2026-08-17_spatial_semantic_repair_replay_probes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_semantic_repair_replay_probes.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3590
+    },
+    {
+      "file_name": "2026-08-17_spatial_support_inspection_probes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_support_inspection_probes.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4166
+    },
+    {
+      "file_name": "2026-08-17_spatial_world_cli_surface.md",
+      "home": "sanji",
+      "rel_path": "2026-08-17_spatial_world_cli_surface.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3915
     },
     {
       "file_name": "2026-08-17_transactional_ariadne_closure_receipt.md",
@@ -67634,6 +67978,102 @@
       "date": "2026-08-17",
       "tier": "A",
       "size_bytes": 6355
+    },
+    {
+      "file_name": "2026-08-18_civilization_kernel_v01_replay_closeout.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_civilization_kernel_v01_replay_closeout.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1699
+    },
+    {
+      "file_name": "2026-08-18_echobreach_dual_entry_playability_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_dual_entry_playability_audit.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1742
+    },
+    {
+      "file_name": "2026-08-18_echobreach_release_integrity_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_release_integrity_refresh.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1469
+    },
+    {
+      "file_name": "2026-08-18_fsi_all_evidence_replay_guards.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_all_evidence_replay_guards.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 4033
+    },
+    {
+      "file_name": "2026-08-18_fsi_interaction_duplicate_joint_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_interaction_duplicate_joint_guard.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 3862
+    },
+    {
+      "file_name": "2026-08-18_fsi_interaction_duplicate_receipt_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_interaction_duplicate_receipt_guard.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 3417
+    },
+    {
+      "file_name": "2026-08-18_fsi_local_replay_hardening_exhaustion.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_local_replay_hardening_exhaustion.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 3517
+    },
+    {
+      "file_name": "2026-08-18_fsi_organism_duplicate_receipt_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_organism_duplicate_receipt_guard.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 3410
+    },
+    {
+      "file_name": "2026-08-18_fsi_runner_duplicate_replay_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_runner_duplicate_replay_guard.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 3316
+    },
+    {
+      "file_name": "2026-08-18_fsi_sibling_duplicate_receipt_guards.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_sibling_duplicate_receipt_guards.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 3901
+    },
+    {
+      "file_name": "2026-08-18_fsi_v1_capability_delta_harness.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_fsi_v1_capability_delta_harness.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 7657
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_replication_owner_boundary_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_replication_owner_boundary_recheck.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1886
     },
     {
       "file_name": "INDEX.md",
@@ -80836,12 +81276,28 @@
       "size_bytes": 5581
     },
     {
+      "file_name": "2026-08-17_capability_amplification_benchmark_and_adaptive_compiler.md",
+      "home": "robin",
+      "rel_path": "2026-08-17_capability_amplification_benchmark_and_adaptive_compiler.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 6698
+    },
+    {
       "file_name": "2026-08-17_chatgpt_v5_terminal_adoption_repair.md",
       "home": "robin",
       "rel_path": "2026-08-17_chatgpt_v5_terminal_adoption_repair.md",
       "date": "2026-08-17",
       "tier": "B",
       "size_bytes": 4041
+    },
+    {
+      "file_name": "2026-08-17_claude_style_operations_debugger.md",
+      "home": "robin",
+      "rel_path": "2026-08-17_claude_style_operations_debugger.md",
+      "date": "2026-08-17",
+      "tier": null,
+      "size_bytes": 1688
     },
     {
       "file_name": "2026-08-17_data_lane_gateway_and_spark_contributor.md",
@@ -80866,6 +81322,22 @@
       "date": "2026-08-17",
       "tier": null,
       "size_bytes": 4336
+    },
+    {
+      "file_name": "2026-08-17_exp11_exp12_methodological_freezing.md",
+      "home": "robin",
+      "rel_path": "2026-08-17_exp11_exp12_methodological_freezing.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 4717
+    },
+    {
+      "file_name": "2026-08-17_exp11_exp12_statistical_hardening.md",
+      "home": "robin",
+      "rel_path": "2026-08-17_exp11_exp12_statistical_hardening.md",
+      "date": "2026-08-17",
+      "tier": "A",
+      "size_bytes": 3322
     },
     {
       "file_name": "2026-08-17_fleet_hud_operational_proof.md",
@@ -80914,6 +81386,14 @@
       "date": "2026-08-17",
       "tier": null,
       "size_bytes": 7556
+    },
+    {
+      "file_name": "2026-08-17_meta_spark_live_integration.md",
+      "home": "robin",
+      "rel_path": "2026-08-17_meta_spark_live_integration.md",
+      "date": "2026-08-17",
+      "tier": null,
+      "size_bytes": 2007
     },
     {
       "file_name": "2026-08-17_openclaw_hermes_glee_synthesis.md",
@@ -80996,6 +81476,14 @@
       "size_bytes": 3100
     },
     {
+      "file_name": "2026-08-17_pricing_registry_corrections_and_routing_cascade.md",
+      "home": "robin",
+      "rel_path": "2026-08-17_pricing_registry_corrections_and_routing_cascade.md",
+      "date": "2026-08-17",
+      "tier": null,
+      "size_bytes": 1963
+    },
+    {
       "file_name": "2026-08-17_spec_to_code_drift_audit.md",
       "home": "robin",
       "rel_path": "2026-08-17_spec_to_code_drift_audit.md",
@@ -81010,6 +81498,38 @@
       "date": "2026-08-17",
       "tier": null,
       "size_bytes": 6327
+    },
+    {
+      "file_name": "2026-08-17_together_deepseek_v4_flash_integration.md",
+      "home": "robin",
+      "rel_path": "2026-08-17_together_deepseek_v4_flash_integration.md",
+      "date": "2026-08-17",
+      "tier": null,
+      "size_bytes": 1506
+    },
+    {
+      "file_name": "2026-08-18_oqs_retraction_and_empirical_program_refactor.md",
+      "home": "robin",
+      "rel_path": "2026-08-18_oqs_retraction_and_empirical_program_refactor.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 4753
+    },
+    {
+      "file_name": "2026-08-18_outcome_quality_standard_and_throughput_parity.md",
+      "home": "robin",
+      "rel_path": "2026-08-18_outcome_quality_standard_and_throughput_parity.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 6303
+    },
+    {
+      "file_name": "2026-08-18_relay_telemetry_observer_implementation.md",
+      "home": "robin",
+      "rel_path": "2026-08-18_relay_telemetry_observer_implementation.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 3775
     },
     {
       "file_name": "2DT9FC_sovereign_memory_architecture.md",
