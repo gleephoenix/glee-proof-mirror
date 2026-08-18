@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 10267,
+  "total_receipts": 10289,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -31554,6 +31554,30 @@
       "date": "2026-08-17",
       "tier": "A",
       "size_bytes": 7208
+    },
+    {
+      "file_name": "2026-08-18_effect_verifier_ledger_audit_and_u3_state.md",
+      "home": "zoro",
+      "rel_path": "2026-08-18_effect_verifier_ledger_audit_and_u3_state.md",
+      "date": "2026-08-18",
+      "tier": "B",
+      "size_bytes": 9309
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_p4_reconciliation.md",
+      "home": "zoro",
+      "rel_path": "2026-08-18_ict1_t1_p4_reconciliation.md",
+      "date": "2026-08-18",
+      "tier": "B",
+      "size_bytes": 6504
+    },
+    {
+      "file_name": "2026-08-18_relay_observer_corrections_and_phase1_localization_pilot.md",
+      "home": "zoro",
+      "rel_path": "2026-08-18_relay_observer_corrections_and_phase1_localization_pilot.md",
+      "date": "2026-08-18",
+      "tier": "B",
+      "size_bytes": 16002
     },
     {
       "file_name": "INDEX.md",
@@ -67988,6 +68012,22 @@
       "size_bytes": 1699
     },
     {
+      "file_name": "2026-08-18_echobreach_asset_claim_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_asset_claim_refresh.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1355
+    },
+    {
+      "file_name": "2026-08-18_echobreach_campaign_integrity_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_campaign_integrity_refresh.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1287
+    },
+    {
       "file_name": "2026-08-18_echobreach_dual_entry_playability_audit.md",
       "home": "sanji",
       "rel_path": "2026-08-18_echobreach_dual_entry_playability_audit.md",
@@ -67996,12 +68036,60 @@
       "size_bytes": 1742
     },
     {
+      "file_name": "2026-08-18_echobreach_game_integrity_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_game_integrity_refresh.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1237
+    },
+    {
+      "file_name": "2026-08-18_echobreach_mode_boundary_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_mode_boundary_refresh.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1152
+    },
+    {
+      "file_name": "2026-08-18_echobreach_package_provenance_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_package_provenance_refresh.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1297
+    },
+    {
+      "file_name": "2026-08-18_echobreach_public_copy_consistency.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_public_copy_consistency.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1566
+    },
+    {
+      "file_name": "2026-08-18_echobreach_publication_safety_check.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_publication_safety_check.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1188
+    },
+    {
       "file_name": "2026-08-18_echobreach_release_integrity_refresh.md",
       "home": "sanji",
       "rel_path": "2026-08-18_echobreach_release_integrity_refresh.md",
       "date": "2026-08-18",
       "tier": null,
       "size_bytes": 1469
+    },
+    {
+      "file_name": "2026-08-18_echobreach_renderer_seam_reproduction_matrix.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_echobreach_renderer_seam_reproduction_matrix.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 2024
     },
     {
       "file_name": "2026-08-18_fsi_all_evidence_replay_guards.md",
@@ -68068,12 +68156,84 @@
       "size_bytes": 7657
     },
     {
+      "file_name": "2026-08-18_ict1_t1_full_suite_health.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_full_suite_health.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1234
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_manifest_validation_consistency.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_manifest_validation_consistency.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1381
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_p4_reconciliation_probe.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_p4_reconciliation_probe.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1934
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_pinned_fix_provenance_comparison.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_pinned_fix_provenance_comparison.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1823
+    },
+    {
       "file_name": "2026-08-18_ict1_t1_replication_owner_boundary_recheck.md",
       "home": "sanji",
       "rel_path": "2026-08-18_ict1_t1_replication_owner_boundary_recheck.md",
       "date": "2026-08-18",
       "tier": null,
       "size_bytes": 1886
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_targeted_oracle_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_targeted_oracle_preflight.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1356
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_trial_preservation_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_trial_preservation_guard.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1378
+    },
+    {
+      "file_name": "2026-08-18_ict1_t1_validator_gate_unchanged.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_ict1_t1_validator_gate_unchanged.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 1210
+    },
+    {
+      "file_name": "2026-08-18_model_discovery_ownership_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_model_discovery_ownership_boundary.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 3903
+    },
+    {
+      "file_name": "2026-08-18_model_discovery_v2_adversarial_review_dispatch.md",
+      "home": "sanji",
+      "rel_path": "2026-08-18_model_discovery_v2_adversarial_review_dispatch.md",
+      "date": "2026-08-18",
+      "tier": "A",
+      "size_bytes": 5628
     },
     {
       "file_name": "INDEX.md",
@@ -81508,6 +81668,14 @@
       "size_bytes": 1506
     },
     {
+      "file_name": "2026-08-18_oqs_dry_run_pipeline_verification.md",
+      "home": "robin",
+      "rel_path": "2026-08-18_oqs_dry_run_pipeline_verification.md",
+      "date": "2026-08-18",
+      "tier": null,
+      "size_bytes": 3034
+    },
+    {
       "file_name": "2026-08-18_oqs_retraction_and_empirical_program_refactor.md",
       "home": "robin",
       "rel_path": "2026-08-18_oqs_retraction_and_empirical_program_refactor.md",
@@ -81578,6 +81746,14 @@
       "date": null,
       "tier": null,
       "size_bytes": 1106
+    },
+    {
+      "file_name": "audit_oqs_candidate_20260818.md",
+      "home": "robin",
+      "rel_path": "audit_oqs_candidate_20260818.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 11138
     },
     {
       "file_name": "autodata.md",
