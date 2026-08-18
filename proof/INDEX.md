@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-18T06:41:06.947534+00:00
-> Total receipts indexed: 10267
+> Last updated: 2026-08-18T12:41:07.134172+00:00
+> Total receipts indexed: 10289
 
 ## Receipt Manifest
 
@@ -9,9 +9,20 @@
 |------|------|------|------|------|
 | 2026-08-18_ode_dispatch_receipt_wiring.md | glee | 2026-08-18 | — | 5040 |
 | 2026-08-18_v2_shadow_recommendations.md | glee | 2026-08-18 | — | 3586 |
+| 2026-08-18_effect_verifier_ledger_audit_and_u3_state.md | zoro | 2026-08-18 | B | 9309 |
+| 2026-08-18_ict1_t1_p4_reconciliation.md | zoro | 2026-08-18 | B | 6504 |
+| 2026-08-18_relay_observer_corrections_and_phase1_localization_pilot.md | zoro | 2026-08-18 | B | 16002 |
 | 2026-08-18_civilization_kernel_v01_replay_closeout.md | sanji | 2026-08-18 | — | 1699 |
+| 2026-08-18_echobreach_asset_claim_refresh.md | sanji | 2026-08-18 | — | 1355 |
+| 2026-08-18_echobreach_campaign_integrity_refresh.md | sanji | 2026-08-18 | — | 1287 |
 | 2026-08-18_echobreach_dual_entry_playability_audit.md | sanji | 2026-08-18 | — | 1742 |
+| 2026-08-18_echobreach_game_integrity_refresh.md | sanji | 2026-08-18 | — | 1237 |
+| 2026-08-18_echobreach_mode_boundary_refresh.md | sanji | 2026-08-18 | — | 1152 |
+| 2026-08-18_echobreach_package_provenance_refresh.md | sanji | 2026-08-18 | — | 1297 |
+| 2026-08-18_echobreach_public_copy_consistency.md | sanji | 2026-08-18 | — | 1566 |
+| 2026-08-18_echobreach_publication_safety_check.md | sanji | 2026-08-18 | — | 1188 |
 | 2026-08-18_echobreach_release_integrity_refresh.md | sanji | 2026-08-18 | — | 1469 |
+| 2026-08-18_echobreach_renderer_seam_reproduction_matrix.md | sanji | 2026-08-18 | — | 2024 |
 | 2026-08-18_fsi_all_evidence_replay_guards.md | sanji | 2026-08-18 | A | 4033 |
 | 2026-08-18_fsi_interaction_duplicate_joint_guard.md | sanji | 2026-08-18 | A | 3862 |
 | 2026-08-18_fsi_interaction_duplicate_receipt_guard.md | sanji | 2026-08-18 | A | 3417 |
@@ -20,7 +31,17 @@
 | 2026-08-18_fsi_runner_duplicate_replay_guard.md | sanji | 2026-08-18 | A | 3316 |
 | 2026-08-18_fsi_sibling_duplicate_receipt_guards.md | sanji | 2026-08-18 | A | 3901 |
 | 2026-08-18_fsi_v1_capability_delta_harness.md | sanji | 2026-08-18 | A | 7657 |
+| 2026-08-18_ict1_t1_full_suite_health.md | sanji | 2026-08-18 | — | 1234 |
+| 2026-08-18_ict1_t1_manifest_validation_consistency.md | sanji | 2026-08-18 | — | 1381 |
+| 2026-08-18_ict1_t1_p4_reconciliation_probe.md | sanji | 2026-08-18 | — | 1934 |
+| 2026-08-18_ict1_t1_pinned_fix_provenance_comparison.md | sanji | 2026-08-18 | — | 1823 |
 | 2026-08-18_ict1_t1_replication_owner_boundary_recheck.md | sanji | 2026-08-18 | — | 1886 |
+| 2026-08-18_ict1_t1_targeted_oracle_preflight.md | sanji | 2026-08-18 | — | 1356 |
+| 2026-08-18_ict1_t1_trial_preservation_guard.md | sanji | 2026-08-18 | — | 1378 |
+| 2026-08-18_ict1_t1_validator_gate_unchanged.md | sanji | 2026-08-18 | — | 1210 |
+| 2026-08-18_model_discovery_ownership_boundary.md | sanji | 2026-08-18 | A | 3903 |
+| 2026-08-18_model_discovery_v2_adversarial_review_dispatch.md | sanji | 2026-08-18 | A | 5628 |
+| 2026-08-18_oqs_dry_run_pipeline_verification.md | robin | 2026-08-18 | — | 3034 |
 | 2026-08-18_oqs_retraction_and_empirical_program_refactor.md | robin | 2026-08-18 | — | 4753 |
 | 2026-08-18_outcome_quality_standard_and_throughput_parity.md | robin | 2026-08-18 | — | 6303 |
 | 2026-08-18_relay_telemetry_observer_implementation.md | robin | 2026-08-18 | — | 3775 |
@@ -186,28 +207,7 @@
 | 2026-08-17_shot_proof_becomes_real_ariadne_unmet_criteria.md | sanji | 2026-08-17 | A | 6568 |
 | 2026-08-17_shot_proof_becomes_real_sh05_correction.md | sanji | 2026-08-17 | A | 6517 |
 | 2026-08-17_single_goal_baseline.md | sanji | 2026-08-17 | A | 2642 |
-| 2026-08-17_spatial_benchmark_catalog_adjudication.md | sanji | 2026-08-17 | A | 4311 |
-| 2026-08-17_spatial_durable_benchmark_fixture.md | sanji | 2026-08-17 | A | 3896 |
-| 2026-08-17_spatial_intelligence_substrate_plan.md | sanji | 2026-08-17 | A | 3614 |
-| 2026-08-17_spatial_intelligence_substrate_v0.md | sanji | 2026-08-17 | A | 4376 |
-| 2026-08-17_spatial_intelligence_substrate_v0_exhaustion.md | sanji | 2026-08-17 | A | 4600 |
-| 2026-08-17_spatial_paired_benchmark_harness.md | sanji | 2026-08-17 | A | 4338 |
-| 2026-08-17_spatial_semantic_repair_replay_probes.md | sanji | 2026-08-17 | A | 3590 |
-| 2026-08-17_spatial_support_inspection_probes.md | sanji | 2026-08-17 | A | 4166 |
-| 2026-08-17_spatial_world_cli_surface.md | sanji | 2026-08-17 | A | 3915 |
-| 2026-08-17_transactional_ariadne_closure_receipt.md | sanji | 2026-08-17 | A | 6721 |
-| 2026-08-17_wcp_pilot_002_garl_independent_review.md | sanji | 2026-08-17 | B | 8127 |
-| 2026-08-17_wcp_v1_parent_independent_review.md | sanji | 2026-08-17 | B | 5924 |
-| 2026-08-17_wcp_v1_workspace_report_contract_repair.md | sanji | 2026-08-17 | A | 7020 |
-| 2026-08-17_webmcp_sellside_w1.md | sanji | 2026-08-17 | A | 6792 |
-| 2026-08-17_webmcp_sellside_w1_harness_runner_hardening.md | sanji | 2026-08-17 | A | 5423 |
-| 2026-08-17_webmcp_sellside_w1_sanji_reconciliation.md | sanji | 2026-08-17 | A | 6355 |
-| 2026-08-17_ablation_experiments_hdc_z3.md | robin | 2026-08-17 | A | 3726 |
-| 2026-08-17_advanced_non_llm_ai_full_stack_foundation.md | robin | 2026-08-17 | A | 5581 |
-| 2026-08-17_capability_amplification_benchmark_and_adaptive_compiler.md | robin | 2026-08-17 | A | 6698 |
-| 2026-08-17_chatgpt_v5_terminal_adoption_repair.md | robin | 2026-08-17 | B | 4041 |
-| 2026-08-17_claude_style_operations_debugger.md | robin | 2026-08-17 | — | 1688 |
-| _(+10067 more — see full manifest JSON)_ | | | | |
+| _(+10089 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
