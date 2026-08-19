@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-19T12:41:07.279559+00:00
-> Total receipts indexed: 10525
+> Last updated: 2026-08-19T18:41:10.303362+00:00
+> Total receipts indexed: 10570
 
 ## Receipt Manifest
 
@@ -9,30 +9,75 @@
 |------|------|------|------|------|
 | 2026-08-19_round8_github_resolver_review.md | glee | 2026-08-19 | A | 2563 |
 | 2026-08-19_a_string_prefix_where_a_path_check_belonged.md | zoro | 2026-08-19 | B | 5649 |
-| 2026-08-19_autoresearch_reliability_benchmark_v0.md | zoro | 2026-08-19 | — | 22503 |
-| 2026-08-19_board_design_language_two_interfaces.md | zoro | 2026-08-19 | B | 33866 |
+| 2026-08-19_activation_experiment_null_result.md | zoro | 2026-08-19 | B | 5963 |
+| 2026-08-19_agent_observatory_deployed_and_three_dead_organs.md | zoro | 2026-08-19 | B | 9441 |
+| 2026-08-19_agent_observatory_the_site_as_the_instrument.md | zoro | 2026-08-19 | B | 10735 |
+| 2026-08-19_autoresearch_reliability_benchmark_v0.md | zoro | 2026-08-19 | — | 28635 |
+| 2026-08-19_board_design_language_two_interfaces.md | zoro | 2026-08-19 | B | 42029 |
+| 2026-08-19_closure_protocol_bound_and_the_canary_went_live.md | zoro | 2026-08-19 | B | 5360 |
+| 2026-08-19_corpus_provenance_job2.md | zoro | 2026-08-19 | B | 6694 |
+| 2026-08-19_family_b_provenance_activated.md | zoro | 2026-08-19 | B | 8429 |
 | 2026-08-19_forge_landing_seam_the_advice_that_ran_daily_and_did_nothing.md | zoro | 2026-08-19 | B | 8445 |
+| 2026-08-19_glee_as_a_culture_field_site.md | zoro | 2026-08-19 | B | 8205 |
+| 2026-08-19_glee_population_census_the_provenance_field_that_calls_us_foreign.md | zoro | 2026-08-19 | A | 18038 |
 | 2026-08-19_i_reversed_a_reviewed_decision_and_backed_it_out.md | zoro | 2026-08-19 | A | 7841 |
+| 2026-08-19_launch_science_and_the_gate_moltbook_needed.md | zoro | 2026-08-19 | B | 7125 |
 | 2026-08-19_nine_review_rounds_and_a_green_i_bought_with_a_prompt.md | zoro | 2026-08-19 | B | 21493 |
 | 2026-08-19_peer_review_atlas_fail_open_survives_the_repair.md | zoro | 2026-08-19 | A | 7184 |
+| 2026-08-19_peer_runtime_mutation_protocol.md | zoro | 2026-08-19 | B | 5843 |
+| 2026-08-19_pid_is_a_filter_ownership_is_the_authority.md | zoro | 2026-08-19 | — | 4998 |
+| 2026-08-19_population_instrument_built_to_refuse_flattery.md | zoro | 2026-08-19 | B | 5289 |
 | 2026-08-19_privacy_gate_closed_by_reading_the_writers.md | zoro | 2026-08-19 | B | 6671 |
+| 2026-08-19_pro_research_001_estate_claim_falsification.md | zoro | 2026-08-19 | — | 24798 |
+| 2026-08-19_promotion_gate.md | zoro | 2026-08-19 | B | 6161 |
 | 2026-08-19_review_actions_four_mechanisms_and_a_gate_that_laundered_its_own_alarm.md | zoro | 2026-08-19 | B | 9174 |
+| 2026-08-19_riemann_campaign_source_check.md | zoro | 2026-08-19 | A | 15122 |
 | 2026-08-19_scope_identity_stability_v1_acceptance.md | zoro | 2026-08-19 | — | 8097 |
 | 2026-08-19_step7_was_already_shipped_and_three_claims_i_had_wrong.md | zoro | 2026-08-19 | A | 8879 |
 | 2026-08-19_sticky_scope_shim_deleted.md | zoro | 2026-08-19 | A | 5405 |
+| 2026-08-19_ten_advances_source_check.md | zoro | 2026-08-19 | A | 8790 |
 | 2026-08-19_ten_of_eleven_hosts_serve_code_that_no_longer_exists.md | zoro | 2026-08-19 | A | 7806 |
 | 2026-08-19_the_gate_that_passed_its_own_blank_template.md | zoro | 2026-08-19 | B | 8415 |
 | 2026-08-19_the_goal_organ_could_not_report_on_itself.md | zoro | 2026-08-19 | A | 9867 |
 | 2026-08-19_the_idle_seat_is_the_one_the_router_cannot_see.md | zoro | 2026-08-19 | A | 7781 |
 | 2026-08-19_the_inbox_nobody_could_open.md | zoro | 2026-08-19 | B | 10736 |
+| 2026-08-19_the_instrument_met_reality.md | zoro | 2026-08-19 | B | 4501 |
+| 2026-08-19_the_instrument_that_counted_itself_as_evidence.md | zoro | 2026-08-19 | — | 4943 |
+| 2026-08-19_the_keeper_that_already_existed_and_the_pid_that_is_not_a_seat.md | zoro | 2026-08-19 | — | 5844 |
 | 2026-08-19_the_mailbox_routes_on_declaration_the_estate_lives_on_observation.md | zoro | 2026-08-19 | A | 8838 |
 | 2026-08-19_why_the_other_terminals_cannot_answer.md | zoro | 2026-08-19 | A | 12336 |
 | 2026-08-19_1f916_autonomous_submission_wave.md | sanji | 2026-08-19 | B | 3966 |
 | 2026-08-19_1f916_listing7_local_anchor.md | sanji | 2026-08-19 | B | 3960 |
 | 2026-08-19_1f916_local_protected_edge_adapters.md | sanji | 2026-08-19 | A | 6005 |
+| 2026-08-19_chatgpt_e2e_auth_gate.md | sanji | 2026-08-19 | B | 3898 |
+| 2026-08-19_chatgpt_image_connector_import_seam.md | sanji | 2026-08-19 | B | 6216 |
+| 2026-08-19_cleanup_ownership_lease.md | sanji | 2026-08-19 | A | 5997 |
+| 2026-08-19_cleanup_ownership_lease_completion.md | sanji | 2026-08-19 | A | 6009 |
+| 2026-08-19_execute_all_connector_bridge_sqlite.md | sanji | 2026-08-19 | B | 6038 |
+| 2026-08-19_external_research_case_mechanism_pipeline_plan.md | sanji | 2026-08-19 | B | 3770 |
+| 2026-08-19_listing7_github_installation_edge_recheck.md | sanji | 2026-08-19 | — | 3090 |
+| 2026-08-19_listing7_github_post_approval_recheck.md | sanji | 2026-08-19 | — | 2114 |
+| 2026-08-19_living-visual-field-integration.md | sanji | 2026-08-19 | A | 5239 |
 | 2026-08-19_m001aa_canary_prerequisite_maintenance.md | sanji | 2026-08-19 | A | 8082 |
+| 2026-08-19_managed_image_inbox.md | sanji | 2026-08-19 | B | 5583 |
 | 2026-08-19_repo_cleanup.md | sanji | 2026-08-19 | A | 4360 |
+| 2026-08-19_responsive-symbol-art-system.md | sanji | 2026-08-19 | A | 5731 |
+| 2026-08-19_review_prompt_invariant_guard.md | sanji | 2026-08-19 | A | 4287 |
+| 2026-08-19_scope_closure_daemon_tail.md | sanji | 2026-08-19 | A | 3646 |
+| 2026-08-19_scope_closure_final.md | sanji | 2026-08-19 | A | 5936 |
+| 2026-08-19_scope_closure_final_gate.md | sanji | 2026-08-19 | A | 4869 |
+| 2026-08-19_scope_closure_forecast_integration.md | sanji | 2026-08-19 | A | 4761 |
+| 2026-08-19_scope_closure_readonly_repair.md | sanji | 2026-08-19 | A | 2676 |
+| 2026-08-19_scope_closure_runner.md | sanji | 2026-08-19 | A | 3490 |
+| 2026-08-19_scope_forecast_sanity_correction.md | sanji | 2026-08-19 | A | 4447 |
+| 2026-08-19_sigil_atlas_image_discovery.md | sanji | 2026-08-19 | B | 7243 |
+| 2026-08-19_agent_bus_lane_triage_authority_integration.md | robin | 2026-08-19 | B | 5062 |
+| 2026-08-19_captains_desk_authority_hud.md | robin | 2026-08-19 | B | 4503 |
+| 2026-08-19_gcu_benchmark_positive_control_pilot.md | robin | 2026-08-19 | — | 3731 |
+| 2026-08-19_micro_spatial_3d_dynamics_mcp_stress_test.md | robin | 2026-08-19 | B | 5042 |
 | 2026-08-19_micro_spatial_3d_smallest_foundation_model.md | robin | 2026-08-19 | B | 6967 |
+| 2026-08-19_revocable_execution_authority.md | robin | 2026-08-19 | B | 5388 |
+| 2026-08-19_ultra_low_cost_intelligence_frontier_research_substrate.md | robin | 2026-08-19 | — | 2285 |
 | 2026-08-18_ode_dispatch_receipt_wiring.md | glee | 2026-08-18 | — | 5040 |
 | 2026-08-18_v2_shadow_recommendations.md | glee | 2026-08-18 | — | 3586 |
 | 2026-08-18_atlas_round_zero_eleven_proofs_that_ran_nowhere.md | zoro | 2026-08-18 | A | 4020 |
@@ -162,52 +207,7 @@
 | 2026-08-18_hoi4_phase2e3_engine_chain_spec_review.md | sanji | 2026-08-18 | B | 5522 |
 | 2026-08-18_hoi4_phase2e4_starting_tech_spec_review.md | sanji | 2026-08-18 | B | 5315 |
 | 2026-08-18_hoi4_phase2e5_focus_authority_spec_review.md | sanji | 2026-08-18 | B | 5406 |
-| 2026-08-18_hoi4_phase2e5a_focus_spec_review.md | sanji | 2026-08-18 | B | 5280 |
-| 2026-08-18_hoi4_phase2e6_research_authority_spec_review.md | sanji | 2026-08-18 | B | 5514 |
-| 2026-08-18_hoi4_phase2e7_pp_spec_review.md | sanji | 2026-08-18 | B | 5645 |
-| 2026-08-18_hoi4_phase2e7a_pp_spec_review.md | sanji | 2026-08-18 | B | 5123 |
-| 2026-08-18_hoi4_phase2e8_production_spec_review.md | sanji | 2026-08-18 | B | 5522 |
-| 2026-08-18_hoi4_phase2e_prototype_spec_review.md | sanji | 2026-08-18 | B | 5695 |
-| 2026-08-18_hoi4_phase2f_land_spec_review.md | sanji | 2026-08-18 | B | 5410 |
-| 2026-08-18_hoi4_phase2fa_runtime_spec_review.md | sanji | 2026-08-18 | B | 4894 |
-| 2026-08-18_hoi4_phase2fb_armor_spec_review.md | sanji | 2026-08-18 | B | 4928 |
-| 2026-08-18_hoi4_phase2fd_land_spec_review.md | sanji | 2026-08-18 | B | 4827 |
-| 2026-08-18_hoi4_phase2fda_spec_review.md | sanji | 2026-08-18 | — | 3562 |
-| 2026-08-18_hoi4_post2c_hard_air_spec_review.md | sanji | 2026-08-18 | B | 5342 |
-| 2026-08-18_hoi4_post2d_parity_spec_review.md | sanji | 2026-08-18 | B | 5962 |
-| 2026-08-18_hoi4_post2fda_runtime_spec_review.md | sanji | 2026-08-18 | B | 4890 |
-| 2026-08-18_hoi4_webchat_ally_spec_review.md | sanji | 2026-08-18 | — | 2970 |
-| 2026-08-18_hoi4_workflow_spec_review.md | sanji | 2026-08-18 | B | 3327 |
-| 2026-08-18_hoi4_zoro_formalization_spec_review.md | sanji | 2026-08-18 | B | 3750 |
-| 2026-08-18_hyperfunction_reconciliation.md | sanji | 2026-08-18 | B | 5469 |
-| 2026-08-18_ict1_t1_five_pair_replication.md | sanji | 2026-08-18 | B | 6403 |
-| 2026-08-18_ict1_t1_full_suite_health.md | sanji | 2026-08-18 | — | 1234 |
-| 2026-08-18_ict1_t1_k2_inversion_replication_replacement.md | sanji | 2026-08-18 | B | 8777 |
-| 2026-08-18_ict1_t1_k2_partial_collision.md | sanji | 2026-08-18 | B | 7552 |
-| 2026-08-18_ict1_t1_manifest_validation_consistency.md | sanji | 2026-08-18 | — | 1381 |
-| 2026-08-18_ict1_t1_p4_reconciliation_probe.md | sanji | 2026-08-18 | — | 1934 |
-| 2026-08-18_ict1_t1_pinned_fix_provenance_comparison.md | sanji | 2026-08-18 | — | 1823 |
-| 2026-08-18_ict1_t1_replication_owner_boundary_recheck.md | sanji | 2026-08-18 | — | 1886 |
-| 2026-08-18_ict1_t1_targeted_oracle_preflight.md | sanji | 2026-08-18 | — | 1356 |
-| 2026-08-18_ict1_t1_trial_preservation_guard.md | sanji | 2026-08-18 | — | 1378 |
-| 2026-08-18_ict1_t1_validator_gate_unchanged.md | sanji | 2026-08-18 | — | 1210 |
-| 2026-08-18_idea_registry_current_state_verification.md | sanji | 2026-08-18 | — | 2932 |
-| 2026-08-18_identity_resolved_seat_enrollment.md | sanji | 2026-08-18 | B | 4805 |
-| 2026-08-18_kg01_epistemic_graph_spec_review.md | sanji | 2026-08-18 | B | 4708 |
-| 2026-08-18_living_canvas_mup_claim_narrowing.md | sanji | 2026-08-18 | A | 4994 |
-| 2026-08-18_living_canvas_mup_claim_narrowing_correction.md | sanji | 2026-08-18 | A | 3860 |
-| 2026-08-18_living_canvas_mup_completion.md | sanji | 2026-08-18 | A | 4535 |
-| 2026-08-18_living_canvas_project_truth_boundary.md | sanji | 2026-08-18 | A | 6565 |
-| 2026-08-18_local_runtime_continuation_replay.md | sanji | 2026-08-18 | A | 4329 |
-| 2026-08-18_manifold_observatory_execution.md | sanji | 2026-08-18 | B | 4792 |
-| 2026-08-18_model_discovery_ownership_boundary.md | sanji | 2026-08-18 | A | 3903 |
-| 2026-08-18_model_discovery_v2_adversarial_review_dispatch.md | sanji | 2026-08-18 | A | 5628 |
-| 2026-08-18_moltbook_growth_loop_current_state.md | sanji | 2026-08-18 | A | 3257 |
-| 2026-08-18_nested_transition_adoption_closure.md | sanji | 2026-08-18 | A | 4267 |
-| 2026-08-18_objective_evidence_entailment_gate.md | sanji | 2026-08-18 | B | 2813 |
-| 2026-08-18_objective_evidence_entailment_gate_collision_forensics.md | sanji | 2026-08-18 | B | 4152 |
-| 2026-08-18_open_ai_coalition_front_door_contract.md | sanji | 2026-08-18 | A | 6897 |
-| _(+10325 more — see full manifest JSON)_ | | | | |
+| _(+10370 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
