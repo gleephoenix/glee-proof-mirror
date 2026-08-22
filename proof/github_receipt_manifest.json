@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 11595,
+  "total_receipts": 11808,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -32980,12 +32980,44 @@
       "size_bytes": 5122
     },
     {
+      "file_name": "2026-08-21_L001_prospective_transfer_NULL.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_L001_prospective_transfer_NULL.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 9222
+    },
+    {
+      "file_name": "2026-08-21_a_hold_freezes_work_never_capacity.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_a_hold_freezes_work_never_capacity.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 12293
+    },
+    {
+      "file_name": "2026-08-21_accepted_is_not_routed_is_not_delivered.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_accepted_is_not_routed_is_not_delivered.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2499
+    },
+    {
       "file_name": "2026-08-21_addressing_stamped_at_the_live_dispatch_chokepoint.md",
       "home": "zoro",
       "rel_path": "2026-08-21_addressing_stamped_at_the_live_dispatch_chokepoint.md",
       "date": "2026-08-21",
       "tier": "A",
       "size_bytes": 9404
+    },
+    {
+      "file_name": "2026-08-21_both_witnesses_full_mutation_coverage_32_mutants_0_survived.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_both_witnesses_full_mutation_coverage_32_mutants_0_survived.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 11148
     },
     {
       "file_name": "2026-08-21_capability_status_contract_and_predicate_audit.md",
@@ -32996,12 +33028,36 @@
       "size_bytes": 7507
     },
     {
+      "file_name": "2026-08-21_capacity_freeze_study_diff.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_capacity_freeze_study_diff.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 9233
+    },
+    {
+      "file_name": "2026-08-21_capacity_preselection.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_capacity_preselection.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 9655
+    },
+    {
       "file_name": "2026-08-21_counterfeit_green_and_the_general_law.md",
       "home": "zoro",
       "rel_path": "2026-08-21_counterfeit_green_and_the_general_law.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 8610
+    },
+    {
+      "file_name": "2026-08-21_data_boundary_bound_and_the_planner_claim_corrected.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_data_boundary_bound_and_the_planner_claim_corrected.md",
+      "date": "2026-08-21",
+      "tier": null,
+      "size_bytes": 5632
     },
     {
       "file_name": "2026-08-21_declared_inconclusive_exit_codes.md",
@@ -33028,6 +33084,30 @@
       "size_bytes": 8751
     },
     {
+      "file_name": "2026-08-21_embeddings_fail_at_prediction_work_at_recognition.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_embeddings_fail_at_prediction_work_at_recognition.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 6142
+    },
+    {
+      "file_name": "2026-08-21_episode_transfer_yields_zero_lift.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_episode_transfer_yields_zero_lift.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 6227
+    },
+    {
+      "file_name": "2026-08-21_excel_addin_distribution_and_the_unloadable_manifest.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_excel_addin_distribution_and_the_unloadable_manifest.md",
+      "date": "2026-08-21",
+      "tier": null,
+      "size_bytes": 5829
+    },
+    {
       "file_name": "2026-08-21_first_receipt_loop.md",
       "home": "zoro",
       "rel_path": "2026-08-21_first_receipt_loop.md",
@@ -33036,12 +33116,36 @@
       "size_bytes": 11671
     },
     {
+      "file_name": "2026-08-21_gap_screen_found_no_gap.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_gap_screen_found_no_gap.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 5412
+    },
+    {
       "file_name": "2026-08-21_landing_first_visit_hierarchy.md",
       "home": "zoro",
       "rel_path": "2026-08-21_landing_first_visit_hierarchy.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 8913
+    },
+    {
+      "file_name": "2026-08-21_learning_yield_from_reading_slurm.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_learning_yield_from_reading_slurm.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 9395
+    },
+    {
+      "file_name": "2026-08-21_mutation_tests_12_mutants_0_survived.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_mutation_tests_12_mutants_0_survived.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 8490
     },
     {
       "file_name": "2026-08-21_no_live_envelope_to_stamp.md",
@@ -33068,6 +33172,46 @@
       "size_bytes": 4263
     },
     {
+      "file_name": "2026-08-21_one_review_event_produces_n_candidate_lessons.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_one_review_event_produces_n_candidate_lessons.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 11816
+    },
+    {
+      "file_name": "2026-08-21_spreadsheet_engineer_the_browser_path_was_never_executed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_spreadsheet_engineer_the_browser_path_was_never_executed.md",
+      "date": "2026-08-21",
+      "tier": null,
+      "size_bytes": 7467
+    },
+    {
+      "file_name": "2026-08-21_structural_refusal_reaches_production.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_structural_refusal_reaches_production.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 8193
+    },
+    {
+      "file_name": "2026-08-21_the_compounding_loop_has_only_compounded_itself.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_the_compounding_loop_has_only_compounded_itself.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4314
+    },
+    {
+      "file_name": "2026-08-21_the_controls_were_just_easy.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_the_controls_were_just_easy.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 5534
+    },
+    {
       "file_name": "2026-08-21_the_ledger_that_records_no_causes.md",
       "home": "zoro",
       "rel_path": "2026-08-21_the_ledger_that_records_no_causes.md",
@@ -33092,6 +33236,14 @@
       "size_bytes": 10208
     },
     {
+      "file_name": "2026-08-21_the_six_witness_evidence_chain_is_complete.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_the_six_witness_evidence_chain_is_complete.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 13141
+    },
+    {
       "file_name": "2026-08-21_the_trace_tool_was_structurally_blind_and_the_hold_is_now_mechanical.md",
       "home": "zoro",
       "rel_path": "2026-08-21_the_trace_tool_was_structurally_blind_and_the_hold_is_now_mechanical.md",
@@ -33100,12 +33252,60 @@
       "size_bytes": 8636
     },
     {
+      "file_name": "2026-08-21_the_training_constraint_succeeded_and_was_never_released.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_the_training_constraint_succeeded_and_was_never_released.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 8362
+    },
+    {
+      "file_name": "2026-08-21_the_transfer_question_has_never_been_asked.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_the_transfer_question_has_never_been_asked.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 8842
+    },
+    {
+      "file_name": "2026-08-21_toolmaking_thesis_measured_against_the_toolshed.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_toolmaking_thesis_measured_against_the_toolshed.md",
+      "date": "2026-08-21",
+      "tier": null,
+      "size_bytes": 56959
+    },
+    {
+      "file_name": "2026-08-21_total_mutation_coverage_92_mutants_4_layers_0_survivors.md",
+      "home": "zoro",
+      "rel_path": "2026-08-21_total_mutation_coverage_92_mutants_4_layers_0_survivors.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 16268
+    },
+    {
       "file_name": "2026-08-21_tranche3_no_origin_material_and_the_moltbook_outage.md",
       "home": "zoro",
       "rel_path": "2026-08-21_tranche3_no_origin_material_and_the_moltbook_outage.md",
       "date": "2026-08-21",
       "tier": "A",
       "size_bytes": 12949
+    },
+    {
+      "file_name": "2026-08-22_a_billing_outage_wearing_a_schema_error.md",
+      "home": "zoro",
+      "rel_path": "2026-08-22_a_billing_outage_wearing_a_schema_error.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 8779
+    },
+    {
+      "file_name": "2026-08-22_zero_pairs_was_three_conditions.md",
+      "home": "zoro",
+      "rel_path": "2026-08-22_zero_pairs_was_three_conditions.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 8170
     },
     {
       "file_name": "INDEX.md",
@@ -33162,6 +33362,46 @@
       "date": null,
       "tier": "A",
       "size_bytes": 2744
+    },
+    {
+      "file_name": "PRODUCT_LAWS.md",
+      "home": "zoro",
+      "rel_path": "artifacts/2026-08-21_organ_census/PRODUCT_LAWS.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 29575
+    },
+    {
+      "file_name": "DATA_BOUNDARY.md",
+      "home": "zoro",
+      "rel_path": "artifacts/2026-08-21_spreadsheet_engineer/restore/DATA_BOUNDARY.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2286
+    },
+    {
+      "file_name": "SIDELOAD.md",
+      "home": "zoro",
+      "rel_path": "artifacts/2026-08-21_spreadsheet_engineer/restore/SIDELOAD.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2885
+    },
+    {
+      "file_name": "glee_pkg_spreadsheet_engineer_DATA_BOUNDARY.md",
+      "home": "zoro",
+      "rel_path": "artifacts/2026-08-21_spreadsheet_engineer/snapshot/glee_pkg_spreadsheet_engineer_DATA_BOUNDARY.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2286
+    },
+    {
+      "file_name": "glee_pkg_spreadsheet_engineer_excel_officejs_poc_SIDELOAD.md",
+      "home": "zoro",
+      "rel_path": "artifacts/2026-08-21_spreadsheet_engineer/snapshot/glee_pkg_spreadsheet_engineer_excel_officejs_poc_SIDELOAD.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2885
     },
     {
       "file_name": "2026-08-20_aeso_precondition_probe.md",
@@ -73100,6 +73340,14 @@
       "size_bytes": 5814
     },
     {
+      "file_name": "2026-08-21_adversarial-long-horizon-loop-1921-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_adversarial-long-horizon-loop-1921-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4838
+    },
+    {
       "file_name": "2026-08-21_agent-bus-cross-source-reconcile-review-0727.md",
       "home": "sanji",
       "rel_path": "2026-08-21_agent-bus-cross-source-reconcile-review-0727.md",
@@ -73114,6 +73362,14 @@
       "date": "2026-08-21",
       "tier": "A",
       "size_bytes": 4429
+    },
+    {
+      "file_name": "2026-08-21_agent-bus-single-supervisor-census-1910-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_agent-bus-single-supervisor-census-1910-sanji.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 2411
     },
     {
       "file_name": "2026-08-21_agent-workbench-connect-authority-review-0732.md",
@@ -73164,6 +73420,14 @@
       "size_bytes": 3347
     },
     {
+      "file_name": "2026-08-21_aos-replay-hostile-boundary-2204-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_aos-replay-hostile-boundary-2204-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3526
+    },
+    {
       "file_name": "2026-08-21_arena-grounded-audit-1611-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_arena-grounded-audit-1611-sanji.md",
@@ -73188,6 +73452,22 @@
       "size_bytes": 3337
     },
     {
+      "file_name": "2026-08-21_atlas-self-review-identity-pivot-2018-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_atlas-self-review-identity-pivot-2018-sanji.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 2810
+    },
+    {
+      "file_name": "2026-08-21_atlas-traceability-404-review-2022-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_atlas-traceability-404-review-2022-sanji.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 2937
+    },
+    {
       "file_name": "2026-08-21_atlas_passport_resolver_fail_closed.md",
       "home": "sanji",
       "rel_path": "2026-08-21_atlas_passport_resolver_fail_closed.md",
@@ -73202,6 +73482,30 @@
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 6558
+    },
+    {
+      "file_name": "2026-08-21_autodidact-v0-program-frame-2022-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_autodidact-v0-program-frame-2022-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 5072
+    },
+    {
+      "file_name": "2026-08-21_autodidact-v0-real-episode-2040-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_autodidact-v0-real-episode-2040-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 6804
+    },
+    {
+      "file_name": "2026-08-21_autonomic-scheduler-simulation-2017-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_autonomic-scheduler-simulation-2017-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3015
     },
     {
       "file_name": "2026-08-21_autonomous-continuation-adversarial-replay-0849.md",
@@ -73516,6 +73820,14 @@
       "size_bytes": 3377
     },
     {
+      "file_name": "2026-08-21_capability-record-placement-analysis-2217-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_capability-record-placement-analysis-2217-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3183
+    },
+    {
       "file_name": "2026-08-21_casual-chat-build-test-isolation-1100.md",
       "home": "sanji",
       "rel_path": "2026-08-21_casual-chat-build-test-isolation-1100.md",
@@ -73562,6 +73874,14 @@
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 3383
+    },
+    {
+      "file_name": "2026-08-21_claim-refusal-long-horizon-1843-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_claim-refusal-long-horizon-1843-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3392
     },
     {
       "file_name": "2026-08-21_claim-refusal-reroute-1837-sanji.md",
@@ -73748,6 +74068,14 @@
       "size_bytes": 2937
     },
     {
+      "file_name": "2026-08-21_constitution-challenges-route-review-2001-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_constitution-challenges-route-review-2001-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2815
+    },
+    {
       "file_name": "2026-08-21_context-cognition-restart-contamination-1503-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_context-cognition-restart-contamination-1503-sanji.md",
@@ -73764,12 +74092,36 @@
       "size_bytes": 2902
     },
     {
+      "file_name": "2026-08-21_control-plane-index-lock-recovery-2122-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_control-plane-index-lock-recovery-2122-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2785
+    },
+    {
       "file_name": "2026-08-21_control-plane-relay-timeline-1451-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_control-plane-relay-timeline-1451-sanji.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 2905
+    },
+    {
+      "file_name": "2026-08-21_controlled-external-capability-audit-2210-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_controlled-external-capability-audit-2210-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3608
+    },
+    {
+      "file_name": "2026-08-21_controlled-external-capability-record-draft-2212-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_controlled-external-capability-record-draft-2212-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3754
     },
     {
       "file_name": "2026-08-21_cooperation-allocator-parity-port-0909.md",
@@ -74084,6 +74436,14 @@
       "size_bytes": 3082
     },
     {
+      "file_name": "2026-08-21_echobreach-store-copy-live-reachability-2014-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_echobreach-store-copy-live-reachability-2014-sanji.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 2536
+    },
+    {
       "file_name": "2026-08-21_evaluator-estate-isolation-1306-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_evaluator-estate-isolation-1306-sanji.md",
@@ -74228,6 +74588,62 @@
       "size_bytes": 2732
     },
     {
+      "file_name": "2026-08-21_experiment_003_candidate_g_spec.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_experiment_003_candidate_g_spec.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 4443
+    },
+    {
+      "file_name": "2026-08-21_experiment_003_contract_revision-2221-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_experiment_003_contract_revision-2221-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4569
+    },
+    {
+      "file_name": "2026-08-21_experiment_003_critical_review-2208-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_experiment_003_critical_review-2208-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3401
+    },
+    {
+      "file_name": "2026-08-21_experiment_003_g_freeze_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_experiment_003_g_freeze_contract.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 4156
+    },
+    {
+      "file_name": "2026-08-21_experiment_003_in_situ_memory_value_packet-2157-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_experiment_003_in_situ_memory_value_packet-2157-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4733
+    },
+    {
+      "file_name": "2026-08-21_experiment_003_launcher-enforcement-2249-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_experiment_003_launcher-enforcement-2249-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 5763
+    },
+    {
+      "file_name": "2026-08-21_experiment_003_promotion_ladder-2231-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_experiment_003_promotion_ladder-2231-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4808
+    },
+    {
       "file_name": "2026-08-21_failed-terminal-proof-integrity-1821-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_failed-terminal-proof-integrity-1821-sanji.md",
@@ -74324,6 +74740,22 @@
       "size_bytes": 3360
     },
     {
+      "file_name": "2026-08-21_forge-recovery-W-bound-2339-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_forge-recovery-W-bound-2339-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4286
+    },
+    {
+      "file_name": "2026-08-21_forge-recovery-W-bound-2341-sanji-correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_forge-recovery-W-bound-2341-sanji-correction.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3025
+    },
+    {
       "file_name": "2026-08-21_full-pytest-runner-owner-0633.md",
       "home": "sanji",
       "rel_path": "2026-08-21_full-pytest-runner-owner-0633.md",
@@ -74338,6 +74770,14 @@
       "date": "2026-08-21",
       "tier": "A",
       "size_bytes": 2958
+    },
+    {
+      "file_name": "2026-08-21_gcap1-live-route-replay-1944-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_gcap1-live-route-replay-1944-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3379
     },
     {
       "file_name": "2026-08-21_gfc1f916-independent-review-0631.md",
@@ -74476,6 +74916,14 @@
       "size_bytes": 4362
     },
     {
+      "file_name": "2026-08-21_goal-stall-witness-bounded-recheck-1958-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_goal-stall-witness-bounded-recheck-1958-sanji.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 2826
+    },
+    {
       "file_name": "2026-08-21_goal-stall-witness-correlation-1246-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_goal-stall-witness-correlation-1246-sanji.md",
@@ -74498,6 +74946,14 @@
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 3658
+    },
+    {
+      "file_name": "2026-08-21_goal-stall-witness-waiting-state-1855-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_goal-stall-witness-waiting-state-1855-sanji.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 3076
     },
     {
       "file_name": "2026-08-21_goal_stall_passive_witness_arming.md",
@@ -74628,6 +75084,102 @@
       "size_bytes": 7249
     },
     {
+      "file_name": "2026-08-21_job-2c9badb2e7-attempt-budget-1917-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-2c9badb2e7-attempt-budget-1917-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2288
+    },
+    {
+      "file_name": "2026-08-21_job-2c9badb2e7-research-warrant-attempt-budget-1922-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-2c9badb2e7-research-warrant-attempt-budget-1922-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3517
+    },
+    {
+      "file_name": "2026-08-21_job-47e171175a-cw001-v0k-adoption-boundary-1915-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-47e171175a-cw001-v0k-adoption-boundary-1915-sanji.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 2918
+    },
+    {
+      "file_name": "2026-08-21_job-47e171175a-v0k-boundary-1912-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-47e171175a-v0k-boundary-1912-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2554
+    },
+    {
+      "file_name": "2026-08-21_job-5e41a73a0d-unknown-replay-2004-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-5e41a73a0d-unknown-replay-2004-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2972
+    },
+    {
+      "file_name": "2026-08-21_job-820b02b607-orchestrator-liveness-1920-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-820b02b607-orchestrator-liveness-1920-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2360
+    },
+    {
+      "file_name": "2026-08-21_job-998179c40b-backup-coverage-1909-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-998179c40b-backup-coverage-1909-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2632
+    },
+    {
+      "file_name": "2026-08-21_job-998179c40b-backup-coverage-reconciliation-1913-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-998179c40b-backup-coverage-reconciliation-1913-sanji.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 2929
+    },
+    {
+      "file_name": "2026-08-21_job-ba9d675845-provider-replay-1923-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-ba9d675845-provider-replay-1923-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2494
+    },
+    {
+      "file_name": "2026-08-21_job-d33b404a0e-aeg-raw-shaped-1914-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-d33b404a0e-aeg-raw-shaped-1914-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2309
+    },
+    {
+      "file_name": "2026-08-21_job-d33b404a0e-aeg-raw-shaped-benchmark-1917-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-d33b404a0e-aeg-raw-shaped-benchmark-1917-sanji.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 2768
+    },
+    {
+      "file_name": "2026-08-21_job-d33b404a0e-projection-baseline-review-2008-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_job-d33b404a0e-projection-baseline-review-2008-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2779
+    },
+    {
       "file_name": "2026-08-21_l3-deadline-diagnosis-0804.md",
       "home": "sanji",
       "rel_path": "2026-08-21_l3-deadline-diagnosis-0804.md",
@@ -74660,6 +75212,14 @@
       "size_bytes": 3342
     },
     {
+      "file_name": "2026-08-21_lane-health-source-scope-2156-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_lane-health-source-scope-2156-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2783
+    },
+    {
       "file_name": "2026-08-21_lifecycle-reconciliation-rerun-1453-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_lifecycle-reconciliation-rerun-1453-sanji.md",
@@ -74682,6 +75242,14 @@
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 2310
+    },
+    {
+      "file_name": "2026-08-21_live-autonomous-continuation-witness-1855-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_live-autonomous-continuation-witness-1855-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 5099
     },
     {
       "file_name": "2026-08-21_live-autonomous-continuation-witness.md",
@@ -74876,6 +75444,14 @@
       "size_bytes": 3919
     },
     {
+      "file_name": "2026-08-21_moltbook-binding-rationale-1939-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_moltbook-binding-rationale-1939-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2685
+    },
+    {
       "file_name": "2026-08-21_mutation-snapshot-isolation-0724.md",
       "home": "sanji",
       "rel_path": "2026-08-21_mutation-snapshot-isolation-0724.md",
@@ -74964,6 +75540,14 @@
       "size_bytes": 2565
     },
     {
+      "file_name": "2026-08-21_p1fc2e53-independent-judge-1851-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_p1fc2e53-independent-judge-1851-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2563
+    },
+    {
       "file_name": "2026-08-21_peer-activation-truth-0905.md",
       "home": "sanji",
       "rel_path": "2026-08-21_peer-activation-truth-0905.md",
@@ -75026,6 +75610,70 @@
       "date": "2026-08-21",
       "tier": "A",
       "size_bytes": 2960
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-batch-1937-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-batch-1937-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3048
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-batch-1941-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-batch-1941-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2386
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-batch-1943-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-batch-1943-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2567
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-batch-1946-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-batch-1946-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2670
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-batch-1948-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-batch-1948-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2518
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-batch-1950-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-batch-1950-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2602
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-batch-1956-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-batch-1956-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2715
+    },
+    {
+      "file_name": "2026-08-21_predicate-audit-colab-connected-1856-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_predicate-audit-colab-connected-1856-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2816
     },
     {
       "file_name": "2026-08-21_project_truth_compiler_provenance_overlap.md",
@@ -75404,6 +76052,14 @@
       "size_bytes": 5233
     },
     {
+      "file_name": "2026-08-21_s6-unified-alerting-2112-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_s6-unified-alerting-2112-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3887
+    },
+    {
       "file_name": "2026-08-21_s7-contract-replay-1027.md",
       "home": "sanji",
       "rel_path": "2026-08-21_s7-contract-replay-1027.md",
@@ -75516,12 +76172,28 @@
       "size_bytes": 3829
     },
     {
+      "file_name": "2026-08-21_sanji-codex-config-routing-hold-1925-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_sanji-codex-config-routing-hold-1925-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 1915
+    },
+    {
       "file_name": "2026-08-21_seat-target-identity-regression-1236-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_seat-target-identity-regression-1236-sanji.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 2983
+    },
+    {
+      "file_name": "2026-08-21_seat-truth-focus-readiness-2140-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_seat-truth-focus-readiness-2140-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2849
     },
     {
       "file_name": "2026-08-21_seat-truth-queue-reconciliation-0741.md",
@@ -76452,6 +77124,14 @@
       "size_bytes": 3688
     },
     {
+      "file_name": "2026-08-21_ship-lint-diagnostic-1900-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_ship-lint-diagnostic-1900-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 1939
+    },
+    {
       "file_name": "2026-08-21_ship-lint-distinct-slice-0850-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_ship-lint-distinct-slice-0850-sanji.md",
@@ -76820,6 +77500,14 @@
       "size_bytes": 4073
     },
     {
+      "file_name": "2026-08-21_ship-lint-shard-aggregate-review-2331-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_ship-lint-shard-aggregate-review-2331-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3251
+    },
+    {
       "file_name": "2026-08-21_ship-lint-shard-aggregation.md",
       "home": "sanji",
       "rel_path": "2026-08-21_ship-lint-shard-aggregation.md",
@@ -77100,6 +77788,14 @@
       "size_bytes": 3279
     },
     {
+      "file_name": "2026-08-21_ship-lint-timeout-diagnostic-1909-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_ship-lint-timeout-diagnostic-1909-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4191
+    },
+    {
       "file_name": "2026-08-21_ship-lint-timeout-diagnostic-reverification-1229-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_ship-lint-timeout-diagnostic-reverification-1229-sanji.md",
@@ -77172,6 +77868,14 @@
       "size_bytes": 3441
     },
     {
+      "file_name": "2026-08-21_spreadsheet-measurement-controls-2200-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_spreadsheet-measurement-controls-2200-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 4263
+    },
+    {
       "file_name": "2026-08-21_spreadsheet-officejs-meta-lint-repair-1055.md",
       "home": "sanji",
       "rel_path": "2026-08-21_spreadsheet-officejs-meta-lint-repair-1055.md",
@@ -77180,12 +77884,36 @@
       "size_bytes": 3750
     },
     {
+      "file_name": "2026-08-21_stop-hook-noise-observability-1930-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_stop-hook-noise-observability-1930-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2871
+    },
+    {
       "file_name": "2026-08-21_stranded-dispatch-bridge-review-0639.md",
       "home": "sanji",
       "rel_path": "2026-08-21_stranded-dispatch-bridge-review-0639.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 5059
+    },
+    {
+      "file_name": "2026-08-21_stranded-job-472897131a-authority-label-review-1904-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_stranded-job-472897131a-authority-label-review-1904-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2449
+    },
+    {
+      "file_name": "2026-08-21_stranded-job-authority-observation-contract-1906-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_stranded-job-authority-observation-contract-1906-sanji.md",
+      "date": "2026-08-21",
+      "tier": "C",
+      "size_bytes": 2957
     },
     {
       "file_name": "2026-08-21_studio-ariadne-display-chain-0434.md",
@@ -77308,6 +78036,14 @@
       "size_bytes": 6417
     },
     {
+      "file_name": "2026-08-21_task39-acceptance-evidence-correction-1932-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_task39-acceptance-evidence-correction-1932-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2734
+    },
+    {
       "file_name": "2026-08-21_task39-studio-adapter-independent-rerun-1416.md",
       "home": "sanji",
       "rel_path": "2026-08-21_task39-studio-adapter-independent-rerun-1416.md",
@@ -77332,12 +78068,44 @@
       "size_bytes": 2587
     },
     {
+      "file_name": "2026-08-21_terminal-state-parity-1927-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_terminal-state-parity-1927-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3799
+    },
+    {
+      "file_name": "2026-08-21_terminal-zoom-duplicate-liveness-1949-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_terminal-zoom-duplicate-liveness-1949-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2863
+    },
+    {
+      "file_name": "2026-08-21_termination-verdict-linkage-review-2348-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_termination-verdict-linkage-review-2348-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2858
+    },
+    {
       "file_name": "2026-08-21_unregistered-provider-launcher-boundary-1602-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_unregistered-provider-launcher-boundary-1602-sanji.md",
       "date": "2026-08-21",
       "tier": "A",
       "size_bytes": 3677
+    },
+    {
+      "file_name": "2026-08-21_v5-current-seat-readiness-2127-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_v5-current-seat-readiness-2127-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2173
     },
     {
       "file_name": "2026-08-21_v5-matrix-replay-inventory-drift-1429-sanji.md",
@@ -77354,6 +78122,30 @@
       "date": "2026-08-21",
       "tier": null,
       "size_bytes": 3112
+    },
+    {
+      "file_name": "2026-08-21_v5-recommended-model-repair-2122-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_v5-recommended-model-repair-2122-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2644
+    },
+    {
+      "file_name": "2026-08-21_v5-sealed-evidence-rebase-2139-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_v5-sealed-evidence-rebase-2139-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3582
+    },
+    {
+      "file_name": "2026-08-21_v5-seat-preparation-diagnosis-2056-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_v5-seat-preparation-diagnosis-2056-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3266
     },
     {
       "file_name": "2026-08-21_v5-self-improvement-kernel-review.md",
@@ -77420,6 +78212,14 @@
       "size_bytes": 3403
     },
     {
+      "file_name": "2026-08-21_wall-id-audit-webdevops-1947-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_wall-id-audit-webdevops-1947-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2677
+    },
+    {
       "file_name": "2026-08-21_wall-id-reconciliation-1204-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-21_wall-id-reconciliation-1204-sanji.md",
@@ -77428,12 +78228,52 @@
       "size_bytes": 2262
     },
     {
+      "file_name": "2026-08-21_wcp-v1-reachability-invariant-1929-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_wcp-v1-reachability-invariant-1929-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2685
+    },
+    {
       "file_name": "2026-08-21_web_verify_touch_profile.md",
       "home": "sanji",
       "rel_path": "2026-08-21_web_verify_touch_profile.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 5262
+    },
+    {
+      "file_name": "2026-08-21_webdevops-jam-claim-replay-1953-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_webdevops-jam-claim-replay-1953-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 3050
+    },
+    {
+      "file_name": "2026-08-21_worker-route-inventory-app-only-gap-2005-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_worker-route-inventory-app-only-gap-2005-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2581
+    },
+    {
+      "file_name": "2026-08-21_worker-route-inventory-live-entrypoint-packet-2007-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_worker-route-inventory-live-entrypoint-packet-2007-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2998
+    },
+    {
+      "file_name": "2026-08-21_workflow-dynamics-transfer-review-2011-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-21_workflow-dynamics-transfer-review-2011-sanji.md",
+      "date": "2026-08-21",
+      "tier": "A",
+      "size_bytes": 2354
     },
     {
       "file_name": "2026-08-21_workflow-status-normalization-0430.md",
@@ -77492,6 +78332,230 @@
       "size_bytes": 4037
     },
     {
+      "file_name": "2026-08-22_active-work-projection-hostile-review-2300-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_active-work-projection-hostile-review-2300-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2054
+    },
+    {
+      "file_name": "2026-08-22_active-work-projection-repair-0446-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_active-work-projection-repair-0446-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3547
+    },
+    {
+      "file_name": "2026-08-22_active-work-projection-source-repair-0500-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_active-work-projection-source-repair-0500-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3895
+    },
+    {
+      "file_name": "2026-08-22_active-work-validator-contract-repair-0453-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_active-work-validator-contract-repair-0453-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3289
+    },
+    {
+      "file_name": "2026-08-22_adversarial-long-horizon-autonomy-0542-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_adversarial-long-horizon-autonomy-0542-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2082
+    },
+    {
+      "file_name": "2026-08-22_agent-bus-single-supervisor-census-0532-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_agent-bus-single-supervisor-census-0532-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 2830
+    },
+    {
+      "file_name": "2026-08-22_agent-bus-single-supervisor-census-2316-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_agent-bus-single-supervisor-census-2316-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2457
+    },
+    {
+      "file_name": "2026-08-22_aos-external-capability-enforcement-parity-audit-2311-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-external-capability-enforcement-parity-audit-2311-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 3223
+    },
+    {
+      "file_name": "2026-08-22_aos-local-only-mcp-boundary-review-0553-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-local-only-mcp-boundary-review-0553-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2400
+    },
+    {
+      "file_name": "2026-08-22_aos-readonly-fallback-0328-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-readonly-fallback-0328-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3539
+    },
+    {
+      "file_name": "2026-08-22_aos-readonly-scout-external-auth-boundary-0544-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-readonly-scout-external-auth-boundary-0544-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2873
+    },
+    {
+      "file_name": "2026-08-22_aos-replay-continuity-0344-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-replay-continuity-0344-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3893
+    },
+    {
+      "file_name": "2026-08-22_aos-replay-hostile-boundary-audit-2307-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-replay-hostile-boundary-audit-2307-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4119
+    },
+    {
+      "file_name": "2026-08-22_aos-successor-durability-0338-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-successor-durability-0338-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3529
+    },
+    {
+      "file_name": "2026-08-22_aos-successor-hostile-review-0425-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-successor-hostile-review-0425-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2934
+    },
+    {
+      "file_name": "2026-08-22_aos-successor-proposal-0333-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_aos-successor-proposal-0333-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3899
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-contract-review-2038-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-contract-review-2038-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4539
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-fixture-0245-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-fixture-0245-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 5253
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-fixture-2031-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-fixture-2031-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4719
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-fixture-2036-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-fixture-2036-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3751
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-guard-independent-recheck-0015-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-guard-independent-recheck-0015-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4096
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-held-out-protocol-0326-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-held-out-protocol-0326-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 5527
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-identity-guard-2049-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-identity-guard-2049-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 6060
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-preregistration-2049-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-preregistration-2049-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 6230
+    },
+    {
+      "file_name": "2026-08-22_autodidact-v0-preregistration-guard-repair-2108-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autodidact-v0-preregistration-guard-repair-2108-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 5709
+    },
+    {
+      "file_name": "2026-08-22_automatic-dispatch-blocker-review-0452-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_automatic-dispatch-blocker-review-0452-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3778
+    },
+    {
+      "file_name": "2026-08-22_autonomic-scheduler-hostile-recheck-0516-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autonomic-scheduler-hostile-recheck-0516-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 2572
+    },
+    {
+      "file_name": "2026-08-22_autonomous-continuation-verifier-terminal-independent-review-0418-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_autonomous-continuation-verifier-terminal-independent-review-0418-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2530
+    },
+    {
       "file_name": "2026-08-22_blocked-rehydration-live-adoption-diagnostic-0025-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-22_blocked-rehydration-live-adoption-diagnostic-0025-sanji.md",
@@ -77508,6 +78572,110 @@
       "size_bytes": 3745
     },
     {
+      "file_name": "2026-08-22_capability-epistemics-extension-boundary-2225-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_capability-epistemics-extension-boundary-2225-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3047
+    },
+    {
+      "file_name": "2026-08-22_codebank-final-census-0608-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_codebank-final-census-0608-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2368
+    },
+    {
+      "file_name": "2026-08-22_codebank-flagged-block-census-0610-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_codebank-flagged-block-census-0610-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2294
+    },
+    {
+      "file_name": "2026-08-22_codex-identity-contract-fixture-0333-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_codex-identity-contract-fixture-0333-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4383
+    },
+    {
+      "file_name": "2026-08-22_codex-identity-contract-fixture-0343-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_codex-identity-contract-fixture-0343-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4165
+    },
+    {
+      "file_name": "2026-08-22_control-plane-relay-timeline-0026-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_control-plane-relay-timeline-0026-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3194
+    },
+    {
+      "file_name": "2026-08-22_controlled-external-capability-placement-review-0029-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_controlled-external-capability-placement-review-0029-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4300
+    },
+    {
+      "file_name": "2026-08-22_coordination-inbox-isolation-recheck-0632-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_coordination-inbox-isolation-recheck-0632-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2227
+    },
+    {
+      "file_name": "2026-08-22_coordination-inbox-live-ledger-repair-0632-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_coordination-inbox-live-ledger-repair-0632-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2746
+    },
+    {
+      "file_name": "2026-08-22_coordination-writer-persistence-0310-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_coordination-writer-persistence-0310-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3736
+    },
+    {
+      "file_name": "2026-08-22_coordination-writer-restart-recovery-0318-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_coordination-writer-restart-recovery-0318-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3737
+    },
+    {
+      "file_name": "2026-08-22_crew-delivery-health-recheck-0611-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_crew-delivery-health-recheck-0611-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2696
+    },
+    {
+      "file_name": "2026-08-22_crew-delivery-unresolved-row-forensic-0614-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_crew-delivery-unresolved-row-forensic-0614-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2089
+    },
+    {
       "file_name": "2026-08-22_crew-execution-blocked-rehydration-0004.md",
       "home": "sanji",
       "rel_path": "2026-08-22_crew-execution-blocked-rehydration-0004.md",
@@ -77516,12 +78684,476 @@
       "size_bytes": 3554
     },
     {
+      "file_name": "2026-08-22_crew-routing-schema-compat-review-1851-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_crew-routing-schema-compat-review-1851-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2657
+    },
+    {
+      "file_name": "2026-08-22_delivery-health-wrapper-route-audit-0621-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_delivery-health-wrapper-route-audit-0621-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2161
+    },
+    {
+      "file_name": "2026-08-22_doctrine-loader-ceiling-and-reachability-classification-0550-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_doctrine-loader-ceiling-and-reachability-classification-0550-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3614
+    },
+    {
+      "file_name": "2026-08-22_doctrine-loader-reachability-review-0434-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_doctrine-loader-reachability-review-0434-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3327
+    },
+    {
+      "file_name": "2026-08-22_evidence-adequacy-framework-independent-recheck-0032-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_evidence-adequacy-framework-independent-recheck-0032-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2645
+    },
+    {
+      "file_name": "2026-08-22_evidence-adequacy-framework-overlap-review-0531-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_evidence-adequacy-framework-overlap-review-0531-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3629
+    },
+    {
+      "file_name": "2026-08-22_experiment-003-loader-binding-rebase-2313-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_experiment-003-loader-binding-rebase-2313-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4140
+    },
+    {
+      "file_name": "2026-08-22_experiment-003-production-topology-census-0522-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_experiment-003-production-topology-census-0522-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3667
+    },
+    {
+      "file_name": "2026-08-22_experiment003-bypass-route-inventory-2321-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_experiment003-bypass-route-inventory-2321-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 3029
+    },
+    {
+      "file_name": "2026-08-22_experiment003-permission-witness-hostile-review-2304-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_experiment003-permission-witness-hostile-review-2304-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2230
+    },
+    {
+      "file_name": "2026-08-22_experiment_003_enforcement-split-0517-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_experiment_003_enforcement-split-0517-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3733
+    },
+    {
+      "file_name": "2026-08-22_experiment_003_real-loader-binding-audit-0501-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_experiment_003_real-loader-binding-audit-0501-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3647
+    },
+    {
       "file_name": "2026-08-22_failed-terminal-status-surface-review-1837-sanji.md",
       "home": "sanji",
       "rel_path": "2026-08-22_failed-terminal-status-surface-review-1837-sanji.md",
       "date": "2026-08-22",
       "tier": "A",
       "size_bytes": 3438
+    },
+    {
+      "file_name": "2026-08-22_failed-terminal-successor-0157-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_failed-terminal-successor-0157-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4126
+    },
+    {
+      "file_name": "2026-08-22_forge-recovery-W-bound-recheck-0545-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_forge-recovery-W-bound-recheck-0545-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2683
+    },
+    {
+      "file_name": "2026-08-22_glee-computer-route-owner-evidence-1848-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_glee-computer-route-owner-evidence-1848-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3265
+    },
+    {
+      "file_name": "2026-08-22_goal-envelope-terminal-review-0138-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_goal-envelope-terminal-review-0138-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4096
+    },
+    {
+      "file_name": "2026-08-22_hn-manual-approval-independent-review-0006-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_hn-manual-approval-independent-review-0006-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3141
+    },
+    {
+      "file_name": "2026-08-22_hn-manual-approval-output-filter-repair-0600-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_hn-manual-approval-output-filter-repair-0600-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4278
+    },
+    {
+      "file_name": "2026-08-22_holder-scope-aware-repair-0507-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_holder-scope-aware-repair-0507-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3759
+    },
+    {
+      "file_name": "2026-08-22_live-continuation-canary-recheck-0548-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_live-continuation-canary-recheck-0548-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2104
+    },
+    {
+      "file_name": "2026-08-22_live-ship-lint-shard-resume-0033-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_live-ship-lint-shard-resume-0033-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3006
+    },
+    {
+      "file_name": "2026-08-22_live-ship-lint-shard-resume-0618-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_live-ship-lint-shard-resume-0618-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3024
+    },
+    {
+      "file_name": "2026-08-22_live-ship-lint-shard-witness-0604-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_live-ship-lint-shard-witness-0604-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2901
+    },
+    {
+      "file_name": "2026-08-22_loop-inbox-test-isolation-0323-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_loop-inbox-test-isolation-0323-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3710
+    },
+    {
+      "file_name": "2026-08-22_organ-census-readonly-review-2246-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_organ-census-readonly-review-2246-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 1625
+    },
+    {
+      "file_name": "2026-08-22_organ-witness-only-weak-review-2240-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_organ-witness-only-weak-review-2240-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2118
+    },
+    {
+      "file_name": "2026-08-22_provider-completion-step7-independent-review-0429-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_provider-completion-step7-independent-review-0429-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3188
+    },
+    {
+      "file_name": "2026-08-22_receipt-freeze-authority-alert-independent-review-0637-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_receipt-freeze-authority-alert-independent-review-0637-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3196
+    },
+    {
+      "file_name": "2026-08-22_repo-indexer-pid-identity-review-1841-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_repo-indexer-pid-identity-review-1841-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2780
+    },
+    {
+      "file_name": "2026-08-22_resident-continuation-handler-review-0540-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_resident-continuation-handler-review-0540-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2438
+    },
+    {
+      "file_name": "2026-08-22_s5-bridge-discord-bot-egress-gap-0002-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_s5-bridge-discord-bot-egress-gap-0002-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2998
+    },
+    {
+      "file_name": "2026-08-22_s5-discord-channel-seam-audit-2355-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_s5-discord-channel-seam-audit-2355-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3184
+    },
+    {
+      "file_name": "2026-08-22_s5-feed-channel-seam-audit-2358-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_s5-feed-channel-seam-audit-2358-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3210
+    },
+    {
+      "file_name": "2026-08-22_s6-malformed-metrics-container-0340-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_s6-malformed-metrics-container-0340-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4162
+    },
+    {
+      "file_name": "2026-08-22_s6-malformed-metrics-container-independent-review-0420-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_s6-malformed-metrics-container-independent-review-0420-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2518
+    },
+    {
+      "file_name": "2026-08-22_s6-unified-alerting-independent-review-0009-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_s6-unified-alerting-independent-review-0009-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2864
+    },
+    {
+      "file_name": "2026-08-22_seat-truth-focus-readiness-independent-review-0423-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_seat-truth-focus-readiness-independent-review-0423-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2283
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-aggregate-progress-hostile-review-2255-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-aggregate-progress-hostile-review-2255-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 1978
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-aggregate-progress-publication-0445-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-aggregate-progress-publication-0445-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3252
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-bounded-observable-0356-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-bounded-observable-0356-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3662
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-continuation-slice-0612-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-continuation-slice-0612-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2942
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-fresh-two-shard-aggregate-0529-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-fresh-two-shard-aggregate-0529-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3202
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-observability-replay-0514-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-observability-replay-0514-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3226
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-private-key-ownership-triage-2320-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-private-key-ownership-triage-2320-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4291
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-progress-projection-0420-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-progress-projection-0420-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3914
+    },
+    {
+      "file_name": "2026-08-22_ship-lint-shard-coverage-review-2234-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_ship-lint-shard-coverage-review-2234-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 1956
+    },
+    {
+      "file_name": "2026-08-22_spreadsheet-measurement-nested-details-independent-review-0635-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_spreadsheet-measurement-nested-details-independent-review-0635-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3189
+    },
+    {
+      "file_name": "2026-08-22_spreadsheet-measurement-nested-details-repair-0537-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_spreadsheet-measurement-nested-details-repair-0537-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3619
+    },
+    {
+      "file_name": "2026-08-22_subsystem-watch-pid-identity-review-1845-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_subsystem-watch-pid-identity-review-1845-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2907
+    },
+    {
+      "file_name": "2026-08-22_v5-matrix-reconciliation-0147-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_v5-matrix-reconciliation-0147-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4173
+    },
+    {
+      "file_name": "2026-08-22_v5-refusal-path-reconstruction-2101-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_v5-refusal-path-reconstruction-2101-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 4589
+    },
+    {
+      "file_name": "2026-08-22_v5-sealed-verdict-rebase-0406-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_v5-sealed-verdict-rebase-0406-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 3304
+    },
+    {
+      "file_name": "2026-08-22_verification-debt-misread-reconstruction-2026-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_verification-debt-misread-reconstruction-2026-sanji.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 3231
+    },
+    {
+      "file_name": "2026-08-22_verifier-terminal-review-0206-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_verifier-terminal-review-0206-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3896
+    },
+    {
+      "file_name": "2026-08-22_workflow-dynamics-independent-review-0026-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_workflow-dynamics-independent-review-0026-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3584
+    },
+    {
+      "file_name": "2026-08-22_workflow-dynamics-independent-review-2230-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_workflow-dynamics-independent-review-2230-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 3128
+    },
+    {
+      "file_name": "2026-08-22_workflow-dynamics-provenance-leakage-review-0540-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_workflow-dynamics-provenance-leakage-review-0540-sanji.md",
+      "date": "2026-08-22",
+      "tier": "A",
+      "size_bytes": 2901
+    },
+    {
+      "file_name": "2026-08-22_workflow-dynamics-transfer-contract-repair-0414-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-22_workflow-dynamics-transfer-contract-repair-0414-sanji.md",
+      "date": "2026-08-22",
+      "tier": null,
+      "size_bytes": 2917
     },
     {
       "file_name": "INDEX.md",
@@ -92036,6 +93668,22 @@
       "size_bytes": 7084
     },
     {
+      "file_name": "2026-08-21_agent_bus_dispatcher_crash_telemetry_live_wire_witness.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_agent_bus_dispatcher_crash_telemetry_live_wire_witness.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 3794
+    },
+    {
+      "file_name": "2026-08-21_ariadne_worker_runner_boundary_2_telemetry_witness.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_ariadne_worker_runner_boundary_2_telemetry_witness.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 4405
+    },
+    {
       "file_name": "2026-08-21_causal_recursive_compounding_2x2_factorial_trial.md",
       "home": "robin",
       "rel_path": "2026-08-21_causal_recursive_compounding_2x2_factorial_trial.md",
@@ -92044,12 +93692,36 @@
       "size_bytes": 7224
     },
     {
+      "file_name": "2026-08-21_experiment_002_content_addressed_identity_witness.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_experiment_002_content_addressed_identity_witness.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 3808
+    },
+    {
+      "file_name": "2026-08-21_experiment_003_real_capture_and_admission_infrastructure.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_experiment_003_real_capture_and_admission_infrastructure.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 4939
+    },
+    {
       "file_name": "2026-08-21_external_causal_replication_v1_three_families.md",
       "home": "robin",
       "rel_path": "2026-08-21_external_causal_replication_v1_three_families.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 7478
+    },
+    {
+      "file_name": "2026-08-21_generalized_provenance_ladder_and_epistemic_topology.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_generalized_provenance_ladder_and_epistemic_topology.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 5289
     },
     {
       "file_name": "2026-08-21_live_cross_runtime_witness_and_dispatch_admissibility.md",
@@ -92092,6 +93764,22 @@
       "size_bytes": 4802
     },
     {
+      "file_name": "2026-08-21_python_runner_controlled_replication_battery.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_python_runner_controlled_replication_battery.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 3287
+    },
+    {
+      "file_name": "2026-08-21_python_runner_in_task_crash_telemetry_live_wire_witness.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_python_runner_in_task_crash_telemetry_live_wire_witness.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 3409
+    },
+    {
       "file_name": "2026-08-21_self_improvement_convergence_and_closed_loop_verification.md",
       "home": "robin",
       "rel_path": "2026-08-21_self_improvement_convergence_and_closed_loop_verification.md",
@@ -92100,12 +93788,28 @@
       "size_bytes": 3659
     },
     {
+      "file_name": "2026-08-21_telemetry_interception_boundary_census_and_scenario_equivalence.md",
+      "home": "robin",
+      "rel_path": "2026-08-21_telemetry_interception_boundary_census_and_scenario_equivalence.md",
+      "date": "2026-08-21",
+      "tier": "B",
+      "size_bytes": 4216
+    },
+    {
       "file_name": "2026-08-21_v5_dispatch_reconciliation_and_recursive_self_improvement_kernel.md",
       "home": "robin",
       "rel_path": "2026-08-21_v5_dispatch_reconciliation_and_recursive_self_improvement_kernel.md",
       "date": "2026-08-21",
       "tier": "B",
       "size_bytes": 4351
+    },
+    {
+      "file_name": "2026-08-22_tool_action_provenance_ladder_and_governance_tightening.md",
+      "home": "robin",
+      "rel_path": "2026-08-22_tool_action_provenance_ladder_and_governance_tightening.md",
+      "date": "2026-08-22",
+      "tier": "B",
+      "size_bytes": 4999
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
