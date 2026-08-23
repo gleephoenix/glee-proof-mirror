@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-22T18:41:07.398595+00:00
-> Total receipts indexed: 12350
+> Last updated: 2026-08-23T06:41:07.293998+00:00
+> Total receipts indexed: 12401
 
 ## Receipt Manifest
 
@@ -9,20 +9,24 @@
 |------|------|------|------|------|
 | 2026-08-22_a_billing_outage_wearing_a_schema_error.md | zoro | 2026-08-22 | A | 8779 |
 | 2026-08-22_admission_gate_audit_and_corpus_invariant.md | zoro | 2026-08-22 | A | 4497 |
+| 2026-08-22_bar_fps_gpu_starvation_borrow_return.md | zoro | 2026-08-22 | B | 4151 |
 | 2026-08-22_causal_vs_correlated_probe_verdict.md | zoro | 2026-08-22 | A | 6254 |
-| 2026-08-22_constraint_entry_census_learning_vs_delusion_loops.md | zoro | 2026-08-22 | — | 21642 |
+| 2026-08-22_constraint_entry_census_learning_vs_delusion_loops.md | zoro | 2026-08-22 | — | 40358 |
 | 2026-08-22_curation_gate_fixtures_001_002_reviewed.md | zoro | 2026-08-22 | A | 7272 |
 | 2026-08-22_earliest_witness_and_frozen_acceptance.md | zoro | 2026-08-22 | A | 5584 |
 | 2026-08-22_first_real_failure_through_all_six_witnesses.md | zoro | 2026-08-22 | A | 11065 |
 | 2026-08-22_fixture_002_epistemic_distance_n2.md | zoro | 2026-08-22 | A | 8347 |
 | 2026-08-22_fixture_003_mcp_transport_adapter_proven.md | zoro | 2026-08-22 | A | 5151 |
 | 2026-08-22_fixture_004_dependency_spawn_boundary.md | zoro | 2026-08-22 | A | 4835 |
+| 2026-08-22_frozen_promotion_contract_reviewer_driven.md | zoro | 2026-08-22 | A | 4278 |
 | 2026-08-22_intervention_sidecars_indexed_in_manifest.md | zoro | 2026-08-22 | A | 5532 |
 | 2026-08-22_mutant_invariant_killing_test_matrix.md | zoro | 2026-08-22 | A | 9866 |
 | 2026-08-22_one_global_nav_two_domains.md | zoro | 2026-08-22 | B | 11650 |
+| 2026-08-22_pipeline_mutation_harness.md | zoro | 2026-08-22 | A | 3283 |
 | 2026-08-22_real_capture_bootstrap_achieved_n1.md | zoro | 2026-08-22 | A | 7216 |
 | 2026-08-22_source_mutation_harness_37_mutants_0_survived.md | zoro | 2026-08-22 | A | 5877 |
 | 2026-08-22_source_mutation_harness_56_mutants_0_survived.md | zoro | 2026-08-22 | A | 4002 |
+| 2026-08-22_task_level_acceptance_contracts.md | zoro | 2026-08-22 | A | 4115 |
 | 2026-08-22_the_falsifier_could_not_pass_and_the_flag_could_not_fix_it.md | zoro | 2026-08-22 | B | 7877 |
 | 2026-08-22_the_fix_was_built_yesterday_and_never_applied.md | zoro | 2026-08-22 | B | 11219 |
 | 2026-08-22_the_learning_evaluator_could_not_tell_learning_from_the_base_rate.md | zoro | 2026-08-22 | B | 12226 |
@@ -73,8 +77,10 @@
 | 2026-08-22_agent-directory-inbox-hook-replay-1201-sanji.md | sanji | 2026-08-22 | — | 2352 |
 | 2026-08-22_agent-directory-messaging-1227-sanji.md | sanji | 2026-08-22 | A | 3577 |
 | 2026-08-22_agent-directory-pure-replay-1009-sanji.md | sanji | 2026-08-22 | — | 2724 |
+| 2026-08-22_agent-trace-arena-replay-1338-sanji.md | sanji | 2026-08-22 | — | 2638 |
 | 2026-08-22_agent-work-registration-bridge-verification-0730-sanji.md | sanji | 2026-08-22 | A | 3752 |
 | 2026-08-22_airlock-replay-1106-sanji.md | sanji | 2026-08-22 | A | 2314 |
+| 2026-08-22_alerts-pipeline-replay-1333-sanji.md | sanji | 2026-08-22 | — | 2130 |
 | 2026-08-22_antigravity-account-seat-boundary-replay-0800-sanji.md | sanji | 2026-08-22 | A | 2700 |
 | 2026-08-22_aos-external-capability-enforcement-parity-audit-2311-sanji.md | sanji | 2026-08-22 | — | 3223 |
 | 2026-08-22_aos-local-only-mcp-boundary-review-0553-sanji.md | sanji | 2026-08-22 | A | 2400 |
@@ -97,6 +103,7 @@
 | 2026-08-22_ast-constraint-verifier-0950-sanji.md | sanji | 2026-08-22 | — | 2220 |
 | 2026-08-22_ast-graph-solver-1000-sanji.md | sanji | 2026-08-22 | — | 2199 |
 | 2026-08-22_async-cot-1044-sanji.md | sanji | 2026-08-22 | A | 2170 |
+| 2026-08-22_authority-provenance-1322-sanji.md | sanji | 2026-08-22 | A | 3168 |
 | 2026-08-22_authority-schema-fixture-repair-1011-sanji.md | sanji | 2026-08-22 | A | 4902 |
 | 2026-08-22_authority-studio-local-replay-0935-sanji.md | sanji | 2026-08-22 | — | 2570 |
 | 2026-08-22_authorized-disposable-cold-start-witness-1039-sanji.md | sanji | 2026-08-22 | A | 3258 |
@@ -174,6 +181,8 @@
 | 2026-08-22_capability-install-test-authority-isolation-0936-sanji.md | sanji | 2026-08-22 | A | 2590 |
 | 2026-08-22_capability-provenance-gate-replay-1102-sanji.md | sanji | 2026-08-22 | A | 2465 |
 | 2026-08-22_capital-staging-hygiene-recheck-0713-sanji.md | sanji | 2026-08-22 | A | 2103 |
+| 2026-08-22_captain-gate-1246-sanji.md | sanji | 2026-08-22 | A | 3218 |
+| 2026-08-22_captain-proof-surface-1312-sanji.md | sanji | 2026-08-22 | A | 2856 |
 | 2026-08-22_capture-backend-probe-1046-sanji.md | sanji | 2026-08-22 | A | 2763 |
 | 2026-08-22_catalog-availability-split-verification-0734-sanji.md | sanji | 2026-08-22 | A | 3431 |
 | 2026-08-22_cellular-evolution-replay-1048-sanji.md | sanji | 2026-08-22 | A | 2414 |
@@ -186,6 +195,7 @@
 | 2026-08-22_closure-truth-liveness-residual-replay-0732-sanji.md | sanji | 2026-08-22 | A | 1809 |
 | 2026-08-22_closure-truth-verification-0815-sanji.md | sanji | 2026-08-22 | A | 3347 |
 | 2026-08-22_cloud-status-consumer-semantic-gap-0947-sanji.md | sanji | 2026-08-22 | A | 2838 |
+| 2026-08-22_code-evolution-fitness-replay-1324-sanji.md | sanji | 2026-08-22 | — | 2117 |
 | 2026-08-22_codebank-final-census-0608-sanji.md | sanji | 2026-08-22 | A | 2368 |
 | 2026-08-22_codebank-flagged-block-census-0610-sanji.md | sanji | 2026-08-22 | A | 2294 |
 | 2026-08-22_codex-approval-bridge-verification-0854-sanji.md | sanji | 2026-08-22 | A | 3101 |
@@ -197,17 +207,7 @@
 | 2026-08-22_codex-control-loop-residual-replay-0655-sanji.md | sanji | 2026-08-22 | A | 1868 |
 | 2026-08-22_codex-crash-recovery-verification-0756-sanji.md | sanji | 2026-08-22 | A | 3858 |
 | 2026-08-22_codex-deployment-registry-replay-0902-sanji.md | sanji | 2026-08-22 | — | 2066 |
-| 2026-08-22_codex-event-projection-verification-0906-sanji.md | sanji | 2026-08-22 | A | 3146 |
-| 2026-08-22_codex-fs-oracle-fails-closed-verification-0846-sanji.md | sanji | 2026-08-22 | A | 3252 |
-| 2026-08-22_codex-graduation-condition-0928-sanji.md | sanji | 2026-08-22 | — | 2380 |
-| 2026-08-22_codex-identity-contract-fixture-0333-sanji.md | sanji | 2026-08-22 | A | 4383 |
-| 2026-08-22_codex-identity-contract-fixture-0343-sanji.md | sanji | 2026-08-22 | A | 4165 |
-| 2026-08-22_codex-lane-full-repair-replay-0930-sanji.md | sanji | 2026-08-22 | — | 2325 |
-| 2026-08-22_codex-partial-execution-verification-0852-sanji.md | sanji | 2026-08-22 | A | 3194 |
-| 2026-08-22_codex-protocol-conformance-verification-0908-sanji.md | sanji | 2026-08-22 | A | 3541 |
-| 2026-08-22_codex-resume-idempotency-verification-0850-sanji.md | sanji | 2026-08-22 | A | 3130 |
-| 2026-08-22_codex-review-information-leak-verification-0748-sanji.md | sanji | 2026-08-22 | A | 3110 |
-| _(+12150 more — see full manifest JSON)_ | | | | |
+| _(+12201 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
