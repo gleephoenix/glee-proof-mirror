@@ -1,15 +1,75 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-24T12:41:09.133490+00:00
-> Total receipts indexed: 12428
+> Last updated: 2026-08-24T18:41:06.972807+00:00
+> Total receipts indexed: 12488
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-24_claim_to_test_independent_audit.md | zoro | 2026-08-24 | A | 6829 |
+| 2026-08-24_echo_breach_discontinued_wall_taken_down.md | zoro | 2026-08-24 | — | 2731 |
+| 2026-08-24_export_liveness_dead_exports_inside_live_organs.md | zoro | 2026-08-24 | B | 8315 |
 | 2026-08-24_state_awareness_journal_alive_delivery_dead.md | zoro | 2026-08-24 | A | 4500 |
 | 2026-08-24_three_false_alarms_and_one_real_silence.md | zoro | 2026-08-24 | A | 6179 |
+| 2026-08-24_cairn-continuation-repair.md | sanji | 2026-08-24 | A | 8019 |
+| 2026-08-24_cairn_gmail_continuation_slice.md | sanji | 2026-08-24 | A | 4689 |
+| 2026-08-24_cairn_wake_sovereignty_readonly_audit.md | sanji | 2026-08-24 | B | 4672 |
+| 2026-08-24_canary-authority-frontier-refresh.md | sanji | 2026-08-24 | A | 4288 |
+| 2026-08-24_canary-authority-substrate-diagnosis.md | sanji | 2026-08-24 | B | 3393 |
+| 2026-08-24_canary-custody-evidence-surface.md | sanji | 2026-08-24 | B | 2459 |
+| 2026-08-24_canary-feasibility-boundary-0952.md | sanji | 2026-08-24 | B | 3132 |
+| 2026-08-24_claim_to_test_aos_adjudication_wave.md | sanji | 2026-08-24 | B | 7845 |
+| 2026-08-24_claim_to_test_buyer_evidence_enrichment_wave.md | sanji | 2026-08-24 | B | 7540 |
+| 2026-08-24_claim_to_test_buyer_wtp_packet_wave.md | sanji | 2026-08-24 | B | 5823 |
+| 2026-08-24_claim_to_test_compiler_prototype.md | sanji | 2026-08-24 | B | 7691 |
+| 2026-08-24_claim_to_test_decision_policy_gate_wave.md | sanji | 2026-08-24 | A | 5961 |
+| 2026-08-24_claim_to_test_evaluation_evidence_packet_wave.md | sanji | 2026-08-24 | B | 5690 |
+| 2026-08-24_claim_to_test_evaluation_wave.md | sanji | 2026-08-24 | B | 7408 |
+| 2026-08-24_claim_to_test_evidence_gate_repair_wave.md | sanji | 2026-08-24 | B | 4963 |
+| 2026-08-24_claim_to_test_evidence_gates_wave.md | sanji | 2026-08-24 | B | 8033 |
+| 2026-08-24_claim_to_test_expert_baseline_gate_wave.md | sanji | 2026-08-24 | A | 5890 |
+| 2026-08-24_claim_to_test_heat_battery_slice_wave.md | sanji | 2026-08-24 | B | 7527 |
+| 2026-08-24_claim_to_test_packet_input_contract_repair_wave.md | sanji | 2026-08-24 | A | 4877 |
+| 2026-08-24_claim_to_test_postprereg_raw_capture_wave.md | sanji | 2026-08-24 | B | 7659 |
+| 2026-08-24_claim_to_test_procurement_buyer_evidence_wave.md | sanji | 2026-08-24 | B | 7017 |
+| 2026-08-24_claim_to_test_public_corpus_tranche.md | sanji | 2026-08-24 | B | 7129 |
+| 2026-08-24_claim_to_test_raw_review_wave.md | sanji | 2026-08-24 | B | 7732 |
+| 2026-08-24_claim_to_test_review_gate_integration_wave.md | sanji | 2026-08-24 | B | 7467 |
+| 2026-08-24_claim_to_test_semantic_boundary_repair_wave.md | sanji | 2026-08-24 | B | 8212 |
+| 2026-08-24_control-plane-custody-and-recovery-observability.md | sanji | 2026-08-24 | — | 3177 |
+| 2026-08-24_custody-capability-boundary.md | sanji | 2026-08-24 | B | 2011 |
+| 2026-08-24_daily-program-adoption-audit.md | sanji | 2026-08-24 | B | 2491 |
+| 2026-08-24_delivery-reconciliation-convergence.md | sanji | 2026-08-24 | A | 3145 |
+| 2026-08-24_fleet-contract-adapter.md | sanji | 2026-08-24 | B | 4045 |
+| 2026-08-24_fleet-refill-dry-adoption.md | sanji | 2026-08-24 | B | 3726 |
+| 2026-08-24_frontier-observation-0948.md | sanji | 2026-08-24 | B | 2628 |
+| 2026-08-24_frontier-observation-0950.md | sanji | 2026-08-24 | B | 2455 |
+| 2026-08-24_frontier-reconciliation-0938.md | sanji | 2026-08-24 | B | 3423 |
+| 2026-08-24_frontier-reconciliation-0943.md | sanji | 2026-08-24 | B | 3083 |
+| 2026-08-24_frontier-reconciliation-1519.md | sanji | 2026-08-24 | — | 4106 |
+| 2026-08-24_frontier-reconciliation-canary-preflight.md | sanji | 2026-08-24 | A | 5990 |
+| 2026-08-24_frontier-reconciliation-current-1443.md | sanji | 2026-08-24 | B | 3375 |
+| 2026-08-24_frontier-reconciliation-current-1446.md | sanji | 2026-08-24 | B | 2491 |
+| 2026-08-24_frontier-reconciliation.md | sanji | 2026-08-24 | B | 4960 |
+| 2026-08-24_frontier-relay-repair-and-canary-refresh.md | sanji | 2026-08-24 | A | 6844 |
 | 2026-08-24_glee-daily-program-control-loop-convergence.md | sanji | 2026-08-24 | A | 5696 |
+| 2026-08-24_glee_instrument_lab_v0_integration_frame.md | sanji | 2026-08-24 | A | 3919 |
+| 2026-08-24_goal_dispatch_default_routing.md | sanji | 2026-08-24 | B | 5648 |
+| 2026-08-24_live-relay-repair-adoption.md | sanji | 2026-08-24 | A | 6037 |
+| 2026-08-24_llm_instrument_science_program_frame.md | sanji | 2026-08-24 | B | 6813 |
+| 2026-08-24_local-orchestrator-live-loop.md | sanji | 2026-08-24 | B | 2828 |
+| 2026-08-24_local-orchestrator-surface.md | sanji | 2026-08-24 | B | 4924 |
+| 2026-08-24_local-seat-frontier-projection.md | sanji | 2026-08-24 | — | 2494 |
+| 2026-08-24_objective-frontier-reconciliation-0946.md | sanji | 2026-08-24 | B | 2002 |
+| 2026-08-24_optimization_goal_render_projection.md | sanji | 2026-08-24 | A | 3315 |
+| 2026-08-24_optimization_goal_template.md | sanji | 2026-08-24 | A | 4661 |
+| 2026-08-24_orchestrator-watchdog-pulse.md | sanji | 2026-08-24 | — | 2274 |
+| 2026-08-24_relay-submit-contract-boundary.md | sanji | 2026-08-24 | B | 4737 |
+| 2026-08-24_retry-contract-triage.md | sanji | 2026-08-24 | A | 4725 |
+| 2026-08-24_together_bonsai_deepseek_execution.md | sanji | 2026-08-24 | B | 9075 |
+| 2026-08-24_together_economic_runner_wave.md | sanji | 2026-08-24 | B | 4608 |
+| 2026-08-24_together_live_authority_boundary.md | sanji | 2026-08-24 | B | 2638 |
 | 2026-08-24_epistemic_estate_audit_tranche1.md | robin | 2026-08-24 | B | 3498 |
 | 2026-08-24_platform_phnx_truth_check_reconciliation_receipt.md | robin | 2026-08-24 | — | 2622 |
 | 2026-08-24_spreadsheet_engineer_dynamic_planner_and_multi_intent_receipt.md | robin | 2026-08-24 | — | 3245 |
@@ -147,67 +207,7 @@
 | 2026-08-22_autodidact-v0-preregistration-2049-sanji.md | sanji | 2026-08-22 | A | 6230 |
 | 2026-08-22_autodidact-v0-preregistration-guard-repair-2108-sanji.md | sanji | 2026-08-22 | A | 5709 |
 | 2026-08-22_autodidact-v0-preregistration-hostile-recheck-0857-sanji.md | sanji | 2026-08-22 | A | 2857 |
-| 2026-08-22_automatic-dispatch-blocker-review-0452-sanji.md | sanji | 2026-08-22 | B | 3778 |
-| 2026-08-22_autonomic-scheduler-hostile-recheck-0516-sanji.md | sanji | 2026-08-22 | B | 2572 |
-| 2026-08-22_autonomic-scheduler-long-horizon-0630-sanji.md | sanji | 2026-08-22 | A | 2139 |
-| 2026-08-22_autonomic-scheduler-simulation-0626-sanji.md | sanji | 2026-08-22 | A | 1983 |
-| 2026-08-22_autonomic-scheduler-simulation-recheck-0746-sanji.md | sanji | 2026-08-22 | B | 1747 |
-| 2026-08-22_autonomous-continuation-live-witness-0748-sanji.md | sanji | 2026-08-22 | B | 3318 |
-| 2026-08-22_autonomous-continuation-runtime-witness-0725-sanji.md | sanji | 2026-08-22 | A | 2794 |
-| 2026-08-22_autonomous-continuation-verifier-terminal-independent-review-0418-sanji.md | sanji | 2026-08-22 | — | 2530 |
-| 2026-08-22_autonomous-continuation-witness-replay-1034-sanji.md | sanji | 2026-08-22 | A | 3685 |
-| 2026-08-22_autonomy-blocker-claim-1207-sanji.md | sanji | 2026-08-22 | A | 3383 |
-| 2026-08-22_autonomy-brief-authority-1210-sanji.md | sanji | 2026-08-22 | A | 3379 |
-| 2026-08-22_autonomy-brief-authority-collision-1212-sanji.md | sanji | 2026-08-22 | — | 2006 |
-| 2026-08-22_autonomy-brief-authority-replay-1210-sanji.md | sanji | 2026-08-22 | — | 2172 |
-| 2026-08-22_autonomy-canonical-state-1202-sanji.md | sanji | 2026-08-22 | A | 3268 |
-| 2026-08-22_autonomy-cold-start-authority-1204-sanji.md | sanji | 2026-08-22 | A | 3351 |
-| 2026-08-22_autonomy-comparative-evaluation-1216-sanji.md | sanji | 2026-08-22 | A | 3392 |
-| 2026-08-22_autonomy-compounding-replay-1219-sanji.md | sanji | 2026-08-22 | — | 2218 |
-| 2026-08-22_autonomy-continuation-focused-proof-0322-sanji.md | sanji | 2026-08-22 | A | 3064 |
-| 2026-08-22_autonomy-continuation-regression-replay-0555-sanji.md | sanji | 2026-08-22 | A | 2968 |
-| 2026-08-22_autonomy-control-liveness-1159-sanji.md | sanji | 2026-08-22 | A | 3234 |
-| 2026-08-22_autonomy-full-regression-live-boundary-0740-sanji.md | sanji | 2026-08-22 | A | 2624 |
-| 2026-08-22_autonomy-local-contract-replay-0937-sanji.md | sanji | 2026-08-22 | — | 3392 |
-| 2026-08-22_autonomy-long-horizon-reroute-proof-0946-sanji.md | sanji | 2026-08-22 | A | 3606 |
-| 2026-08-22_autonomy-observation-contract-replay-1221-sanji.md | sanji | 2026-08-22 | — | 2227 |
-| 2026-08-22_autonomy-post-task-discovery-conflict-gate-1025-sanji.md | sanji | 2026-08-22 | A | 3832 |
-| 2026-08-22_autonomy-read-scope-1212-sanji.md | sanji | 2026-08-22 | A | 3340 |
-| 2026-08-22_autonomy-read-scope-experiment-replay-1215-sanji.md | sanji | 2026-08-22 | — | 2285 |
-| 2026-08-22_autonomy-receipt-validator-1201-sanji.md | sanji | 2026-08-22 | A | 3334 |
-| 2026-08-22_autonomy-regression-replay-0555-sanji.md | sanji | 2026-08-22 | A | 2108 |
-| 2026-08-22_autonomy-restart-duplicate-dispatch-repair-1003-sanji.md | sanji | 2026-08-22 | A | 4409 |
-| 2026-08-22_autonomy-restart-duplicate-dispatch-review-1020-sanji.md | sanji | 2026-08-22 | A | 3361 |
-| 2026-08-22_autonomy-review-failure-fallback-fence-0448-sanji.md | sanji | 2026-08-22 | A | 3982 |
-| 2026-08-22_autonomy-runtime-generation-diagnostic-0815-sanji.md | sanji | 2026-08-22 | B | 4945 |
-| 2026-08-22_autonomy-runtime-generation-review-hardening-0831-sanji.md | sanji | 2026-08-22 | B | 5113 |
-| 2026-08-22_autonomy-semantic-compression-1215-sanji.md | sanji | 2026-08-22 | A | 3359 |
-| 2026-08-22_autonomy-semantic-compression-audit-replay-1217-sanji.md | sanji | 2026-08-22 | — | 2219 |
-| 2026-08-22_autonomy-session-projection-revalidation-replay-1224-sanji.md | sanji | 2026-08-22 | — | 2329 |
-| 2026-08-22_autonomy-supervisor-reclaimable-gap-0753-sanji.md | sanji | 2026-08-22 | B | 3063 |
-| 2026-08-22_autonomy-task-exit-contract-0453-sanji.md | sanji | 2026-08-22 | A | 3102 |
-| 2026-08-22_autonomy-task-review-error-exit-0451-sanji.md | sanji | 2026-08-22 | A | 3588 |
-| 2026-08-22_autonomy-task-terminal-review-0440-sanji.md | sanji | 2026-08-22 | A | 4010 |
-| 2026-08-22_autonomy-thirty-falsifiers-1213-sanji.md | sanji | 2026-08-22 | A | 3660 |
-| 2026-08-22_autonomy-thirty-mandatory-falsifiers-replay-1226-sanji.md | sanji | 2026-08-22 | — | 2672 |
-| 2026-08-22_autonomy-unsupported-reroute-proof-0339-sanji.md | sanji | 2026-08-22 | A | 3328 |
-| 2026-08-22_availability-predicate-audit-0953-sanji.md | sanji | 2026-08-22 | A | 3382 |
-| 2026-08-22_blocked-rehydration-live-adoption-diagnostic-0025-sanji.md | sanji | 2026-08-22 | A | 2920 |
-| 2026-08-22_blocked-rehydration-owner-wait-review-0021-sanji.md | sanji | 2026-08-22 | A | 3745 |
-| 2026-08-22_boundary-probe-replay-1143-sanji.md | sanji | 2026-08-22 | A | 2935 |
-| 2026-08-22_brief-authority-1258-sanji.md | sanji | 2026-08-22 | A | 3377 |
-| 2026-08-22_candidate-nonce-execution-marker-1225-sanji.md | sanji | 2026-08-22 | B | 2509 |
-| 2026-08-22_capability-bound-evidence-adequacy-verification-0902-sanji.md | sanji | 2026-08-22 | A | 3308 |
-| 2026-08-22_capability-bound-evidence-overlap-correction-0904-sanji.md | sanji | 2026-08-22 | A | 2407 |
-| 2026-08-22_capability-bound-evidence-replay-0945-sanji.md | sanji | 2026-08-22 | — | 2014 |
-| 2026-08-22_capability-closure-safe-subset-replay-1015-sanji.md | sanji | 2026-08-22 | — | 2518 |
-| 2026-08-22_capability-context-reverify-replay-1005-sanji.md | sanji | 2026-08-22 | — | 2230 |
-| 2026-08-22_capability-contract-verification-0759-sanji.md | sanji | 2026-08-22 | A | 3239 |
-| 2026-08-22_capability-epistemics-contracts-replay-1010-sanji.md | sanji | 2026-08-22 | — | 2919 |
-| 2026-08-22_capability-epistemics-extension-boundary-2225-sanji.md | sanji | 2026-08-22 | A | 3047 |
-| 2026-08-22_capability-install-test-authority-isolation-0936-sanji.md | sanji | 2026-08-22 | A | 2590 |
-| 2026-08-22_capability-provenance-gate-replay-1102-sanji.md | sanji | 2026-08-22 | A | 2465 |
-| _(+12228 more — see full manifest JSON)_ | | | | |
+| _(+12288 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
