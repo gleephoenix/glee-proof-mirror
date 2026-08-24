@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 12422,
+  "total_receipts": 12428,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -33500,6 +33500,14 @@
       "size_bytes": 8170
     },
     {
+      "file_name": "2026-08-23_active_continuation_runtime_slice_one_transport_truth.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_active_continuation_runtime_slice_one_transport_truth.md",
+      "date": "2026-08-23",
+      "tier": "B",
+      "size_bytes": 8812
+    },
+    {
       "file_name": "2026-08-23_echo_breach_shader_flake_frequency_sweep.md",
       "home": "zoro",
       "rel_path": "2026-08-23_echo_breach_shader_flake_frequency_sweep.md",
@@ -33562,6 +33570,14 @@
       "date": "2026-08-23",
       "tier": "A",
       "size_bytes": 8769
+    },
+    {
+      "file_name": "2026-08-24_state_awareness_journal_alive_delivery_dead.md",
+      "home": "zoro",
+      "rel_path": "2026-08-24_state_awareness_journal_alive_delivery_dead.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 4500
     },
     {
       "file_name": "2026-08-24_three_false_alarms_and_one_real_silence.md",
@@ -83932,6 +83948,14 @@
       "size_bytes": 5014
     },
     {
+      "file_name": "2026-08-24_glee-daily-program-control-loop-convergence.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_glee-daily-program-control-loop-convergence.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5696
+    },
+    {
       "file_name": "INDEX.md",
       "home": "sanji",
       "rel_path": "INDEX.md",
@@ -98722,6 +98746,30 @@
       "date": "2026-08-23",
       "tier": "B",
       "size_bytes": 6789
+    },
+    {
+      "file_name": "2026-08-24_epistemic_estate_audit_tranche1.md",
+      "home": "robin",
+      "rel_path": "2026-08-24_epistemic_estate_audit_tranche1.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 3498
+    },
+    {
+      "file_name": "2026-08-24_platform_phnx_truth_check_reconciliation_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-24_platform_phnx_truth_check_reconciliation_receipt.md",
+      "date": "2026-08-24",
+      "tier": null,
+      "size_bytes": 2622
+    },
+    {
+      "file_name": "2026-08-24_spreadsheet_engineer_dynamic_planner_and_multi_intent_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-24_spreadsheet_engineer_dynamic_planner_and_multi_intent_receipt.md",
+      "date": "2026-08-24",
+      "tier": null,
+      "size_bytes": 3245
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
