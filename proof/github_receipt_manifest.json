@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 12401,
+  "total_receipts": 12422,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -33498,6 +33498,78 @@
       "date": "2026-08-22",
       "tier": "A",
       "size_bytes": 8170
+    },
+    {
+      "file_name": "2026-08-23_echo_breach_shader_flake_frequency_sweep.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_echo_breach_shader_flake_frequency_sweep.md",
+      "date": "2026-08-23",
+      "tier": null,
+      "size_bytes": 2140
+    },
+    {
+      "file_name": "2026-08-23_echo_breach_shader_flake_frequency_sweep_round2.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_echo_breach_shader_flake_frequency_sweep_round2.md",
+      "date": "2026-08-23",
+      "tier": null,
+      "size_bytes": 3805
+    },
+    {
+      "file_name": "2026-08-23_echo_breach_stale_screenshot_dir_cleanup.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_echo_breach_stale_screenshot_dir_cleanup.md",
+      "date": "2026-08-23",
+      "tier": null,
+      "size_bytes": 2553
+    },
+    {
+      "file_name": "2026-08-23_echo_breach_submission_screenshot_swap.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_echo_breach_submission_screenshot_swap.md",
+      "date": "2026-08-23",
+      "tier": null,
+      "size_bytes": 2204
+    },
+    {
+      "file_name": "2026-08-23_falsifier_shape_lint_vacuity_and_anchor.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_falsifier_shape_lint_vacuity_and_anchor.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 7638
+    },
+    {
+      "file_name": "2026-08-23_gaming_mode_never_fired_and_never_defended.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_gaming_mode_never_fired_and_never_defended.md",
+      "date": "2026-08-23",
+      "tier": "B",
+      "size_bytes": 12478
+    },
+    {
+      "file_name": "2026-08-23_v5_source_edit_is_a_missing_lane_not_a_broken_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_v5_source_edit_is_a_missing_lane_not_a_broken_gate.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 5871
+    },
+    {
+      "file_name": "2026-08-23_work_conserving_fleet_refill_planner.md",
+      "home": "zoro",
+      "rel_path": "2026-08-23_work_conserving_fleet_refill_planner.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 8769
+    },
+    {
+      "file_name": "2026-08-24_three_false_alarms_and_one_real_silence.md",
+      "home": "zoro",
+      "rel_path": "2026-08-24_three_false_alarms_and_one_real_silence.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 6179
     },
     {
       "file_name": "INDEX.md",
@@ -83780,6 +83852,86 @@
       "size_bytes": 2480
     },
     {
+      "file_name": "2026-08-23_ai-lab-pareto-discordance-0901-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_ai-lab-pareto-discordance-0901-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 4197
+    },
+    {
+      "file_name": "2026-08-23_ai-lab-pareto-sequential-0904-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_ai-lab-pareto-sequential-0904-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 4116
+    },
+    {
+      "file_name": "2026-08-23_async-ac-0927-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_async-ac-0927-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 4685
+    },
+    {
+      "file_name": "2026-08-23_cluster-drain-provider-free-1532-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_cluster-drain-provider-free-1532-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 10302
+    },
+    {
+      "file_name": "2026-08-23_cluster-drain-provider-free-tests-0930-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_cluster-drain-provider-free-tests-0930-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 9793
+    },
+    {
+      "file_name": "2026-08-23_cluster-drain-repair-scope-packet-1005-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_cluster-drain-repair-scope-packet-1005-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 4089
+    },
+    {
+      "file_name": "2026-08-23_hdc-organ-0911-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_hdc-organ-0911-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 5111
+    },
+    {
+      "file_name": "2026-08-23_search-neural-isolation-1001-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_search-neural-isolation-1001-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 4874
+    },
+    {
+      "file_name": "2026-08-23_ship-repair-0924-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_ship-repair-0924-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 4531
+    },
+    {
+      "file_name": "2026-08-23_swarm-adapter-0904-sanji.md",
+      "home": "sanji",
+      "rel_path": "2026-08-23_swarm-adapter-0904-sanji.md",
+      "date": "2026-08-23",
+      "tier": "A",
+      "size_bytes": 5014
+    },
+    {
       "file_name": "INDEX.md",
       "home": "sanji",
       "rel_path": "INDEX.md",
@@ -98554,6 +98706,22 @@
       "date": "2026-08-22",
       "tier": "B",
       "size_bytes": 4640
+    },
+    {
+      "file_name": "2026-08-23_excel_addin_harness_and_chips_implementation_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-23_excel_addin_harness_and_chips_implementation_receipt.md",
+      "date": "2026-08-23",
+      "tier": null,
+      "size_bytes": 6689
+    },
+    {
+      "file_name": "2026-08-23_sovereign_peer_wake_and_compiled_scars_engine.md",
+      "home": "robin",
+      "rel_path": "2026-08-23_sovereign_peer_wake_and_compiled_scars_engine.md",
+      "date": "2026-08-23",
+      "tier": "B",
+      "size_bytes": 6789
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
