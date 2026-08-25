@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 12488,
+  "total_receipts": 12512,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -84036,6 +84036,14 @@
       "size_bytes": 7845
     },
     {
+      "file_name": "2026-08-24_claim_to_test_benchmark_adequacy_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_benchmark_adequacy_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5933
+    },
+    {
       "file_name": "2026-08-24_claim_to_test_buyer_evidence_enrichment_wave.md",
       "home": "sanji",
       "rel_path": "2026-08-24_claim_to_test_buyer_evidence_enrichment_wave.md",
@@ -84060,12 +84068,28 @@
       "size_bytes": 7691
     },
     {
+      "file_name": "2026-08-24_claim_to_test_decision_policy.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_decision_policy.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 5251
+    },
+    {
       "file_name": "2026-08-24_claim_to_test_decision_policy_gate_wave.md",
       "home": "sanji",
       "rel_path": "2026-08-24_claim_to_test_decision_policy_gate_wave.md",
       "date": "2026-08-24",
       "tier": "A",
       "size_bytes": 5961
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_economic_experiment_selection_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_economic_experiment_selection_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5680
     },
     {
       "file_name": "2026-08-24_claim_to_test_evaluation_evidence_packet_wave.md",
@@ -84076,12 +84100,36 @@
       "size_bytes": 5690
     },
     {
+      "file_name": "2026-08-24_claim_to_test_evaluation_input_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_evaluation_input_gate.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 5049
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_evaluation_input_gate_review_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_evaluation_input_gate_review_boundary.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 4042
+    },
+    {
       "file_name": "2026-08-24_claim_to_test_evaluation_wave.md",
       "home": "sanji",
       "rel_path": "2026-08-24_claim_to_test_evaluation_wave.md",
       "date": "2026-08-24",
       "tier": "B",
       "size_bytes": 7408
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_evidence_freshness_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_evidence_freshness_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5972
     },
     {
       "file_name": "2026-08-24_claim_to_test_evidence_gate_repair_wave.md",
@@ -84100,6 +84148,38 @@
       "size_bytes": 8033
     },
     {
+      "file_name": "2026-08-24_claim_to_test_evidence_provenance_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_evidence_provenance_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5929
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_expert_adaptation_request.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_expert_adaptation_request.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 5348
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_expert_adaptation_request_review_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_expert_adaptation_request_review_boundary.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 4257
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_expert_authorship_gate_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_expert_authorship_gate_wave.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 8369
+    },
+    {
       "file_name": "2026-08-24_claim_to_test_expert_baseline_gate_wave.md",
       "home": "sanji",
       "rel_path": "2026-08-24_claim_to_test_expert_baseline_gate_wave.md",
@@ -84108,12 +84188,60 @@
       "size_bytes": 5890
     },
     {
+      "file_name": "2026-08-24_claim_to_test_expert_source_candidate_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_expert_source_candidate_intake.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 4795
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_femp_protocol_candidate_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_femp_protocol_candidate_wave.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 6546
+    },
+    {
       "file_name": "2026-08-24_claim_to_test_heat_battery_slice_wave.md",
       "home": "sanji",
       "rel_path": "2026-08-24_claim_to_test_heat_battery_slice_wave.md",
       "date": "2026-08-24",
       "tier": "B",
       "size_bytes": 7527
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_independent_review_content_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_independent_review_content_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5869
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_independent_review_request.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_independent_review_request.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 4967
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_objective_readiness_audit_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_objective_readiness_audit_wave.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 6659
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_operationalization_sensitivity_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_operationalization_sensitivity_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5835
     },
     {
       "file_name": "2026-08-24_claim_to_test_packet_input_contract_repair_wave.md",
@@ -84140,12 +84268,60 @@
       "size_bytes": 7017
     },
     {
+      "file_name": "2026-08-24_claim_to_test_protocol_manifest_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_protocol_manifest_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 7720
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_public_buyer_source_verification_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_public_buyer_source_verification_wave.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 7186
+    },
+    {
       "file_name": "2026-08-24_claim_to_test_public_corpus_tranche.md",
       "home": "sanji",
       "rel_path": "2026-08-24_claim_to_test_public_corpus_tranche.md",
       "date": "2026-08-24",
       "tier": "B",
       "size_bytes": 7129
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_public_corpus_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_public_corpus_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 8048
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_public_protocol_candidates_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_public_protocol_candidates_wave.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 6379
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_public_reference_coverage_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_public_reference_coverage_wave.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 6596
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_raw_baseline_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_raw_baseline_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 7610
     },
     {
       "file_name": "2026-08-24_claim_to_test_raw_review_wave.md",
@@ -84170,6 +84346,22 @@
       "date": "2026-08-24",
       "tier": "B",
       "size_bytes": 8212
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_supported_holdout_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_supported_holdout_wave.md",
+      "date": "2026-08-24",
+      "tier": "B",
+      "size_bytes": 7204
+    },
+    {
+      "file_name": "2026-08-24_claim_to_test_typed_schema_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-24_claim_to_test_typed_schema_wave.md",
+      "date": "2026-08-24",
+      "tier": "A",
+      "size_bytes": 5905
     },
     {
       "file_name": "2026-08-24_control-plane-custody-and-recovery-observability.md",
