@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 12559,
+  "total_receipts": 12566,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -1730,6 +1730,22 @@
       "date": "2026-08-20",
       "tier": null,
       "size_bytes": 4324
+    },
+    {
+      "file_name": "2026-08-25_crew_verification_gate_adversarial_review.md",
+      "home": "glee",
+      "rel_path": "2026-08-25_crew_verification_gate_adversarial_review.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 8700
+    },
+    {
+      "file_name": "2026-08-25_goal_to_execution_contract_compiler.md",
+      "home": "glee",
+      "rel_path": "2026-08-25_goal_to_execution_contract_compiler.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 1280
     },
     {
       "file_name": "META.md",
@@ -33612,6 +33628,14 @@
       "size_bytes": 6179
     },
     {
+      "file_name": "2026-08-25_capability_discovery_laws_and_lock_ownership.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_capability_discovery_laws_and_lock_ownership.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 6460
+    },
+    {
       "file_name": "2026-08-25_site_overhaul_definition_of_finished.md",
       "home": "zoro",
       "rel_path": "2026-08-25_site_overhaul_definition_of_finished.md",
@@ -33625,7 +33649,15 @@
       "rel_path": "2026-08-25_site_overhaul_wave1_wave2_four_doors.md",
       "date": "2026-08-25",
       "tier": "B",
-      "size_bytes": 48527
+      "size_bytes": 68315
+    },
+    {
+      "file_name": "2026-08-25_wake_sovereignty_repair_cairn_negative_battery.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_wake_sovereignty_repair_cairn_negative_battery.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 7070
     },
     {
       "file_name": "INDEX.md",
@@ -84852,6 +84884,14 @@
       "size_bytes": 6814
     },
     {
+      "file_name": "2026-08-25_goal-compiler-v2-execution-study-progress.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_goal-compiler-v2-execution-study-progress.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 7099
+    },
+    {
       "file_name": "2026-08-25_goal_compiler_v2.md",
       "home": "sanji",
       "rel_path": "2026-08-25_goal_compiler_v2.md",
@@ -84892,12 +84932,28 @@
       "size_bytes": 4642
     },
     {
+      "file_name": "2026-08-25_regulatory_capital_strategy_amendment.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_regulatory_capital_strategy_amendment.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 5370
+    },
+    {
       "file_name": "2026-08-25_runtime_canary_authority_seam.md",
       "home": "sanji",
       "rel_path": "2026-08-25_runtime_canary_authority_seam.md",
       "date": "2026-08-25",
       "tier": "A",
       "size_bytes": 4096
+    },
+    {
+      "file_name": "2026-08-25_thousand_sunny_execution_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_thousand_sunny_execution_recovery.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 9016
     },
     {
       "file_name": "INDEX.md",
