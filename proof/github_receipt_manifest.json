@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 12549,
+  "total_receipts": 12559,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -33610,6 +33610,22 @@
       "date": "2026-08-24",
       "tier": "A",
       "size_bytes": 6179
+    },
+    {
+      "file_name": "2026-08-25_site_overhaul_definition_of_finished.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_site_overhaul_definition_of_finished.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 5608
+    },
+    {
+      "file_name": "2026-08-25_site_overhaul_wave1_wave2_four_doors.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_site_overhaul_wave1_wave2_four_doors.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 48527
     },
     {
       "file_name": "INDEX.md",
@@ -84788,6 +84804,30 @@
       "size_bytes": 7612
     },
     {
+      "file_name": "2026-08-25_authority_hardening_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_authority_hardening_followup.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 4735
+    },
+    {
+      "file_name": "2026-08-25_authority_repair_worker_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_authority_repair_worker_preflight.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 5972
+    },
+    {
+      "file_name": "2026-08-25_codebank_pin_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_codebank_pin_reconciliation.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 2371
+    },
+    {
       "file_name": "2026-08-25_consequence_authority_gate_repair.md",
       "home": "sanji",
       "rel_path": "2026-08-25_consequence_authority_gate_repair.md",
@@ -84796,12 +84836,28 @@
       "size_bytes": 6011
     },
     {
+      "file_name": "2026-08-25_execution_authorization_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_execution_authorization_refresh.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 2577
+    },
+    {
       "file_name": "2026-08-25_execution_authorization_repair.md",
       "home": "sanji",
       "rel_path": "2026-08-25_execution_authorization_repair.md",
       "date": "2026-08-25",
       "tier": "A",
       "size_bytes": 6814
+    },
+    {
+      "file_name": "2026-08-25_goal_compiler_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_goal_compiler_v2.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 6323
     },
     {
       "file_name": "2026-08-25_holder_binding_repair.md",
@@ -84820,12 +84876,28 @@
       "size_bytes": 3970
     },
     {
+      "file_name": "2026-08-25_live_worker_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_live_worker_reconciliation.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 4688
+    },
+    {
       "file_name": "2026-08-25_next_best_goal_fleet_dispatch_acceptance.md",
       "home": "sanji",
       "rel_path": "2026-08-25_next_best_goal_fleet_dispatch_acceptance.md",
       "date": "2026-08-25",
       "tier": "A",
       "size_bytes": 4642
+    },
+    {
+      "file_name": "2026-08-25_runtime_canary_authority_seam.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_runtime_canary_authority_seam.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 4096
     },
     {
       "file_name": "INDEX.md",
@@ -99722,6 +99794,14 @@
       "date": "2026-08-25",
       "tier": "B",
       "size_bytes": 6089
+    },
+    {
+      "file_name": "2026-08-25_glee_recursive_self_improvement_phase0_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_glee_recursive_self_improvement_phase0_receipt.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 6459
     },
     {
       "file_name": "2026-08-25_interoperable_intelligence_federation_network_receipt.md",
