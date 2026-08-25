@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-24T18:41:06.972807+00:00
-> Total receipts indexed: 12488
+> Last updated: 2026-08-25T00:41:06.593391+00:00
+> Total receipts indexed: 12512
 
 ## Receipt Manifest
 
@@ -20,23 +20,47 @@
 | 2026-08-24_canary-custody-evidence-surface.md | sanji | 2026-08-24 | B | 2459 |
 | 2026-08-24_canary-feasibility-boundary-0952.md | sanji | 2026-08-24 | B | 3132 |
 | 2026-08-24_claim_to_test_aos_adjudication_wave.md | sanji | 2026-08-24 | B | 7845 |
+| 2026-08-24_claim_to_test_benchmark_adequacy_wave.md | sanji | 2026-08-24 | A | 5933 |
 | 2026-08-24_claim_to_test_buyer_evidence_enrichment_wave.md | sanji | 2026-08-24 | B | 7540 |
 | 2026-08-24_claim_to_test_buyer_wtp_packet_wave.md | sanji | 2026-08-24 | B | 5823 |
 | 2026-08-24_claim_to_test_compiler_prototype.md | sanji | 2026-08-24 | B | 7691 |
+| 2026-08-24_claim_to_test_decision_policy.md | sanji | 2026-08-24 | B | 5251 |
 | 2026-08-24_claim_to_test_decision_policy_gate_wave.md | sanji | 2026-08-24 | A | 5961 |
+| 2026-08-24_claim_to_test_economic_experiment_selection_wave.md | sanji | 2026-08-24 | A | 5680 |
 | 2026-08-24_claim_to_test_evaluation_evidence_packet_wave.md | sanji | 2026-08-24 | B | 5690 |
+| 2026-08-24_claim_to_test_evaluation_input_gate.md | sanji | 2026-08-24 | B | 5049 |
+| 2026-08-24_claim_to_test_evaluation_input_gate_review_boundary.md | sanji | 2026-08-24 | B | 4042 |
 | 2026-08-24_claim_to_test_evaluation_wave.md | sanji | 2026-08-24 | B | 7408 |
+| 2026-08-24_claim_to_test_evidence_freshness_wave.md | sanji | 2026-08-24 | A | 5972 |
 | 2026-08-24_claim_to_test_evidence_gate_repair_wave.md | sanji | 2026-08-24 | B | 4963 |
 | 2026-08-24_claim_to_test_evidence_gates_wave.md | sanji | 2026-08-24 | B | 8033 |
+| 2026-08-24_claim_to_test_evidence_provenance_wave.md | sanji | 2026-08-24 | A | 5929 |
+| 2026-08-24_claim_to_test_expert_adaptation_request.md | sanji | 2026-08-24 | B | 5348 |
+| 2026-08-24_claim_to_test_expert_adaptation_request_review_boundary.md | sanji | 2026-08-24 | B | 4257 |
+| 2026-08-24_claim_to_test_expert_authorship_gate_wave.md | sanji | 2026-08-24 | B | 8369 |
 | 2026-08-24_claim_to_test_expert_baseline_gate_wave.md | sanji | 2026-08-24 | A | 5890 |
+| 2026-08-24_claim_to_test_expert_source_candidate_intake.md | sanji | 2026-08-24 | B | 4795 |
+| 2026-08-24_claim_to_test_femp_protocol_candidate_wave.md | sanji | 2026-08-24 | B | 6546 |
 | 2026-08-24_claim_to_test_heat_battery_slice_wave.md | sanji | 2026-08-24 | B | 7527 |
+| 2026-08-24_claim_to_test_independent_review_content_wave.md | sanji | 2026-08-24 | A | 5869 |
+| 2026-08-24_claim_to_test_independent_review_request.md | sanji | 2026-08-24 | B | 4967 |
+| 2026-08-24_claim_to_test_objective_readiness_audit_wave.md | sanji | 2026-08-24 | B | 6659 |
+| 2026-08-24_claim_to_test_operationalization_sensitivity_wave.md | sanji | 2026-08-24 | A | 5835 |
 | 2026-08-24_claim_to_test_packet_input_contract_repair_wave.md | sanji | 2026-08-24 | A | 4877 |
 | 2026-08-24_claim_to_test_postprereg_raw_capture_wave.md | sanji | 2026-08-24 | B | 7659 |
 | 2026-08-24_claim_to_test_procurement_buyer_evidence_wave.md | sanji | 2026-08-24 | B | 7017 |
+| 2026-08-24_claim_to_test_protocol_manifest_wave.md | sanji | 2026-08-24 | A | 7720 |
+| 2026-08-24_claim_to_test_public_buyer_source_verification_wave.md | sanji | 2026-08-24 | B | 7186 |
 | 2026-08-24_claim_to_test_public_corpus_tranche.md | sanji | 2026-08-24 | B | 7129 |
+| 2026-08-24_claim_to_test_public_corpus_wave.md | sanji | 2026-08-24 | A | 8048 |
+| 2026-08-24_claim_to_test_public_protocol_candidates_wave.md | sanji | 2026-08-24 | B | 6379 |
+| 2026-08-24_claim_to_test_public_reference_coverage_wave.md | sanji | 2026-08-24 | B | 6596 |
+| 2026-08-24_claim_to_test_raw_baseline_wave.md | sanji | 2026-08-24 | A | 7610 |
 | 2026-08-24_claim_to_test_raw_review_wave.md | sanji | 2026-08-24 | B | 7732 |
 | 2026-08-24_claim_to_test_review_gate_integration_wave.md | sanji | 2026-08-24 | B | 7467 |
 | 2026-08-24_claim_to_test_semantic_boundary_repair_wave.md | sanji | 2026-08-24 | B | 8212 |
+| 2026-08-24_claim_to_test_supported_holdout_wave.md | sanji | 2026-08-24 | B | 7204 |
+| 2026-08-24_claim_to_test_typed_schema_wave.md | sanji | 2026-08-24 | A | 5905 |
 | 2026-08-24_control-plane-custody-and-recovery-observability.md | sanji | 2026-08-24 | — | 3177 |
 | 2026-08-24_custody-capability-boundary.md | sanji | 2026-08-24 | B | 2011 |
 | 2026-08-24_daily-program-adoption-audit.md | sanji | 2026-08-24 | B | 2491 |
@@ -183,31 +207,7 @@
 | 2026-08-22_ariadne-store-readonly-1204-sanji.md | sanji | 2026-08-22 | A | 2718 |
 | 2026-08-22_artifact-callback-sha-contract-verification-0845-sanji.md | sanji | 2026-08-22 | A | 3692 |
 | 2026-08-22_artifact-factory-graph-1240-sanji.md | sanji | 2026-08-22 | A | 2710 |
-| 2026-08-22_artifact-factory-graph-replay-1205-sanji.md | sanji | 2026-08-22 | — | 2520 |
-| 2026-08-22_artifact-genome-policy-replay-0948-sanji.md | sanji | 2026-08-22 | — | 2523 |
-| 2026-08-22_asset-compiler-integration-replay-0958-sanji.md | sanji | 2026-08-22 | — | 2275 |
-| 2026-08-22_asset-render-receipt-divergence-replay-0950-sanji.md | sanji | 2026-08-22 | — | 2368 |
-| 2026-08-22_ast-constraint-verifier-0950-sanji.md | sanji | 2026-08-22 | — | 2220 |
-| 2026-08-22_ast-graph-solver-1000-sanji.md | sanji | 2026-08-22 | — | 2199 |
-| 2026-08-22_async-cot-1044-sanji.md | sanji | 2026-08-22 | A | 2170 |
-| 2026-08-22_authority-provenance-1322-sanji.md | sanji | 2026-08-22 | A | 3168 |
-| 2026-08-22_authority-schema-fixture-repair-1011-sanji.md | sanji | 2026-08-22 | A | 4902 |
-| 2026-08-22_authority-studio-local-replay-0935-sanji.md | sanji | 2026-08-22 | — | 2570 |
-| 2026-08-22_authorized-disposable-cold-start-witness-1039-sanji.md | sanji | 2026-08-22 | A | 3258 |
-| 2026-08-22_auto-seat-expansion-0935-sanji.md | sanji | 2026-08-22 | — | 2307 |
-| 2026-08-22_autodidact-epistemics-primitives-replay-1020-sanji.md | sanji | 2026-08-22 | — | 2286 |
-| 2026-08-22_autodidact-v0-contract-review-2038-sanji.md | sanji | 2026-08-22 | A | 4539 |
-| 2026-08-22_autodidact-v0-fixture-0245-sanji.md | sanji | 2026-08-22 | A | 5253 |
-| 2026-08-22_autodidact-v0-fixture-2031-sanji.md | sanji | 2026-08-22 | A | 4719 |
-| 2026-08-22_autodidact-v0-fixture-2036-sanji.md | sanji | 2026-08-22 | A | 3751 |
-| 2026-08-22_autodidact-v0-guard-independent-recheck-0015-sanji.md | sanji | 2026-08-22 | A | 4096 |
-| 2026-08-22_autodidact-v0-held-out-protocol-0326-sanji.md | sanji | 2026-08-22 | A | 5527 |
-| 2026-08-22_autodidact-v0-hostile-recheck-0712-sanji.md | sanji | 2026-08-22 | B | 3000 |
-| 2026-08-22_autodidact-v0-identity-guard-2049-sanji.md | sanji | 2026-08-22 | A | 6060 |
-| 2026-08-22_autodidact-v0-preregistration-2049-sanji.md | sanji | 2026-08-22 | A | 6230 |
-| 2026-08-22_autodidact-v0-preregistration-guard-repair-2108-sanji.md | sanji | 2026-08-22 | A | 5709 |
-| 2026-08-22_autodidact-v0-preregistration-hostile-recheck-0857-sanji.md | sanji | 2026-08-22 | A | 2857 |
-| _(+12288 more — see full manifest JSON)_ | | | | |
+| _(+12312 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
