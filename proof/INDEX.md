@@ -1,38 +1,63 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-25T18:41:06.952931+00:00
-> Total receipts indexed: 12566
+> Last updated: 2026-08-26T00:41:06.853118+00:00
+> Total receipts indexed: 12591
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-25_c1_canonical_design_objects.md | glee | 2026-08-25 | — | 2182 |
 | 2026-08-25_crew_verification_gate_adversarial_review.md | glee | 2026-08-25 | — | 8700 |
 | 2026-08-25_goal_to_execution_contract_compiler.md | glee | 2026-08-25 | — | 1280 |
+| 2026-08-25_mission_01_recovered_pipe_real_intelligence.md | glee | 2026-08-25 | — | 2054 |
+| 2026-08-25_agent_native_wave1_content_signals_x402.md | zoro | 2026-08-25 | — | 7961 |
+| 2026-08-25_background_execution_rail_and_desktop_guard.md | zoro | 2026-08-25 | B | 12175 |
+| 2026-08-25_brand_mark_first_paint_flash.md | zoro | 2026-08-25 | B | 5164 |
+| 2026-08-25_c1_canonical_proof_object.md | zoro | 2026-08-25 | B | 8062 |
 | 2026-08-25_capability_discovery_laws_and_lock_ownership.md | zoro | 2026-08-25 | B | 6460 |
+| 2026-08-25_cloudflare_agent_native_readiness_audit.md | zoro | 2026-08-25 | — | 5403 |
+| 2026-08-25_design_system_v1_c0_c4_two_surfaces.md | zoro | 2026-08-25 | B | 13250 |
 | 2026-08-25_site_overhaul_definition_of_finished.md | zoro | 2026-08-25 | B | 5608 |
 | 2026-08-25_site_overhaul_wave1_wave2_four_doors.md | zoro | 2026-08-25 | B | 68315 |
 | 2026-08-25_wake_sovereignty_repair_cairn_negative_battery.md | zoro | 2026-08-25 | B | 7070 |
 | 2026-08-25_authority_hardening_followup.md | sanji | 2026-08-25 | A | 4735 |
 | 2026-08-25_authority_repair_worker_preflight.md | sanji | 2026-08-25 | A | 5972 |
+| 2026-08-25_capability_admission_work_conserving_review_gates.md | sanji | 2026-08-25 | B | 7174 |
 | 2026-08-25_codebank_pin_reconciliation.md | sanji | 2026-08-25 | A | 2371 |
+| 2026-08-25_compiler_live_execution_canary.md | sanji | 2026-08-25 | A | 8140 |
 | 2026-08-25_consequence_authority_gate_repair.md | sanji | 2026-08-25 | B | 6011 |
 | 2026-08-25_execution_authorization_refresh.md | sanji | 2026-08-25 | A | 2577 |
 | 2026-08-25_execution_authorization_repair.md | sanji | 2026-08-25 | A | 6814 |
+| 2026-08-25_federation-mission-001-pytest-14909.md | sanji | 2026-08-25 | A | 5409 |
+| 2026-08-25_glee-production-network-outcome-v0-plan.md | sanji | 2026-08-25 | A | 4210 |
 | 2026-08-25_goal-compiler-v2-execution-study-progress.md | sanji | 2026-08-25 | B | 7099 |
 | 2026-08-25_goal_compiler_v2.md | sanji | 2026-08-25 | A | 6323 |
 | 2026-08-25_holder_binding_repair.md | sanji | 2026-08-25 | B | 4307 |
 | 2026-08-25_independent_authority_audit.md | sanji | 2026-08-25 | B | 3970 |
 | 2026-08-25_live_worker_reconciliation.md | sanji | 2026-08-25 | A | 4688 |
 | 2026-08-25_next_best_goal_fleet_dispatch_acceptance.md | sanji | 2026-08-25 | A | 4642 |
+| 2026-08-25_outcome-record-v0-falsification-and-mission-002.md | sanji | 2026-08-25 | A | 6121 |
+| 2026-08-25_outcome-record-v0-human-accountability-gate.md | sanji | 2026-08-25 | A | 6073 |
+| 2026-08-25_outcome_first_inspectable_control_product_doctrine_v0.md | sanji | 2026-08-25 | C | 4646 |
 | 2026-08-25_regulatory_capital_strategy_amendment.md | sanji | 2026-08-25 | A | 5370 |
 | 2026-08-25_runtime_canary_authority_seam.md | sanji | 2026-08-25 | A | 4096 |
 | 2026-08-25_thousand_sunny_execution_recovery.md | sanji | 2026-08-25 | A | 9016 |
+| 2026-08-25_tranche1_action2_mission_contract_projection.md | sanji | 2026-08-25 | B | 5674 |
+| 2026-08-25_tranche1_gate1_canonical_field_reconciliation.md | sanji | 2026-08-25 | B | 6376 |
+| 2026-08-25_universal_capability_economic_institution_plan.md | sanji | 2026-08-25 | A | 5209 |
 | 2026-08-25_economic_opportunity_map_and_shortest_compounding_path_receipt.md | robin | 2026-08-25 | B | 4971 |
 | 2026-08-25_federation_wave_2_recovered_process_node_signed_local_receipt.md | robin | 2026-08-25 | B | 6089 |
+| 2026-08-25_glee_bench_phase1_contracts_and_cli_receipt.md | robin | 2026-08-25 | — | 5394 |
+| 2026-08-25_glee_bench_phase2_runner_and_telemetry_receipt.md | robin | 2026-08-25 | — | 9912 |
+| 2026-08-25_glee_bench_phase3_openttd_thin_slice_receipt.md | robin | 2026-08-25 | — | 10785 |
+| 2026-08-25_glee_bench_phase3_real_openttd_correction_receipt.md | robin | 2026-08-25 | — | 7275 |
 | 2026-08-25_glee_recursive_self_improvement_phase0_receipt.md | robin | 2026-08-25 | B | 6459 |
 | 2026-08-25_interoperable_intelligence_federation_network_receipt.md | robin | 2026-08-25 | B | 11382 |
 | 2026-08-25_live_external_intelligence_federation_e2e_receipt.md | robin | 2026-08-25 | — | 2903 |
+| 2026-08-25_small_cell_research_program_phase0_receipt.md | robin | 2026-08-25 | — | 4157 |
+| 2026-08-25_small_cell_research_program_phase1_contract_and_solvers_receipt.md | robin | 2026-08-25 | — | 3829 |
+| 2026-08-25_small_cell_research_program_phase1_methodology_repaired_receipt.md | robin | 2026-08-25 | — | 2476 |
 | 2026-08-24_claim_to_test_independent_audit.md | zoro | 2026-08-24 | A | 6829 |
 | 2026-08-24_echo_breach_discontinued_wall_taken_down.md | zoro | 2026-08-24 | — | 2731 |
 | 2026-08-24_export_liveness_dead_exports_inside_live_organs.md | zoro | 2026-08-24 | B | 8315 |
@@ -182,32 +207,7 @@
 | 2026-08-22_first_real_failure_through_all_six_witnesses.md | zoro | 2026-08-22 | A | 11065 |
 | 2026-08-22_fixture_002_epistemic_distance_n2.md | zoro | 2026-08-22 | A | 8347 |
 | 2026-08-22_fixture_003_mcp_transport_adapter_proven.md | zoro | 2026-08-22 | A | 5151 |
-| 2026-08-22_fixture_004_dependency_spawn_boundary.md | zoro | 2026-08-22 | A | 4835 |
-| 2026-08-22_frozen_promotion_contract_reviewer_driven.md | zoro | 2026-08-22 | A | 4278 |
-| 2026-08-22_intervention_sidecars_indexed_in_manifest.md | zoro | 2026-08-22 | A | 5532 |
-| 2026-08-22_mutant_invariant_killing_test_matrix.md | zoro | 2026-08-22 | A | 9866 |
-| 2026-08-22_one_global_nav_two_domains.md | zoro | 2026-08-22 | B | 11650 |
-| 2026-08-22_pipeline_mutation_harness.md | zoro | 2026-08-22 | A | 3283 |
-| 2026-08-22_real_capture_bootstrap_achieved_n1.md | zoro | 2026-08-22 | A | 7216 |
-| 2026-08-22_source_mutation_harness_37_mutants_0_survived.md | zoro | 2026-08-22 | A | 5877 |
-| 2026-08-22_source_mutation_harness_56_mutants_0_survived.md | zoro | 2026-08-22 | A | 4002 |
-| 2026-08-22_task_level_acceptance_contracts.md | zoro | 2026-08-22 | A | 4115 |
-| 2026-08-22_the_falsifier_could_not_pass_and_the_flag_could_not_fix_it.md | zoro | 2026-08-22 | B | 7877 |
-| 2026-08-22_the_fix_was_built_yesterday_and_never_applied.md | zoro | 2026-08-22 | B | 11219 |
-| 2026-08-22_the_learning_evaluator_could_not_tell_learning_from_the_base_rate.md | zoro | 2026-08-22 | B | 12226 |
-| 2026-08-22_the_pricing_organ_exists_and_has_never_fired.md | zoro | 2026-08-22 | B | 7563 |
-| 2026-08-22_zero_pairs_was_three_conditions.md | zoro | 2026-08-22 | A | 8170 |
-| 2026-08-22_aa-noise-1248-sanji.md | sanji | 2026-08-22 | A | 2712 |
-| 2026-08-22_abre-blind-hostile-replay-0952-sanji.md | sanji | 2026-08-22 | — | 2486 |
-| 2026-08-22_abre-replay-1003-sanji.md | sanji | 2026-08-22 | — | 2283 |
-| 2026-08-22_acceptance-settle-fixture-repair-0637-sanji.md | sanji | 2026-08-22 | A | 3596 |
-| 2026-08-22_achievement-program-replay-1040-sanji.md | sanji | 2026-08-22 | A | 2613 |
-| 2026-08-22_action-broker-a11y-pure-replay-0956-sanji.md | sanji | 2026-08-22 | — | 2352 |
-| 2026-08-22_active-inference-replay-1015-sanji.md | sanji | 2026-08-22 | — | 2344 |
-| 2026-08-22_active-work-index-boot-contract-audit-0814-sanji.md | sanji | 2026-08-22 | B | 2003 |
-| 2026-08-22_active-work-projection-hostile-review-2300-sanji.md | sanji | 2026-08-22 | — | 2054 |
-| 2026-08-22_active-work-projection-repair-0446-sanji.md | sanji | 2026-08-22 | B | 3547 |
-| _(+12366 more — see full manifest JSON)_ | | | | |
+| _(+12391 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
