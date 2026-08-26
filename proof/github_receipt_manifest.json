@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 12566,
+  "total_receipts": 12591,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -1732,6 +1732,14 @@
       "size_bytes": 4324
     },
     {
+      "file_name": "2026-08-25_c1_canonical_design_objects.md",
+      "home": "glee",
+      "rel_path": "2026-08-25_c1_canonical_design_objects.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 2182
+    },
+    {
       "file_name": "2026-08-25_crew_verification_gate_adversarial_review.md",
       "home": "glee",
       "rel_path": "2026-08-25_crew_verification_gate_adversarial_review.md",
@@ -1746,6 +1754,14 @@
       "date": "2026-08-25",
       "tier": null,
       "size_bytes": 1280
+    },
+    {
+      "file_name": "2026-08-25_mission_01_recovered_pipe_real_intelligence.md",
+      "home": "glee",
+      "rel_path": "2026-08-25_mission_01_recovered_pipe_real_intelligence.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 2054
     },
     {
       "file_name": "META.md",
@@ -33628,12 +33644,60 @@
       "size_bytes": 6179
     },
     {
+      "file_name": "2026-08-25_agent_native_wave1_content_signals_x402.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_agent_native_wave1_content_signals_x402.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 7961
+    },
+    {
+      "file_name": "2026-08-25_background_execution_rail_and_desktop_guard.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_background_execution_rail_and_desktop_guard.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 12175
+    },
+    {
+      "file_name": "2026-08-25_brand_mark_first_paint_flash.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_brand_mark_first_paint_flash.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 5164
+    },
+    {
+      "file_name": "2026-08-25_c1_canonical_proof_object.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_c1_canonical_proof_object.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 8062
+    },
+    {
       "file_name": "2026-08-25_capability_discovery_laws_and_lock_ownership.md",
       "home": "zoro",
       "rel_path": "2026-08-25_capability_discovery_laws_and_lock_ownership.md",
       "date": "2026-08-25",
       "tier": "B",
       "size_bytes": 6460
+    },
+    {
+      "file_name": "2026-08-25_cloudflare_agent_native_readiness_audit.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_cloudflare_agent_native_readiness_audit.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 5403
+    },
+    {
+      "file_name": "2026-08-25_design_system_v1_c0_c4_two_surfaces.md",
+      "home": "zoro",
+      "rel_path": "2026-08-25_design_system_v1_c0_c4_two_surfaces.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 13250
     },
     {
       "file_name": "2026-08-25_site_overhaul_definition_of_finished.md",
@@ -84852,12 +84916,28 @@
       "size_bytes": 5972
     },
     {
+      "file_name": "2026-08-25_capability_admission_work_conserving_review_gates.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_capability_admission_work_conserving_review_gates.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 7174
+    },
+    {
       "file_name": "2026-08-25_codebank_pin_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-08-25_codebank_pin_reconciliation.md",
       "date": "2026-08-25",
       "tier": "A",
       "size_bytes": 2371
+    },
+    {
+      "file_name": "2026-08-25_compiler_live_execution_canary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_compiler_live_execution_canary.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 8140
     },
     {
       "file_name": "2026-08-25_consequence_authority_gate_repair.md",
@@ -84882,6 +84962,22 @@
       "date": "2026-08-25",
       "tier": "A",
       "size_bytes": 6814
+    },
+    {
+      "file_name": "2026-08-25_federation-mission-001-pytest-14909.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_federation-mission-001-pytest-14909.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 5409
+    },
+    {
+      "file_name": "2026-08-25_glee-production-network-outcome-v0-plan.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_glee-production-network-outcome-v0-plan.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 4210
     },
     {
       "file_name": "2026-08-25_goal-compiler-v2-execution-study-progress.md",
@@ -84932,6 +85028,30 @@
       "size_bytes": 4642
     },
     {
+      "file_name": "2026-08-25_outcome-record-v0-falsification-and-mission-002.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_outcome-record-v0-falsification-and-mission-002.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 6121
+    },
+    {
+      "file_name": "2026-08-25_outcome-record-v0-human-accountability-gate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_outcome-record-v0-human-accountability-gate.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 6073
+    },
+    {
+      "file_name": "2026-08-25_outcome_first_inspectable_control_product_doctrine_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_outcome_first_inspectable_control_product_doctrine_v0.md",
+      "date": "2026-08-25",
+      "tier": "C",
+      "size_bytes": 4646
+    },
+    {
       "file_name": "2026-08-25_regulatory_capital_strategy_amendment.md",
       "home": "sanji",
       "rel_path": "2026-08-25_regulatory_capital_strategy_amendment.md",
@@ -84954,6 +85074,30 @@
       "date": "2026-08-25",
       "tier": "A",
       "size_bytes": 9016
+    },
+    {
+      "file_name": "2026-08-25_tranche1_action2_mission_contract_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_tranche1_action2_mission_contract_projection.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 5674
+    },
+    {
+      "file_name": "2026-08-25_tranche1_gate1_canonical_field_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_tranche1_gate1_canonical_field_reconciliation.md",
+      "date": "2026-08-25",
+      "tier": "B",
+      "size_bytes": 6376
+    },
+    {
+      "file_name": "2026-08-25_universal_capability_economic_institution_plan.md",
+      "home": "sanji",
+      "rel_path": "2026-08-25_universal_capability_economic_institution_plan.md",
+      "date": "2026-08-25",
+      "tier": "A",
+      "size_bytes": 5209
     },
     {
       "file_name": "INDEX.md",
@@ -99852,6 +99996,38 @@
       "size_bytes": 6089
     },
     {
+      "file_name": "2026-08-25_glee_bench_phase1_contracts_and_cli_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_glee_bench_phase1_contracts_and_cli_receipt.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 5394
+    },
+    {
+      "file_name": "2026-08-25_glee_bench_phase2_runner_and_telemetry_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_glee_bench_phase2_runner_and_telemetry_receipt.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 9912
+    },
+    {
+      "file_name": "2026-08-25_glee_bench_phase3_openttd_thin_slice_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_glee_bench_phase3_openttd_thin_slice_receipt.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 10785
+    },
+    {
+      "file_name": "2026-08-25_glee_bench_phase3_real_openttd_correction_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_glee_bench_phase3_real_openttd_correction_receipt.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 7275
+    },
+    {
       "file_name": "2026-08-25_glee_recursive_self_improvement_phase0_receipt.md",
       "home": "robin",
       "rel_path": "2026-08-25_glee_recursive_self_improvement_phase0_receipt.md",
@@ -99874,6 +100050,30 @@
       "date": "2026-08-25",
       "tier": null,
       "size_bytes": 2903
+    },
+    {
+      "file_name": "2026-08-25_small_cell_research_program_phase0_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_small_cell_research_program_phase0_receipt.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 4157
+    },
+    {
+      "file_name": "2026-08-25_small_cell_research_program_phase1_contract_and_solvers_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_small_cell_research_program_phase1_contract_and_solvers_receipt.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 3829
+    },
+    {
+      "file_name": "2026-08-25_small_cell_research_program_phase1_methodology_repaired_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-08-25_small_cell_research_program_phase1_methodology_repaired_receipt.md",
+      "date": "2026-08-25",
+      "tier": null,
+      "size_bytes": 2476
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
