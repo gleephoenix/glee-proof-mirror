@@ -1,35 +1,78 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-27T06:41:06.928452+00:00
-> Total receipts indexed: 12836
+> Last updated: 2026-08-27T12:41:09.984454+00:00
+> Total receipts indexed: 12879
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-27_discarded_verdict_blind_spot.md | glee | 2026-08-27 | A | 8463 |
 | 2026-08-27_gleephoenix_redesign_preview_build.md | glee | 2026-08-27 | — | 1630 |
+| 2026-08-27_gleephoenix_redesign_wave2_full_coverage.md | glee | 2026-08-27 | — | 1636 |
+| 2026-08-27_an_adversary_reviewing_a_different_system.md | zoro | 2026-08-27 | B | 5819 |
+| 2026-08-27_autoprune_reachability_and_fleet_backlog.md | zoro | 2026-08-27 | — | 5568 |
+| 2026-08-27_crew_channel_write_only_and_guardian_dead.md | zoro | 2026-08-27 | — | 5094 |
+| 2026-08-27_e_verified_and_conformance_shape_test.md | zoro | 2026-08-27 | — | 4045 |
+| 2026-08-27_parser_closure_and_service_liveness.md | zoro | 2026-08-27 | — | 4735 |
+| 2026-08-27_prediction_falsified_and_instrument_repair.md | zoro | 2026-08-27 | — | 5483 |
+| 2026-08-27_the_gate_could_admit_nobody_asked_it_to.md | zoro | 2026-08-27 | — | 5087 |
+| 2026-08-27_the_lint_was_not_failing_it_was_not_finishing.md | zoro | 2026-08-27 | B | 5450 |
+| 2026-08-27_three_promises_reported_a_clock_not_a_tree.md | zoro | 2026-08-27 | B | 3953 |
+| 2026-08-27_two_gates_in_series_one_repaired_one_told_the_truth.md | zoro | 2026-08-27 | — | 5374 |
 | 2026-08-27_GS-V2-C1-together_local_cohort_compilation.md | sanji | 2026-08-27 | B | 6395 |
 | 2026-08-27_adaptive_method_selection_assimilation_repair_v3.md | sanji | 2026-08-27 | A | 7908 |
 | 2026-08-27_ams002_corpus_expansion.md | sanji | 2026-08-27 | B | 6798 |
 | 2026-08-27_ams002_corpus_gate_partial.md | sanji | 2026-08-27 | B | 3948 |
 | 2026-08-27_ams002_deep_scan_admission.md | sanji | 2026-08-27 | B | 8448 |
 | 2026-08-27_ams002_method_pilot_packet.md | sanji | 2026-08-27 | B | 6802 |
+| 2026-08-27_autoprune-verification-debt-independent-judgment.md | sanji | 2026-08-27 | B | 6697 |
+| 2026-08-27_bench-disjoint-replay.md | sanji | 2026-08-27 | A | 3392 |
+| 2026-08-27_cash-realization-audit.md | sanji | 2026-08-27 | B | 6333 |
+| 2026-08-27_commercial-value-gap-brief.md | sanji | 2026-08-27 | B | 5500 |
+| 2026-08-27_disconfirmation-resource-scheduler-baseline-repair-and-sweep.md | sanji | 2026-08-27 | B | 8029 |
+| 2026-08-27_disconfirmation-resource-scheduler-current-census.md | sanji | 2026-08-27 | B | 4988 |
+| 2026-08-27_glee-bench-phase1-e2e-replay.md | sanji | 2026-08-27 | A | 6527 |
+| 2026-08-27_glee-bench-route-harness-decision-packet.md | sanji | 2026-08-27 | B | 5762 |
+| 2026-08-27_glee-bench-status-alias-drift-root-cause.md | sanji | 2026-08-27 | B | 6612 |
 | 2026-08-27_glee_bench_cash_realization_surface_audit.md | sanji | 2026-08-27 | A | 3854 |
+| 2026-08-27_glee_bench_compounding_artifact_binding.md | sanji | 2026-08-27 | B | 4976 |
+| 2026-08-27_glee_bench_compounding_index_validation.md | sanji | 2026-08-27 | B | 4939 |
+| 2026-08-27_glee_bench_compounding_verify_cli.md | sanji | 2026-08-27 | A | 6125 |
+| 2026-08-27_glee_bench_persisted_bundle_binding.md | sanji | 2026-08-27 | A | 6415 |
+| 2026-08-27_glee_bench_production_liveness_reconciliation.md | sanji | 2026-08-27 | A | 6069 |
+| 2026-08-27_glee_bench_production_liveness_reconciliation_correction.md | sanji | 2026-08-27 | A | 3201 |
 | 2026-08-27_glee_verify_attestation_precedence_repair.md | sanji | 2026-08-27 | B | 5335 |
 | 2026-08-27_glee_verify_attestation_precedence_repair_final.md | sanji | 2026-08-27 | B | 5326 |
 | 2026-08-27_glee_verify_attestation_scope_repair.md | sanji | 2026-08-27 | B | 4871 |
 | 2026-08-27_goal_compiler_v2_baseline_identity_hardening.md | sanji | 2026-08-27 | A | 4209 |
+| 2026-08-27_goal_study_provider_cost_projection.md | sanji | 2026-08-27 | B | 6360 |
+| 2026-08-27_goal_study_provider_cost_projection_correction.md | sanji | 2026-08-27 | B | 4835 |
+| 2026-08-27_goal_study_provider_cost_projection_final.md | sanji | 2026-08-27 | B | 5724 |
 | 2026-08-27_noabsolute_paths_historical_record_verification.md | sanji | 2026-08-27 | B | 5646 |
 | 2026-08-27_noabsolute_paths_historical_record_verification_corrected.md | sanji | 2026-08-27 | B | 4368 |
+| 2026-08-27_peer-attestation-gate-independent-judgment.md | sanji | 2026-08-27 | B | 7225 |
 | 2026-08-27_phoenix_a2a_protocol_reprobe.md | sanji | 2026-08-27 | B | 5416 |
 | 2026-08-27_phoenix_a2a_resume_revalidation.md | sanji | 2026-08-27 | B | 4181 |
 | 2026-08-27_phoenix_a2a_schedule_caller.md | sanji | 2026-08-27 | B | 6634 |
 | 2026-08-27_phoenix_a2a_scheduler_sink.md | sanji | 2026-08-27 | B | 6639 |
 | 2026-08-27_phoenix_a2a_standing_observation_registration.md | sanji | 2026-08-27 | B | 7762 |
+| 2026-08-27_provider-cost-projection-local-evidence.md | sanji | 2026-08-27 | B | 6214 |
+| 2026-08-27_receipt-addendum-consumer-repair.md | sanji | 2026-08-27 | B | 7289 |
+| 2026-08-27_receipt-debt-post-freeze-attestation-boundary.md | sanji | 2026-08-27 | B | 6469 |
+| 2026-08-27_reclaimable-zoro-objective-owner-boundary.md | sanji | 2026-08-27 | A | 5527 |
+| 2026-08-27_regulatory-evidence-field-map.md | sanji | 2026-08-27 | A | 8038 |
+| 2026-08-27_ship_lint_aggregate_propagation_attestation.md | sanji | 2026-08-27 | B | 4484 |
+| 2026-08-27_ship_lint_unsharded_propagation_attestation.md | sanji | 2026-08-27 | B | 5123 |
 | 2026-08-27_spark_control_finalization_boundary.md | sanji | 2026-08-27 | B | 9342 |
 | 2026-08-27_spark_control_finalization_boundary_addendum.md | sanji | 2026-08-27 | B | 5853 |
 | 2026-08-27_spark_control_finalization_boundary_addendum_v2.md | sanji | 2026-08-27 | B | 4691 |
 | 2026-08-27_spark_control_finalization_boundary_addendum_v3.md | sanji | 2026-08-27 | B | 4893 |
+| 2026-08-27_external_submission_boundary_audit.md | robin | 2026-08-27 | — | 2304 |
+| 2026-08-27_free_internet_resource_fabric_wave1.md | robin | 2026-08-27 | — | 4539 |
+| 2026-08-27_free_internet_resource_fabric_wave2_consumers.md | robin | 2026-08-27 | — | 4654 |
+| 2026-08-27_free_internet_resource_fabric_wave3_workflows.md | robin | 2026-08-27 | — | 5801 |
+| 2026-08-27_goose_mcp_verifier_contribution.md | robin | 2026-08-27 | — | 3252 |
 | 2026-08-26_detector_precision_from_labelled_triage.md | glee | 2026-08-26 | A | 14754 |
 | 2026-08-26_process_supervision_trace_estate_wiring.md | glee | 2026-08-26 | B | 5199 |
 | 2026-08-26_reconcile_reports_success_without_reconciling.md | glee | 2026-08-26 | A | 11757 |
@@ -164,50 +207,7 @@
 | 2026-08-26_m2m_phaseA_contained_contract_recovery.md | sanji | 2026-08-26 | B | 9266 |
 | 2026-08-26_m2m_transaction_phaseA_local_buyer_evidence.md | sanji | 2026-08-26 | A | 9161 |
 | 2026-08-26_media_studio_renderer_hardening.md | sanji | 2026-08-26 | A | 7658 |
-| 2026-08-26_omp_pi_adapter_replay.md | sanji | 2026-08-26 | A | 5634 |
-| 2026-08-26_omp_pi_harness_bakeoff_intake.md | sanji | 2026-08-26 | A | 5037 |
-| 2026-08-26_omp_pi_offline_adapter.md | sanji | 2026-08-26 | A | 4564 |
-| 2026-08-26_orchestrator_bridge_reconcile_false_success_falsifier.md | sanji | 2026-08-26 | B | 3622 |
-| 2026-08-26_orchestrator_bridge_registry_reconcile_falsifier.md | sanji | 2026-08-26 | B | 3425 |
-| 2026-08-26_outcome_record_v0_projection.md | sanji | 2026-08-26 | A | 5114 |
-| 2026-08-26_outcome_record_v0_reverification.md | sanji | 2026-08-26 | A | 6893 |
-| 2026-08-26_phoenix_intelligence_directory_onramp_slice.md | sanji | 2026-08-26 | A | 7206 |
-| 2026-08-26_phoenix_observatory_onramp_bridge.md | sanji | 2026-08-26 | A | 8220 |
-| 2026-08-26_phoenix_observatory_onramp_input_hardening.md | sanji | 2026-08-26 | A | 4458 |
-| 2026-08-26_production_quick_probe_uvp_palette_recheck.md | sanji | 2026-08-26 | B | 4618 |
-| 2026-08-26_provider_canary_exact_daemon_observer_repair.md | sanji | 2026-08-26 | A | 8175 |
-| 2026-08-26_readiness_observer_oob_hardening.md | sanji | 2026-08-26 | A | 3134 |
-| 2026-08-26_readiness_observer_oob_verification_addendum.md | sanji | 2026-08-26 | A | 2299 |
-| 2026-08-26_receipt_ariadne_lineage_binding_audit.md | sanji | 2026-08-26 | B | 7766 |
-| 2026-08-26_receipt_authority_language_consumer_audit.md | sanji | 2026-08-26 | B | 6136 |
-| 2026-08-26_receipt_authority_language_exception_hardening.md | sanji | 2026-08-26 | B | 8121 |
-| 2026-08-26_receipt_authority_language_hardening.md | sanji | 2026-08-26 | B | 7768 |
-| 2026-08-26_receipt_integrity_census.md | sanji | 2026-08-26 | A | 5839 |
-| 2026-08-26_receipt_no_frontmatter_inventory.md | sanji | 2026-08-26 | A | 6398 |
-| 2026-08-26_receipt_no_frontmatter_role_triage.md | sanji | 2026-08-26 | A | 6805 |
-| 2026-08-26_receipt_v1_node_id_metadata_census.md | sanji | 2026-08-26 | B | 6557 |
-| 2026-08-26_ship_lint_codebank_revalidation.md | sanji | 2026-08-26 | A | 6765 |
-| 2026-08-26_stage0_compounding_lineage_hardening.md | sanji | 2026-08-26 | A | 5067 |
-| 2026-08-26_stage0_cost_classification_truth.md | sanji | 2026-08-26 | A | 4964 |
-| 2026-08-26_stage0_cost_currency_truth.md | sanji | 2026-08-26 | A | 5801 |
-| 2026-08-26_stage0_measured_value_bridge.md | sanji | 2026-08-26 | A | 6680 |
-| 2026-08-26_studio_app_changed_surface_audit.md | sanji | 2026-08-26 | B | 6509 |
-| 2026-08-26_studio_innerhtml_security_census.md | sanji | 2026-08-26 | A | 9084 |
-| 2026-08-26_studio_mocap_peer_recheck.md | sanji | 2026-08-26 | B | 4726 |
-| 2026-08-26_studio_pulse_freshness_visibility.md | sanji | 2026-08-26 | A | 7093 |
-| 2026-08-26_studio_pulse_freshness_visibility_addendum.md | sanji | 2026-08-26 | A | 1944 |
-| 2026-08-26_studio_pulse_renderer_hardening.md | sanji | 2026-08-26 | A | 6542 |
-| 2026-08-26_studio_remainder_verification.md | sanji | 2026-08-26 | B | 4956 |
-| 2026-08-26_studio_renderer_boundary_closure.md | sanji | 2026-08-26 | A | 6908 |
-| 2026-08-26_studio_suite_timeout_diagnosis.md | sanji | 2026-08-26 | A | 9925 |
-| 2026-08-26_sunny8_worker_heartbeat_coverage_observation.md | sanji | 2026-08-26 | A | 2803 |
-| 2026-08-26_supervisor_recovery_route.md | sanji | 2026-08-26 | B | 5131 |
-| 2026-08-26_terminal_api_input_gate_hardening.md | sanji | 2026-08-26 | A | 3400 |
-| 2026-08-26_terminal_liveness_combined_acceptance.md | sanji | 2026-08-26 | B | 3181 |
-| 2026-08-26_terminal_liveness_exit_evidence.md | sanji | 2026-08-26 | B | 3616 |
-| 2026-08-26_terminal_liveness_heartbeat_integration.md | sanji | 2026-08-26 | B | 3729 |
-| 2026-08-26_terminal_liveness_observer_slice.md | sanji | 2026-08-26 | B | 3708 |
-| _(+12636 more — see full manifest JSON)_ | | | | |
+| _(+12679 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
