@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 13005,
+  "total_receipts": 13075,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -34348,12 +34348,36 @@
       "size_bytes": 5094
     },
     {
+      "file_name": "2026-08-27_decision_space_engineering_program_registered.md",
+      "home": "zoro",
+      "rel_path": "2026-08-27_decision_space_engineering_program_registered.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 7158
+    },
+    {
       "file_name": "2026-08-27_e_verified_and_conformance_shape_test.md",
       "home": "zoro",
       "rel_path": "2026-08-27_e_verified_and_conformance_shape_test.md",
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 4045
+    },
+    {
+      "file_name": "2026-08-27_graduating_two_components_into_the_causal_path.md",
+      "home": "zoro",
+      "rel_path": "2026-08-27_graduating_two_components_into_the_causal_path.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 7780
+    },
+    {
+      "file_name": "2026-08-27_gsubstrate_11_supersession_repair_applied.md",
+      "home": "zoro",
+      "rel_path": "2026-08-27_gsubstrate_11_supersession_repair_applied.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 5054
     },
     {
       "file_name": "2026-08-27_guardian_recovered.md",
@@ -34404,6 +34428,14 @@
       "size_bytes": 8421
     },
     {
+      "file_name": "2026-08-27_readonly_bus_audit_recovered_11_stranded_by_source_id.md",
+      "home": "zoro",
+      "rel_path": "2026-08-27_readonly_bus_audit_recovered_11_stranded_by_source_id.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 4803
+    },
+    {
       "file_name": "2026-08-27_the_estate_was_degraded_by_a_slow_probe.md",
       "home": "zoro",
       "rel_path": "2026-08-27_the_estate_was_degraded_by_a_slow_probe.md",
@@ -34426,6 +34458,14 @@
       "date": "2026-08-27",
       "tier": "B",
       "size_bytes": 5450
+    },
+    {
+      "file_name": "2026-08-27_the_oracle_read_the_builder_while_the_artifact_ran_elsewhere.md",
+      "home": "zoro",
+      "rel_path": "2026-08-27_the_oracle_read_the_builder_while_the_artifact_ran_elsewhere.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 8477
     },
     {
       "file_name": "2026-08-27_three_promises_reported_a_clock_not_a_tree.md",
@@ -86892,6 +86932,30 @@
       "size_bytes": 6395
     },
     {
+      "file_name": "2026-08-27_account_balance_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_account_balance_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2953
+    },
+    {
+      "file_name": "2026-08-27_account_dashboard_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_account_dashboard_economics.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2859
+    },
+    {
+      "file_name": "2026-08-27_account_resource_detail_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_account_resource_detail_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2605
+    },
+    {
       "file_name": "2026-08-27_accounter_pr4156_replay.md",
       "home": "sanji",
       "rel_path": "2026-08-27_accounter_pr4156_replay.md",
@@ -86906,6 +86970,22 @@
       "date": "2026-08-27",
       "tier": "A",
       "size_bytes": 7908
+    },
+    {
+      "file_name": "2026-08-27_admin_console_accounting_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_admin_console_accounting_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2729
+    },
+    {
+      "file_name": "2026-08-27_admin_console_numeric_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_admin_console_numeric_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2158
     },
     {
       "file_name": "2026-08-27_agent_bus_ownership_census.md",
@@ -86996,6 +87076,22 @@
       "size_bytes": 2631
     },
     {
+      "file_name": "2026-08-27_ai_usage_renderer_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_ai_usage_renderer_economics.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2847
+    },
+    {
+      "file_name": "2026-08-27_ai_usage_window_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_ai_usage_window_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2237
+    },
+    {
       "file_name": "2026-08-27_ams002_corpus_expansion.md",
       "home": "sanji",
       "rel_path": "2026-08-27_ams002_corpus_expansion.md",
@@ -87034,6 +87130,14 @@
       "date": "2026-08-27",
       "tier": "A",
       "size_bytes": 5636
+    },
+    {
+      "file_name": "2026-08-27_authenticated_fuel_projections.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_authenticated_fuel_projections.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2604
     },
     {
       "file_name": "2026-08-27_autoprune-verification-debt-independent-judgment.md",
@@ -87092,6 +87196,14 @@
       "size_bytes": 4191
     },
     {
+      "file_name": "2026-08-27_chat_charging_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_chat_charging_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2146
+    },
+    {
       "file_name": "2026-08-27_claim_to_test_package_regression.md",
       "home": "sanji",
       "rel_path": "2026-08-27_claim_to_test_package_regression.md",
@@ -87106,6 +87218,14 @@
       "date": "2026-08-27",
       "tier": "C",
       "size_bytes": 2797
+    },
+    {
+      "file_name": "2026-08-27_cloud_usage_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_cloud_usage_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2359
     },
     {
       "file_name": "2026-08-27_codebank-and-evidence-lint-boundary-repair.md",
@@ -87156,6 +87276,14 @@
       "size_bytes": 2469
     },
     {
+      "file_name": "2026-08-27_compute_spend_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_compute_spend_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2486
+    },
+    {
       "file_name": "2026-08-27_continual_package_regression.md",
       "home": "sanji",
       "rel_path": "2026-08-27_continual_package_regression.md",
@@ -87170,6 +87298,14 @@
       "date": "2026-08-27",
       "tier": "A",
       "size_bytes": 4681
+    },
+    {
+      "file_name": "2026-08-27_crossmint_fuel_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_crossmint_fuel_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2652
     },
     {
       "file_name": "2026-08-27_d10_compounding_economics_fresh_proof.md",
@@ -87220,6 +87356,14 @@
       "size_bytes": 5595
     },
     {
+      "file_name": "2026-08-27_dynamic_work_surfaces_phase1.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_dynamic_work_surfaces_phase1.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 8334
+    },
+    {
       "file_name": "2026-08-27_economic_input_validation.md",
       "home": "sanji",
       "rel_path": "2026-08-27_economic_input_validation.md",
@@ -87234,6 +87378,14 @@
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2979
+    },
+    {
+      "file_name": "2026-08-27_entitlement_storage_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_entitlement_storage_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2640
     },
     {
       "file_name": "2026-08-27_estate_receipt_verification_debt_census.md",
@@ -87252,6 +87404,38 @@
       "size_bytes": 4566
     },
     {
+      "file_name": "2026-08-27_execution_reality_adversarial_boundary_drain.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_execution_reality_adversarial_boundary_drain.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 3221
+    },
+    {
+      "file_name": "2026-08-27_execution_reality_quantmlayer_current_main_canary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_execution_reality_quantmlayer_current_main_canary.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 6135
+    },
+    {
+      "file_name": "2026-08-27_execution_reality_quantmlayer_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_execution_reality_quantmlayer_wave.md",
+      "date": "2026-08-27",
+      "tier": "A",
+      "size_bytes": 10628
+    },
+    {
+      "file_name": "2026-08-27_execution_reality_replay_boundary_drain.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_execution_reality_replay_boundary_drain.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 2717
+    },
+    {
       "file_name": "2026-08-27_five_target_capability_fixture_repair.md",
       "home": "sanji",
       "rel_path": "2026-08-27_five_target_capability_fixture_repair.md",
@@ -87260,12 +87444,28 @@
       "size_bytes": 4302
     },
     {
+      "file_name": "2026-08-27_fuel_creation_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_fuel_creation_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2391
+    },
+    {
       "file_name": "2026-08-27_fuel_display_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_fuel_display_integrity.md",
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2543
+    },
+    {
+      "file_name": "2026-08-27_fuel_policy_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_fuel_policy_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2100
     },
     {
       "file_name": "2026-08-27_fuel_primitives_integrity.md",
@@ -87282,6 +87482,14 @@
       "date": "2026-08-27",
       "tier": "B",
       "size_bytes": 4284
+    },
+    {
+      "file_name": "2026-08-27_fuel_wallet_state_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_fuel_wallet_state_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2524
     },
     {
       "file_name": "2026-08-27_git_index_lock_recovery.md",
@@ -87500,6 +87708,14 @@
       "size_bytes": 3574
     },
     {
+      "file_name": "2026-08-27_launch_smoke_diagnostics_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_launch_smoke_diagnostics_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2571
+    },
+    {
       "file_name": "2026-08-27_local_economic_receipt_view.md",
       "home": "sanji",
       "rel_path": "2026-08-27_local_economic_receipt_view.md",
@@ -87564,12 +87780,28 @@
       "size_bytes": 3058
     },
     {
+      "file_name": "2026-08-27_paid_work_cashflow_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_paid_work_cashflow_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2321
+    },
+    {
       "file_name": "2026-08-27_paid_work_component_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_paid_work_component_integrity.md",
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2369
+    },
+    {
+      "file_name": "2026-08-27_paid_work_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_paid_work_economics.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2237
     },
     {
       "file_name": "2026-08-27_paid_work_invoice_integrity.md",
@@ -87580,12 +87812,28 @@
       "size_bytes": 3740
     },
     {
+      "file_name": "2026-08-27_paid_work_operational_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_paid_work_operational_economics.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2649
+    },
+    {
       "file_name": "2026-08-27_paid_work_proof_ref_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_paid_work_proof_ref_integrity.md",
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2394
+    },
+    {
+      "file_name": "2026-08-27_paid_work_provider_accounting.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_paid_work_provider_accounting.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2289
     },
     {
       "file_name": "2026-08-27_paid_work_settlement_integrity.md",
@@ -87596,12 +87844,28 @@
       "size_bytes": 3384
     },
     {
+      "file_name": "2026-08-27_paid_work_summary_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_paid_work_summary_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2347
+    },
+    {
       "file_name": "2026-08-27_paid_work_text_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_paid_work_text_integrity.md",
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2339
+    },
+    {
+      "file_name": "2026-08-27_paid_work_transition_guards.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_paid_work_transition_guards.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2617
     },
     {
       "file_name": "2026-08-27_payment_allocation_integrity.md",
@@ -87626,6 +87890,30 @@
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2731
+    },
+    {
+      "file_name": "2026-08-27_payment_confirmation_wallet_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_payment_confirmation_wallet_gate.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2522
+    },
+    {
+      "file_name": "2026-08-27_payment_route_analytics_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_payment_route_analytics_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2594
+    },
+    {
+      "file_name": "2026-08-27_payment_route_checkout_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_payment_route_checkout_economics.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2815
     },
     {
       "file_name": "2026-08-27_peer-attestation-gate-independent-judgment.md",
@@ -87692,6 +87980,14 @@
       "size_bytes": 7398
     },
     {
+      "file_name": "2026-08-27_plan_catalog_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_plan_catalog_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 3281
+    },
+    {
       "file_name": "2026-08-27_platform-commerce-boundary-and-gate-repair.md",
       "home": "sanji",
       "rel_path": "2026-08-27_platform-commerce-boundary-and-gate-repair.md",
@@ -87706,6 +88002,30 @@
       "date": "2026-08-27",
       "tier": "B",
       "size_bytes": 4126
+    },
+    {
+      "file_name": "2026-08-27_project_fuel_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_project_fuel_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2544
+    },
+    {
+      "file_name": "2026-08-27_project_query_fuel_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_project_query_fuel_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2781
+    },
+    {
+      "file_name": "2026-08-27_project_workspace_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_project_workspace_economics.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2764
     },
     {
       "file_name": "2026-08-27_proof_run_expected_count_contract.md",
@@ -87780,12 +88100,36 @@
       "size_bytes": 4871
     },
     {
+      "file_name": "2026-08-27_provider_read_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_provider_read_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2704
+    },
+    {
+      "file_name": "2026-08-27_provider_revenue_persistence.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_provider_revenue_persistence.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2960
+    },
+    {
       "file_name": "2026-08-27_provider_spend_cap_integrity_guard.md",
       "home": "sanji",
       "rel_path": "2026-08-27_provider_spend_cap_integrity_guard.md",
       "date": "2026-08-27",
       "tier": "B",
       "size_bytes": 5063
+    },
+    {
+      "file_name": "2026-08-27_provider_usage_stats_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_provider_usage_stats_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2601
     },
     {
       "file_name": "2026-08-27_public_stats_integrity.md",
@@ -87868,6 +88212,22 @@
       "size_bytes": 7855
     },
     {
+      "file_name": "2026-08-27_runpod_pod_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_runpod_pod_identity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2139
+    },
+    {
+      "file_name": "2026-08-27_runpod_provider_output.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_runpod_provider_output.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2256
+    },
+    {
       "file_name": "2026-08-27_runpod_workload_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_runpod_workload_integrity.md",
@@ -87948,6 +88308,14 @@
       "size_bytes": 4893
     },
     {
+      "file_name": "2026-08-27_square_plan_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_square_plan_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2667
+    },
+    {
       "file_name": "2026-08-27_stage0_cost_accounting_ingress_guard.md",
       "home": "sanji",
       "rel_path": "2026-08-27_stage0_cost_accounting_ingress_guard.md",
@@ -88020,6 +88388,14 @@
       "size_bytes": 7059
     },
     {
+      "file_name": "2026-08-27_sunny_lifecycle_ownership_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_sunny_lifecycle_ownership_boundary.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 6034
+    },
+    {
       "file_name": "2026-08-27_sunny_proof_write_failure_hardening.md",
       "home": "sanji",
       "rel_path": "2026-08-27_sunny_proof_write_failure_hardening.md",
@@ -88042,6 +88418,14 @@
       "date": "2026-08-27",
       "tier": "B",
       "size_bytes": 3078
+    },
+    {
+      "file_name": "2026-08-27_together_balance_evidence.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_together_balance_evidence.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2434
     },
     {
       "file_name": "2026-08-27_usage_accounting_integrity.md",
@@ -88068,6 +88452,14 @@
       "size_bytes": 4310
     },
     {
+      "file_name": "2026-08-27_verification_debt_bar_probe_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_verification_debt_bar_probe_binding.md",
+      "date": "2026-08-27",
+      "tier": "B",
+      "size_bytes": 6190
+    },
+    {
       "file_name": "2026-08-27_webmcp_challenge_readiness.md",
       "home": "sanji",
       "rel_path": "2026-08-27_webmcp_challenge_readiness.md",
@@ -88082,6 +88474,14 @@
       "date": "2026-08-27",
       "tier": "B",
       "size_bytes": 3552
+    },
+    {
+      "file_name": "2026-08-27_work_intake_fuel_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_work_intake_fuel_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2405
     },
     {
       "file_name": "2026-08-27_work_sprint_intake_integrity.md",
@@ -88108,6 +88508,30 @@
       "size_bytes": 2805
     },
     {
+      "file_name": "2026-08-27_x402_buyer_receipt_network_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_buyer_receipt_network_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2217
+    },
+    {
+      "file_name": "2026-08-27_x402_buyer_receipt_reference_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_buyer_receipt_reference_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2529
+    },
+    {
+      "file_name": "2026-08-27_x402_buyer_settlement_hash_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_buyer_settlement_hash_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2617
+    },
+    {
       "file_name": "2026-08-27_x402_claim_input_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_x402_claim_input_integrity.md",
@@ -88132,6 +88556,14 @@
       "size_bytes": 2470
     },
     {
+      "file_name": "2026-08-27_x402_facilitator_payer_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_facilitator_payer_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2307
+    },
+    {
       "file_name": "2026-08-27_x402_facilitator_probe_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_x402_facilitator_probe_integrity.md",
@@ -88140,12 +88572,84 @@
       "size_bytes": 2464
     },
     {
+      "file_name": "2026-08-27_x402_facilitator_settlement_proof_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_facilitator_settlement_proof_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2480
+    },
+    {
       "file_name": "2026-08-27_x402_invoice_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-27_x402_invoice_integrity.md",
       "date": "2026-08-27",
       "tier": "B",
       "size_bytes": 4093
+    },
+    {
+      "file_name": "2026-08-27_x402_live_receipt_tx_hash.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_live_receipt_tx_hash.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2298
+    },
+    {
+      "file_name": "2026-08-27_x402_paid_work_linkage.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_paid_work_linkage.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2619
+    },
+    {
+      "file_name": "2026-08-27_x402_payment_authorization_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_payment_authorization_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2391
+    },
+    {
+      "file_name": "2026-08-27_x402_payment_envelope_shape.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_payment_envelope_shape.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2246
+    },
+    {
+      "file_name": "2026-08-27_x402_payment_payer_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_payment_payer_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2383
+    },
+    {
+      "file_name": "2026-08-27_x402_payment_required_terms.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_payment_required_terms.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2755
+    },
+    {
+      "file_name": "2026-08-27_x402_payment_scheme_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_payment_scheme_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2181
+    },
+    {
+      "file_name": "2026-08-27_x402_payment_term_type_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_payment_term_type_integrity.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2284
     },
     {
       "file_name": "2026-08-27_x402_payment_terms_integrity.md",
@@ -88162,6 +88666,14 @@
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2491
+    },
+    {
+      "file_name": "2026-08-27_x402_provider_accounting_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-08-27_x402_provider_accounting_gate.md",
+      "date": "2026-08-27",
+      "tier": null,
+      "size_bytes": 2664
     },
     {
       "file_name": "2026-08-27_x402_settlement_proof_integrity.md",
@@ -88194,6 +88706,54 @@
       "date": "2026-08-27",
       "tier": null,
       "size_bytes": 2792
+    },
+    {
+      "file_name": "2026-08-28_agent_reward_economics_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_agent_reward_economics_integrity.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 3065
+    },
+    {
+      "file_name": "2026-08-28_compass_seed_power_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_compass_seed_power_integrity.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 2959
+    },
+    {
+      "file_name": "2026-08-28_feed_engagement_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_feed_engagement_integrity.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 2857
+    },
+    {
+      "file_name": "2026-08-28_index_dashboard_resource_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_index_dashboard_resource_integrity.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 3126
+    },
+    {
+      "file_name": "2026-08-28_model_scanner_economics_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_model_scanner_economics_integrity.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 2956
+    },
+    {
+      "file_name": "2026-08-28_public_api_counter_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_api_counter_integrity.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 2579
     },
     {
       "file_name": "INDEX.md",
