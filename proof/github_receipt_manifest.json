@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 13298,
+  "total_receipts": 13309,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -34690,6 +34690,14 @@
       "date": "2026-08-28",
       "tier": "B",
       "size_bytes": 16314
+    },
+    {
+      "file_name": "2026-08-29_agent_economy_premise_falsified.md",
+      "home": "zoro",
+      "rel_path": "2026-08-29_agent_economy_premise_falsified.md",
+      "date": "2026-08-29",
+      "tier": "A",
+      "size_bytes": 16061
     },
     {
       "file_name": "INDEX.md",
@@ -90268,6 +90276,46 @@
       "size_bytes": 3915
     },
     {
+      "file_name": "2026-08-29_glee_intelligence_fund_real_money_receiver.md",
+      "home": "sanji",
+      "rel_path": "2026-08-29_glee_intelligence_fund_real_money_receiver.md",
+      "date": "2026-08-29",
+      "tier": "A",
+      "size_bytes": 10212
+    },
+    {
+      "file_name": "2026-08-29_research_progress_engine_admission_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-08-29_research_progress_engine_admission_hardening.md",
+      "date": "2026-08-29",
+      "tier": "A",
+      "size_bytes": 3634
+    },
+    {
+      "file_name": "2026-08-29_research_progress_engine_contract_admission.md",
+      "home": "sanji",
+      "rel_path": "2026-08-29_research_progress_engine_contract_admission.md",
+      "date": "2026-08-29",
+      "tier": "A",
+      "size_bytes": 5803
+    },
+    {
+      "file_name": "2026-08-29_research_progress_engine_outcome_population_lanes.md",
+      "home": "sanji",
+      "rel_path": "2026-08-29_research_progress_engine_outcome_population_lanes.md",
+      "date": "2026-08-29",
+      "tier": "A",
+      "size_bytes": 8112
+    },
+    {
+      "file_name": "2026-08-29_research_progress_engine_queue_metrics.md",
+      "home": "sanji",
+      "rel_path": "2026-08-29_research_progress_engine_queue_metrics.md",
+      "date": "2026-08-29",
+      "tier": "A",
+      "size_bytes": 7821
+    },
+    {
       "file_name": "INDEX.md",
       "home": "sanji",
       "rel_path": "INDEX.md",
@@ -97554,6 +97602,30 @@
       "date": "2026-08-28",
       "tier": "A",
       "size_bytes": 4006
+    },
+    {
+      "file_name": "2026-08-29_baek_or_algorithms_intelligence_compilation.md",
+      "home": "sabo",
+      "rel_path": "2026-08-29_baek_or_algorithms_intelligence_compilation.md",
+      "date": "2026-08-29",
+      "tier": "A",
+      "size_bytes": 3830
+    },
+    {
+      "file_name": "2026-08-29_c1_measurement_instrument.md",
+      "home": "sabo",
+      "rel_path": "2026-08-29_c1_measurement_instrument.md",
+      "date": "2026-08-29",
+      "tier": "B",
+      "size_bytes": 3864
+    },
+    {
+      "file_name": "2026-08-29_cefi_baek_fold_class_inventory.md",
+      "home": "sabo",
+      "rel_path": "2026-08-29_cefi_baek_fold_class_inventory.md",
+      "date": "2026-08-29",
+      "tier": "B",
+      "size_bytes": 3917
     },
     {
       "file_name": "20260701-canvas-space-c1.md",
@@ -105730,6 +105802,22 @@
       "date": "2026-08-28",
       "tier": "B",
       "size_bytes": 5045
+    },
+    {
+      "file_name": "2026-08-29_GEO_MILESTONE_1_ECONOMIC_CLAIM.md",
+      "home": "robin",
+      "rel_path": "2026-08-29_GEO_MILESTONE_1_ECONOMIC_CLAIM.md",
+      "date": "2026-08-29",
+      "tier": "B",
+      "size_bytes": 6853
+    },
+    {
+      "file_name": "2026-08-29_GEO_MILESTONE_2_CROSS_WORLD_RECEIPT.md",
+      "home": "robin",
+      "rel_path": "2026-08-29_GEO_MILESTONE_2_CROSS_WORLD_RECEIPT.md",
+      "date": "2026-08-29",
+      "tier": "B",
+      "size_bytes": 6111
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
