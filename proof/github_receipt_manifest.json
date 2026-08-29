@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 13239,
+  "total_receipts": 13298,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -34564,6 +34564,14 @@
       "size_bytes": 5977
     },
     {
+      "file_name": "2026-08-28_os_drive_full_the_journal_had_a_budget_and_syslog_had_a_copy.md",
+      "home": "zoro",
+      "rel_path": "2026-08-28_os_drive_full_the_journal_had_a_budget_and_syslog_had_a_copy.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5085
+    },
+    {
       "file_name": "2026-08-28_plx001_addendum_two_dead_assurance_tiers_and_a_packet_that_only_ran_from_my_seat.md",
       "home": "zoro",
       "rel_path": "2026-08-28_plx001_addendum_two_dead_assurance_tiers_and_a_packet_that_only_ran_from_my_seat.md",
@@ -34628,6 +34636,14 @@
       "size_bytes": 7077
     },
     {
+      "file_name": "2026-08-28_the_diagnostic_that_created_554_files_it_was_only_reading.md",
+      "home": "zoro",
+      "rel_path": "2026-08-28_the_diagnostic_that_created_554_files_it_was_only_reading.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4875
+    },
+    {
       "file_name": "2026-08-28_the_estate_had_a_defect_rate_and_told_every_seat_it_had_none.md",
       "home": "zoro",
       "rel_path": "2026-08-28_the_estate_had_a_defect_rate_and_told_every_seat_it_had_none.md",
@@ -34642,6 +34658,14 @@
       "date": "2026-08-28",
       "tier": "B",
       "size_bytes": 7087
+    },
+    {
+      "file_name": "2026-08-28_the_injection_detector_was_wired_to_a_logger.md",
+      "home": "zoro",
+      "rel_path": "2026-08-28_the_injection_detector_was_wired_to_a_logger.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7570
     },
     {
       "file_name": "2026-08-28_the_release_half_was_a_display_not_a_control_loop.md",
@@ -88972,6 +88996,14 @@
       "size_bytes": 3446
     },
     {
+      "file_name": "2026-08-28_bastien-khormali-finite-to-general.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_bastien-khormali-finite-to-general.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4150
+    },
+    {
       "file_name": "2026-08-28_bazel_nntrainer_public_pr_wave.md",
       "home": "sanji",
       "rel_path": "2026-08-28_bazel_nntrainer_public_pr_wave.md",
@@ -89276,6 +89308,22 @@
       "size_bytes": 2857
     },
     {
+      "file_name": "2026-08-28_fgs_benchmark_fixture.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_fgs_benchmark_fixture.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5292
+    },
+    {
+      "file_name": "2026-08-28_fgs_subject_input_digest_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_fgs_subject_input_digest_hardening.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4907
+    },
+    {
       "file_name": "2026-08-28_first_dollar_prospect_catalog.md",
       "home": "sanji",
       "rel_path": "2026-08-28_first_dollar_prospect_catalog.md",
@@ -89548,6 +89596,350 @@
       "size_bytes": 6037
     },
     {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_aa.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_aa.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7593
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ab.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ab.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7510
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ac.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ac.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7460
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ad.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ad.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7557
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ae.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ae.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7553
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_af.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_af.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7840
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ag.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ag.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4637
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ah.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ah.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4606
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ai.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ai.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4711
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_aj.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_aj.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4718
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ak.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ak.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4882
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_al.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_al.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4716
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_am.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_am.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4837
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_an.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_an.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4735
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ao.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ao.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4758
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ap.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ap.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4776
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_aq.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_aq.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4813
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_ar.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_ar.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4843
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_as.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_as.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4999
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_at.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_at.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4874
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_d.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_d.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5623
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_e.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_e.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5511
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_f.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_f.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 6611
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_g.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_g.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5733
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_h.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_h.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7133
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_i.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_i.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4013
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_j.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_j.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 3681
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_k.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_k.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 3800
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_l.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_l.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 3701
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_m.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_m.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5059
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_n.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_n.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5129
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_o.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_o.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5112
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_p.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_p.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7158
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_q.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_q.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7455
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_r.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_r.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7506
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_s.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_s.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7567
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_t.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_t.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7537
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_u.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_u.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7697
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_v.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_v.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7536
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_w.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_w.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7640
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_x.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_x.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7644
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_y.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_y.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7465
+    },
+    {
+      "file_name": "2026-08-28_public_ai_ml_pr_census_z.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_public_ai_ml_pr_census_z.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7319
+    },
+    {
       "file_name": "2026-08-28_public_api_counter_integrity.md",
       "home": "sanji",
       "rel_path": "2026-08-28_public_api_counter_integrity.md",
@@ -89612,6 +90004,14 @@
       "size_bytes": 2744
     },
     {
+      "file_name": "2026-08-28_ship_lint_gate_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_ship_lint_gate_repair.md",
+      "date": "2026-08-28",
+      "tier": "C",
+      "size_bytes": 5146
+    },
+    {
       "file_name": "2026-08-28_signal-forge-revenue-handoff.md",
       "home": "sanji",
       "rel_path": "2026-08-28_signal-forge-revenue-handoff.md",
@@ -89626,6 +90026,14 @@
       "date": "2026-08-28",
       "tier": "A",
       "size_bytes": 7437
+    },
+    {
+      "file_name": "2026-08-28_spark_pipecat_tao_iceberg_public_pr_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_spark_pipecat_tao_iceberg_public_pr_wave.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 10469
     },
     {
       "file_name": "2026-08-28_stage0_projection_integrity.md",
@@ -89730,6 +90138,22 @@
       "date": "2026-08-28",
       "tier": "A",
       "size_bytes": 10058
+    },
+    {
+      "file_name": "2026-08-28_transformers_public_pr_screen.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_transformers_public_pr_screen.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 6666
+    },
+    {
+      "file_name": "2026-08-28_transformers_public_pr_screen_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-08-28_transformers_public_pr_screen_correction.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 5969
     },
     {
       "file_name": "2026-08-28_visual_vault_dry_run.md",
@@ -97082,6 +97506,30 @@
       "date": "2026-08-28",
       "tier": "A",
       "size_bytes": 5685
+    },
+    {
+      "file_name": "2026-08-28_evolution_memory_stage0.md",
+      "home": "sabo",
+      "rel_path": "2026-08-28_evolution_memory_stage0.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 4241
+    },
+    {
+      "file_name": "2026-08-28_evolution_memory_stage0_framing.md",
+      "home": "sabo",
+      "rel_path": "2026-08-28_evolution_memory_stage0_framing.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 2629
+    },
+    {
+      "file_name": "2026-08-28_evolution_memory_stage1.md",
+      "home": "sabo",
+      "rel_path": "2026-08-28_evolution_memory_stage1.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 3676
     },
     {
       "file_name": "2026-08-28_glee_product_language_start.md",
@@ -105108,6 +105556,22 @@
       "size_bytes": 4354
     },
     {
+      "file_name": "2026-08-28_ESF_V0_CONTRACTS_AND_SCORING_RECONCILIATION_RECEIPT.md",
+      "home": "robin",
+      "rel_path": "2026-08-28_ESF_V0_CONTRACTS_AND_SCORING_RECONCILIATION_RECEIPT.md",
+      "date": "2026-08-28",
+      "tier": null,
+      "size_bytes": 4069
+    },
+    {
+      "file_name": "2026-08-28_GLEE_CREW_RUNTIME_KERNEL_V1_RECEIPT.md",
+      "home": "robin",
+      "rel_path": "2026-08-28_GLEE_CREW_RUNTIME_KERNEL_V1_RECEIPT.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 7106
+    },
+    {
       "file_name": "2026-08-28_GLEE_MULTIMODAL_CONTEXT_COMPILER_VCE001S_RECEIPT.md",
       "home": "robin",
       "rel_path": "2026-08-28_GLEE_MULTIMODAL_CONTEXT_COMPILER_VCE001S_RECEIPT.md",
@@ -105138,6 +105602,14 @@
       "date": "2026-08-28",
       "tier": null,
       "size_bytes": 1668
+    },
+    {
+      "file_name": "2026-08-28_VERIFY_CODE_PATCH_SELL_FIRST_X402_V2_SLICE.md",
+      "home": "robin",
+      "rel_path": "2026-08-28_VERIFY_CODE_PATCH_SELL_FIRST_X402_V2_SLICE.md",
+      "date": "2026-08-28",
+      "tier": "B",
+      "size_bytes": 6286
     },
     {
       "file_name": "2026-08-28_all_quadrant_progress_wave_and_open_standards_strategy.md",
