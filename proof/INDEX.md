@@ -1,23 +1,47 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-08-29T18:41:06.517183+00:00
-> Total receipts indexed: 13309
+> Last updated: 2026-08-30T00:41:07.342780+00:00
+> Total receipts indexed: 13333
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-08-29_dead_guard_and_the_review_that_found_what_i_missed.md | glee | 2026-08-29 | A | 11314 |
+| 2026-08-29_dead_guard_removed_work_conservation_is_upstream.md | glee | 2026-08-29 | B | 8640 |
+| 2026-08-29_equality_guards_zero_yield.md | glee | 2026-08-29 | A | 6797 |
+| 2026-08-29_reachable_refusal_precision.md | glee | 2026-08-29 | A | 7898 |
+| 2026-08-29_refused_approval_could_publish.md | glee | 2026-08-29 | A | 14363 |
+| 2026-08-29_stale_stub_kept_seven_contract_tests_red.md | glee | 2026-08-29 | A | 6358 |
+| 2026-08-29_the_last_red_encoded_silence_instead_of_the_property.md | glee | 2026-08-29 | A | 5825 |
 | 2026-08-29_agent_economy_premise_falsified.md | zoro | 2026-08-29 | A | 16061 |
+| 2026-08-29_ai_influence_instrument_validity.md | zoro | 2026-08-29 | — | 15101 |
+| 2026-08-29_arena_null_model_degeneracy.md | zoro | 2026-08-29 | — | 6537 |
+| 2026-08-29_production-monitoring-alert-noise.md | zoro | 2026-08-29 | A | 2304 |
+| 2026-08-29_agent_capability_demand_experiment.md | sanji | 2026-08-29 | A | 5128 |
+| 2026-08-29_compute_to_verified_capability_experiment.md | sanji | 2026-08-29 | B | 3763 |
+| 2026-08-29_economic_candidate_admission.md | sanji | 2026-08-29 | A | 9429 |
+| 2026-08-29_economic_intervention_admission_probe.md | sanji | 2026-08-29 | A | 7851 |
+| 2026-08-29_economic_intervention_loop.md | sanji | 2026-08-29 | A | 9714 |
 | 2026-08-29_glee_intelligence_fund_real_money_receiver.md | sanji | 2026-08-29 | A | 10212 |
 | 2026-08-29_research_progress_engine_admission_hardening.md | sanji | 2026-08-29 | A | 3634 |
 | 2026-08-29_research_progress_engine_contract_admission.md | sanji | 2026-08-29 | A | 5803 |
 | 2026-08-29_research_progress_engine_outcome_population_lanes.md | sanji | 2026-08-29 | A | 8112 |
 | 2026-08-29_research_progress_engine_queue_metrics.md | sanji | 2026-08-29 | A | 7821 |
+| 2026-08-29_rpe_live_qwen25_transfer_cycle.md | sanji | 2026-08-29 | A | 9420 |
+| 2026-08-29_scope_isolation_preclaim_repair.md | sanji | 2026-08-29 | B | 5734 |
 | 2026-08-29_baek_or_algorithms_intelligence_compilation.md | sabo | 2026-08-29 | A | 3830 |
 | 2026-08-29_c1_measurement_instrument.md | sabo | 2026-08-29 | B | 3864 |
+| 2026-08-29_cairn_work_exchange_experiment.md | sabo | 2026-08-29 | B | 16624 |
 | 2026-08-29_cefi_baek_fold_class_inventory.md | sabo | 2026-08-29 | B | 3917 |
 | 2026-08-29_GEO_MILESTONE_1_ECONOMIC_CLAIM.md | robin | 2026-08-29 | B | 6853 |
 | 2026-08-29_GEO_MILESTONE_2_CROSS_WORLD_RECEIPT.md | robin | 2026-08-29 | B | 6111 |
+| 2026-08-29_gtg_phase0_shakedown_validation.md | robin | 2026-08-29 | B | 5462 |
+| 2026-08-29_gtg_phase1_hypothesis_evaluation.md | robin | 2026-08-29 | B | 4806 |
+| 2026-08-29_gtg_phase1_statistical_evaluator.md | robin | 2026-08-29 | B | 4837 |
+| 2026-08-29_plastic_learning_thesis_empirical_falsification_receipt.md | robin | 2026-08-29 | A | 4722 |
+| 2026-08-29_v5_refused_finalization_recovery_control_operation.md | robin | 2026-08-29 | B | 4242 |
+| 2026-08-29_v5_requested_model_finalization_repair.md | robin | 2026-08-29 | B | 4200 |
 | 2026-08-28_sunny6_continuation_intelligence_network.md | glee | 2026-08-28 | — | 1546 |
 | 2026-08-28_sunny6_continuation_intelligence_network_regression.md | glee | 2026-08-28 | — | 2236 |
 | 2026-08-28_sunny6_full_regression_execution.md | glee | 2026-08-28 | — | 1330 |
@@ -183,31 +207,7 @@
 | 2026-08-28_ship_lint_gate_repair.md | sanji | 2026-08-28 | C | 5146 |
 | 2026-08-28_signal-forge-revenue-handoff.md | sanji | 2026-08-28 | A | 7359 |
 | 2026-08-28_signal-forge-work-surface.md | sanji | 2026-08-28 | A | 7437 |
-| 2026-08-28_spark_pipecat_tao_iceberg_public_pr_wave.md | sanji | 2026-08-28 | B | 10469 |
-| 2026-08-28_stage0_projection_integrity.md | sanji | 2026-08-28 | — | 3511 |
-| 2026-08-28_standard_reader_pr116_packet_truth_repair.md | sanji | 2026-08-28 | — | 6901 |
-| 2026-08-28_storage_projection_integrity.md | sanji | 2026-08-28 | — | 3865 |
-| 2026-08-28_terminal_context_cold_resume.md | sanji | 2026-08-28 | A | 8718 |
-| 2026-08-28_terminal_context_compatible_resume_final.md | sanji | 2026-08-28 | A | 6061 |
-| 2026-08-28_terminal_context_cycle_final.md | sanji | 2026-08-28 | A | 6737 |
-| 2026-08-28_terminal_context_hostile_replay.md | sanji | 2026-08-28 | — | 3226 |
-| 2026-08-28_terminal_context_lifecycle_audit_open.md | sanji | 2026-08-28 | — | 32359 |
-| 2026-08-28_terminal_context_lifecycle_final.md | sanji | 2026-08-28 | A | 7772 |
-| 2026-08-28_terminal_context_lifecycle_repair.md | sanji | 2026-08-28 | A | 5954 |
-| 2026-08-28_terminal_context_lifecycle_transaction.md | sanji | 2026-08-28 | A | 6245 |
-| 2026-08-28_terminal_context_objective_audit_final.md | sanji | 2026-08-28 | A | 6976 |
-| 2026-08-28_terminal_context_objective_closure.md | sanji | 2026-08-28 | A | 10058 |
-| 2026-08-28_transformers_public_pr_screen.md | sanji | 2026-08-28 | B | 6666 |
-| 2026-08-28_transformers_public_pr_screen_correction.md | sanji | 2026-08-28 | B | 5969 |
-| 2026-08-28_visual_vault_dry_run.md | sanji | 2026-08-28 | B | 4806 |
-| 2026-08-28_weekly_roundup_integrity.md | sanji | 2026-08-28 | — | 2823 |
-| 2026-08-28_work_sprint_projection_integrity.md | sanji | 2026-08-28 | — | 2594 |
-| 2026-08-28_work_views_fuel_integrity.md | sanji | 2026-08-28 | — | 2766 |
-| 2026-08-28_workspace_projection_integrity.md | sanji | 2026-08-28 | — | 3213 |
-| 2026-08-28_x402_usdc_numeric_admission_cluster.md | sanji | 2026-08-28 | — | 6556 |
-| 2026-08-28_zoro_autonomy_continuation_dispatch_blocked.md | sanji | 2026-08-28 | — | 3501 |
-| 2026-08-28_zoro_autonomy_continuation_dispatch_blocked_fresh.md | sanji | 2026-08-28 | — | 2692 |
-| _(+13109 more — see full manifest JSON)_ | | | | |
+| _(+13133 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
