@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 13762,
+  "total_receipts": 13848,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -35449,7 +35449,7 @@
       "rel_path": "2026-08-31_residual_reasoning_harness_three_defects_that_fake_a_clean_result.md",
       "date": "2026-08-31",
       "tier": null,
-      "size_bytes": 10577
+      "size_bytes": 13616
     },
     {
       "file_name": "2026-08-31_scoped_admission_reachability_repair.md",
@@ -35580,6 +35580,30 @@
       "size_bytes": 8645
     },
     {
+      "file_name": "2026-09-01_agent_network_v0_room_before_turnstile.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_agent_network_v0_room_before_turnstile.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 20175
+    },
+    {
+      "file_name": "2026-09-01_agent_run_business_premise_audit.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_agent_run_business_premise_audit.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7325
+    },
+    {
+      "file_name": "2026-09-01_commercial_inference_economics_repair.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_commercial_inference_economics_repair.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 20232
+    },
+    {
       "file_name": "2026-09-01_mechanical_receipt_claim_verification_tier.md",
       "home": "zoro",
       "rel_path": "2026-09-01_mechanical_receipt_claim_verification_tier.md",
@@ -35596,6 +35620,14 @@
       "size_bytes": 4965
     },
     {
+      "file_name": "2026-09-01_product_readiness_gate_and_workflow_slice.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_product_readiness_gate_and_workflow_slice.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 8249
+    },
+    {
       "file_name": "2026-09-01_provider_commercial_safety_matrix_router_eligibility.md",
       "home": "zoro",
       "rel_path": "2026-09-01_provider_commercial_safety_matrix_router_eligibility.md",
@@ -35604,12 +35636,28 @@
       "size_bytes": 9180
     },
     {
+      "file_name": "2026-09-01_residual_reasoning_v0_final_verdict.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_residual_reasoning_v0_final_verdict.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 5881
+    },
+    {
       "file_name": "2026-09-01_rulings_applied_wave2b_and_the_retirement_that_wasnt.md",
       "home": "zoro",
       "rel_path": "2026-09-01_rulings_applied_wave2b_and_the_retirement_that_wasnt.md",
       "date": "2026-09-01",
       "tier": "C",
       "size_bytes": 8786
+    },
+    {
+      "file_name": "2026-09-01_temporal_stale_pointer_verifier_tier2.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_temporal_stale_pointer_verifier_tier2.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 13910
     },
     {
       "file_name": "2026-09-01_w5_superstition_probe_and_v12_wave.md",
@@ -93100,12 +93148,188 @@
       "size_bytes": 2111
     },
     {
+      "file_name": "2026-09-01_claim_assurance_calibration.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_calibration.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4331
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_compatibility_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_compatibility_adapter.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4711
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_downstream_action_shadow.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_downstream_action_shadow.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6099
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_heldout_calibration.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_heldout_calibration.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8012
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_integration.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_integration.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3952
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_multi_family_shadow.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_multi_family_shadow.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6325
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_policy_version.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_policy_version.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4605
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_procedural_shadow.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_procedural_shadow.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3301
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_real_task_shadow.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_real_task_shadow.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5087
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_real_task_shadow_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_real_task_shadow_correction.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4696
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_rsi_immutable_shadow.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_rsi_immutable_shadow.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6729
+    },
+    {
+      "file_name": "2026-09-01_claim_assurance_source_attestation_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_claim_assurance_source_attestation_hardening.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5074
+    },
+    {
+      "file_name": "2026-09-01_glee_claim_assurance_evaluator_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_claim_assurance_evaluator_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8044
+    },
+    {
+      "file_name": "2026-09-01_glee_control_trace_bundle_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_control_trace_bundle_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3923
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_adaptive_capacity_history_rollover_v52.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_adaptive_capacity_history_rollover_v52.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7671
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_adaptive_capacity_v34.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_adaptive_capacity_v34.md",
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 7162
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_adaptive_checkpoint_null_resistance_v53.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_adaptive_checkpoint_null_resistance_v53.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5571
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_adaptive_failure_scale_down_v53.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_adaptive_failure_scale_down_v53.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5987
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_adaptive_recovery_v56.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_adaptive_recovery_v56.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5679
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_aggregate_cli_scaleout_v44.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_aggregate_cli_scaleout_v44.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8723
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_async_outcome_consumer_compatibility_v40.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_async_outcome_consumer_compatibility_v40.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4468
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_async_outcome_consumer_v39.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_async_outcome_consumer_v39.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8613
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_attested_benchmark_packet_v45.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_attested_benchmark_packet_v45.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7597
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_checkpoint_null_resistance_v36.md",
@@ -93116,12 +93340,340 @@
       "size_bytes": 7034
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_compiler_isolation_v61.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_compiler_isolation_v61.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5182
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_completed_queued_checkpoint_v61.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_completed_queued_checkpoint_v61.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8985
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_consensus_checkpoint_recovery_cursor_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_consensus_checkpoint_recovery_cursor_addendum.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3826
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_consensus_checkpoint_recovery_v52.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_consensus_checkpoint_recovery_v52.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6405
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_failure_signal_v54.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_failure_signal_v54.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7085
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_generic_adaptive_swarm_v55.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_generic_adaptive_swarm_v55.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6506
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_graph_routing_heldout_v50.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_graph_routing_heldout_v50.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4295
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_graph_swarm_adaptive_capacity_v51.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_graph_swarm_adaptive_capacity_v51.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6821
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_graph_swarm_benchmark_v49.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_graph_swarm_benchmark_v49.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6023
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_graph_swarm_benchmark_v49_verification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_graph_swarm_benchmark_v49_verification_addendum.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3586
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_heldout_multi_failure_composition_v54.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_heldout_multi_failure_composition_v54.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5734
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_heldout_scenario_v49.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_heldout_scenario_v49.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5794
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_heterogeneous_checkpoint_resume_v60.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_heterogeneous_checkpoint_resume_v60.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 9306
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_larger_recovery_v59.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_larger_recovery_v59.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5336
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_learned_routing_benchmark_v47.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_learned_routing_benchmark_v47.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7172
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_llm_swarm_v60.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_llm_swarm_v60.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5467
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_mixed_compiler_isolation_v64.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_mixed_compiler_isolation_v64.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6338
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_mixed_consensus_v66.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_mixed_consensus_v66.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6408
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_mixed_graph_generic_benchmark_v59.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_mixed_graph_generic_benchmark_v59.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8565
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_mixed_hybrid_organs_v65.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_mixed_hybrid_organs_v65.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5966
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_mixed_llm_compiler_v63.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_mixed_llm_compiler_v63.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6628
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_mixed_max_recovery_v62.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_mixed_max_recovery_v62.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6400
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_multi_workflow_swarm_benchmark_v46.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_multi_workflow_swarm_benchmark_v46.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7586
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_nine_seat_shadow_benchmark_v42.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_nine_seat_shadow_benchmark_v42.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7711
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_repeated_shadow_benchmark_aggregate_v43.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_repeated_shadow_benchmark_aggregate_v43.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 9257
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_repeated_shadow_benchmark_aggregate_v43_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_repeated_shadow_benchmark_aggregate_v43_correction.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4439
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_report_observability_v57.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_report_observability_v57.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6785
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_shared_seat_failure_v50.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_shared_seat_failure_v50.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5163
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_shared_seat_probe_correction_v51.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_shared_seat_probe_correction_v51.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4384
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_swarm_checkpoint_learning_recovery_v51.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_swarm_checkpoint_learning_recovery_v51.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5975
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_swarm_checkpoint_v35.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_swarm_checkpoint_v35.md",
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 7355
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_task_graph_benchmark_v48.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_task_graph_benchmark_v48.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6604
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_task_graph_benchmark_v48_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_task_graph_benchmark_v48_correction.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6324
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_terminal_wall_adapter_v37.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_terminal_wall_adapter_v37.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 9059
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_transient_recovery_benchmark_v58.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_transient_recovery_benchmark_v58.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6408
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_variable_branch_composition_v55.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_variable_branch_composition_v55.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8086
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_wall_result_reconciliation_v38.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_wall_result_reconciliation_v38.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 9016
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_wall_state_application_v41.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_wall_state_application_v41.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8493
+    },
+    {
+      "file_name": "2026-09-01_glee_learning_perturbation_extension_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_learning_perturbation_extension_v1.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5272
+    },
+    {
+      "file_name": "2026-09-01_glee_paired_run_trace_adapter_hardening_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_paired_run_trace_adapter_hardening_v1.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5310
+    },
+    {
+      "file_name": "2026-09-01_glee_perturbation_controls_trace_hardening_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_perturbation_controls_trace_hardening_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6420
+    },
+    {
+      "file_name": "2026-09-01_glee_perturbation_domain_extension_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_perturbation_domain_extension_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8190
     },
     {
       "file_name": "2026-09-01_glee_small_model_live_cell_runner_hardening.md",
@@ -93132,6 +93684,46 @@
       "size_bytes": 7363
     },
     {
+      "file_name": "2026-09-01_glee_small_model_paired_trace_bridge_gap_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_small_model_paired_trace_bridge_gap_v0.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4286
+    },
+    {
+      "file_name": "2026-09-01_glee_small_model_preflight_replay_r2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_small_model_preflight_replay_r2.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 3331
+    },
+    {
+      "file_name": "2026-09-01_glee_trace_binding_contract_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_trace_binding_contract_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4974
+    },
+    {
+      "file_name": "2026-09-01_gleephoenix_observe_projection_and_harness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_gleephoenix_observe_projection_and_harness.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 9546
+    },
+    {
+      "file_name": "2026-09-01_gleephoenix_observe_receipt_episode_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_gleephoenix_observe_receipt_episode_correction.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4189
+    },
+    {
       "file_name": "2026-09-01_goal-execution-closure-assessment.md",
       "home": "sanji",
       "rel_path": "2026-09-01_goal-execution-closure-assessment.md",
@@ -93140,12 +93732,108 @@
       "size_bytes": 6387
     },
     {
+      "file_name": "2026-09-01_gpu_admission_gate_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_gpu_admission_gate_repair.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4294
+    },
+    {
+      "file_name": "2026-09-01_matched_runtime_perturbation_cli.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_matched_runtime_perturbation_cli.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6973
+    },
+    {
+      "file_name": "2026-09-01_matched_runtime_perturbation_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_matched_runtime_perturbation_contract.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6932
+    },
+    {
+      "file_name": "2026-09-01_null_resistance_edit2_current_replay.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_null_resistance_edit2_current_replay.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4845
+    },
+    {
+      "file_name": "2026-09-01_null_resistance_edit2_independent_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_null_resistance_edit2_independent_verification.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4532
+    },
+    {
+      "file_name": "2026-09-01_phoenix_adjudicated_label_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_phoenix_adjudicated_label_gate.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5947
+    },
+    {
+      "file_name": "2026-09-01_phoenix_independent_label_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_phoenix_independent_label_packet.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3584
+    },
+    {
+      "file_name": "2026-09-01_phoenix_nonleaking_benchmark_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_phoenix_nonleaking_benchmark_audit.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3892
+    },
+    {
+      "file_name": "2026-09-01_small_model_identity_and_compute_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_small_model_identity_and_compute_preflight.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 9047
+    },
+    {
+      "file_name": "2026-09-01_small_model_live_experiment_result.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_small_model_live_experiment_result.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 6980
+    },
+    {
       "file_name": "2026-09-01_small_model_program_benchmark_wave.md",
       "home": "sanji",
       "rel_path": "2026-09-01_small_model_program_benchmark_wave.md",
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 5299
+    },
+    {
+      "file_name": "2026-09-01_true_rsi_scratch_claim_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_true_rsi_scratch_claim_reconciliation.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5003
+    },
+    {
+      "file_name": "2026-09-01_true_rsi_stale_scratch_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_true_rsi_stale_scratch_recovery.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 6588
     },
     {
       "file_name": "INDEX.md",
