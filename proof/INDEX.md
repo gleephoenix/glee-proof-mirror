@@ -1,16 +1,40 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-02T00:41:07.331994+00:00
-> Total receipts indexed: 14056
+> Last updated: 2026-09-02T06:41:07.779036+00:00
+> Total receipts indexed: 14136
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-02_crew_mail_organ_finished_capability_truth_repaired.md | zoro | 2026-09-02 | B | 12415 |
+| 2026-09-02_epistemic_machinery_crank1.md | zoro | 2026-09-02 | B | 11789 |
+| 2026-09-02_epistemic_machinery_intake.md | zoro | 2026-09-02 | B | 4286 |
+| 2026-09-02_research_kernel_v5_seed_and_context_opt_stub_falsified.md | zoro | 2026-09-02 | B | 5180 |
+| 2026-09-02_research_prompt_bench_freeze_and_dryrun.md | zoro | 2026-09-02 | B | 7563 |
+| 2026-09-02_sunny_voice_v0_language_boundary_slice_negative_result.md | zoro | 2026-09-02 | B | 4584 |
+| 2026-09-02_ariadne_component_profile.md | sanji | 2026-09-02 | A | 4245 |
+| 2026-09-02_ariadne_integrity_projection.md | sanji | 2026-09-02 | A | 4315 |
+| 2026-09-02_glee_bench_phase1r16_runpod_candidate_preflight.md | sanji | 2026-09-02 | B | 7174 |
+| 2026-09-02_glee_commons_experiment_001_plan.md | sanji | 2026-09-02 | A | 4681 |
+| 2026-09-02_glee_hybrid_orchestrator_provider_wall_canary_packet_v116.md | sanji | 2026-09-02 | B | 7366 |
+| 2026-09-02_glee_hybrid_orchestrator_provider_wall_shadow_v115.md | sanji | 2026-09-02 | B | 8860 |
+| 2026-09-02_glee_research_prompt_bench_runpod_packet.md | sanji | 2026-09-02 | B | 6642 |
+| 2026-09-02_glee_research_prompt_bench_v1.md | sanji | 2026-09-02 | A | 5701 |
+| 2026-09-02_glee_research_prompt_bench_v1_rerun.md | sanji | 2026-09-02 | A | 5224 |
+| 2026-09-02_cortex_cognitive_organism_kernel_receipt.md | robin | 2026-09-02 | — | 5272 |
+| 2026-09-02_cortex_integration_trial_001_receipt.md | robin | 2026-09-02 | — | 6176 |
+| 2026-09-01_airlock_records_the_threshold_it_decided_on.md | glee | 2026-09-01 | B | 7713 |
 | 2026-09-01_captain_rulings_implemented.md | glee | 2026-09-01 | B | 8306 |
 | 2026-09-01_federation_failure_made_consequential.md | glee | 2026-09-01 | B | 12142 |
 | 2026-09-01_federation_liveness_and_trust_closure.md | glee | 2026-09-01 | B | 10938 |
+| 2026-09-01_gates_read_the_declared_policy.md | glee | 2026-09-01 | B | 17179 |
 | 2026-09-01_non_amplification_enforced_on_three_of_five_axes.md | glee | 2026-09-01 | B | 5373 |
+| 2026-09-01_opencode_hf_incident_packet_stop_taxonomy_amendment.md | glee | 2026-09-01 | — | 2380 |
+| 2026-09-01_opencode_hf_incident_ratification.md | glee | 2026-09-01 | — | 2703 |
+| 2026-09-01_opencode_nl_interoperability_control_layer_spec.md | glee | 2026-09-01 | — | 2818 |
+| 2026-09-01_opencode_shared_error_amplification_atlas.md | glee | 2026-09-01 | — | 2129 |
+| 2026-09-01_quarantine_was_self_lifting.md | glee | 2026-09-01 | B | 17547 |
 | 2026-09-01_rejected_work_stranded_the_worker.md | glee | 2026-09-01 | B | 6435 |
 | 2026-09-01_the_node_advertised_a_benchmark_that_does_not_exist.md | glee | 2026-09-01 | B | 8329 |
 | 2026-09-01_the_verifier_attested_findings_it_never_computed.md | glee | 2026-09-01 | B | 9720 |
@@ -18,34 +42,56 @@
 | 2026-09-01_activation_oauth_canonicalization_and_5xx_investigation.md | zoro | 2026-09-01 | C | 56655 |
 | 2026-09-01_agent_network_v0_room_before_turnstile.md | zoro | 2026-09-01 | — | 20175 |
 | 2026-09-01_agent_run_business_premise_audit.md | zoro | 2026-09-01 | A | 7325 |
+| 2026-09-01_anti_cringe_invariant_intake.md | zoro | 2026-09-01 | B | 1101 |
 | 2026-09-01_apex_asset_route_activation_repair.md | zoro | 2026-09-01 | B | 6226 |
 | 2026-09-01_apex_deploy_blocked_artifact_binding_vs_daemon_churn.md | zoro | 2026-09-01 | B | 6379 |
 | 2026-09-01_apex_deployed_activation_restored_closure.md | zoro | 2026-09-01 | C | 10368 |
 | 2026-09-01_apex_shell_assets_repaired_verified.md | zoro | 2026-09-01 | C | 5401 |
 | 2026-09-01_brady_first_real_user_activation_failure_incident.md | zoro | 2026-09-01 | B | 7401 |
+| 2026-09-01_captain_decision_packet_and_recipient_directed_output_law.md | zoro | 2026-09-01 | B | 18205 |
+| 2026-09-01_captain_decision_packet_hostile_review_fold.md | zoro | 2026-09-01 | B | 6361 |
+| 2026-09-01_chat_door_conversation_is_the_universal_human_interface.md | zoro | 2026-09-01 | C | 24902 |
 | 2026-09-01_classifier_stop_condition_and_macro_contract.md | zoro | 2026-09-01 | B | 6212 |
 | 2026-09-01_commercial_funnel_instrument_was_never_wired.md | zoro | 2026-09-01 | B | 9317 |
 | 2026-09-01_commercial_inference_economics_repair.md | zoro | 2026-09-01 | — | 20232 |
+| 2026-09-01_crew_mail_reconsented_cairn_canonical_bytes_retrieved.md | zoro | 2026-09-01 | B | 5275 |
 | 2026-09-01_dag_failure_regime_FINAL_REPORT.md | zoro | 2026-09-01 | — | 10968 |
+| 2026-09-01_detached_execution_resource_independence.md | zoro | 2026-09-01 | B | 19220 |
+| 2026-09-01_dream_engine_exp001_c2_baselines_sealed_independently_verified.md | zoro | 2026-09-01 | B | 5083 |
+| 2026-09-01_dream_engine_exp001_cairn_set_sealed_decoy_matched.md | zoro | 2026-09-01 | B | 4604 |
+| 2026-09-01_dream_engine_exp001_captain_thread_quarantine_second_seat.md | zoro | 2026-09-01 | A | 6389 |
+| 2026-09-01_dream_engine_exp001_execute_wave1_letter_sent_prereg_sealed.md | zoro | 2026-09-01 | B | 6141 |
+| 2026-09-01_dream_engine_exp001_quarantine_reclassification_captain_correction.md | zoro | 2026-09-01 | A | 4633 |
+| 2026-09-01_dream_engine_intake_packet_prereg_and_cairn_letter.md | zoro | 2026-09-01 | B | 8522 |
+| 2026-09-01_evening_briefing_verification_and_requested_model_envelope_fix.md | zoro | 2026-09-01 | A | 18808 |
 | 2026-09-01_first_sale_packet_and_the_only_real_arrival.md | zoro | 2026-09-01 | B | 7720 |
 | 2026-09-01_funnel_instrument_deployed_and_epoch_opened.md | zoro | 2026-09-01 | C | 7571 |
 | 2026-09-01_groq_lane_proven_and_the_deploy_governor.md | zoro | 2026-09-01 | — | 7304 |
 | 2026-09-01_mechanical_receipt_claim_verification_tier.md | zoro | 2026-09-01 | — | 14607 |
 | 2026-09-01_orchestrator_self_heartbeat_repair.md | zoro | 2026-09-01 | — | 9580 |
+| 2026-09-01_organismality_benchmark_intake.md | zoro | 2026-09-01 | B | 1175 |
 | 2026-09-01_peer_ablation_saturated_metric_and_an_84_percent_membership_shortcut.md | zoro | 2026-09-01 | — | 4965 |
 | 2026-09-01_positional_readout_gate_CLOSURE_REPORT.md | zoro | 2026-09-01 | — | 5854 |
+| 2026-09-01_problem_cell_architecture_intake.md | zoro | 2026-09-01 | B | 1469 |
 | 2026-09-01_product_readiness_gate_and_workflow_slice.md | zoro | 2026-09-01 | — | 8249 |
 | 2026-09-01_production_activation_and_deploy_reliability_closure.md | zoro | 2026-09-01 | — | 8726 |
+| 2026-09-01_promise_next_verb_and_verify_cwd_default.md | zoro | 2026-09-01 | B | 4352 |
+| 2026-09-01_promise_recheck_verb_first_caller_and_stale_blocker_cleanup.md | zoro | 2026-09-01 | B | 4867 |
 | 2026-09-01_provider_commercial_safety_matrix_router_eligibility.md | zoro | 2026-09-01 | — | 9180 |
 | 2026-09-01_referral_attribution_epoch_and_corrections.md | zoro | 2026-09-01 | C | 7387 |
 | 2026-09-01_residual_reasoning_v0_final_verdict.md | zoro | 2026-09-01 | — | 5881 |
 | 2026-09-01_routing_desirability_and_measured_economics.md | zoro | 2026-09-01 | — | 9309 |
 | 2026-09-01_rulings_applied_wave2b_and_the_retirement_that_wasnt.md | zoro | 2026-09-01 | C | 8786 |
+| 2026-09-01_seed_to_weights_prereg_and_apparatus.md | zoro | 2026-09-01 | A | 14624 |
 | 2026-09-01_sunny4_route_telemetry_verification.md | zoro | 2026-09-01 | B | 7876 |
 | 2026-09-01_temporal_stale_pointer_verifier_tier2.md | zoro | 2026-09-01 | — | 13910 |
+| 2026-09-01_thousand_sunny_speaks_catalogue_landed.md | zoro | 2026-09-01 | A | 4242 |
 | 2026-09-01_trajectory_bridge_CLOSURE.md | zoro | 2026-09-01 | — | 5040 |
 | 2026-09-01_trajectory_bridge_sealed_verdict_D_with_validity_annotation.md | zoro | 2026-09-01 | — | 5177 |
+| 2026-09-01_transcript_learning_audit_and_archive.md | zoro | 2026-09-01 | B | 13435 |
+| 2026-09-01_value_function_promise_falsifier_repair_and_spine_budget.md | zoro | 2026-09-01 | B | 8459 |
 | 2026-09-01_w5_superstition_probe_and_v12_wave.md | zoro | 2026-09-01 | B | 5957 |
+| 2026-09-01_wikiskill_second_pass_delta_extraction.md | zoro | 2026-09-01 | B | 5861 |
 | 2026-09-01_autonomy_verdict_identity_reconciliation_v1.md | sanji | 2026-09-01 | B | 5766 |
 | 2026-09-01_cairn_comparative_capability_local_revalidation_v1.md | sanji | 2026-09-01 | A | 5850 |
 | 2026-09-01_claim_assurance_calibration.md | sanji | 2026-09-01 | A | 4331 |
@@ -64,6 +110,9 @@
 | 2026-09-01_claim_assurance_source_attestation_hardening.md | sanji | 2026-09-01 | B | 5074 |
 | 2026-09-01_cognitive_promotion_gate_hardening.md | sanji | 2026-09-01 | A | 6035 |
 | 2026-09-01_first_dollar_public_pr_requalification_v1.md | sanji | 2026-09-01 | — | 4572 |
+| 2026-09-01_glee_agentic_checkpoint_output_alias_v1.md | sanji | 2026-09-01 | A | 8140 |
+| 2026-09-01_glee_agentic_checkpoint_output_alias_v1_postfreeze_reconciliation.md | sanji | 2026-09-01 | A | 3698 |
+| 2026-09-01_glee_agentic_checkpoint_output_alias_v1_postfreeze_reconciliation_v2.md | sanji | 2026-09-01 | A | 3441 |
 | 2026-09-01_glee_autonomy_promise_cold_wake_sigkill_v1.md | sanji | 2026-09-01 | B | 5673 |
 | 2026-09-01_glee_autonomy_red_set_repair_v1.md | sanji | 2026-09-01 | B | 6068 |
 | 2026-09-01_glee_bench_attractor_analysis_v1.md | sanji | 2026-09-01 | A | 5997 |
@@ -78,6 +127,14 @@
 | 2026-09-01_glee_bench_finite_to_general_replay_v1.md | sanji | 2026-09-01 | A | 6979 |
 | 2026-09-01_glee_bench_identity_masked_trial_contract_v1.md | sanji | 2026-09-01 | A | 7969 |
 | 2026-09-01_glee_bench_learning_transfer_replay_v1.md | sanji | 2026-09-01 | A | 5265 |
+| 2026-09-01_glee_bench_phase1r10_training_split_manifest.md | sanji | 2026-09-01 | A | 8220 |
+| 2026-09-01_glee_bench_phase1r11_training_control_packet.md | sanji | 2026-09-01 | A | 8685 |
+| 2026-09-01_glee_bench_phase1r12_tool_caller_trainer.md | sanji | 2026-09-01 | A | 5858 |
+| 2026-09-01_glee_bench_phase1r13_model_compute_choice_packet.md | sanji | 2026-09-01 | B | 5397 |
+| 2026-09-01_glee_bench_phase1r14_cached_model_dry_run.md | sanji | 2026-09-01 | B | 3942 |
+| 2026-09-01_glee_bench_phase1r15_repeat_manifest_replay.md | sanji | 2026-09-01 | B | 3457 |
+| 2026-09-01_glee_bench_phase1r8_tool_caller_data_contract.md | sanji | 2026-09-01 | A | 7115 |
+| 2026-09-01_glee_bench_phase1r9_synthetic_failure_fixtures.md | sanji | 2026-09-01 | A | 7307 |
 | 2026-09-01_glee_bench_phase1r_r0_generator.md | sanji | 2026-09-01 | A | 7350 |
 | 2026-09-01_glee_bench_phase1r_r1_families.md | sanji | 2026-09-01 | A | 6958 |
 | 2026-09-01_glee_bench_phase1r_r2_adapter.md | sanji | 2026-09-01 | A | 6018 |
@@ -110,6 +167,7 @@
 | 2026-09-01_glee_hybrid_orchestrator_checkpoint_candidate_repair_v1.md | sanji | 2026-09-01 | A | 6769 |
 | 2026-09-01_glee_hybrid_orchestrator_checkpoint_candidate_repair_v2_reconciled.md | sanji | 2026-09-01 | A | 6880 |
 | 2026-09-01_glee_hybrid_orchestrator_checkpoint_null_resistance_v36.md | sanji | 2026-09-01 | A | 7034 |
+| 2026-09-01_glee_hybrid_orchestrator_checkpoint_v112.md | sanji | 2026-09-01 | A | 5694 |
 | 2026-09-01_glee_hybrid_orchestrator_compiler_isolation_v61.md | sanji | 2026-09-01 | A | 5182 |
 | 2026-09-01_glee_hybrid_orchestrator_completed_partial_queued_checkpoint_v62.md | sanji | 2026-09-01 | A | 6764 |
 | 2026-09-01_glee_hybrid_orchestrator_completed_queued_checkpoint_v61.md | sanji | 2026-09-01 | A | 8985 |
@@ -149,65 +207,7 @@
 | 2026-09-01_glee_hybrid_orchestrator_malformed_state_rejection_v1.md | sanji | 2026-09-01 | A | 5485 |
 | 2026-09-01_glee_hybrid_orchestrator_manifest_index_resolver_v87.md | sanji | 2026-09-01 | B | 5413 |
 | 2026-09-01_glee_hybrid_orchestrator_manifest_index_v87.md | sanji | 2026-09-01 | B | 6578 |
-| 2026-09-01_glee_hybrid_orchestrator_manifest_lifecycle_v89.md | sanji | 2026-09-01 | B | 5363 |
-| 2026-09-01_glee_hybrid_orchestrator_manifest_partitions_v86.md | sanji | 2026-09-01 | B | 6526 |
-| 2026-09-01_glee_hybrid_orchestrator_manifest_resolver_v88.md | sanji | 2026-09-01 | B | 6134 |
-| 2026-09-01_glee_hybrid_orchestrator_manifest_resolver_v88_sanji_reconciliation.md | sanji | 2026-09-01 | B | 4587 |
-| 2026-09-01_glee_hybrid_orchestrator_manifest_verifier_v91.md | sanji | 2026-09-01 | B | 5490 |
-| 2026-09-01_glee_hybrid_orchestrator_midflight_swarm_checkpoint_v71.md | sanji | 2026-09-01 | B | 7478 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_capacity_safety_v67.md | sanji | 2026-09-01 | A | 5864 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_compiler_isolation_v64.md | sanji | 2026-09-01 | A | 6338 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_consensus_v66.md | sanji | 2026-09-01 | A | 6408 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_failure_retry_v1.md | sanji | 2026-09-01 | B | 6209 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_graph_generic_benchmark_v59.md | sanji | 2026-09-01 | A | 8565 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_hybrid_organs_v65.md | sanji | 2026-09-01 | A | 5966 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_ledger_replay_restart_v1.md | sanji | 2026-09-01 | A | 6860 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_llm_compiler_v63.md | sanji | 2026-09-01 | A | 6628 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_max_compiler_v69.md | sanji | 2026-09-01 | A | 6235 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_max_recovery_v62.md | sanji | 2026-09-01 | A | 6400 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_restart_v84.md | sanji | 2026-09-01 | B | 6087 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_scale_out_v68.md | sanji | 2026-09-01 | A | 5764 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_scaleout_v74.md | sanji | 2026-09-01 | A | 5827 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_source_windows_v84.md | sanji | 2026-09-01 | A | 7316 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_source_windows_v84_sanji_verification.md | sanji | 2026-09-01 | A | 6877 |
-| 2026-09-01_glee_hybrid_orchestrator_mixed_stream_scale_v1.md | sanji | 2026-09-01 | B | 6035 |
-| 2026-09-01_glee_hybrid_orchestrator_multi_workflow_swarm_benchmark_v46.md | sanji | 2026-09-01 | A | 7586 |
-| 2026-09-01_glee_hybrid_orchestrator_nine_seat_revalidation_v106.md | sanji | 2026-09-01 | B | 5080 |
-| 2026-09-01_glee_hybrid_orchestrator_nine_seat_shadow_benchmark_v42.md | sanji | 2026-09-01 | A | 7711 |
-| 2026-09-01_glee_hybrid_orchestrator_null_resistance_audit_v71b.md | sanji | 2026-09-01 | A | 3957 |
-| 2026-09-01_glee_hybrid_orchestrator_null_resistance_v71.md | sanji | 2026-09-01 | A | 5366 |
-| 2026-09-01_glee_hybrid_orchestrator_objective_audit_v107.md | sanji | 2026-09-01 | B | 6466 |
-| 2026-09-01_glee_hybrid_orchestrator_objective_audit_v107_reconciliation.md | sanji | 2026-09-01 | B | 5748 |
-| 2026-09-01_glee_hybrid_orchestrator_online_model_v75.md | sanji | 2026-09-01 | A | 9168 |
-| 2026-09-01_glee_hybrid_orchestrator_partition_manifest_lineage_binding_v1.md | sanji | 2026-09-01 | A | 5056 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_adversarial_v99.md | sanji | 2026-09-01 | B | 5087 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_compare_v101.md | sanji | 2026-09-01 | B | 5611 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_digest_v100.md | sanji | 2026-09-01 | B | 5550 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_json_v104.md | sanji | 2026-09-01 | B | 5319 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_null_v98.md | sanji | 2026-09-01 | B | 5131 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_persist_v105.md | sanji | 2026-09-01 | B | 5233 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_schema_v97.md | sanji | 2026-09-01 | B | 5343 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_state_v103.md | sanji | 2026-09-01 | B | 5302 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_summary_v96.md | sanji | 2026-09-01 | B | 5298 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_typed_v102.md | sanji | 2026-09-01 | B | 5412 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_diagnostics_v95.md | sanji | 2026-09-01 | B | 5038 |
-| 2026-09-01_glee_hybrid_orchestrator_plan_replay_v94.md | sanji | 2026-09-01 | B | 5086 |
-| 2026-09-01_glee_hybrid_orchestrator_post_application_crash_probe_v1.md | sanji | 2026-09-01 | A | 5741 |
-| 2026-09-01_glee_hybrid_orchestrator_post_completion_conflict_v1.md | sanji | 2026-09-01 | A | 4948 |
-| 2026-09-01_glee_hybrid_orchestrator_post_restore_retry_execution_v1.md | sanji | 2026-09-01 | A | 6221 |
-| 2026-09-01_glee_hybrid_orchestrator_postfreeze_reconciliation_v92.md | sanji | 2026-09-01 | — | 5048 |
-| 2026-09-01_glee_hybrid_orchestrator_provenance_view_v90.md | sanji | 2026-09-01 | B | 5823 |
-| 2026-09-01_glee_hybrid_orchestrator_provenance_view_v90_sanji_reconciliation.md | sanji | 2026-09-01 | B | 4301 |
-| 2026-09-01_glee_hybrid_orchestrator_provenance_view_validation_v90.md | sanji | 2026-09-01 | — | 4678 |
-| 2026-09-01_glee_hybrid_orchestrator_readiness_packet_v109.md | sanji | 2026-09-01 | B | 4774 |
-| 2026-09-01_glee_hybrid_orchestrator_recovery_branch_matrix_v1.md | sanji | 2026-09-01 | A | 4875 |
-| 2026-09-01_glee_hybrid_orchestrator_repeated_shadow_benchmark_aggregate_v43.md | sanji | 2026-09-01 | A | 9257 |
-| 2026-09-01_glee_hybrid_orchestrator_repeated_shadow_benchmark_aggregate_v43_correction.md | sanji | 2026-09-01 | A | 4439 |
-| 2026-09-01_glee_hybrid_orchestrator_replay_diagnostics_v95_reconciliation.md | sanji | 2026-09-01 | B | 5709 |
-| 2026-09-01_glee_hybrid_orchestrator_replay_diagnostics_validation_v95.md | sanji | 2026-09-01 | — | 4392 |
-| 2026-09-01_glee_hybrid_orchestrator_replay_null_resistance_v99.md | sanji | 2026-09-01 | — | 4259 |
-| 2026-09-01_glee_hybrid_orchestrator_replay_summary_validation_v96.md | sanji | 2026-09-01 | — | 4573 |
-| _(+13856 more — see full manifest JSON)_ | | | | |
+| _(+13936 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
