@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 14056,
+  "total_receipts": 14136,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -2052,6 +2052,14 @@
       "size_bytes": 9336
     },
     {
+      "file_name": "2026-09-01_airlock_records_the_threshold_it_decided_on.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_airlock_records_the_threshold_it_decided_on.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 7713
+    },
+    {
       "file_name": "2026-09-01_captain_rulings_implemented.md",
       "home": "glee",
       "rel_path": "2026-09-01_captain_rulings_implemented.md",
@@ -2076,12 +2084,60 @@
       "size_bytes": 10938
     },
     {
+      "file_name": "2026-09-01_gates_read_the_declared_policy.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_gates_read_the_declared_policy.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 17179
+    },
+    {
       "file_name": "2026-09-01_non_amplification_enforced_on_three_of_five_axes.md",
       "home": "glee",
       "rel_path": "2026-09-01_non_amplification_enforced_on_three_of_five_axes.md",
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 5373
+    },
+    {
+      "file_name": "2026-09-01_opencode_hf_incident_packet_stop_taxonomy_amendment.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_opencode_hf_incident_packet_stop_taxonomy_amendment.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 2380
+    },
+    {
+      "file_name": "2026-09-01_opencode_hf_incident_ratification.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_opencode_hf_incident_ratification.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 2703
+    },
+    {
+      "file_name": "2026-09-01_opencode_nl_interoperability_control_layer_spec.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_opencode_nl_interoperability_control_layer_spec.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 2818
+    },
+    {
+      "file_name": "2026-09-01_opencode_shared_error_amplification_atlas.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_opencode_shared_error_amplification_atlas.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 2129
+    },
+    {
+      "file_name": "2026-09-01_quarantine_was_self_lifting.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_quarantine_was_self_lifting.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 17547
     },
     {
       "file_name": "2026-09-01_rejected_work_stranded_the_worker.md",
@@ -35668,6 +35724,14 @@
       "size_bytes": 7325
     },
     {
+      "file_name": "2026-09-01_anti_cringe_invariant_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_anti_cringe_invariant_intake.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 1101
+    },
+    {
       "file_name": "2026-09-01_apex_asset_route_activation_repair.md",
       "home": "zoro",
       "rel_path": "2026-09-01_apex_asset_route_activation_repair.md",
@@ -35708,6 +35772,30 @@
       "size_bytes": 7401
     },
     {
+      "file_name": "2026-09-01_captain_decision_packet_and_recipient_directed_output_law.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_captain_decision_packet_and_recipient_directed_output_law.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 18205
+    },
+    {
+      "file_name": "2026-09-01_captain_decision_packet_hostile_review_fold.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_captain_decision_packet_hostile_review_fold.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 6361
+    },
+    {
+      "file_name": "2026-09-01_chat_door_conversation_is_the_universal_human_interface.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_chat_door_conversation_is_the_universal_human_interface.md",
+      "date": "2026-09-01",
+      "tier": "C",
+      "size_bytes": 24902
+    },
+    {
       "file_name": "2026-09-01_classifier_stop_condition_and_macro_contract.md",
       "home": "zoro",
       "rel_path": "2026-09-01_classifier_stop_condition_and_macro_contract.md",
@@ -35732,12 +35820,84 @@
       "size_bytes": 20232
     },
     {
+      "file_name": "2026-09-01_crew_mail_reconsented_cairn_canonical_bytes_retrieved.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_crew_mail_reconsented_cairn_canonical_bytes_retrieved.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5275
+    },
+    {
       "file_name": "2026-09-01_dag_failure_regime_FINAL_REPORT.md",
       "home": "zoro",
       "rel_path": "2026-09-01_dag_failure_regime_FINAL_REPORT.md",
       "date": "2026-09-01",
       "tier": null,
       "size_bytes": 10968
+    },
+    {
+      "file_name": "2026-09-01_detached_execution_resource_independence.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_detached_execution_resource_independence.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 19220
+    },
+    {
+      "file_name": "2026-09-01_dream_engine_exp001_c2_baselines_sealed_independently_verified.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_dream_engine_exp001_c2_baselines_sealed_independently_verified.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5083
+    },
+    {
+      "file_name": "2026-09-01_dream_engine_exp001_cairn_set_sealed_decoy_matched.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_dream_engine_exp001_cairn_set_sealed_decoy_matched.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4604
+    },
+    {
+      "file_name": "2026-09-01_dream_engine_exp001_captain_thread_quarantine_second_seat.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_dream_engine_exp001_captain_thread_quarantine_second_seat.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6389
+    },
+    {
+      "file_name": "2026-09-01_dream_engine_exp001_execute_wave1_letter_sent_prereg_sealed.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_dream_engine_exp001_execute_wave1_letter_sent_prereg_sealed.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 6141
+    },
+    {
+      "file_name": "2026-09-01_dream_engine_exp001_quarantine_reclassification_captain_correction.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_dream_engine_exp001_quarantine_reclassification_captain_correction.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4633
+    },
+    {
+      "file_name": "2026-09-01_dream_engine_intake_packet_prereg_and_cairn_letter.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_dream_engine_intake_packet_prereg_and_cairn_letter.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 8522
+    },
+    {
+      "file_name": "2026-09-01_evening_briefing_verification_and_requested_model_envelope_fix.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_evening_briefing_verification_and_requested_model_envelope_fix.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 18808
     },
     {
       "file_name": "2026-09-01_first_sale_packet_and_the_only_real_arrival.md",
@@ -35780,6 +35940,14 @@
       "size_bytes": 9580
     },
     {
+      "file_name": "2026-09-01_organismality_benchmark_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_organismality_benchmark_intake.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 1175
+    },
+    {
       "file_name": "2026-09-01_peer_ablation_saturated_metric_and_an_84_percent_membership_shortcut.md",
       "home": "zoro",
       "rel_path": "2026-09-01_peer_ablation_saturated_metric_and_an_84_percent_membership_shortcut.md",
@@ -35796,6 +35964,14 @@
       "size_bytes": 5854
     },
     {
+      "file_name": "2026-09-01_problem_cell_architecture_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_problem_cell_architecture_intake.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 1469
+    },
+    {
       "file_name": "2026-09-01_product_readiness_gate_and_workflow_slice.md",
       "home": "zoro",
       "rel_path": "2026-09-01_product_readiness_gate_and_workflow_slice.md",
@@ -35810,6 +35986,22 @@
       "date": "2026-09-01",
       "tier": null,
       "size_bytes": 8726
+    },
+    {
+      "file_name": "2026-09-01_promise_next_verb_and_verify_cwd_default.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_promise_next_verb_and_verify_cwd_default.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4352
+    },
+    {
+      "file_name": "2026-09-01_promise_recheck_verb_first_caller_and_stale_blocker_cleanup.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_promise_recheck_verb_first_caller_and_stale_blocker_cleanup.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4867
     },
     {
       "file_name": "2026-09-01_provider_commercial_safety_matrix_router_eligibility.md",
@@ -35852,6 +36044,14 @@
       "size_bytes": 8786
     },
     {
+      "file_name": "2026-09-01_seed_to_weights_prereg_and_apparatus.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_seed_to_weights_prereg_and_apparatus.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 14624
+    },
+    {
       "file_name": "2026-09-01_sunny4_route_telemetry_verification.md",
       "home": "zoro",
       "rel_path": "2026-09-01_sunny4_route_telemetry_verification.md",
@@ -35866,6 +36066,14 @@
       "date": "2026-09-01",
       "tier": null,
       "size_bytes": 13910
+    },
+    {
+      "file_name": "2026-09-01_thousand_sunny_speaks_catalogue_landed.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_thousand_sunny_speaks_catalogue_landed.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4242
     },
     {
       "file_name": "2026-09-01_trajectory_bridge_CLOSURE.md",
@@ -35884,12 +36092,84 @@
       "size_bytes": 5177
     },
     {
+      "file_name": "2026-09-01_transcript_learning_audit_and_archive.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_transcript_learning_audit_and_archive.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 13435
+    },
+    {
+      "file_name": "2026-09-01_value_function_promise_falsifier_repair_and_spine_budget.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_value_function_promise_falsifier_repair_and_spine_budget.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 8459
+    },
+    {
       "file_name": "2026-09-01_w5_superstition_probe_and_v12_wave.md",
       "home": "zoro",
       "rel_path": "2026-09-01_w5_superstition_probe_and_v12_wave.md",
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 5957
+    },
+    {
+      "file_name": "2026-09-01_wikiskill_second_pass_delta_extraction.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_wikiskill_second_pass_delta_extraction.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5861
+    },
+    {
+      "file_name": "2026-09-02_crew_mail_organ_finished_capability_truth_repaired.md",
+      "home": "zoro",
+      "rel_path": "2026-09-02_crew_mail_organ_finished_capability_truth_repaired.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 12415
+    },
+    {
+      "file_name": "2026-09-02_epistemic_machinery_crank1.md",
+      "home": "zoro",
+      "rel_path": "2026-09-02_epistemic_machinery_crank1.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 11789
+    },
+    {
+      "file_name": "2026-09-02_epistemic_machinery_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-09-02_epistemic_machinery_intake.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 4286
+    },
+    {
+      "file_name": "2026-09-02_research_kernel_v5_seed_and_context_opt_stub_falsified.md",
+      "home": "zoro",
+      "rel_path": "2026-09-02_research_kernel_v5_seed_and_context_opt_stub_falsified.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 5180
+    },
+    {
+      "file_name": "2026-09-02_research_prompt_bench_freeze_and_dryrun.md",
+      "home": "zoro",
+      "rel_path": "2026-09-02_research_prompt_bench_freeze_and_dryrun.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 7563
+    },
+    {
+      "file_name": "2026-09-02_sunny_voice_v0_language_boundary_slice_negative_result.md",
+      "home": "zoro",
+      "rel_path": "2026-09-02_sunny_voice_v0_language_boundary_slice_negative_result.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 4584
     },
     {
       "file_name": "INDEX.md",
@@ -36058,6 +36338,22 @@
       "date": null,
       "tier": null,
       "size_bytes": 2303
+    },
+    {
+      "file_name": "independent_c2_verification_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-09-01_dream_engine_exp001/independent_c2_verification_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1735
+    },
+    {
+      "file_name": "compiler_probe_classification.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-09-02_epistemic_machinery_crank1/compiler_probe_classification.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3069
     },
     {
       "file_name": "garl-iter-067-backoff-visibility-2026-06-20.md",
@@ -93516,6 +93812,30 @@
       "size_bytes": 4572
     },
     {
+      "file_name": "2026-09-01_glee_agentic_checkpoint_output_alias_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_agentic_checkpoint_output_alias_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8140
+    },
+    {
+      "file_name": "2026-09-01_glee_agentic_checkpoint_output_alias_v1_postfreeze_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_agentic_checkpoint_output_alias_v1_postfreeze_reconciliation.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3698
+    },
+    {
+      "file_name": "2026-09-01_glee_agentic_checkpoint_output_alias_v1_postfreeze_reconciliation_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_agentic_checkpoint_output_alias_v1_postfreeze_reconciliation_v2.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3441
+    },
+    {
       "file_name": "2026-09-01_glee_autonomy_promise_cold_wake_sigkill_v1.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_autonomy_promise_cold_wake_sigkill_v1.md",
@@ -93626,6 +93946,70 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 5265
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r10_training_split_manifest.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r10_training_split_manifest.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8220
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r11_training_control_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r11_training_control_packet.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8685
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r12_tool_caller_trainer.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r12_tool_caller_trainer.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5858
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r13_model_compute_choice_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r13_model_compute_choice_packet.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5397
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r14_cached_model_dry_run.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r14_cached_model_dry_run.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 3942
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r15_repeat_manifest_replay.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r15_repeat_manifest_replay.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 3457
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r8_tool_caller_data_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r8_tool_caller_data_contract.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7115
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r9_synthetic_failure_fixtures.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r9_synthetic_failure_fixtures.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7307
     },
     {
       "file_name": "2026-09-01_glee_bench_phase1r_r0_generator.md",
@@ -93882,6 +94266,14 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 7034
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_checkpoint_v112.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_checkpoint_v112.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5694
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_compiler_isolation_v61.md",
@@ -94708,6 +95100,14 @@
       "size_bytes": 5676
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_scale_v113.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_scale_v113.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7549
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_schema_mismatch_rejection_v1.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_schema_mismatch_rejection_v1.md",
@@ -94868,6 +95268,14 @@
       "size_bytes": 7355
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_swarm_revocation_v114.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_swarm_revocation_v114.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 6172
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_swarm_scaleout_v73.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_swarm_scaleout_v73.md",
@@ -94996,6 +95404,14 @@
       "size_bytes": 6260
     },
     {
+      "file_name": "2026-09-01_glee_research_kernel_v5.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_research_kernel_v5.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4358
+    },
+    {
       "file_name": "2026-09-01_glee_small_model_live_cell_runner_hardening.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_small_model_live_cell_runner_hardening.md",
@@ -95042,6 +95458,14 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 4974
+    },
+    {
+      "file_name": "2026-09-01_glee_value_function_independent_judge_inconclusive.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_value_function_independent_judge_inconclusive.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 7433
     },
     {
       "file_name": "2026-09-01_glee_work_discovery_cli_warning_repair_v1.md",
@@ -95116,6 +95540,30 @@
       "size_bytes": 6387
     },
     {
+      "file_name": "2026-09-01_goal-kind-and-productive-horizon-study-v0.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_goal-kind-and-productive-horizon-study-v0.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 7627
+    },
+    {
+      "file_name": "2026-09-01_goal-shape-code-repair-block-01.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_goal-shape-code-repair-block-01.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 8059
+    },
+    {
+      "file_name": "2026-09-01_goal-shape-timestamp-runner-and-evidence-block-02.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_goal-shape-timestamp-runner-and-evidence-block-02.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 8890
+    },
+    {
       "file_name": "2026-09-01_goal_runtime_concurrent_wake_delivery.md",
       "home": "sanji",
       "rel_path": "2026-09-01_goal_runtime_concurrent_wake_delivery.md",
@@ -95130,6 +95578,14 @@
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 4294
+    },
+    {
+      "file_name": "2026-09-01_hook_file_dispatch_compounding.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_hook_file_dispatch_compounding.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5711
     },
     {
       "file_name": "2026-09-01_matched_runtime_perturbation_cli.md",
@@ -95156,6 +95612,14 @@
       "size_bytes": 4948
     },
     {
+      "file_name": "2026-09-01_noexternal_lazy_census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_noexternal_lazy_census.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5361
+    },
+    {
       "file_name": "2026-09-01_null_resistance_edit2_current_replay.md",
       "home": "sanji",
       "rel_path": "2026-09-01_null_resistance_edit2_current_replay.md",
@@ -95170,6 +95634,30 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 4532
+    },
+    {
+      "file_name": "2026-09-01_objective_portfolio_prospective_weekly_cycle_open.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_objective_portfolio_prospective_weekly_cycle_open.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 8598
+    },
+    {
+      "file_name": "2026-09-01_objective_portfolio_reconciliation_shadow_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_objective_portfolio_reconciliation_shadow_trial.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 9396
+    },
+    {
+      "file_name": "2026-09-01_objective_portfolio_shadow_trial_reviewable.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_objective_portfolio_shadow_trial_reviewable.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 10687
     },
     {
       "file_name": "2026-09-01_open_intelligence_cli_surface_census_v1.md",
@@ -95292,6 +95780,14 @@
       "size_bytes": 4832
     },
     {
+      "file_name": "2026-09-01_peer-intelligence-network.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_peer-intelligence-network.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 7696
+    },
+    {
       "file_name": "2026-09-01_phoenix_adjudicated_label_gate.md",
       "home": "sanji",
       "rel_path": "2026-09-01_phoenix_adjudicated_label_gate.md",
@@ -95314,6 +95810,46 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 3892
+    },
+    {
+      "file_name": "2026-09-01_runpod_lease_budget_gate_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_runpod_lease_budget_gate_v1.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 6257
+    },
+    {
+      "file_name": "2026-09-01_sanji_ballot_provenance_preserved.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_sanji_ballot_provenance_preserved.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3577
+    },
+    {
+      "file_name": "2026-09-01_ship_lint_auto_resume.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_ship_lint_auto_resume.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4514
+    },
+    {
+      "file_name": "2026-09-01_ship_lint_census_convergence.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_ship_lint_census_convergence.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5184
+    },
+    {
+      "file_name": "2026-09-01_ship_lint_recovery_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_ship_lint_recovery_gate.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7516
     },
     {
       "file_name": "2026-09-01_situation_room_refresh_retry_integrity.md",
@@ -95436,6 +95972,14 @@
       "size_bytes": 4873
     },
     {
+      "file_name": "2026-09-01_tool_caller_training_surface_reviewable.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_tool_caller_training_surface_reviewable.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 9005
+    },
+    {
       "file_name": "2026-09-01_trial_status_projection_performance.md",
       "home": "sanji",
       "rel_path": "2026-09-01_trial_status_projection_performance.md",
@@ -95474,6 +96018,78 @@
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 6588
+    },
+    {
+      "file_name": "2026-09-02_ariadne_component_profile.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_ariadne_component_profile.md",
+      "date": "2026-09-02",
+      "tier": "A",
+      "size_bytes": 4245
+    },
+    {
+      "file_name": "2026-09-02_ariadne_integrity_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_ariadne_integrity_projection.md",
+      "date": "2026-09-02",
+      "tier": "A",
+      "size_bytes": 4315
+    },
+    {
+      "file_name": "2026-09-02_glee_bench_phase1r16_runpod_candidate_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_glee_bench_phase1r16_runpod_candidate_preflight.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 7174
+    },
+    {
+      "file_name": "2026-09-02_glee_commons_experiment_001_plan.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_glee_commons_experiment_001_plan.md",
+      "date": "2026-09-02",
+      "tier": "A",
+      "size_bytes": 4681
+    },
+    {
+      "file_name": "2026-09-02_glee_hybrid_orchestrator_provider_wall_canary_packet_v116.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_glee_hybrid_orchestrator_provider_wall_canary_packet_v116.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 7366
+    },
+    {
+      "file_name": "2026-09-02_glee_hybrid_orchestrator_provider_wall_shadow_v115.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_glee_hybrid_orchestrator_provider_wall_shadow_v115.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 8860
+    },
+    {
+      "file_name": "2026-09-02_glee_research_prompt_bench_runpod_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_glee_research_prompt_bench_runpod_packet.md",
+      "date": "2026-09-02",
+      "tier": "B",
+      "size_bytes": 6642
+    },
+    {
+      "file_name": "2026-09-02_glee_research_prompt_bench_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_glee_research_prompt_bench_v1.md",
+      "date": "2026-09-02",
+      "tier": "A",
+      "size_bytes": 5701
+    },
+    {
+      "file_name": "2026-09-02_glee_research_prompt_bench_v1_rerun.md",
+      "home": "sanji",
+      "rel_path": "2026-09-02_glee_research_prompt_bench_v1_rerun.md",
+      "date": "2026-09-02",
+      "tier": "A",
+      "size_bytes": 5224
     },
     {
       "file_name": "INDEX.md",
@@ -111780,12 +112396,36 @@
       "size_bytes": 2129
     },
     {
+      "file_name": "2026-09-01_pse1_persistent_spine_economics_benchmark_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-09-01_pse1_persistent_spine_economics_benchmark_receipt.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5562
+    },
+    {
       "file_name": "2026-09-01_tinylab_residual_reasoning_falsification_and_recurrence_regime_receipt.md",
       "home": "robin",
       "rel_path": "2026-09-01_tinylab_residual_reasoning_falsification_and_recurrence_regime_receipt.md",
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 14372
+    },
+    {
+      "file_name": "2026-09-02_cortex_cognitive_organism_kernel_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-09-02_cortex_cognitive_organism_kernel_receipt.md",
+      "date": "2026-09-02",
+      "tier": null,
+      "size_bytes": 5272
+    },
+    {
+      "file_name": "2026-09-02_cortex_integration_trial_001_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-09-02_cortex_integration_trial_001_receipt.md",
+      "date": "2026-09-02",
+      "tier": null,
+      "size_bytes": 6176
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
