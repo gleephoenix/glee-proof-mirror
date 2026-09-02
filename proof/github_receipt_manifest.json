@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 13979,
+  "total_receipts": 14056,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -2050,6 +2050,22 @@
       "date": "2026-08-31",
       "tier": null,
       "size_bytes": 9336
+    },
+    {
+      "file_name": "2026-09-01_captain_rulings_implemented.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_captain_rulings_implemented.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 8306
+    },
+    {
+      "file_name": "2026-09-01_federation_failure_made_consequential.md",
+      "home": "glee",
+      "rel_path": "2026-09-01_federation_failure_made_consequential.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 12142
     },
     {
       "file_name": "2026-09-01_federation_liveness_and_trust_closure.md",
@@ -35628,6 +35644,14 @@
       "size_bytes": 8780
     },
     {
+      "file_name": "2026-09-01_activation_oauth_canonicalization_and_5xx_investigation.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_activation_oauth_canonicalization_and_5xx_investigation.md",
+      "date": "2026-09-01",
+      "tier": "C",
+      "size_bytes": 56655
+    },
+    {
       "file_name": "2026-09-01_agent_network_v0_room_before_turnstile.md",
       "home": "zoro",
       "rel_path": "2026-09-01_agent_network_v0_room_before_turnstile.md",
@@ -35660,12 +35684,28 @@
       "size_bytes": 6379
     },
     {
+      "file_name": "2026-09-01_apex_deployed_activation_restored_closure.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_apex_deployed_activation_restored_closure.md",
+      "date": "2026-09-01",
+      "tier": "C",
+      "size_bytes": 10368
+    },
+    {
       "file_name": "2026-09-01_apex_shell_assets_repaired_verified.md",
       "home": "zoro",
       "rel_path": "2026-09-01_apex_shell_assets_repaired_verified.md",
       "date": "2026-09-01",
       "tier": "C",
       "size_bytes": 5401
+    },
+    {
+      "file_name": "2026-09-01_brady_first_real_user_activation_failure_incident.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_brady_first_real_user_activation_failure_incident.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 7401
     },
     {
       "file_name": "2026-09-01_classifier_stop_condition_and_macro_contract.md",
@@ -35690,6 +35730,14 @@
       "date": "2026-09-01",
       "tier": null,
       "size_bytes": 20232
+    },
+    {
+      "file_name": "2026-09-01_dag_failure_regime_FINAL_REPORT.md",
+      "home": "zoro",
+      "rel_path": "2026-09-01_dag_failure_regime_FINAL_REPORT.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 10968
     },
     {
       "file_name": "2026-09-01_first_sale_packet_and_the_only_real_arrival.md",
@@ -93452,6 +93500,14 @@
       "size_bytes": 5074
     },
     {
+      "file_name": "2026-09-01_cognitive_promotion_gate_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_cognitive_promotion_gate_hardening.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6035
+    },
+    {
       "file_name": "2026-09-01_first_dollar_public_pr_requalification_v1.md",
       "home": "sanji",
       "rel_path": "2026-09-01_first_dollar_public_pr_requalification_v1.md",
@@ -93474,6 +93530,198 @@
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 6068
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_attractor_analysis_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_attractor_analysis_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5997
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_baseline_preflight_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_baseline_preflight_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6606
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_capsule_raw_history_ablation_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_capsule_raw_history_ablation_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6452
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_compounding_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_compounding_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4925
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_compounding_replay_v1_cursor_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_compounding_replay_v1_cursor_addendum.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 1998
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_constraint_survival_compare_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_constraint_survival_compare_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4953
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_d9_separation_gate_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_d9_separation_gate_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6086
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_exp_report_flat_arm_repair_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_exp_report_flat_arm_repair_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6562
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_failure_taxonomy_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_failure_taxonomy_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6105
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_finite_to_general_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_finite_to_general_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6979
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_identity_masked_trial_contract_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_identity_masked_trial_contract_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7969
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_learning_transfer_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_learning_transfer_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5265
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r0_generator.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r0_generator.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7350
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r1_families.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r1_families.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6958
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r2_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r2_adapter.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6018
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r3_preregistration.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r3_preregistration.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5844
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r4_compute_scaling_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r4_compute_scaling_economics.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6429
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r5_cap_binding_profile.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r5_cap_binding_profile.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6455
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r6_learning_specialization_baseline.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r6_learning_specialization_baseline.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7108
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_phase1r_r7_open_weight_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_phase1r_r7_open_weight_readiness.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6734
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_repair_feedback_captured_coverage_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_repair_feedback_captured_coverage_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6745
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_repair_feedback_intervention_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_repair_feedback_intervention_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7162
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_repair_feedback_sensitivity_calibration_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_repair_feedback_sensitivity_calibration_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7886
+    },
+    {
+      "file_name": "2026-09-01_glee_bench_scaling_ladder_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_bench_scaling_ladder_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7193
     },
     {
       "file_name": "2026-09-01_glee_claim_assurance_durable_consumer_v3.md",
@@ -93564,6 +93812,14 @@
       "size_bytes": 5679
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_agentic_loop_v111.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_agentic_loop_v111.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5510
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_aggregate_cli_scaleout_v44.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_aggregate_cli_scaleout_v44.md",
@@ -93594,6 +93850,14 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 7597
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_canonical_shadow_v108.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_canonical_shadow_v108.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4669
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_checkpoint_candidate_repair_v1.md",
@@ -93682,6 +93946,22 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 6405
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_diagnostic_compare_v102.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_diagnostic_compare_v102.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7795
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_diagnostic_envelope_v105.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_diagnostic_envelope_v105.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 8829
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_dry_run_plan_v92_reconciliation.md",
@@ -94100,6 +94380,14 @@
       "size_bytes": 7586
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_nine_seat_revalidation_v106.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_nine_seat_revalidation_v106.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5080
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_nine_seat_shadow_benchmark_v42.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_nine_seat_shadow_benchmark_v42.md",
@@ -94124,6 +94412,22 @@
       "size_bytes": 5366
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_objective_audit_v107.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_objective_audit_v107.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 6466
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_objective_audit_v107_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_objective_audit_v107_reconciliation.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5748
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_online_model_v75.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_online_model_v75.md",
@@ -94138,6 +94442,94 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 5056
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_adversarial_v99.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_adversarial_v99.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5087
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_compare_v101.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_compare_v101.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5611
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_digest_v100.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_digest_v100.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5550
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_json_v104.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_json_v104.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5319
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_null_v98.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_null_v98.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5131
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_persist_v105.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_persist_v105.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5233
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_schema_v97.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_schema_v97.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5343
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_state_v103.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_state_v103.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5302
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_summary_v96.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_summary_v96.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5298
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_typed_v102.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostic_typed_v102.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5412
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostics_v95.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_plan_diagnostics_v95.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5038
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_plan_replay_v94.md",
@@ -94204,6 +94596,14 @@
       "size_bytes": 4678
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_readiness_packet_v109.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_readiness_packet_v109.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4774
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_recovery_branch_matrix_v1.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_recovery_branch_matrix_v1.md",
@@ -94226,6 +94626,38 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 4439
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_replay_diagnostics_v95_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_replay_diagnostics_v95_reconciliation.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 5709
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_replay_diagnostics_validation_v95.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_replay_diagnostics_validation_v95.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 4392
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_replay_null_resistance_v99.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_replay_null_resistance_v99.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 4259
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_replay_summary_validation_v96.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_replay_summary_validation_v96.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 4573
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_report_observability_v57.md",
@@ -94252,12 +94684,28 @@
       "size_bytes": 5639
     },
     {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_result_sink_strict_shape_v100.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_result_sink_strict_shape_v100.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7829
+    },
+    {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_retry_execution_after_restore_v1.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_hybrid_orchestrator_retry_execution_after_restore_v1.md",
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 4800
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_routing_scenario_breadth_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_routing_scenario_breadth_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5676
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_schema_mismatch_rejection_v1.md",
@@ -94306,6 +94754,14 @@
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 4384
+    },
+    {
+      "file_name": "2026-09-01_glee_hybrid_orchestrator_ship_lint_v110.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_hybrid_orchestrator_ship_lint_v110.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4075
     },
     {
       "file_name": "2026-09-01_glee_hybrid_orchestrator_sink_sigkill_recovery_v1.md",
@@ -94516,6 +94972,30 @@
       "size_bytes": 8190
     },
     {
+      "file_name": "2026-09-01_glee_perturbation_recovery_controls_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_perturbation_recovery_controls_v1.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 4793
+    },
+    {
+      "file_name": "2026-09-01_glee_perturbation_recovery_extension_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_perturbation_recovery_extension_v1.md",
+      "date": "2026-09-01",
+      "tier": null,
+      "size_bytes": 4462
+    },
+    {
+      "file_name": "2026-09-01_glee_real_experience_transfer_usefulness_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_real_experience_transfer_usefulness_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6260
+    },
+    {
       "file_name": "2026-09-01_glee_small_model_live_cell_runner_hardening.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_small_model_live_cell_runner_hardening.md",
@@ -94548,12 +95028,68 @@
       "size_bytes": 10264
     },
     {
+      "file_name": "2026-09-01_glee_tool_failure_isolation_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_tool_failure_isolation_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5774
+    },
+    {
       "file_name": "2026-09-01_glee_trace_binding_contract_v1.md",
       "home": "sanji",
       "rel_path": "2026-09-01_glee_trace_binding_contract_v1.md",
       "date": "2026-09-01",
       "tier": "A",
       "size_bytes": 4974
+    },
+    {
+      "file_name": "2026-09-01_glee_work_discovery_cli_warning_repair_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_work_discovery_cli_warning_repair_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7738
+    },
+    {
+      "file_name": "2026-09-01_glee_work_discovery_completion_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_work_discovery_completion_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 11475
+    },
+    {
+      "file_name": "2026-09-01_glee_work_discovery_completion_v1_postfreeze_drift_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_work_discovery_completion_v1_postfreeze_drift_addendum.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4562
+    },
+    {
+      "file_name": "2026-09-01_glee_work_discovery_output_alias_unification_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_work_discovery_output_alias_unification_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6855
+    },
+    {
+      "file_name": "2026-09-01_glee_work_discovery_output_alias_unification_v1_postfreeze_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_work_discovery_output_alias_unification_v1_postfreeze_reconciliation.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 3169
+    },
+    {
+      "file_name": "2026-09-01_glee_work_discovery_output_symlink_hardening_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_glee_work_discovery_output_symlink_hardening_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 7649
     },
     {
       "file_name": "2026-09-01_gleephoenix_observe_projection_and_harness.md",
@@ -94578,6 +95114,14 @@
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 6387
+    },
+    {
+      "file_name": "2026-09-01_goal_runtime_concurrent_wake_delivery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_goal_runtime_concurrent_wake_delivery.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 5343
     },
     {
       "file_name": "2026-09-01_gpu_admission_gate_repair.md",
@@ -94772,6 +95316,14 @@
       "size_bytes": 3892
     },
     {
+      "file_name": "2026-09-01_situation_room_refresh_retry_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_situation_room_refresh_retry_integrity.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4841
+    },
+    {
       "file_name": "2026-09-01_small_model_digest_admission_hardening.md",
       "home": "sanji",
       "rel_path": "2026-09-01_small_model_digest_admission_hardening.md",
@@ -94858,6 +95410,54 @@
       "date": "2026-09-01",
       "tier": "B",
       "size_bytes": 3759
+    },
+    {
+      "file_name": "2026-09-01_teach_loop_idempotent_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_teach_loop_idempotent_recovery.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6610
+    },
+    {
+      "file_name": "2026-09-01_teacher_transfer_evaluation_replay_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_teacher_transfer_evaluation_replay_v1.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4589
+    },
+    {
+      "file_name": "2026-09-01_temporal_cognition_supersession_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_temporal_cognition_supersession_guard.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 4873
+    },
+    {
+      "file_name": "2026-09-01_trial_status_projection_performance.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_trial_status_projection_performance.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 6359
+    },
+    {
+      "file_name": "2026-09-01_true_rsi_claim_gpu_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_true_rsi_claim_gpu_gate.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 4046
+    },
+    {
+      "file_name": "2026-09-01_true_rsi_gpu_gate_escalation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-01_true_rsi_gpu_gate_escalation.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 3758
     },
     {
       "file_name": "2026-09-01_true_rsi_scratch_claim_reconciliation.md",
@@ -111162,6 +111762,22 @@
       "date": "2026-08-31",
       "tier": null,
       "size_bytes": 3605
+    },
+    {
+      "file_name": "2026-09-01_chatgpt_desktop_recovery_surface.md",
+      "home": "robin",
+      "rel_path": "2026-09-01_chatgpt_desktop_recovery_surface.md",
+      "date": "2026-09-01",
+      "tier": "A",
+      "size_bytes": 2265
+    },
+    {
+      "file_name": "2026-09-01_chatgpt_desktop_window_launch_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-09-01_chatgpt_desktop_window_launch_receipt.md",
+      "date": "2026-09-01",
+      "tier": "B",
+      "size_bytes": 2129
     },
     {
       "file_name": "2026-09-01_tinylab_residual_reasoning_falsification_and_recurrence_regime_receipt.md",
