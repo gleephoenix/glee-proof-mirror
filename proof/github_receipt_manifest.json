@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 15089,
+  "total_receipts": 15133,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -2258,6 +2258,14 @@
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 8067
+    },
+    {
+      "file_name": "2026-09-04_estate_autonomous_stall_recovery_receipt.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_estate_autonomous_stall_recovery_receipt.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 6585
     },
     {
       "file_name": "2026-09-04_external_effect_monopoly_proven_receipt.md",
@@ -103404,6 +103412,46 @@
       "size_bytes": 2330
     },
     {
+      "file_name": "2026-09-04_completion_authority_integration_kernel.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_completion_authority_integration_kernel.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5412
+    },
+    {
+      "file_name": "2026-09-04_execution_witness_agent_bus_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_execution_witness_agent_bus_adapter.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 7718
+    },
+    {
+      "file_name": "2026-09-04_execution_witness_blocked_event_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_execution_witness_blocked_event_hardening.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4953
+    },
+    {
+      "file_name": "2026-09-04_execution_witness_work_lineage.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_execution_witness_work_lineage.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 8359
+    },
+    {
+      "file_name": "2026-09-04_fix_durable_successor_readmission.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_fix_durable_successor_readmission.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4477
+    },
+    {
       "file_name": "2026-09-04_production_effect_spawn_inventory.md",
       "home": "sanji",
       "rel_path": "2026-09-04_production_effect_spawn_inventory.md",
@@ -103460,6 +103508,94 @@
       "size_bytes": 5539
     },
     {
+      "file_name": "2026-09-04_sunny1_authority_census_and_adversarial_proof.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_authority_census_and_adversarial_proof.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4413
+    },
+    {
+      "file_name": "2026-09-04_sunny1_canonical_kernel_truth_barriers.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_canonical_kernel_truth_barriers.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4826
+    },
+    {
+      "file_name": "2026-09-04_sunny1_canonical_kernel_truth_barriers_evidence.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_canonical_kernel_truth_barriers_evidence.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4907
+    },
+    {
+      "file_name": "2026-09-04_sunny1_canonical_retry_authorization.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_canonical_retry_authorization.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 9604
+    },
+    {
+      "file_name": "2026-09-04_sunny1_capture_integrity_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_capture_integrity_boundary.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4925
+    },
+    {
+      "file_name": "2026-09-04_sunny1_estate_state_transition_census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_estate_state_transition_census.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6427
+    },
+    {
+      "file_name": "2026-09-04_sunny1_execution_authority_census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_execution_authority_census.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5012
+    },
+    {
+      "file_name": "2026-09-04_sunny1_execution_kernel_reference_adapters.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_execution_kernel_reference_adapters.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 6826
+    },
+    {
+      "file_name": "2026-09-04_sunny1_historical_capture_compatibility.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_historical_capture_compatibility.md",
+      "date": "2026-09-04",
+      "tier": "C",
+      "size_bytes": 4352
+    },
+    {
+      "file_name": "2026-09-04_sunny1_historical_capture_fail_closed.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_historical_capture_fail_closed.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5882
+    },
+    {
+      "file_name": "2026-09-04_sunny1_kernel_recovery_gap_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_kernel_recovery_gap_audit.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5830
+    },
+    {
       "file_name": "2026-09-04_sunny1_kernel_tranche.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_kernel_tranche.md",
@@ -103474,6 +103610,182 @@
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 5059
+    },
+    {
+      "file_name": "2026-09-04_sunny1_recovery_archive_proven.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_recovery_archive_proven.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 8445
+    },
+    {
+      "file_name": "2026-09-04_sunny1_successor_decision_kernel_bridge.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_successor_decision_kernel_bridge.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4792
+    },
+    {
+      "file_name": "2026-09-04_sunny1_successor_decision_kernel_bridge_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_successor_decision_kernel_bridge_v2.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4081
+    },
+    {
+      "file_name": "2026-09-04_sunny1_v5_concurrency_witness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_v5_concurrency_witness.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 7440
+    },
+    {
+      "file_name": "2026-09-04_sunny1_v5_tracker_owner_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_v5_tracker_owner_contract.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4517
+    },
+    {
+      "file_name": "2026-09-04_sunny1_v5_work_lineage_crosswalk.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_v5_work_lineage_crosswalk.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 7659
+    },
+    {
+      "file_name": "2026-09-04_sunny1_v5_worker_lineage_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_v5_worker_lineage_adapter.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 8729
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_actionable_metrics.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_actionable_metrics.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5499
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_authority_dispatch_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_authority_dispatch_binding.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4651
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_control_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_control_projection.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5764
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_failure_matrix_replay_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_failure_matrix_replay_guard.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5267
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_frontier_fairness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_frontier_fairness.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 3087
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_manager_control_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_manager_control_gate.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6413
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_manager_control_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_manager_control_recovery.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4777
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_microfix.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_microfix.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 3326
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_nine_seat_capacity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_nine_seat_capacity.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 2589
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_occupancy_recovery_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_occupancy_recovery_gate.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6180
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_recovery_goals.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_recovery_goals.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6281
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_review_remediation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_review_remediation.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4009
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_seat_blocker_register.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_seat_blocker_register.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6254
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_sensing_cycle.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_sensing_cycle.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4766
+    },
+    {
+      "file_name": "2026-09-04_sunny_portfolio_manager_watch_loop.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny_portfolio_manager_watch_loop.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4452
     },
     {
       "file_name": "2026-09-04_terminal_wall_recovery_authority.md",
@@ -120004,6 +120316,38 @@
       "size_bytes": 8067
     },
     {
+      "file_name": "2026-09-04_commons_agency_kernel_v0.md",
+      "home": "robin",
+      "rel_path": "2026-09-04_commons_agency_kernel_v0.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4016
+    },
+    {
+      "file_name": "2026-09-04_commons_endeavor_protocol_v0.md",
+      "home": "robin",
+      "rel_path": "2026-09-04_commons_endeavor_protocol_v0.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6333
+    },
+    {
+      "file_name": "2026-09-04_effect_kernel_production_enforcement_investigation.md",
+      "home": "robin",
+      "rel_path": "2026-09-04_effect_kernel_production_enforcement_investigation.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 2426
+    },
+    {
+      "file_name": "2026-09-04_enshrine_glee_commons_constitution_v01.md",
+      "home": "robin",
+      "rel_path": "2026-09-04_enshrine_glee_commons_constitution_v01.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 2461
+    },
+    {
       "file_name": "2026-09-04_external_effect_monopoly_proven_receipt.md",
       "home": "robin",
       "rel_path": "2026-09-04_external_effect_monopoly_proven_receipt.md",
@@ -120018,6 +120362,14 @@
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 3083
+    },
+    {
+      "file_name": "2026-09-04_independent_verify_commons_endeavor_protocol_v0.md",
+      "home": "robin",
+      "rel_path": "2026-09-04_independent_verify_commons_endeavor_protocol_v0.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3074
     },
     {
       "file_name": "2026-09-04_os_effect_monopoly_proven_receipt.md",
