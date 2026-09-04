@@ -1,18 +1,24 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-04T06:41:07.103287+00:00
-> Total receipts indexed: 15089
+> Last updated: 2026-09-04T12:41:08.887111+00:00
+> Total receipts indexed: 15133
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
 | 2026-09-04_advance_glee_science_and_code_capability.md | glee | 2026-09-04 | B | 8067 |
+| 2026-09-04_estate_autonomous_stall_recovery_receipt.md | glee | 2026-09-04 | — | 6585 |
 | 2026-09-04_external_effect_monopoly_proven_receipt.md | glee | 2026-09-04 | — | 7793 |
 | 2026-09-04_os_effect_monopoly_proven_receipt.md | glee | 2026-09-04 | — | 5227 |
 | 2026-09-04_production_effect_kernel_enforcement_receipt.md | glee | 2026-09-04 | — | 6491 |
 | 2026-09-04_system_wide_effect_kernel_proven_receipt.md | glee | 2026-09-04 | — | 5797 |
 | 2026-09-04_terminal_wall_seat_transcript_binding.md | glee | 2026-09-04 | B | 4135 |
+| 2026-09-04_completion_authority_integration_kernel.md | sanji | 2026-09-04 | A | 5412 |
+| 2026-09-04_execution_witness_agent_bus_adapter.md | sanji | 2026-09-04 | B | 7718 |
+| 2026-09-04_execution_witness_blocked_event_hardening.md | sanji | 2026-09-04 | B | 4953 |
+| 2026-09-04_execution_witness_work_lineage.md | sanji | 2026-09-04 | B | 8359 |
+| 2026-09-04_fix_durable_successor_readmission.md | sanji | 2026-09-04 | A | 4477 |
 | 2026-09-04_production_effect_spawn_inventory.md | sanji | 2026-09-04 | A | 3573 |
 | 2026-09-04_reality_annotation_gate_recheck.md | sanji | 2026-09-04 | A | 4497 |
 | 2026-09-04_reality_annotation_gate_recheck_correction.md | sanji | 2026-09-04 | A | 3185 |
@@ -20,13 +26,51 @@
 | 2026-09-04_reality_gdelt_recheck_followup.md | sanji | 2026-09-04 | A | 4062 |
 | 2026-09-04_reality_sensor_transport_detail.md | sanji | 2026-09-04 | A | 7159 |
 | 2026-09-04_reality_source_trial_openalex_refresh.md | sanji | 2026-09-04 | A | 5539 |
+| 2026-09-04_sunny1_authority_census_and_adversarial_proof.md | sanji | 2026-09-04 | A | 4413 |
+| 2026-09-04_sunny1_canonical_kernel_truth_barriers.md | sanji | 2026-09-04 | B | 4826 |
+| 2026-09-04_sunny1_canonical_kernel_truth_barriers_evidence.md | sanji | 2026-09-04 | B | 4907 |
+| 2026-09-04_sunny1_canonical_retry_authorization.md | sanji | 2026-09-04 | B | 9604 |
+| 2026-09-04_sunny1_capture_integrity_boundary.md | sanji | 2026-09-04 | B | 4925 |
+| 2026-09-04_sunny1_estate_state_transition_census.md | sanji | 2026-09-04 | B | 6427 |
+| 2026-09-04_sunny1_execution_authority_census.md | sanji | 2026-09-04 | B | 5012 |
+| 2026-09-04_sunny1_execution_kernel_reference_adapters.md | sanji | 2026-09-04 | A | 6826 |
+| 2026-09-04_sunny1_historical_capture_compatibility.md | sanji | 2026-09-04 | C | 4352 |
+| 2026-09-04_sunny1_historical_capture_fail_closed.md | sanji | 2026-09-04 | B | 5882 |
+| 2026-09-04_sunny1_kernel_recovery_gap_audit.md | sanji | 2026-09-04 | B | 5830 |
 | 2026-09-04_sunny1_kernel_tranche.md | sanji | 2026-09-04 | A | 5336 |
 | 2026-09-04_sunny1_kernel_vertical_integration.md | sanji | 2026-09-04 | A | 5059 |
+| 2026-09-04_sunny1_recovery_archive_proven.md | sanji | 2026-09-04 | B | 8445 |
+| 2026-09-04_sunny1_successor_decision_kernel_bridge.md | sanji | 2026-09-04 | B | 4792 |
+| 2026-09-04_sunny1_successor_decision_kernel_bridge_v2.md | sanji | 2026-09-04 | B | 4081 |
+| 2026-09-04_sunny1_v5_concurrency_witness.md | sanji | 2026-09-04 | B | 7440 |
+| 2026-09-04_sunny1_v5_tracker_owner_contract.md | sanji | 2026-09-04 | B | 4517 |
+| 2026-09-04_sunny1_v5_work_lineage_crosswalk.md | sanji | 2026-09-04 | B | 7659 |
+| 2026-09-04_sunny1_v5_worker_lineage_adapter.md | sanji | 2026-09-04 | B | 8729 |
+| 2026-09-04_sunny_portfolio_manager_actionable_metrics.md | sanji | 2026-09-04 | B | 5499 |
+| 2026-09-04_sunny_portfolio_manager_authority_dispatch_binding.md | sanji | 2026-09-04 | B | 4651 |
+| 2026-09-04_sunny_portfolio_manager_control_projection.md | sanji | 2026-09-04 | B | 5764 |
+| 2026-09-04_sunny_portfolio_manager_failure_matrix_replay_guard.md | sanji | 2026-09-04 | B | 5267 |
+| 2026-09-04_sunny_portfolio_manager_frontier_fairness.md | sanji | 2026-09-04 | B | 3087 |
+| 2026-09-04_sunny_portfolio_manager_manager_control_gate.md | sanji | 2026-09-04 | B | 6413 |
+| 2026-09-04_sunny_portfolio_manager_manager_control_recovery.md | sanji | 2026-09-04 | B | 4777 |
+| 2026-09-04_sunny_portfolio_manager_microfix.md | sanji | 2026-09-04 | B | 3326 |
+| 2026-09-04_sunny_portfolio_manager_nine_seat_capacity.md | sanji | 2026-09-04 | B | 2589 |
+| 2026-09-04_sunny_portfolio_manager_occupancy_recovery_gate.md | sanji | 2026-09-04 | B | 6180 |
+| 2026-09-04_sunny_portfolio_manager_recovery_goals.md | sanji | 2026-09-04 | B | 6281 |
+| 2026-09-04_sunny_portfolio_manager_review_remediation.md | sanji | 2026-09-04 | B | 4009 |
+| 2026-09-04_sunny_portfolio_manager_seat_blocker_register.md | sanji | 2026-09-04 | B | 6254 |
+| 2026-09-04_sunny_portfolio_manager_sensing_cycle.md | sanji | 2026-09-04 | B | 4766 |
+| 2026-09-04_sunny_portfolio_manager_watch_loop.md | sanji | 2026-09-04 | B | 4452 |
 | 2026-09-04_terminal_wall_recovery_authority.md | sanji | 2026-09-04 | A | 6424 |
 | 2026-09-04_action_null_execution_kernel_falsification_report.md | robin | 2026-09-04 | — | 3767 |
 | 2026-09-04_advance_glee_science_and_code_capability.md | robin | 2026-09-04 | B | 8067 |
+| 2026-09-04_commons_agency_kernel_v0.md | robin | 2026-09-04 | B | 4016 |
+| 2026-09-04_commons_endeavor_protocol_v0.md | robin | 2026-09-04 | B | 6333 |
+| 2026-09-04_effect_kernel_production_enforcement_investigation.md | robin | 2026-09-04 | A | 2426 |
+| 2026-09-04_enshrine_glee_commons_constitution_v01.md | robin | 2026-09-04 | B | 2461 |
 | 2026-09-04_external_effect_monopoly_proven_receipt.md | robin | 2026-09-04 | — | 7793 |
 | 2026-09-04_glee_effect_mediation_closure_adversarial_proof.md | robin | 2026-09-04 | B | 3083 |
+| 2026-09-04_independent_verify_commons_endeavor_protocol_v0.md | robin | 2026-09-04 | — | 3074 |
 | 2026-09-04_os_effect_monopoly_proven_receipt.md | robin | 2026-09-04 | — | 5227 |
 | 2026-09-04_production_effect_kernel_enforcement_receipt.md | robin | 2026-09-04 | — | 6491 |
 | 2026-09-04_structural_action_null_execution_architecture_falsification.md | robin | 2026-09-04 | B | 2705 |
@@ -163,51 +207,7 @@
 | 2026-09-03_morph_state_dim_contract_v574.md | sanji | 2026-09-03 | A | 2710 |
 | 2026-09-03_morph_subject_contract_v573.md | sanji | 2026-09-03 | A | 2692 |
 | 2026-09-03_my_work_persistent_surface.md | sanji | 2026-09-03 | B | 8069 |
-| 2026-09-03_my_work_persistent_surface_episode_correction.md | sanji | 2026-09-03 | B | 2294 |
-| 2026-09-03_my_work_result_surface.md | sanji | 2026-09-03 | B | 7993 |
-| 2026-09-03_native_leader_interruption_board_path.md | sanji | 2026-09-03 | B | 6473 |
-| 2026-09-03_observatory_all_transport_error_coverage.md | sanji | 2026-09-03 | A | 4793 |
-| 2026-09-03_observatory_check_cli_review.md | sanji | 2026-09-03 | B | 3621 |
-| 2026-09-03_observatory_check_existing_sink_review.md | sanji | 2026-09-03 | A | 4066 |
-| 2026-09-03_observatory_cli_boundary_regression.md | sanji | 2026-09-03 | B | 4309 |
-| 2026-09-03_observatory_cli_input_boundary_review.md | sanji | 2026-09-03 | B | 3948 |
-| 2026-09-03_observatory_cli_normal_path_review.md | sanji | 2026-09-03 | A | 4387 |
-| 2026-09-03_observatory_cli_output_collision_repair.md | sanji | 2026-09-03 | A | 4460 |
-| 2026-09-03_observatory_cli_private_target_edge.md | sanji | 2026-09-03 | B | 3615 |
-| 2026-09-03_observatory_cli_receipt_artifact_hygiene.md | sanji | 2026-09-03 | B | 3267 |
-| 2026-09-03_observatory_cli_schedule_boundaries.md | sanji | 2026-09-03 | B | 4262 |
-| 2026-09-03_observatory_codex_independent_review_inconclusive.md | sanji | 2026-09-03 | A | 5529 |
-| 2026-09-03_observatory_codex_no_plugin_review.md | sanji | 2026-09-03 | A | 3170 |
-| 2026-09-03_observatory_current_checkout_revalidation.md | sanji | 2026-09-03 | B | 4367 |
-| 2026-09-03_observatory_current_focused_replay.md | sanji | 2026-09-03 | A | 2882 |
-| 2026-09-03_observatory_detached_freshness_replay.md | sanji | 2026-09-03 | A | 4017 |
-| 2026-09-03_observatory_detached_restart_replay.md | sanji | 2026-09-03 | A | 4478 |
-| 2026-09-03_observatory_error_detail_redaction_repair.md | sanji | 2026-09-03 | A | 4231 |
-| 2026-09-03_observatory_independent_edge.md | sanji | 2026-09-03 | B | 4418 |
-| 2026-09-03_observatory_independent_review_packet.md | sanji | 2026-09-03 | A | 3499 |
-| 2026-09-03_observatory_independent_review_reroute.md | sanji | 2026-09-03 | A | 4869 |
-| 2026-09-03_observatory_invalid_target_adversarial_matrix.md | sanji | 2026-09-03 | A | 3068 |
-| 2026-09-03_observatory_invalid_target_redaction.md | sanji | 2026-09-03 | B | 5339 |
-| 2026-09-03_observatory_local_reviewer_quarantined.md | sanji | 2026-09-03 | A | 4088 |
-| 2026-09-03_observatory_malformed_authority_repair.md | sanji | 2026-09-03 | A | 4683 |
-| 2026-09-03_observatory_outage_recovery_edge.md | sanji | 2026-09-03 | A | 4043 |
-| 2026-09-03_observatory_persisted_url_redaction_repair.md | sanji | 2026-09-03 | A | 4724 |
-| 2026-09-03_observatory_prompt_review_inconclusive.md | sanji | 2026-09-03 | A | 4783 |
-| 2026-09-03_observatory_qwen7b_l3_review.md | sanji | 2026-09-03 | A | 4196 |
-| 2026-09-03_observatory_qwen_alternate_review.md | sanji | 2026-09-03 | A | 3092 |
-| 2026-09-03_observatory_receipt_cursor_drift_correction.md | sanji | 2026-09-03 | B | 3557 |
-| 2026-09-03_observatory_redaction_adversarial_review.md | sanji | 2026-09-03 | B | 3810 |
-| 2026-09-03_observatory_review_reconciliation_addendum.md | sanji | 2026-09-03 | A | 4188 |
-| 2026-09-03_observatory_time_separated_edge.md | sanji | 2026-09-03 | B | 5854 |
-| 2026-09-03_observatory_url_canonicalization_matrix.md | sanji | 2026-09-03 | A | 4031 |
-| 2026-09-03_observatory_url_canonicalization_review.md | sanji | 2026-09-03 | A | 4560 |
-| 2026-09-03_orchestrator_supervision_recovery.md | sanji | 2026-09-03 | A | 4797 |
-| 2026-09-03_planning_attempt_limit_contract_v506.md | sanji | 2026-09-03 | A | 2796 |
-| 2026-09-03_planning_bounds_contract_cluster_v508.md | sanji | 2026-09-03 | A | 6405 |
-| 2026-09-03_planning_branch_confidence_contract_v503.md | sanji | 2026-09-03 | A | 2687 |
-| 2026-09-03_planning_evidence_confidence_contract_v505.md | sanji | 2026-09-03 | A | 2712 |
-| 2026-09-03_planning_initial_confidence_contract_v504.md | sanji | 2026-09-03 | A | 2713 |
-| _(+14889 more — see full manifest JSON)_ | | | | |
+| _(+14933 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
