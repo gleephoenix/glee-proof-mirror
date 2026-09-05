@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 15311,
+  "total_receipts": 15373,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -2372,6 +2372,14 @@
       "size_bytes": 5740
     },
     {
+      "file_name": "2026-09-04_repo_learning_phase1_trials_receipt.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_repo_learning_phase1_trials_receipt.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4281
+    },
+    {
       "file_name": "2026-09-04_system_wide_effect_kernel_proven_receipt.md",
       "home": "glee",
       "rel_path": "2026-09-04_system_wide_effect_kernel_proven_receipt.md",
@@ -2386,6 +2394,38 @@
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 4135
+    },
+    {
+      "file_name": "2026-09-05_priority1_independent_acceptance.md",
+      "home": "glee",
+      "rel_path": "2026-09-05_priority1_independent_acceptance.md",
+      "date": "2026-09-05",
+      "tier": null,
+      "size_bytes": 10307
+    },
+    {
+      "file_name": "2026-09-05_priority1_integrated_reconciliation.md",
+      "home": "glee",
+      "rel_path": "2026-09-05_priority1_integrated_reconciliation.md",
+      "date": "2026-09-05",
+      "tier": null,
+      "size_bytes": 15506
+    },
+    {
+      "file_name": "2026-09-05_priority1b_independent_adjudication.md",
+      "home": "glee",
+      "rel_path": "2026-09-05_priority1b_independent_adjudication.md",
+      "date": "2026-09-05",
+      "tier": null,
+      "size_bytes": 9160
+    },
+    {
+      "file_name": "2026-09-05_priority1b_provenance_integration.md",
+      "home": "glee",
+      "rel_path": "2026-09-05_priority1b_provenance_integration.md",
+      "date": "2026-09-05",
+      "tier": null,
+      "size_bytes": 9135
     },
     {
       "file_name": "META.md",
@@ -2442,6 +2482,14 @@
       "date": null,
       "tier": null,
       "size_bytes": 9600
+    },
+    {
+      "file_name": "model_routing_splice_receipt.md",
+      "home": "glee",
+      "rel_path": "model_routing_splice_receipt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 9017
     },
     {
       "file_name": "receipt_task_8_robin.md",
@@ -103508,6 +103556,14 @@
       "size_bytes": 4744
     },
     {
+      "file_name": "2026-09-04_authority_transition_durability_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_authority_transition_durability_repair.md",
+      "date": "2026-09-04",
+      "tier": "C",
+      "size_bytes": 10632
+    },
+    {
       "file_name": "2026-09-04_canonical_event_ledger_integrity_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-04_canonical_event_ledger_integrity_repair.md",
@@ -103522,6 +103578,38 @@
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 5486
+    },
+    {
+      "file_name": "2026-09-04_capability_cartography_adversarial_review_gate_amendment.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_capability_cartography_adversarial_review_gate_amendment.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 3931
+    },
+    {
+      "file_name": "2026-09-04_capability_cartography_peer_review_activation_status.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_capability_cartography_peer_review_activation_status.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4045
+    },
+    {
+      "file_name": "2026-09-04_capability_cartography_program_frame.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_capability_cartography_program_frame.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5494
+    },
+    {
+      "file_name": "2026-09-04_capability_cartography_verdict_contract_relay.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_capability_cartography_verdict_contract_relay.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4048
     },
     {
       "file_name": "2026-09-04_capability_substrate_revalidation.md",
@@ -103612,6 +103700,14 @@
       "size_bytes": 5412
     },
     {
+      "file_name": "2026-09-04_completion_eligibility_atomicity_defect.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_completion_eligibility_atomicity_defect.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 6721
+    },
+    {
       "file_name": "2026-09-04_dtv5_canary_boundary_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-04_dtv5_canary_boundary_repair.md",
@@ -103660,6 +103756,22 @@
       "size_bytes": 4477
     },
     {
+      "file_name": "2026-09-04_fixed_context_reclamation_automatic_clear.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_fixed_context_reclamation_automatic_clear.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 7358
+    },
+    {
+      "file_name": "2026-09-04_fixed_context_reclamation_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_fixed_context_reclamation_hardening.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 7035
+    },
+    {
       "file_name": "2026-09-04_flexibility_frontier_amendment_A8_inward_turn_pareto.md",
       "home": "sanji",
       "rel_path": "2026-09-04_flexibility_frontier_amendment_A8_inward_turn_pareto.md",
@@ -103706,6 +103818,78 @@
       "date": "2026-09-04",
       "tier": "C",
       "size_bytes": 6287
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_android_staging.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_android_staging.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6725
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_assistant_agent_design.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_assistant_agent_design.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4428
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_bonsai_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_bonsai_preflight.md",
+      "date": "2026-09-04",
+      "tier": "C",
+      "size_bytes": 4473
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_phone_02.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_phone_02.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 9100
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_phone_03.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_phone_03.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 9788
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_phone_04.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_phone_04.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6213
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_phone_05.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_phone_05.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 8388
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_phone_06.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_phone_06.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 7761
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_square_connection_setup.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_square_connection_setup.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6103
     },
     {
       "file_name": "2026-09-04_heavensburg_v1_specification.md",
@@ -103818,6 +104002,14 @@
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 3573
+    },
+    {
+      "file_name": "2026-09-04_promotion_contract_v0.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_promotion_contract_v0.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6168
     },
     {
       "file_name": "2026-09-04_public_activity_spine_cross_surface_convergence.md",
@@ -104164,12 +104356,28 @@
       "size_bytes": 5411
     },
     {
+      "file_name": "2026-09-04_sunny1_advanced_ai_autoresearch_bald_emergent_cluster_60.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_advanced_ai_autoresearch_bald_emergent_cluster_60.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4069
+    },
+    {
       "file_name": "2026-09-04_sunny1_adversarial_security_agent_debate_moa_cluster_42.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_adversarial_security_agent_debate_moa_cluster_42.md",
       "date": "2026-09-04",
       "tier": null,
       "size_bytes": 4871
+    },
+    {
+      "file_name": "2026-09-04_sunny1_agora_ai_lab_arena_ariadne_reorg_async_ac_v2_cluster_43.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_agora_ai_lab_arena_ariadne_reorg_async_ac_v2_cluster_43.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5637
     },
     {
       "file_name": "2026-09-04_sunny1_api_monitor_ledger_convergence.md",
@@ -104194,6 +104402,14 @@
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 5705
+    },
+    {
+      "file_name": "2026-09-04_sunny1_async_ac_v3_autonomy_bald_benchmarks_boundary_cluster_44.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_async_ac_v3_autonomy_bald_benchmarks_boundary_cluster_44.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 6071
     },
     {
       "file_name": "2026-09-04_sunny1_attempt_entrypoint_convergence.md",
@@ -104244,6 +104460,14 @@
       "size_bytes": 5984
     },
     {
+      "file_name": "2026-09-04_sunny1_bridge_console_browser_buzz_bridge_c0rqs_canary_cluster_45.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_bridge_console_browser_buzz_bridge_c0rqs_canary_cluster_45.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5292
+    },
+    {
       "file_name": "2026-09-04_sunny1_canonical_kernel_truth_barriers.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_canonical_kernel_truth_barriers.md",
@@ -104274,6 +104498,22 @@
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 9604
+    },
+    {
+      "file_name": "2026-09-04_sunny1_capability_capability_bridge_divergence_engine_epistemics_cluster_46.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_capability_capability_bridge_divergence_engine_epistemics_cluster_46.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4890
+    },
+    {
+      "file_name": "2026-09-04_sunny1_captain_captain_eye_capture_cell_lab_change_governance_cluster_47.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_captain_captain_eye_capture_cell_lab_change_governance_cluster_47.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3849
     },
     {
       "file_name": "2026-09-04_sunny1_capture_integrity_boundary.md",
@@ -104308,6 +104548,22 @@
       "size_bytes": 4710
     },
     {
+      "file_name": "2026-09-04_sunny1_chat_retention_chatgpt_chronicle_claim_to_test_audit_cloud_cluster_48.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_chat_retention_chatgpt_chronicle_claim_to_test_audit_cloud_cluster_48.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 2638
+    },
+    {
+      "file_name": "2026-09-04_sunny1_cockpit_code_eval_code_evolution_code_intelligence_codebank_cluster_49.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_cockpit_code_eval_code_evolution_code_intelligence_codebank_cluster_49.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 2725
+    },
+    {
       "file_name": "2026-09-04_sunny1_code_eval_trajectory_convergence.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_code_eval_trajectory_convergence.md",
@@ -104322,6 +104578,14 @@
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 5917
+    },
+    {
+      "file_name": "2026-09-04_sunny1_coherence_director_command_deck_commerce_commercial_commons_cluster_50.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_coherence_director_command_deck_commerce_commercial_commons_cluster_50.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 2625
     },
     {
       "file_name": "2026-09-04_sunny1_completion_caller_convergence.md",
@@ -104340,12 +104604,52 @@
       "size_bytes": 5365
     },
     {
+      "file_name": "2026-09-04_sunny1_computational_workbench_compute_amnesty_compute_arbitrator_compute_budgeting_compute_custody_cluster_51.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_computational_workbench_compute_amnesty_compute_arbitrator_compute_budgeting_compute_custody_cluster_51.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 2830
+    },
+    {
+      "file_name": "2026-09-04_sunny1_computer_agency_conformal_risk_conformal_v2_conformance_connect_cluster_52.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_computer_agency_conformal_risk_conformal_v2_conformance_connect_cluster_52.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3353
+    },
+    {
+      "file_name": "2026-09-04_sunny1_connectors_constrained_dpo_constrained_dpo_v2_constrained_dpo_v3_constrained_grammar_cluster_53.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_connectors_constrained_dpo_constrained_dpo_v2_constrained_dpo_v3_constrained_grammar_cluster_53.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 2533
+    },
+    {
       "file_name": "2026-09-04_sunny1_constitution_acceptance.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_constitution_acceptance.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 6507
+    },
+    {
+      "file_name": "2026-09-04_sunny1_context_context_grammars_context_programming_continual_continuation_cluster_54.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_context_context_grammars_context_programming_continual_continuation_cluster_54.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 2712
+    },
+    {
+      "file_name": "2026-09-04_sunny1_continuity_contradiction_control_control_plane_cooperation_income_cluster_55.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_continuity_contradiction_control_control_plane_cooperation_income_cluster_55.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3404
     },
     {
       "file_name": "2026-09-04_sunny1_control_plane_execution_transaction_boundary.md",
@@ -104364,12 +104668,44 @@
       "size_bytes": 6009
     },
     {
+      "file_name": "2026-09-04_sunny1_core_cortex_cost_ceiling_counterfactual_covenant_cluster_56.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_core_cortex_cost_ceiling_counterfactual_covenant_cluster_56.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3222
+    },
+    {
+      "file_name": "2026-09-04_sunny1_creds_crew_coordination_crew_execution_crew_runtime_crucible_cluster_57.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_creds_crew_coordination_crew_execution_crew_runtime_crucible_cluster_57.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3166
+    },
+    {
+      "file_name": "2026-09-04_sunny1_culture_cybersecurity_dashboard_data_use_decay_cluster_58.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_culture_cybersecurity_dashboard_data_use_decay_cluster_58.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3493
+    },
+    {
       "file_name": "2026-09-04_sunny1_dashboard_policy_delivery_cluster_17.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_dashboard_policy_delivery_cluster_17.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 5262
+    },
+    {
+      "file_name": "2026-09-04_sunny1_decision_split_decisive_trial_scope_delivery_cycle_cluster_59.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_decision_split_decisive_trial_scope_delivery_cycle_cluster_59.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4548
     },
     {
       "file_name": "2026-09-04_sunny1_diagnostics_reality_dissent_fabric_docmap_cluster_18.md",
@@ -104452,6 +104788,14 @@
       "size_bytes": 6111
     },
     {
+      "file_name": "2026-09-04_sunny1_empirical_envelopes_episode_epistemic_evaluation_cluster_61.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_empirical_envelopes_episode_epistemic_evaluation_cluster_61.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4164
+    },
+    {
       "file_name": "2026-09-04_sunny1_estate_state_transition_census.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_estate_state_transition_census.md",
@@ -104476,6 +104820,14 @@
       "size_bytes": 6239
     },
     {
+      "file_name": "2026-09-04_sunny1_evidence_evidence_ledger_vault_evolution_control_memory_cluster_62.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_evidence_evidence_ledger_vault_evolution_control_memory_cluster_62.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3731
+    },
+    {
       "file_name": "2026-09-04_sunny1_execution_authority_census.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_execution_authority_census.md",
@@ -104490,6 +104842,14 @@
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 6182
+    },
+    {
+      "file_name": "2026-09-04_sunny1_execution_cell_packet_reality_experience_evs_cluster_63.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_execution_cell_packet_reality_experience_evs_cluster_63.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4538
     },
     {
       "file_name": "2026-09-04_sunny1_execution_kernel_reference_adapters.md",
@@ -104516,6 +104876,14 @@
       "size_bytes": 6232
     },
     {
+      "file_name": "2026-09-04_sunny1_experiments_external_agents_gateway_challenges_intel_cluster_64.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_experiments_external_agents_gateway_challenges_intel_cluster_64.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4217
+    },
+    {
       "file_name": "2026-09-04_sunny1_external_research_gateway_cluster_23.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_external_research_gateway_cluster_23.md",
@@ -104524,12 +104892,36 @@
       "size_bytes": 5836
     },
     {
+      "file_name": "2026-09-04_sunny1_facts_falsification_federation_flashkv_cluster_65.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_facts_falsification_federation_flashkv_cluster_65.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4871
+    },
+    {
       "file_name": "2026-09-04_sunny1_facts_federation_flashkv_cluster_24.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_facts_federation_flashkv_cluster_24.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 5815
+    },
+    {
+      "file_name": "2026-09-04_sunny1_falsification_collection_federation_timeout_cluster_66.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_falsification_collection_federation_timeout_cluster_66.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 9357
+    },
+    {
+      "file_name": "2026-09-04_sunny1_federation_timeout_causality_cluster_67.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_federation_timeout_causality_cluster_67.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 14870
     },
     {
       "file_name": "2026-09-04_sunny1_forge_frames_cluster_25.md",
@@ -105172,12 +105564,116 @@
       "size_bytes": 4911
     },
     {
+      "file_name": "2026-09-05_fixed_terminal_context_reclamation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_fixed_terminal_context_reclamation.md",
+      "date": "2026-09-05",
+      "tier": "B",
+      "size_bytes": 6123
+    },
+    {
+      "file_name": "2026-09-05_heavensburg-farm-manager-backend.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_heavensburg-farm-manager-backend.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 4206
+    },
+    {
+      "file_name": "2026-09-05_heavensburg-security-hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_heavensburg-security-hardening.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 2605
+    },
+    {
+      "file_name": "2026-09-05_heavensburg_square_hosted_order_slice.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_heavensburg_square_hosted_order_slice.md",
+      "date": "2026-09-05",
+      "tier": "B",
+      "size_bytes": 8742
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-assurance-integration.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-assurance-integration.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 4922
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-attempt-reservation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-attempt-reservation.md",
+      "date": "2026-09-05",
+      "tier": "B",
+      "size_bytes": 9511
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-live-candidate-input.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-live-candidate-input.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 4418
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-live-observer-and-attestation-v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-live-observer-and-attestation-v2.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 5069
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-live-observer-and-attestation-v3.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-live-observer-and-attestation-v3.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 4259
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-live-observer-and-attestation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-live-observer-and-attestation.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 5347
+    },
+    {
       "file_name": "2026-09-05_provider-neutral-review-routing-contract.md",
       "home": "sanji",
       "rel_path": "2026-09-05_provider-neutral-review-routing-contract.md",
       "date": "2026-09-05",
       "tier": "A",
       "size_bytes": 4325
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-routing-integration.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-routing-integration.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 5425
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-worker-attestation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-worker-attestation.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 4772
+    },
+    {
+      "file_name": "2026-09-05_sunny5_seat_state_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_sunny5_seat_state_reconciliation.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 6631
     },
     {
       "file_name": "INDEX.md",
