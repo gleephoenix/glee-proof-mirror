@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 15206,
+  "total_receipts": 15311,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -2260,6 +2260,14 @@
       "size_bytes": 8067
     },
     {
+      "file_name": "2026-09-04_e5_instrument_baseline_receipt.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_e5_instrument_baseline_receipt.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4370
+    },
+    {
       "file_name": "2026-09-04_estate_autonomous_stall_recovery_receipt.md",
       "home": "glee",
       "rel_path": "2026-09-04_estate_autonomous_stall_recovery_receipt.md",
@@ -2276,12 +2284,44 @@
       "size_bytes": 7793
     },
     {
+      "file_name": "2026-09-04_flexibility_frontier_amendment_A7_ratified_folded.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_flexibility_frontier_amendment_A7_ratified_folded.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 3736
+    },
+    {
+      "file_name": "2026-09-04_freebuff_adoption_path_parity.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_freebuff_adoption_path_parity.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 2482
+    },
+    {
+      "file_name": "2026-09-04_freebuff_dispatch_test_hermeticity.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_freebuff_dispatch_test_hermeticity.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 1595
+    },
+    {
       "file_name": "2026-09-04_freebuff_session_acceptance_hook_implemented.md",
       "home": "glee",
       "rel_path": "2026-09-04_freebuff_session_acceptance_hook_implemented.md",
       "date": "2026-09-04",
       "tier": null,
       "size_bytes": 4627
+    },
+    {
+      "file_name": "2026-09-04_freebuff_store_gated_submit_retry.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_freebuff_store_gated_submit_retry.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4099
     },
     {
       "file_name": "2026-09-04_live_stall_cadence_escalation_sink_receipt.md",
@@ -2322,6 +2362,14 @@
       "date": "2026-09-04",
       "tier": null,
       "size_bytes": 9678
+    },
+    {
+      "file_name": "2026-09-04_repo_learning_phase0_freeze_receipt.md",
+      "home": "glee",
+      "rel_path": "2026-09-04_repo_learning_phase0_freeze_receipt.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5740
     },
     {
       "file_name": "2026-09-04_system_wide_effect_kernel_proven_receipt.md",
@@ -103460,12 +103508,36 @@
       "size_bytes": 4744
     },
     {
+      "file_name": "2026-09-04_canonical_event_ledger_integrity_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_canonical_event_ledger_integrity_repair.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 8005
+    },
+    {
+      "file_name": "2026-09-04_capability_acquisition_protocol.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_capability_acquisition_protocol.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5486
+    },
+    {
       "file_name": "2026-09-04_capability_substrate_revalidation.md",
       "home": "sanji",
       "rel_path": "2026-09-04_capability_substrate_revalidation.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 3066
+    },
+    {
+      "file_name": "2026-09-04_causal_completion_boundary_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_causal_completion_boundary_repair.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5650
     },
     {
       "file_name": "2026-09-04_codex_curated_economical_providers.md",
@@ -103524,12 +103596,36 @@
       "size_bytes": 5039
     },
     {
+      "file_name": "2026-09-04_cognitive_allocator_v0_offline.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_cognitive_allocator_v0_offline.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5101
+    },
+    {
       "file_name": "2026-09-04_completion_authority_integration_kernel.md",
       "home": "sanji",
       "rel_path": "2026-09-04_completion_authority_integration_kernel.md",
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 5412
+    },
+    {
+      "file_name": "2026-09-04_dtv5_canary_boundary_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_dtv5_canary_boundary_repair.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4927
+    },
+    {
+      "file_name": "2026-09-04_dtv5_no_execution_tail_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_dtv5_no_execution_tail_correction.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 3238
     },
     {
       "file_name": "2026-09-04_execution_witness_agent_bus_adapter.md",
@@ -103562,6 +103658,14 @@
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 4477
+    },
+    {
+      "file_name": "2026-09-04_flexibility_frontier_amendment_A8_inward_turn_pareto.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_flexibility_frontier_amendment_A8_inward_turn_pareto.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4869
     },
     {
       "file_name": "2026-09-04_foreman-canary-reobserve-order-170.md",
@@ -103602,6 +103706,30 @@
       "date": "2026-09-04",
       "tier": "C",
       "size_bytes": 6287
+    },
+    {
+      "file_name": "2026-09-04_heavensburg_v1_specification.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_heavensburg_v1_specification.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 7135
+    },
+    {
+      "file_name": "2026-09-04_hook_authority_first_spool_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_hook_authority_first_spool_partial.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5554
+    },
+    {
+      "file_name": "2026-09-04_hook_lifecycle_spool_live_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_hook_lifecycle_spool_live_partial.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6658
     },
     {
       "file_name": "2026-09-04_independent_verify_durable_successor_readmission.md",
@@ -103650,6 +103778,14 @@
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 5078
+    },
+    {
+      "file_name": "2026-09-04_live_glm_canary_and_hook_timeout_diagnosis.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_live_glm_canary_and_hook_timeout_diagnosis.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5294
     },
     {
       "file_name": "2026-09-04_opencode_preinvocation_effect_identity.md",
@@ -103706,6 +103842,70 @@
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 7725
+    },
+    {
+      "file_name": "2026-09-04_public_reality_projection_deploy_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_projection_deploy_gate.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 9139
+    },
+    {
+      "file_name": "2026-09-04_public_reality_spine_lifecycle_closure.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_spine_lifecycle_closure.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 8992
+    },
+    {
+      "file_name": "2026-09-04_public_reality_spine_live_readiness_oracle.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_spine_live_readiness_oracle.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 7735
+    },
+    {
+      "file_name": "2026-09-04_public_reality_spine_nine_surface_convergence.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_spine_nine_surface_convergence.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6102
+    },
+    {
+      "file_name": "2026-09-04_public_reality_spine_operated_acceptance_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_spine_operated_acceptance_addendum.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 9611
+    },
+    {
+      "file_name": "2026-09-04_public_reality_spine_operated_lifecycle_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_spine_operated_lifecycle_addendum.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5593
+    },
+    {
+      "file_name": "2026-09-04_public_reality_spine_receipt_retry_recovery_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_spine_receipt_retry_recovery_addendum.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 6689
+    },
+    {
+      "file_name": "2026-09-04_public_reality_tracked_head_freeze.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_public_reality_tracked_head_freeze.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 8949
     },
     {
       "file_name": "2026-09-04_reality_annotation_gate_recheck.md",
@@ -103772,12 +103972,36 @@
       "size_bytes": 5032
     },
     {
+      "file_name": "2026-09-04_shared-map-capability-synthesis.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-capability-synthesis.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5499
+    },
+    {
+      "file_name": "2026-09-04_shared-map-causal-contract-tests.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-causal-contract-tests.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4286
+    },
+    {
       "file_name": "2026-09-04_shared-map-convergence-research.md",
       "home": "sanji",
       "rel_path": "2026-09-04_shared-map-convergence-research.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 4053
+    },
+    {
+      "file_name": "2026-09-04_shared-map-correction-acceptance-join.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-correction-acceptance-join.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5602
     },
     {
       "file_name": "2026-09-04_shared-map-cross-process-contract-fixture.md",
@@ -103812,12 +104036,92 @@
       "size_bytes": 7111
     },
     {
+      "file_name": "2026-09-04_shared-map-e05-causal-join-refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-e05-causal-join-refresh.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 8555
+    },
+    {
       "file_name": "2026-09-04_shared-map-e1-fixture-replay.md",
       "home": "sanji",
       "rel_path": "2026-09-04_shared-map-e1-fixture-replay.md",
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 6664
+    },
+    {
+      "file_name": "2026-09-04_shared-map-habit-schema-census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-habit-schema-census.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 6694
+    },
+    {
+      "file_name": "2026-09-04_shared-map-historical-e1-eligibility.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-historical-e1-eligibility.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 7038
+    },
+    {
+      "file_name": "2026-09-04_shared-map-measurement-contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-measurement-contract.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 6999
+    },
+    {
+      "file_name": "2026-09-04_shared-map-production-drift-census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-production-drift-census.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4640
+    },
+    {
+      "file_name": "2026-09-04_shared-map-prospective-capture-contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-prospective-capture-contract.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 6409
+    },
+    {
+      "file_name": "2026-09-04_shared-map-prospective-capture-metrics.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-prospective-capture-metrics.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6342
+    },
+    {
+      "file_name": "2026-09-04_shared-map-real-capture-authorization-packet.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-real-capture-authorization-packet.md",
+      "date": "2026-09-04",
+      "tier": "C",
+      "size_bytes": 6696
+    },
+    {
+      "file_name": "2026-09-04_shared-map-review-followup-verifier.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-review-followup-verifier.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 4454
+    },
+    {
+      "file_name": "2026-09-04_shared-map-round2-evidence-delta.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-round2-evidence-delta.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 6513
     },
     {
       "file_name": "2026-09-04_shared-map-surface-composition.md",
@@ -103836,12 +104140,36 @@
       "size_bytes": 6089
     },
     {
+      "file_name": "2026-09-04_shared-map-terminal-join-gap-design.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_shared-map-terminal-join-gap-design.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 5123
+    },
+    {
       "file_name": "2026-09-04_shared-map-write-time-instrumentation.md",
       "home": "sanji",
       "rel_path": "2026-09-04_shared-map-write-time-instrumentation.md",
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 7520
+    },
+    {
+      "file_name": "2026-09-04_sunny1_aar_abre_acts_ade_admin_gateway_cluster_41.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_aar_abre_acts_ade_admin_gateway_cluster_41.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5411
+    },
+    {
+      "file_name": "2026-09-04_sunny1_adversarial_security_agent_debate_moa_cluster_42.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_adversarial_security_agent_debate_moa_cluster_42.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4871
     },
     {
       "file_name": "2026-09-04_sunny1_api_monitor_ledger_convergence.md",
@@ -103852,6 +104180,22 @@
       "size_bytes": 5233
     },
     {
+      "file_name": "2026-09-04_sunny1_artifact_alert_archaeology_cluster_12.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_artifact_alert_archaeology_cluster_12.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 7358
+    },
+    {
+      "file_name": "2026-09-04_sunny1_asset_learning_cluster_13.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_asset_learning_cluster_13.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5705
+    },
+    {
       "file_name": "2026-09-04_sunny1_attempt_entrypoint_convergence.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_attempt_entrypoint_convergence.md",
@@ -103860,12 +104204,44 @@
       "size_bytes": 4924
     },
     {
+      "file_name": "2026-09-04_sunny1_authority_admission_cluster_07.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_authority_admission_cluster_07.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6776
+    },
+    {
       "file_name": "2026-09-04_sunny1_authority_census_and_adversarial_proof.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_authority_census_and_adversarial_proof.md",
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 4413
+    },
+    {
+      "file_name": "2026-09-04_sunny1_authority_cluster_02.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_authority_cluster_02.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6140
+    },
+    {
+      "file_name": "2026-09-04_sunny1_bench_launcher_goal_governance_cluster_28.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_bench_launcher_goal_governance_cluster_28.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6452
+    },
+    {
+      "file_name": "2026-09-04_sunny1_benchmark_bridge_schema_cluster_16.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_benchmark_bridge_schema_cluster_16.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5984
     },
     {
       "file_name": "2026-09-04_sunny1_canonical_kernel_truth_barriers.md",
@@ -103940,6 +104316,14 @@
       "size_bytes": 5606
     },
     {
+      "file_name": "2026-09-04_sunny1_cognition_trace_analytics_cluster_09.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_cognition_trace_analytics_cluster_09.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5917
+    },
+    {
       "file_name": "2026-09-04_sunny1_completion_caller_convergence.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_completion_caller_convergence.md",
@@ -103964,12 +104348,52 @@
       "size_bytes": 6507
     },
     {
+      "file_name": "2026-09-04_sunny1_control_plane_execution_transaction_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_control_plane_execution_transaction_boundary.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 3833
+    },
+    {
+      "file_name": "2026-09-04_sunny1_control_projection_cluster_10.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_control_projection_cluster_10.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6009
+    },
+    {
+      "file_name": "2026-09-04_sunny1_dashboard_policy_delivery_cluster_17.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_dashboard_policy_delivery_cluster_17.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5262
+    },
+    {
+      "file_name": "2026-09-04_sunny1_diagnostics_reality_dissent_fabric_docmap_cluster_18.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_diagnostics_reality_dissent_fabric_docmap_cluster_18.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5534
+    },
+    {
       "file_name": "2026-09-04_sunny1_domain_authority_boundaries.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_domain_authority_boundaries.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 5378
+    },
+    {
+      "file_name": "2026-09-04_sunny1_domain_reality_duties_audit_cluster_19.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_domain_reality_duties_audit_cluster_19.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5647
     },
     {
       "file_name": "2026-09-04_sunny1_duplicate_authority_boundaries.md",
@@ -103980,12 +104404,52 @@
       "size_bytes": 5326
     },
     {
+      "file_name": "2026-09-04_sunny1_duplicate_authority_cluster_01.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_duplicate_authority_cluster_01.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5996
+    },
+    {
+      "file_name": "2026-09-04_sunny1_duplicate_state_cluster_03.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_duplicate_state_cluster_03.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5750
+    },
+    {
       "file_name": "2026-09-04_sunny1_durable_receipt_adapter_boundary.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_durable_receipt_adapter_boundary.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 8182
+    },
+    {
+      "file_name": "2026-09-04_sunny1_durable_session_event_log_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_durable_session_event_log_boundary.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 3833
+    },
+    {
+      "file_name": "2026-09-04_sunny1_economic_epistemic_learning_cluster_20.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_economic_epistemic_learning_cluster_20.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5287
+    },
+    {
+      "file_name": "2026-09-04_sunny1_effect_evidence_cluster_04.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_effect_evidence_cluster_04.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6111
     },
     {
       "file_name": "2026-09-04_sunny1_estate_state_transition_census.md",
@@ -104004,12 +104468,28 @@
       "size_bytes": 3692
     },
     {
+      "file_name": "2026-09-04_sunny1_evidence_claim_context_cluster_11.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_evidence_claim_context_cluster_11.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6239
+    },
+    {
       "file_name": "2026-09-04_sunny1_execution_authority_census.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_execution_authority_census.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 5012
+    },
+    {
+      "file_name": "2026-09-04_sunny1_execution_cell_packet_experience_cluster_22.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_execution_cell_packet_experience_cluster_22.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6182
     },
     {
       "file_name": "2026-09-04_sunny1_execution_kernel_reference_adapters.md",
@@ -104020,12 +104500,92 @@
       "size_bytes": 6826
     },
     {
+      "file_name": "2026-09-04_sunny1_execution_lane_cluster_08.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_execution_lane_cluster_08.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5267
+    },
+    {
       "file_name": "2026-09-04_sunny1_execution_transaction_retirement_candidate.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_execution_transaction_retirement_candidate.md",
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 6232
+    },
+    {
+      "file_name": "2026-09-04_sunny1_external_research_gateway_cluster_23.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_external_research_gateway_cluster_23.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5836
+    },
+    {
+      "file_name": "2026-09-04_sunny1_facts_federation_flashkv_cluster_24.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_facts_federation_flashkv_cluster_24.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5815
+    },
+    {
+      "file_name": "2026-09-04_sunny1_forge_frames_cluster_25.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_forge_frames_cluster_25.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5964
+    },
+    {
+      "file_name": "2026-09-04_sunny1_freedom_frontier_game_cluster_26.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_freedom_frontier_game_cluster_26.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5889
+    },
+    {
+      "file_name": "2026-09-04_sunny1_game_garl_gateway_genome_cluster_27.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_game_garl_gateway_genome_cluster_27.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6040
+    },
+    {
+      "file_name": "2026-09-04_sunny1_goal_runtime_execution_witness_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_goal_runtime_execution_witness_boundary.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4163
+    },
+    {
+      "file_name": "2026-09-04_sunny1_governor_grammar_graph_cluster_29.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_governor_grammar_graph_cluster_29.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4187
+    },
+    {
+      "file_name": "2026-09-04_sunny1_grc_grip_grpo_guardian_gvt_cluster_30.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_grc_grip_grpo_guardian_gvt_cluster_30.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4409
+    },
+    {
+      "file_name": "2026-09-04_sunny1_harness_harvest_hdc_header_hprm_cluster_31.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_harness_harvest_hdc_header_hprm_cluster_31.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4750
     },
     {
       "file_name": "2026-09-04_sunny1_historical_capture_compatibility.md",
@@ -104044,12 +104604,60 @@
       "size_bytes": 5882
     },
     {
+      "file_name": "2026-09-04_sunny1_holy_host_hull_relay_hygiene_cluster_32.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_holy_host_hull_relay_hygiene_cluster_32.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4697
+    },
+    {
       "file_name": "2026-09-04_sunny1_host_dispatch_observability_convergence.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_host_dispatch_observability_convergence.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 4865
+    },
+    {
+      "file_name": "2026-09-04_sunny1_idea_identity_image_improvement_cluster_33.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_idea_identity_image_improvement_cluster_33.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5540
+    },
+    {
+      "file_name": "2026-09-04_sunny1_improvement_inference_ingress_intake_demos_cluster_34.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_improvement_inference_ingress_intake_demos_cluster_34.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5336
+    },
+    {
+      "file_name": "2026-09-04_sunny1_integration_integrity_intelligence_cluster_35.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_integration_integrity_intelligence_cluster_35.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4960
+    },
+    {
+      "file_name": "2026-09-04_sunny1_intent_interop_ir_cluster_36.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_intent_interop_ir_cluster_36.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 4633
+    },
+    {
+      "file_name": "2026-09-04_sunny1_irreversible_isolation_knowledge_kv_lcc_cluster_37.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_irreversible_isolation_knowledge_kv_lcc_cluster_37.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5537
     },
     {
       "file_name": "2026-09-04_sunny1_kernel_recovery_gap_audit.md",
@@ -104076,12 +104684,68 @@
       "size_bytes": 5059
     },
     {
+      "file_name": "2026-09-04_sunny1_learning_audit_memory_cluster_14.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_learning_audit_memory_cluster_14.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6505
+    },
+    {
+      "file_name": "2026-09-04_sunny1_learning_legions_lessonloop_lhes_linear_ssm_cluster_38.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_learning_legions_lessonloop_lhes_linear_ssm_cluster_38.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5016
+    },
+    {
       "file_name": "2026-09-04_sunny1_legacy_reader_census.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_legacy_reader_census.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 4437
+    },
+    {
+      "file_name": "2026-09-04_sunny1_lifecycle_authority_cluster_06.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_lifecycle_authority_cluster_06.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5916
+    },
+    {
+      "file_name": "2026-09-04_sunny1_linguistics_lab_living_canvas_loadset_local_goal_engine_local_model_bench_cluster_39.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_linguistics_lab_living_canvas_loadset_local_goal_engine_local_model_bench_cluster_39.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5771
+    },
+    {
+      "file_name": "2026-09-04_sunny1_local_ops_lora_moe_lu_zyn_machine_vision_macro_cluster_40.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_local_ops_lora_moe_lu_zyn_machine_vision_macro_cluster_40.md",
+      "date": "2026-09-04",
+      "tier": null,
+      "size_bytes": 5667
+    },
+    {
+      "file_name": "2026-09-04_sunny1_memory_evaluation_evidence_cluster_21.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_memory_evaluation_evidence_cluster_21.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5259
+    },
+    {
+      "file_name": "2026-09-04_sunny1_mission_record_domain_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_mission_record_domain_boundary.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 3850
     },
     {
       "file_name": "2026-09-04_sunny1_objective_projection_authority_boundary.md",
@@ -104140,6 +104804,14 @@
       "size_bytes": 8445
     },
     {
+      "file_name": "2026-09-04_sunny1_research_browser_selection_cluster_15.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_research_browser_selection_cluster_15.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6057
+    },
+    {
       "file_name": "2026-09-04_sunny1_signed_origin_raw_reconstruction.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_signed_origin_raw_reconstruction.md",
@@ -104164,12 +104836,28 @@
       "size_bytes": 4081
     },
     {
+      "file_name": "2026-09-04_sunny1_transition_cluster_05.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_transition_cluster_05.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6465
+    },
+    {
       "file_name": "2026-09-04_sunny1_v5_concurrency_witness.md",
       "home": "sanji",
       "rel_path": "2026-09-04_sunny1_v5_concurrency_witness.md",
       "date": "2026-09-04",
       "tier": "B",
       "size_bytes": 7440
+    },
+    {
+      "file_name": "2026-09-04_sunny1_v5_tracker_authority_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_sunny1_v5_tracker_authority_boundary.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5105
     },
     {
       "file_name": "2026-09-04_sunny1_v5_tracker_owner_contract.md",
@@ -104332,12 +105020,164 @@
       "size_bytes": 6424
     },
     {
+      "file_name": "2026-09-04_token-meter-forward-bootstrap-failure-repair-7.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-bootstrap-failure-repair-7.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4846
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-clean-env-recheck-6.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-clean-env-recheck-6.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4326
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-historical-replay-3.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-historical-replay-3.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4829
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-host-prompt-trace-4.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-host-prompt-trace-4.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4927
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-native-correlation-8.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-native-correlation-8.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4613
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-native-stop-correlation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-native-stop-correlation.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6361
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-recurrence-2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-recurrence-2.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5068
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-recurrence-flake-5.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-recurrence-flake-5.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4859
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-recurrence-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-recurrence-reconciliation.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 5075
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-replay-repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-replay-repair.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 6033
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-replay-stability-10.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-replay-stability-10.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4588
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-stdin-timeout-repair-9.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-stdin-timeout-repair-9.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4414
+    },
+    {
+      "file_name": "2026-09-04_token-meter-forward-stop-hook-active-replay-repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-forward-stop-hook-active-replay-repair.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4829
+    },
+    {
+      "file_name": "2026-09-04_token-meter-native-journal-budget-repair-10.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-native-journal-budget-repair-10.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4387
+    },
+    {
+      "file_name": "2026-09-04_token-meter-native-stop-equivalence-gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-native-stop-equivalence-gate.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 8796
+    },
+    {
+      "file_name": "2026-09-04_token-meter-native-stop-independent-verdict.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_token-meter-native-stop-independent-verdict.md",
+      "date": "2026-09-04",
+      "tier": "B",
+      "size_bytes": 4537
+    },
+    {
+      "file_name": "2026-09-04_unattended_wake_002.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_unattended_wake_002.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 2548
+    },
+    {
+      "file_name": "2026-09-04_unattended_wake_002_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-04_unattended_wake_002_reconciliation.md",
+      "date": "2026-09-04",
+      "tier": "A",
+      "size_bytes": 3734
+    },
+    {
       "file_name": "2026-09-04_verify_receipt_freeze_independence_provenance.md",
       "home": "sanji",
       "rel_path": "2026-09-04_verify_receipt_freeze_independence_provenance.md",
       "date": "2026-09-04",
       "tier": "A",
       "size_bytes": 4911
+    },
+    {
+      "file_name": "2026-09-05_provider-neutral-review-routing-contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-05_provider-neutral-review-routing-contract.md",
+      "date": "2026-09-05",
+      "tier": "A",
+      "size_bytes": 4325
     },
     {
       "file_name": "INDEX.md",
