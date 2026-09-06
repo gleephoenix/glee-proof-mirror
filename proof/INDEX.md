@@ -1,12 +1,13 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-06T06:41:07.636176+00:00
-> Total receipts indexed: 15594
+> Last updated: 2026-09-06T18:41:07.737429+00:00
+> Total receipts indexed: 15620
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-06_corruption_recovery_rev6.md | glee | 2026-09-06 | — | 356 |
 | 2026-09-06_opencode_execution_fencing_v0.md | glee | 2026-09-06 | — | 8001 |
 | 2026-09-06_opencode_execution_fencing_v1.md | glee | 2026-09-06 | — | 7195 |
 | 2026-09-06_opencode_incident_s2_dual_dispatch_collision.md | glee | 2026-09-06 | — | 3152 |
@@ -14,13 +15,24 @@
 | 2026-09-06_opencode_mmh_s1_hazard_scanner.md | glee | 2026-09-06 | — | 5864 |
 | 2026-09-06_opencode_mmh_s2_partial_collision.md | glee | 2026-09-06 | — | 3409 |
 | 2026-09-06_opencode_strict_mode_migration_v2.md | glee | 2026-09-06 | — | 5946 |
+| 2026-09-06_platform_portal_build_rev1.md | glee | 2026-09-06 | — | 1284 |
 | 2026-09-06_baseline_resolver_compiler_repair.md | sanji | 2026-09-06 | A | 7301 |
+| 2026-09-06_blocked_scope_frontier_reselection.md | sanji | 2026-09-06 | A | 5055 |
+| 2026-09-06_cairn_scope_reply_and_site_review.md | sanji | 2026-09-06 | A | 5380 |
+| 2026-09-06_controller_c0.md | sanji | 2026-09-06 | A | 8166 |
+| 2026-09-06_executable_rsi_claim_gate.md | sanji | 2026-09-06 | A | 11486 |
+| 2026-09-06_execution_admission_contract_v2_1.md | sanji | 2026-09-06 | B | 5797 |
+| 2026-09-06_foreman_discovery_admission_repair.md | sanji | 2026-09-06 | B | 6567 |
+| 2026-09-06_glee_self_frontier_design.md | sanji | 2026-09-06 | — | 3385 |
+| 2026-09-06_glee_self_frontier_execution.md | sanji | 2026-09-06 | B | 9497 |
 | 2026-09-06_heavensburg_readable_markets_manual_manager.md | sanji | 2026-09-06 | B | 8744 |
 | 2026-09-06_heavensburg_real_shop_launch.md | sanji | 2026-09-06 | A | 7319 |
 | 2026-09-06_heavensburg_staff_execution_recheck.md | sanji | 2026-09-06 | B | 4016 |
+| 2026-09-06_heterogeneous_canary_objective_closure.md | sanji | 2026-09-06 | A | 3721 |
 | 2026-09-06_mini_a1_admission_boundary_v10.md | sanji | 2026-09-06 | B | 7977 |
 | 2026-09-06_mini_a1_admission_boundary_v11.md | sanji | 2026-09-06 | B | 8298 |
 | 2026-09-06_mini_a1_admission_boundary_v12.md | sanji | 2026-09-06 | B | 9299 |
+| 2026-09-06_mini_a1_admission_boundary_v13.md | sanji | 2026-09-06 | B | 14115 |
 | 2026-09-06_mini_a1_admission_boundary_v6.md | sanji | 2026-09-06 | A | 7858 |
 | 2026-09-06_mini_a1_admission_boundary_v7.md | sanji | 2026-09-06 | A | 8138 |
 | 2026-09-06_mini_a1_admission_boundary_v8.md | sanji | 2026-09-06 | B | 5471 |
@@ -30,6 +42,10 @@
 | 2026-09-06_mini_a1_isolation_repair_preflight.md | sanji | 2026-09-06 | A | 6202 |
 | 2026-09-06_mini_a1_isolation_repair_preflight_v2.md | sanji | 2026-09-06 | A | 6600 |
 | 2026-09-06_mini_a1_isolation_repair_preflight_v3.md | sanji | 2026-09-06 | A | 6594 |
+| 2026-09-06_mini_b0_harness_runtime_boundary_amendment.md | sanji | 2026-09-06 | A | 7690 |
+| 2026-09-06_mini_b0_one_case_gate_unmeasured.md | sanji | 2026-09-06 | B | 3168 |
+| 2026-09-06_mini_b0_orchestrator_capability_floor_partial.md | sanji | 2026-09-06 | A | 7687 |
+| 2026-09-06_queue_claim_payload_coherence.md | sanji | 2026-09-06 | B | 7323 |
 | 2026-09-06_real_workload_attempt_telemetry.md | sanji | 2026-09-06 | A | 3408 |
 | 2026-09-06_real_workload_baseline_boundary.md | sanji | 2026-09-06 | A | 3035 |
 | 2026-09-06_real_workload_billing_reconciliation.md | sanji | 2026-09-06 | A | 4681 |
@@ -38,14 +54,23 @@
 | 2026-09-06_real_workload_reference_burden.md | sanji | 2026-09-06 | A | 3680 |
 | 2026-09-06_real_workload_reference_formats.md | sanji | 2026-09-06 | A | 3341 |
 | 2026-09-06_real_workload_training_batch_2.md | sanji | 2026-09-06 | A | 6215 |
+| 2026-09-06_reserve_controller_restart_stop_review.md | sanji | 2026-09-06 | A | 5399 |
+| 2026-09-06_reserve_controller_stop_restart_integration.md | sanji | 2026-09-06 | A | 7772 |
+| 2026-09-06_routing_policy_comparison.md | sanji | 2026-09-06 | A | 7161 |
+| 2026-09-06_rsi_claim_contract_ratification.md | sanji | 2026-09-06 | — | 5703 |
+| 2026-09-06_self_frontier_heterogeneous_canary.md | sanji | 2026-09-06 | B | 9823 |
+| 2026-09-06_self_frontier_heterogeneous_verification_addendum.md | sanji | 2026-09-06 | B | 6998 |
+| 2026-09-06_ship_lint_recovery_inconclusive.md | sanji | 2026-09-06 | B | 2643 |
 | 2026-09-06_storage_artifact_consumer_census.md | sanji | 2026-09-06 | A | 4714 |
 | 2026-09-06_storage_revocation_witness.md | sanji | 2026-09-06 | B | 4420 |
 | 2026-09-06_storage_witness_coverage_correction.md | sanji | 2026-09-06 | B | 3567 |
+| 2026-09-06_training_wind_tunnel_s1c_partial.md | sanji | 2026-09-06 | A | 6214 |
 | 2026-09-06_cai_abandon_llama_cpp_hotspot.md | sabo | 2026-09-06 | B | 2246 |
 | 2026-09-06_cai_ai_work_tracker_cli_extract.md | sabo | 2026-09-06 | B | 1092 |
 | 2026-09-06_cai_c0_checkpoint_disk_reserve.md | sabo | 2026-09-06 | B | 4253 |
 | 2026-09-06_cai_seat_jobs_write_audit_extract.md | sabo | 2026-09-06 | B | 2082 |
 | 2026-09-06_cai_v0_pioneer_setup.md | sabo | 2026-09-06 | B | 5594 |
+| 2026-09-06_terminal_wall_copy_feedback_repair_receipt.md | robin | 2026-09-06 | B | 4772 |
 | 2026-09-06_wave1_surface_consolidation_receipt.md | robin | 2026-09-06 | B | 6632 |
 | 2026-09-06_wave2_collaboration_continuity_receipt.md | robin | 2026-09-06 | B | 7740 |
 | 2026-09-05_adaptive_work_recomposition_v0_built.md | glee | 2026-09-05 | — | 4720 |
@@ -182,32 +207,7 @@
 | 2026-09-05_runpod_remote_deadline_final_evidence.md | sanji | 2026-09-05 | B | 6974 |
 | 2026-09-05_safe_colony_async_revocation_propagation.md | sanji | 2026-09-05 | A | 6414 |
 | 2026-09-05_safe_colony_authority_convergence.md | sanji | 2026-09-05 | A | 6486 |
-| 2026-09-05_safe_colony_authority_observation_plan_repair.md | sanji | 2026-09-05 | A | 5204 |
-| 2026-09-05_safe_colony_crash_reconciliation.md | sanji | 2026-09-05 | A | 5400 |
-| 2026-09-05_safe_colony_effect_broker_governance.md | sanji | 2026-09-05 | A | 6197 |
-| 2026-09-05_safe_colony_governance_audit.md | sanji | 2026-09-05 | A | 5350 |
-| 2026-09-05_safe_colony_governance_recheck_and_bridge_state.md | sanji | 2026-09-05 | A | 4806 |
-| 2026-09-05_safe_colony_organizational_noticing.md | sanji | 2026-09-05 | A | 5362 |
-| 2026-09-05_safe_colony_post_driver_crash_observation.md | sanji | 2026-09-05 | A | 4749 |
-| 2026-09-05_safe_colony_post_lint_reconciliation.md | sanji | 2026-09-05 | A | 4533 |
-| 2026-09-05_safe_colony_queue_authority_bridge.md | sanji | 2026-09-05 | A | 5812 |
-| 2026-09-05_safe_colony_queued_lifecycle.md | sanji | 2026-09-05 | A | 6353 |
-| 2026-09-05_safe_swarm_broker_cross_instance_regression.md | sanji | 2026-09-05 | A | 4970 |
-| 2026-09-05_safe_swarm_broker_lineage_attachment_regression.md | sanji | 2026-09-05 | A | 3833 |
-| 2026-09-05_shadow_portfolio_treasury_ledger_spec.md | sanji | 2026-09-05 | A | 5391 |
-| 2026-09-05_ship_lint_recovery_routing.md | sanji | 2026-09-05 | B | 5545 |
-| 2026-09-05_small_model_holdout_provenance_reconciliation.md | sanji | 2026-09-05 | B | 7065 |
-| 2026-09-05_storage_cycle_accounting.md | sanji | 2026-09-05 | A | 8037 |
-| 2026-09-05_storage_cycle_execution_cluster.md | sanji | 2026-09-05 | B | 5861 |
-| 2026-09-05_storage_cycle_integrated.md | sanji | 2026-09-05 | A | 11602 |
-| 2026-09-05_storage_headroom_evidence_wave.md | sanji | 2026-09-05 | B | 6182 |
-| 2026-09-05_storage_headroom_invariant.md | sanji | 2026-09-05 | B | 6542 |
-| 2026-09-05_storage_headroom_live_seat_gate.md | sanji | 2026-09-05 | A | 8378 |
-| 2026-09-05_storage_headroom_live_seat_gate_correction.md | sanji | 2026-09-05 | A | 6540 |
-| 2026-09-05_storage_headroom_program_repair.md | sanji | 2026-09-05 | A | 11029 |
-| 2026-09-05_storage_headroom_program_repair_final.md | sanji | 2026-09-05 | A | 11638 |
-| 2026-09-05_storage_key_growth_continuation.md | sanji | 2026-09-05 | B | 11501 |
-| _(+15394 more — see full manifest JSON)_ | | | | |
+| _(+15420 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
