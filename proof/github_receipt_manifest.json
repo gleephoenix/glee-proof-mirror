@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 15809,
+  "total_receipts": 15849,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -36930,6 +36930,14 @@
       "date": "2026-09-06",
       "tier": "B",
       "size_bytes": 8181
+    },
+    {
+      "file_name": "2026-09-07_anti_cringe_crank1_independent_verification.md",
+      "home": "zoro",
+      "rel_path": "2026-09-07_anti_cringe_crank1_independent_verification.md",
+      "date": "2026-09-07",
+      "tier": null,
+      "size_bytes": 3240
     },
     {
       "file_name": "2026-09-07_cai_cycle_autonomous_pricing_loop.md",
@@ -108140,6 +108148,14 @@
       "size_bytes": 7047
     },
     {
+      "file_name": "2026-09-07_ade_vertical_slice_local.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_ade_vertical_slice_local.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 9501
+    },
+    {
       "file_name": "2026-09-07_ade_website_experience.md",
       "home": "sanji",
       "rel_path": "2026-09-07_ade_website_experience.md",
@@ -108148,12 +108164,28 @@
       "size_bytes": 9987
     },
     {
+      "file_name": "2026-09-07_admission_lifecycle_runtime_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_admission_lifecycle_runtime_partial.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 9290
+    },
+    {
       "file_name": "2026-09-07_admission_preparation_recovery.md",
       "home": "sanji",
       "rel_path": "2026-09-07_admission_preparation_recovery.md",
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 9923
+    },
+    {
+      "file_name": "2026-09-07_admission_process_attribution_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_admission_process_attribution_partial.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 5319
     },
     {
       "file_name": "2026-09-07_admission_recovery_continuation.md",
@@ -108196,12 +108228,76 @@
       "size_bytes": 9309
     },
     {
+      "file_name": "2026-09-07_android_download_view_stability.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_download_view_stability.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 5098
+    },
+    {
       "file_name": "2026-09-07_android_emulator_native_acceptance.md",
       "home": "sanji",
       "rel_path": "2026-09-07_android_emulator_native_acceptance.md",
       "date": "2026-09-07",
       "tier": "A",
       "size_bytes": 7261
+    },
+    {
+      "file_name": "2026-09-07_android_export_lifecycle_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_export_lifecycle_candidate.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 7028
+    },
+    {
+      "file_name": "2026-09-07_android_live_output_native_verification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_live_output_native_verification_addendum.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 6153
+    },
+    {
+      "file_name": "2026-09-07_android_live_output_scroll.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_live_output_scroll.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 12440
+    },
+    {
+      "file_name": "2026-09-07_android_live_output_scroll_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_live_output_scroll_reconciliation.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 4534
+    },
+    {
+      "file_name": "2026-09-07_android_native_copy_acceptance.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_native_copy_acceptance.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 6258
+    },
+    {
+      "file_name": "2026-09-07_android_native_test_runner.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_native_test_runner.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 4775
+    },
+    {
+      "file_name": "2026-09-07_android_native_test_runner_verification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_android_native_test_runner_verification_addendum.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 3780
     },
     {
       "file_name": "2026-09-07_android_recovery_and_context_pilot.md",
@@ -108228,12 +108324,76 @@
       "size_bytes": 6558
     },
     {
+      "file_name": "2026-09-07_application_studio_final_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_application_studio_final_verification.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 7577
+    },
+    {
+      "file_name": "2026-09-07_application_studio_rebuild.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_application_studio_rebuild.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 15250
+    },
+    {
+      "file_name": "2026-09-07_astra_prospective_observer.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_astra_prospective_observer.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 4228
+    },
+    {
+      "file_name": "2026-09-07_astra_reconciliation_corpus_adequacy.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_astra_reconciliation_corpus_adequacy.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 4059
+    },
+    {
       "file_name": "2026-09-07_autonomous_orchestrator_activation_partial.md",
       "home": "sanji",
       "rel_path": "2026-09-07_autonomous_orchestrator_activation_partial.md",
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 6686
+    },
+    {
+      "file_name": "2026-09-07_autonomy_live_execution_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_autonomy_live_execution_partial.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 8801
+    },
+    {
+      "file_name": "2026-09-07_bonsai_discord_website_codex.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_bonsai_discord_website_codex.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 8491
+    },
+    {
+      "file_name": "2026-09-07_bonsai_repeated_bootstrap_advice.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_bonsai_repeated_bootstrap_advice.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 4624
+    },
+    {
+      "file_name": "2026-09-07_bonsai_transport_awareness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_bonsai_transport_awareness.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 2866
     },
     {
       "file_name": "2026-09-07_cairn_baseline_material_ask.md",
@@ -108316,12 +108476,36 @@
       "size_bytes": 9942
     },
     {
+      "file_name": "2026-09-07_canary_nine_attempts_credential_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_canary_nine_attempts_credential_boundary.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 7732
+    },
+    {
+      "file_name": "2026-09-07_canary_predispatch_tracker_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_canary_predispatch_tracker_repair.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 8719
+    },
+    {
       "file_name": "2026-09-07_canary_preparation_boundary_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-07_canary_preparation_boundary_repair.md",
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 5574
+    },
+    {
+      "file_name": "2026-09-07_canary_privsep_admin_package.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_canary_privsep_admin_package.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 9632
     },
     {
       "file_name": "2026-09-07_canary_runtime_active_recovery.md",
@@ -108332,12 +108516,28 @@
       "size_bytes": 11844
     },
     {
+      "file_name": "2026-09-07_canary_shared_accounting_privileged_access.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_canary_shared_accounting_privileged_access.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 9244
+    },
+    {
       "file_name": "2026-09-07_canary_slot_allocated_quota_refusal.md",
       "home": "sanji",
       "rel_path": "2026-09-07_canary_slot_allocated_quota_refusal.md",
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 7809
+    },
+    {
+      "file_name": "2026-09-07_cheap_model_error_correcting_systems_program.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_cheap_model_error_correcting_systems_program.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 5312
     },
     {
       "file_name": "2026-09-07_clear_generation_nonce_lookup_partial.md",
@@ -108428,6 +108628,30 @@
       "size_bytes": 4016
     },
     {
+      "file_name": "2026-09-07_discord_missed_reply_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_discord_missed_reply_recovery.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 4681
+    },
+    {
+      "file_name": "2026-09-07_discord_signed_interaction_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_discord_signed_interaction_adapter.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 6068
+    },
+    {
+      "file_name": "2026-09-07_discord_topic_commands.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_discord_topic_commands.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 6995
+    },
+    {
       "file_name": "2026-09-07_event_reconsideration.md",
       "home": "sanji",
       "rel_path": "2026-09-07_event_reconsideration.md",
@@ -108498,6 +108722,14 @@
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 4203
+    },
+    {
+      "file_name": "2026-09-07_geometric_3d_creation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_geometric_3d_creation.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 12069
     },
     {
       "file_name": "2026-09-07_glee_native_procedures_small_models.md",
@@ -108772,6 +109004,22 @@
       "size_bytes": 6008
     },
     {
+      "file_name": "2026-09-07_orchestrator_substrate_process_death.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_orchestrator_substrate_process_death.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 3468
+    },
+    {
+      "file_name": "2026-09-07_orchestrator_terminal_control.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_orchestrator_terminal_control.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 6343
+    },
+    {
       "file_name": "2026-09-07_overflow_recovery_and_native_context.md",
       "home": "sanji",
       "rel_path": "2026-09-07_overflow_recovery_and_native_context.md",
@@ -108788,6 +109036,14 @@
       "size_bytes": 1496
     },
     {
+      "file_name": "2026-09-07_phone_control_live_gate_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_phone_control_live_gate_audit.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 5451
+    },
+    {
       "file_name": "2026-09-07_phone_upload_store_api.md",
       "home": "sanji",
       "rel_path": "2026-09-07_phone_upload_store_api.md",
@@ -108796,12 +109052,60 @@
       "size_bytes": 4294
     },
     {
+      "file_name": "2026-09-07_pinned_download_navigation_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_pinned_download_navigation_repair.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 4903
+    },
+    {
       "file_name": "2026-09-07_post_clear_model_transport_partial.md",
       "home": "sanji",
       "rel_path": "2026-09-07_post_clear_model_transport_partial.md",
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 3269
+    },
+    {
+      "file_name": "2026-09-07_private_discord_forum_connection.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_private_discord_forum_connection.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 3330
+    },
+    {
+      "file_name": "2026-09-07_readiness_canary_ownership_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_readiness_canary_ownership_boundary.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 4161
+    },
+    {
+      "file_name": "2026-09-07_real_workload_workflow_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_real_workload_workflow_economics.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 7279
+    },
+    {
+      "file_name": "2026-09-07_reserve03_bonsai_selection.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_reserve03_bonsai_selection.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 2815
+    },
+    {
+      "file_name": "2026-09-07_resident_controller_recovery_gate_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_resident_controller_recovery_gate_v1.md",
+      "date": "2026-09-07",
+      "tier": "B",
+      "size_bytes": 11730
     },
     {
       "file_name": "2026-09-07_resume_learning_slice.md",
@@ -108874,6 +109178,14 @@
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 10644
+    },
+    {
+      "file_name": "2026-09-07_sunny1_admission_canary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_sunny1_admission_canary.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 8155
     },
     {
       "file_name": "2026-09-07_supervisor_native_readiness_recovery.md",
@@ -108970,6 +109282,14 @@
       "date": "2026-09-07",
       "tier": "B",
       "size_bytes": 7137
+    },
+    {
+      "file_name": "2026-09-07_website_and_ade_deployment.md",
+      "home": "sanji",
+      "rel_path": "2026-09-07_website_and_ade_deployment.md",
+      "date": "2026-09-07",
+      "tier": "A",
+      "size_bytes": 12442
     },
     {
       "file_name": "INDEX.md",
