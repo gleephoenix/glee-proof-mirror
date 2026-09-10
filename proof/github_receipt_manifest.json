@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 17059,
+  "total_receipts": 17275,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -3244,6 +3244,54 @@
       "size_bytes": 2639
     },
     {
+      "file_name": "2026-09-10_chat-free-provider-test-harness-registration.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_chat-free-provider-test-harness-registration.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1710
+    },
+    {
+      "file_name": "2026-09-10_civilization-commerce-test-import-reconciliation.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_civilization-commerce-test-import-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1499
+    },
+    {
+      "file_name": "2026-09-10_keeper_action_null_interactive_preflight_extension.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_action_null_interactive_preflight_extension.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2114
+    },
+    {
+      "file_name": "2026-09-10_keeper_action_null_network_preflight.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_action_null_network_preflight.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3294
+    },
+    {
+      "file_name": "2026-09-10_keeper_admission_boundary_codes.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_admission_boundary_codes.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4201
+    },
+    {
+      "file_name": "2026-09-10_keeper_admission_counter_serialization.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_admission_counter_serialization.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4126
+    },
+    {
       "file_name": "2026-09-10_keeper_agent_bus_api_refusal_recheck.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_agent_bus_api_refusal_recheck.md",
@@ -3332,6 +3380,14 @@
       "size_bytes": 2032
     },
     {
+      "file_name": "2026-09-10_keeper_ariadne_owner_projection.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_ariadne_owner_projection.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2897
+    },
+    {
       "file_name": "2026-09-10_keeper_away_mode_aggregate_count_boundary.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_away_mode_aggregate_count_boundary.md",
@@ -3372,6 +3428,14 @@
       "size_bytes": 2359
     },
     {
+      "file_name": "2026-09-10_keeper_backlog_observation_errors.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_backlog_observation_errors.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4027
+    },
+    {
       "file_name": "2026-09-10_keeper_bounded_activation_release_verdict.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_bounded_activation_release_verdict.md",
@@ -3380,12 +3444,28 @@
       "size_bytes": 2507
     },
     {
+      "file_name": "2026-09-10_keeper_claim_boundary_projection.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_claim_boundary_projection.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2874
+    },
+    {
       "file_name": "2026-09-10_keeper_cli_drain_completion_verdict.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_cli_drain_completion_verdict.md",
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 2331
+    },
+    {
+      "file_name": "2026-09-10_keeper_crew_parity_sanji_canary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_crew_parity_sanji_canary.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 1898
     },
     {
       "file_name": "2026-09-10_keeper_daemon_reconcile_fail_closed.md",
@@ -3460,6 +3540,22 @@
       "size_bytes": 2764
     },
     {
+      "file_name": "2026-09-10_keeper_duty_observation_boundary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_duty_observation_boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3226
+    },
+    {
+      "file_name": "2026-09-10_keeper_episode_duplicate_key_guard.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_episode_duplicate_key_guard.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3706
+    },
+    {
       "file_name": "2026-09-10_keeper_event_ledger_first_write_reparse.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_event_ledger_first_write_reparse.md",
@@ -3500,12 +3596,44 @@
       "size_bytes": 1249
     },
     {
+      "file_name": "2026-09-10_keeper_git_repo_scope_admission.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_git_repo_scope_admission.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2578
+    },
+    {
       "file_name": "2026-09-10_keeper_goal_cli_packet_boundary.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_goal_cli_packet_boundary.md",
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 1527
+    },
+    {
+      "file_name": "2026-09-10_keeper_goal_compiler_branch_review.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_goal_compiler_branch_review.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 2749
+    },
+    {
+      "file_name": "2026-09-10_keeper_goal_compiler_provenance_repair.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_goal_compiler_provenance_repair.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 2137
+    },
+    {
+      "file_name": "2026-09-10_keeper_goal_compiler_provenance_repair_correction.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_goal_compiler_provenance_repair_correction.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 1282
     },
     {
       "file_name": "2026-09-10_keeper_goal_controller_cost_boundary.md",
@@ -3572,6 +3700,102 @@
       "size_bytes": 2353
     },
     {
+      "file_name": "2026-09-10_keeper_graph_intent_schema_guard.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_graph_intent_schema_guard.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3968
+    },
+    {
+      "file_name": "2026-09-10_keeper_graph_intent_schema_guard_addendum.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_graph_intent_schema_guard_addendum.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 1478
+    },
+    {
+      "file_name": "2026-09-10_keeper_graph_node_identity_binding.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_graph_node_identity_binding.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4193
+    },
+    {
+      "file_name": "2026-09-10_keeper_graph_recovery_identity_guard.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_graph_recovery_identity_guard.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4008
+    },
+    {
+      "file_name": "2026-09-10_keeper_graph_request_hash_guard.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_graph_request_hash_guard.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3538
+    },
+    {
+      "file_name": "2026-09-10_keeper_heartbeat_claim_boundary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_heartbeat_claim_boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2125
+    },
+    {
+      "file_name": "2026-09-10_keeper_heartbeat_observation_boundary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_heartbeat_observation_boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3567
+    },
+    {
+      "file_name": "2026-09-10_keeper_heartbeat_state_context.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_heartbeat_state_context.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2106
+    },
+    {
+      "file_name": "2026-09-10_keeper_heartbeat_tail_scan.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_heartbeat_tail_scan.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2535
+    },
+    {
+      "file_name": "2026-09-10_keeper_host_claim_legacy_reobserve.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_host_claim_legacy_reobserve.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2828
+    },
+    {
+      "file_name": "2026-09-10_keeper_host_claim_legacy_reobserve_addendum.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_host_claim_legacy_reobserve_addendum.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 1083
+    },
+    {
+      "file_name": "2026-09-10_keeper_host_claim_legacy_reobserve_addendum_v2.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_host_claim_legacy_reobserve_addendum_v2.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 1305
+    },
+    {
       "file_name": "2026-09-10_keeper_invoke_timeout_durable_cancel.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_invoke_timeout_durable_cancel.md",
@@ -3594,6 +3818,14 @@
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 2813
+    },
+    {
+      "file_name": "2026-09-10_keeper_liveness_observation_boundary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_liveness_observation_boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3294
     },
     {
       "file_name": "2026-09-10_keeper_mission_admission_retryability_observation.md",
@@ -3620,12 +3852,52 @@
       "size_bytes": 2697
     },
     {
+      "file_name": "2026-09-10_keeper_peer_edge_persistence_canary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_peer_edge_persistence_canary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2470
+    },
+    {
+      "file_name": "2026-09-10_keeper_phase0_inventory_completeness.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_phase0_inventory_completeness.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2133
+    },
+    {
+      "file_name": "2026-09-10_keeper_phase1_replay_contract.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_phase1_replay_contract.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2108
+    },
+    {
+      "file_name": "2026-09-10_keeper_preboot_observation_boundary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_preboot_observation_boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2401
+    },
+    {
       "file_name": "2026-09-10_keeper_preparation_readiness_projection.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_preparation_readiness_projection.md",
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 4078
+    },
+    {
+      "file_name": "2026-09-10_keeper_proof_environment_envelope_recheck.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_proof_environment_envelope_recheck.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3293
     },
     {
       "file_name": "2026-09-10_keeper_provenance_session_durability.md",
@@ -3660,6 +3932,22 @@
       "size_bytes": 2418
     },
     {
+      "file_name": "2026-09-10_keeper_receipt_artifact_drift_correction.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_receipt_artifact_drift_correction.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2808
+    },
+    {
+      "file_name": "2026-09-10_keeper_receipt_drift_correction_addendum.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_receipt_drift_correction_addendum.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2372
+    },
+    {
       "file_name": "2026-09-10_keeper_reclaim_terminal_evidence_guard.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_reclaim_terminal_evidence_guard.md",
@@ -3676,12 +3964,76 @@
       "size_bytes": 1900
     },
     {
+      "file_name": "2026-09-10_keeper_reserve_live_reobserve_1124.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_reserve_live_reobserve_1124.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3133
+    },
+    {
+      "file_name": "2026-09-10_keeper_reserve_live_reobserve_1232.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_reserve_live_reobserve_1232.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2413
+    },
+    {
+      "file_name": "2026-09-10_keeper_reserve_preparation_recheck.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_reserve_preparation_recheck.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3903
+    },
+    {
+      "file_name": "2026-09-10_keeper_retirement_idempotence_repair.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_retirement_idempotence_repair.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 5173
+    },
+    {
       "file_name": "2026-09-10_keeper_retry_terminal_resurrection_guard.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_retry_terminal_resurrection_guard.md",
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 2056
+    },
+    {
+      "file_name": "2026-09-10_keeper_review_queue_source_state_projection.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_review_queue_source_state_projection.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2803
+    },
+    {
+      "file_name": "2026-09-10_keeper_review_queue_state_contract.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_review_queue_state_contract.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2748
+    },
+    {
+      "file_name": "2026-09-10_keeper_review_queue_state_contract_addendum.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_review_queue_state_contract_addendum.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 1590
+    },
+    {
+      "file_name": "2026-09-10_keeper_revocable_authority_test_contract.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_revocable_authority_test_contract.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2139
     },
     {
       "file_name": "2026-09-10_keeper_saturation_backoff_completion_verdict.md",
@@ -3700,12 +4052,76 @@
       "size_bytes": 2883
     },
     {
+      "file_name": "2026-09-10_keeper_search_reindex_accounting.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_search_reindex_accounting.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3032
+    },
+    {
+      "file_name": "2026-09-10_keeper_seat_identity_contract_test.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_seat_identity_contract_test.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3708
+    },
+    {
+      "file_name": "2026-09-10_keeper_seat_identity_reconciliation.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_seat_identity_reconciliation.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4746
+    },
+    {
       "file_name": "2026-09-10_keeper_shell_runner_boundary_diagnostic.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_shell_runner_boundary_diagnostic.md",
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 3591
+    },
+    {
+      "file_name": "2026-09-10_keeper_shellrunner_test_boundary.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_shellrunner_test_boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2258
+    },
+    {
+      "file_name": "2026-09-10_keeper_stale_reclaim_refusal.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_stale_reclaim_refusal.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3835
+    },
+    {
+      "file_name": "2026-09-10_keeper_stale_reclaim_refusal_freeze_correction.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_stale_reclaim_refusal_freeze_correction.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 1671
+    },
+    {
+      "file_name": "2026-09-10_keeper_starvation_incident_refresh.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_starvation_incident_refresh.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2698
+    },
+    {
+      "file_name": "2026-09-10_keeper_starvation_refresh_live_addendum.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_starvation_refresh_live_addendum.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 1146
     },
     {
       "file_name": "2026-09-10_keeper_supervisor_completion_refusal.md",
@@ -3732,12 +4148,36 @@
       "size_bytes": 2062
     },
     {
+      "file_name": "2026-09-10_keeper_v5_test_ownership_correction.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_keeper_v5_test_ownership_correction.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 987
+    },
+    {
       "file_name": "2026-09-10_keeper_verifier_authority_boundary_census.md",
       "home": "glee",
       "rel_path": "2026-09-10_keeper_verifier_authority_boundary_census.md",
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 1615
+    },
+    {
+      "file_name": "2026-09-10_mission-contract-commerce-test-import-reconciliation.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_mission-contract-commerce-test-import-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1711
+    },
+    {
+      "file_name": "2026-09-10_worker-test-dialect-normalization.md",
+      "home": "glee",
+      "rel_path": "2026-09-10_worker-test-dialect-normalization.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2029
     },
     {
       "file_name": "META.md",
@@ -117940,6 +118380,14 @@
       "size_bytes": 3309
     },
     {
+      "file_name": "2026-09-10_admin-ai-boolean-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_admin-ai-boolean-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4008
+    },
+    {
       "file_name": "2026-09-10_admin-ai-delegation-race-addendum.md",
       "home": "sanji",
       "rel_path": "2026-09-10_admin-ai-delegation-race-addendum.md",
@@ -117956,12 +118404,44 @@
       "size_bytes": 2102
     },
     {
+      "file_name": "2026-09-10_admin-node-active-audit-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_admin-node-active-audit-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3788
+    },
+    {
       "file_name": "2026-09-10_admin-node-refresh-cas.md",
       "home": "sanji",
       "rel_path": "2026-09-10_admin-node-refresh-cas.md",
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 1980
+    },
+    {
+      "file_name": "2026-09-10_agent-claim-persistence-fail-closed.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-claim-persistence-fail-closed.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1796
+    },
+    {
+      "file_name": "2026-09-10_agent-commons-admission-race.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-commons-admission-race.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1986
+    },
+    {
+      "file_name": "2026-09-10_agent-commons-append-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-commons-append-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1987
     },
     {
       "file_name": "2026-09-10_agent-contract-census.md",
@@ -117972,6 +118452,70 @@
       "size_bytes": 1353
     },
     {
+      "file_name": "2026-09-10_agent-customer-surface-audit-handback-addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-customer-surface-audit-handback-addendum.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2237
+    },
+    {
+      "file_name": "2026-09-10_agent-customer-surface-audit-handback.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-customer-surface-audit-handback.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2308
+    },
+    {
+      "file_name": "2026-09-10_agent-customer-surface-audit.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-customer-surface-audit.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2840
+    },
+    {
+      "file_name": "2026-09-10_agent-event-rowid-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-event-rowid-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2115
+    },
+    {
+      "file_name": "2026-09-10_agent-identity-list-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-identity-list-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1811
+    },
+    {
+      "file_name": "2026-09-10_agent-passport-claim-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-passport-claim-cas.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3569
+    },
+    {
+      "file_name": "2026-09-10_agent-prereg-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-prereg-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4080
+    },
+    {
+      "file_name": "2026-09-10_agent-prereg-atomicity_postfreeze-correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-prereg-atomicity_postfreeze-correction.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3543
+    },
+    {
       "file_name": "2026-09-10_agent-promotion-gate-batch-fixture.md",
       "home": "sanji",
       "rel_path": "2026-09-10_agent-promotion-gate-batch-fixture.md",
@@ -117980,12 +118524,84 @@
       "size_bytes": 1553
     },
     {
+      "file_name": "2026-09-10_agent-receipt-persistence-fail-closed.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-receipt-persistence-fail-closed.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1811
+    },
+    {
       "file_name": "2026-09-10_agent-registry-publication-test-fix.md",
       "home": "sanji",
       "rel_path": "2026-09-10_agent-registry-publication-test-fix.md",
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 1644
+    },
+    {
+      "file_name": "2026-09-10_agent-settlement-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-settlement-cas.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2035
+    },
+    {
+      "file_name": "2026-09-10_agent-settlement-persistence-fail-closed.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agent-settlement-persistence-fail-closed.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1850
+    },
+    {
+      "file_name": "2026-09-10_agora-candidate-persistence-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agora-candidate-persistence-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1892
+    },
+    {
+      "file_name": "2026-09-10_agora-editorial-url-scheme.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agora-editorial-url-scheme.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2784
+    },
+    {
+      "file_name": "2026-09-10_agora-post-persistence-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agora-post-persistence-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1856
+    },
+    {
+      "file_name": "2026-09-10_agora-post-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agora-post-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1851
+    },
+    {
+      "file_name": "2026-09-10_agora-queue-ack-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_agora-queue-ack-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1904
+    },
+    {
+      "file_name": "2026-09-10_ai-start-c0rq-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_ai-start-c0rq-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1968
     },
     {
       "file_name": "2026-09-10_anonymous-claim-atomic-idempotency.md",
@@ -118044,6 +118660,14 @@
       "size_bytes": 3131
     },
     {
+      "file_name": "2026-09-10_atlas-article-source-url-scheme.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-article-source-url-scheme.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3119
+    },
+    {
       "file_name": "2026-09-10_atlas-assignment-id-injectivity.md",
       "home": "sanji",
       "rel_path": "2026-09-10_atlas-assignment-id-injectivity.md",
@@ -118076,6 +118700,126 @@
       "size_bytes": 3757
     },
     {
+      "file_name": "2026-09-10_atlas-assignment-materialization-atomicity_final.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-assignment-materialization-atomicity_final.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2860
+    },
+    {
+      "file_name": "2026-09-10_atlas-assignment-materialization-atomicity_independent-review.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-assignment-materialization-atomicity_independent-review.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1340
+    },
+    {
+      "file_name": "2026-09-10_atlas-assignment-principal-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-assignment-principal-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4266
+    },
+    {
+      "file_name": "2026-09-10_atlas-pending-idempotency-mismatch_final.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-pending-idempotency-mismatch_final.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2883
+    },
+    {
+      "file_name": "2026-09-10_atlas-pending-idempotency-mismatch_independent-review.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-pending-idempotency-mismatch_independent-review.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1220
+    },
+    {
+      "file_name": "2026-09-10_atlas-pending-idempotency-mismatch_postfreeze-v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-pending-idempotency-mismatch_postfreeze-v2.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2964
+    },
+    {
+      "file_name": "2026-09-10_atlas-pending-idempotency-mismatch_postfreeze-v3.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-pending-idempotency-mismatch_postfreeze-v3.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3007
+    },
+    {
+      "file_name": "2026-09-10_atlas-pending-idempotency-mismatch_postfreeze-v4.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-pending-idempotency-mismatch_postfreeze-v4.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2716
+    },
+    {
+      "file_name": "2026-09-10_atlas-pending-r2-create-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-pending-r2-create-cas.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3077
+    },
+    {
+      "file_name": "2026-09-10_atlas-pending-r2-create-cas_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-pending-r2-create-cas_v2.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2839
+    },
+    {
+      "file_name": "2026-09-10_atlas-principal-independence.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-principal-independence.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4397
+    },
+    {
+      "file_name": "2026-09-10_atlas-principal-remainder.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_atlas-principal-remainder.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4056
+    },
+    {
+      "file_name": "2026-09-10_benchmark-review-event-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_benchmark-review-event-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2575
+    },
+    {
+      "file_name": "2026-09-10_bridge-catalog-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_bridge-catalog-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1781
+    },
+    {
+      "file_name": "2026-09-10_c0rqs-read-failure-truthfulness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_c0rqs-read-failure-truthfulness.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1779
+    },
+    {
       "file_name": "2026-09-10_caca-boundary-audit.md",
       "home": "sanji",
       "rel_path": "2026-09-10_caca-boundary-audit.md",
@@ -118100,6 +118844,14 @@
       "size_bytes": 3743
     },
     {
+      "file_name": "2026-09-10_captain-registry-history-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_captain-registry-history-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3766
+    },
+    {
       "file_name": "2026-09-10_cas-receipt-continuity-drift-addendum.md",
       "home": "sanji",
       "rel_path": "2026-09-10_cas-receipt-continuity-drift-addendum.md",
@@ -118116,6 +118868,70 @@
       "size_bytes": 2561
     },
     {
+      "file_name": "2026-09-10_chat-ai-harness-batch.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_chat-ai-harness-batch.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3207
+    },
+    {
+      "file_name": "2026-09-10_chat-legacy-contract-test-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_chat-legacy-contract-test-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2477
+    },
+    {
+      "file_name": "2026-09-10_chat-message-deterministic-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_chat-message-deterministic-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2397
+    },
+    {
+      "file_name": "2026-09-10_chat-schema-usage-units-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_chat-schema-usage-units-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1548
+    },
+    {
+      "file_name": "2026-09-10_chat-turn-persistence-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_chat-turn-persistence-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4367
+    },
+    {
+      "file_name": "2026-09-10_civilization-commerce-test-import-reconciliation-handback.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_civilization-commerce-test-import-reconciliation-handback.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2279
+    },
+    {
+      "file_name": "2026-09-10_civilization-commerce-test-import-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_civilization-commerce-test-import-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2941
+    },
+    {
+      "file_name": "2026-09-10_cloud-credential-json-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_cloud-credential-json-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 5491
+    },
+    {
       "file_name": "2026-09-10_cloud-disconnect-atomicity-addendum.md",
       "home": "sanji",
       "rel_path": "2026-09-10_cloud-disconnect-atomicity-addendum.md",
@@ -118130,6 +118946,22 @@
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2229
+    },
+    {
+      "file_name": "2026-09-10_cloud-token-active-audit-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_cloud-token-active-audit-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3978
+    },
+    {
+      "file_name": "2026-09-10_cloud-usage-null-render.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_cloud-usage-null-render.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3988
     },
     {
       "file_name": "2026-09-10_commerce-settlement-finalization-atomicity.md",
@@ -118154,6 +118986,46 @@
       "date": "2026-09-10",
       "tier": "B",
       "size_bytes": 2492
+    },
+    {
+      "file_name": "2026-09-10_compass-response-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_compass-response-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3906
+    },
+    {
+      "file_name": "2026-09-10_compounding-status-view-test-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_compounding-status-view-test-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1930
+    },
+    {
+      "file_name": "2026-09-10_compute-callback-failure-recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_compute-callback-failure-recovery.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 5948
+    },
+    {
+      "file_name": "2026-09-10_compute-fuel-ledger-atomicity-postfreeze.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_compute-fuel-ledger-atomicity-postfreeze.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3847
+    },
+    {
+      "file_name": "2026-09-10_compute-fuel-ledger-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_compute-fuel-ledger-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4114
     },
     {
       "file_name": "2026-09-10_connect-rate-policy-reconciliation.md",
@@ -118188,6 +119060,30 @@
       "size_bytes": 3606
     },
     {
+      "file_name": "2026-09-10_continuation-room-message-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_continuation-room-message-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1980
+    },
+    {
+      "file_name": "2026-09-10_continuation-room-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_continuation-room-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2001
+    },
+    {
+      "file_name": "2026-09-10_continuation-room-source-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_continuation-room-source-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2003
+    },
+    {
       "file_name": "2026-09-10_continuity-projection-current-check.md",
       "home": "sanji",
       "rel_path": "2026-09-10_continuity-projection-current-check.md",
@@ -118212,12 +119108,60 @@
       "size_bytes": 2220
     },
     {
+      "file_name": "2026-09-10_crew-mail-consent-secret-transport.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_crew-mail-consent-secret-transport.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4192
+    },
+    {
+      "file_name": "2026-09-10_criticism-admin-secret-transport.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_criticism-admin-secret-transport.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4112
+    },
+    {
       "file_name": "2026-09-10_delegated-capability-owner-boundary.md",
       "home": "sanji",
       "rel_path": "2026-09-10_delegated-capability-owner-boundary.md",
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2097
+    },
+    {
+      "file_name": "2026-09-10_dev-edit-job-atomicity-addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_dev-edit-job-atomicity-addendum.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2428
+    },
+    {
+      "file_name": "2026-09-10_dev-edit-job-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_dev-edit-job-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3054
+    },
+    {
+      "file_name": "2026-09-10_developer-branch-create-reconcile.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_developer-branch-create-reconcile.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3666
+    },
+    {
+      "file_name": "2026-09-10_discord-assets-batch-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_discord-assets-batch-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2481
     },
     {
       "file_name": "2026-09-10_discord-capture-promotion-atomicity.md",
@@ -118228,12 +119172,52 @@
       "size_bytes": 2982
     },
     {
+      "file_name": "2026-09-10_discovery-artifact-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_discovery-artifact-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1743
+    },
+    {
       "file_name": "2026-09-10_discovery-claim-cas.md",
       "home": "sanji",
       "rel_path": "2026-09-10_discovery-claim-cas.md",
       "date": "2026-09-10",
       "tier": "B",
       "size_bytes": 3300
+    },
+    {
+      "file_name": "2026-09-10_discovery-problem-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_discovery-problem-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1808
+    },
+    {
+      "file_name": "2026-09-10_discovery-verification-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_discovery-verification-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1738
+    },
+    {
+      "file_name": "2026-09-10_duty-roster-actuator-drift-diagnosis.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_duty-roster-actuator-drift-diagnosis.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 4443
+    },
+    {
+      "file_name": "2026-09-10_economic-opportunity-shared-pointer-sync.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_economic-opportunity-shared-pointer-sync.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3785
     },
     {
       "file_name": "2026-09-10_economic_capability_cursor_correction.md",
@@ -118252,6 +119236,54 @@
       "size_bytes": 3180
     },
     {
+      "file_name": "2026-09-10_feed-lyceum-url-scheme.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_feed-lyceum-url-scheme.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1832
+    },
+    {
+      "file_name": "2026-09-10_feed-vote-fuel-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_feed-vote-fuel-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2409
+    },
+    {
+      "file_name": "2026-09-10_fleet-inspector-link-guard.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_fleet-inspector-link-guard.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1828
+    },
+    {
+      "file_name": "2026-09-10_fuel-credit-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_fuel-credit-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2080
+    },
+    {
+      "file_name": "2026-09-10_fuel-hold-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_fuel-hold-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1939
+    },
+    {
+      "file_name": "2026-09-10_fuel-spend-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_fuel-spend-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1850
+    },
+    {
       "file_name": "2026-09-10_future-agent-cold-inheritance.md",
       "home": "sanji",
       "rel_path": "2026-09-10_future-agent-cold-inheritance.md",
@@ -118260,12 +119292,44 @@
       "size_bytes": 1636
     },
     {
+      "file_name": "2026-09-10_game-improvement-admin-secret-transport.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_game-improvement-admin-secret-transport.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4196
+    },
+    {
+      "file_name": "2026-09-10_game-review-batch-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_game-review-batch-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4185
+    },
+    {
       "file_name": "2026-09-10_generic-workspace-object-atomicity.md",
       "home": "sanji",
       "rel_path": "2026-09-10_generic-workspace-object-atomicity.md",
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2097
+    },
+    {
+      "file_name": "2026-09-10_github-manifest-state-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_github-manifest-state-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3916
+    },
+    {
+      "file_name": "2026-09-10_glee-object-action-href-guard.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_glee-object-action-href-guard.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2722
     },
     {
       "file_name": "2026-09-10_glee_job_list_read_path_diagnosis.md",
@@ -118308,12 +119372,100 @@
       "size_bytes": 2805
     },
     {
+      "file_name": "2026-09-10_lab-dev-chronology.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_lab-dev-chronology.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2665
+    },
+    {
+      "file_name": "2026-09-10_lab-persistence-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_lab-persistence-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2777
+    },
+    {
+      "file_name": "2026-09-10_lab-persistence-atomicity_receipt-correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_lab-persistence-atomicity_receipt-correction.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2591
+    },
+    {
+      "file_name": "2026-09-10_landing-c0rq-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_landing-c0rq-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2256
+    },
+    {
+      "file_name": "2026-09-10_legacy-chat-route-table-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_legacy-chat-route-table-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1918
+    },
+    {
       "file_name": "2026-09-10_lhes_research_replay_fixture.md",
       "home": "sanji",
       "rel_path": "2026-09-10_lhes_research_replay_fixture.md",
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 3356
+    },
+    {
+      "file_name": "2026-09-10_moltbook-read-failure-truthfulness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_moltbook-read-failure-truthfulness.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1843
+    },
+    {
+      "file_name": "2026-09-10_morning-report-delivery-count-update.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_morning-report-delivery-count-update.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3282
+    },
+    {
+      "file_name": "2026-09-10_morning-report-duty-health-update.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_morning-report-duty-health-update.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3583
+    },
+    {
+      "file_name": "2026-09-10_morning-report-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_morning-report-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3228
+    },
+    {
+      "file_name": "2026-09-10_morning-report-seat-capacity-update.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_morning-report-seat-capacity-update.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3242
+    },
+    {
+      "file_name": "2026-09-10_node-pairing-active-audit-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_node-pairing-active-audit-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3682
     },
     {
       "file_name": "2026-09-10_node-sqlite-current-proof-addendum.md",
@@ -118356,6 +119508,110 @@
       "size_bytes": 911
     },
     {
+      "file_name": "2026-09-10_observe-team-run-url-guard.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_observe-team-run-url-guard.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2803
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-adoption-scope-correction-addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-adoption-scope-correction-addendum.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2190
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-adoption-scope-correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-adoption-scope-correction.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2349
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-commerce-handover-addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-commerce-handover-addendum.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2041
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-commerce-handover.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-commerce-handover.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2675
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-fresh-census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-fresh-census.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2731
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-refresh-addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-refresh-addendum.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2651
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-refresh.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2819
+    },
+    {
+      "file_name": "2026-09-10_overnight-goal-report-v5-state-correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_overnight-goal-report-v5-state-correction.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2448
+    },
+    {
+      "file_name": "2026-09-10_payment-alert-secret-header-only-v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_payment-alert-secret-header-only-v2.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2787
+    },
+    {
+      "file_name": "2026-09-10_payment-alert-secret-header-only.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_payment-alert-secret-header-only.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3934
+    },
+    {
+      "file_name": "2026-09-10_payment-link-activation-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_payment-link-activation-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2419
+    },
+    {
+      "file_name": "2026-09-10_payment-reversal-capacity-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_payment-reversal-capacity-cas.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2583
+    },
+    {
       "file_name": "2026-09-10_platform-callout-atomicity.md",
       "home": "sanji",
       "rel_path": "2026-09-10_platform-callout-atomicity.md",
@@ -118370,6 +119626,14 @@
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 4392
+    },
+    {
+      "file_name": "2026-09-10_platform-vitest-gate-causal-triage.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_platform-vitest-gate-causal-triage.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3825
     },
     {
       "file_name": "2026-09-10_privacy_inventory_missing_table_owner_census.md",
@@ -118420,6 +119684,54 @@
       "size_bytes": 4318
     },
     {
+      "file_name": "2026-09-10_project-contribution-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_project-contribution-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2395
+    },
+    {
+      "file_name": "2026-09-10_project-detail-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_project-detail-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1936
+    },
+    {
+      "file_name": "2026-09-10_project-dispatch-task-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_project-dispatch-task-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4228
+    },
+    {
+      "file_name": "2026-09-10_project-manage-task-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_project-manage-task-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1838
+    },
+    {
+      "file_name": "2026-09-10_project-query-rowid-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_project-query-rowid-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2844
+    },
+    {
+      "file_name": "2026-09-10_project-vote-fuel-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_project-vote-fuel-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3179
+    },
+    {
       "file_name": "2026-09-10_prompt-bench-failed-resume-idempotence.md",
       "home": "sanji",
       "rel_path": "2026-09-10_prompt-bench-failed-resume-idempotence.md",
@@ -118428,12 +119740,60 @@
       "size_bytes": 2095
     },
     {
+      "file_name": "2026-09-10_provider-disconnect-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_provider-disconnect-cas.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3767
+    },
+    {
+      "file_name": "2026-09-10_provider-key-upsert-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_provider-key-upsert-cas.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3533
+    },
+    {
+      "file_name": "2026-09-10_provider-keys-live-route.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_provider-keys-live-route.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4040
+    },
+    {
       "file_name": "2026-09-10_provisional-account-cleanup-atomicity.md",
       "home": "sanji",
       "rel_path": "2026-09-10_provisional-account-cleanup-atomicity.md",
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2306
+    },
+    {
+      "file_name": "2026-09-10_public-project-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_public-project-read-truth.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3868
+    },
+    {
+      "file_name": "2026-09-10_public-project-read-truth_postfreeze-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_public-project-read-truth_postfreeze-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 1865
+    },
+    {
+      "file_name": "2026-09-10_public-project-task-privacy.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_public-project-task-privacy.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2627
     },
     {
       "file_name": "2026-09-10_rate_limit_test_harness_vitest_compatibility.md",
@@ -118476,6 +119836,22 @@
       "size_bytes": 1547
     },
     {
+      "file_name": "2026-09-10_receipt-verifier-estate-census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_receipt-verifier-estate-census.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3495
+    },
+    {
+      "file_name": "2026-09-10_registry-control-chronology.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_registry-control-chronology.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3684
+    },
+    {
       "file_name": "2026-09-10_repository-integrity-recheck.md",
       "home": "sanji",
       "rel_path": "2026-09-10_repository-integrity-recheck.md",
@@ -118500,6 +119876,14 @@
       "size_bytes": 958
     },
     {
+      "file_name": "2026-09-10_review-adoption-boundary-pause.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-adoption-boundary-pause.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2547
+    },
+    {
       "file_name": "2026-09-10_review-adoption-capacity-reread.md",
       "home": "sanji",
       "rel_path": "2026-09-10_review-adoption-capacity-reread.md",
@@ -118514,6 +119898,22 @@
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2995
+    },
+    {
+      "file_name": "2026-09-10_review-close-projection-repair-addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-close-projection-repair-addendum.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3415
+    },
+    {
+      "file_name": "2026-09-10_review-close-projection-repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-close-projection-repair.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3962
     },
     {
       "file_name": "2026-09-10_review-closure-ledger-census.md",
@@ -118708,6 +120108,94 @@
       "size_bytes": 2505
     },
     {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-30.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-30.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 4189
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-31.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-31.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 4118
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-32.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-32.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3959
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-33.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-33.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 4020
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-34.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-34.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3786
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-35.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-35.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3791
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-36.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-36.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3819
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-37.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-37.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3819
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-38.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-38.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 3819
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-40.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-40.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3459
+    },
+    {
+      "file_name": "2026-09-10_review-unavailable-closure-cluster-41.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_review-unavailable-closure-cluster-41.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3489
+    },
+    {
       "file_name": "2026-09-10_review-unavailable-closure-cluster-9.md",
       "home": "sanji",
       "rel_path": "2026-09-10_review-unavailable-closure-cluster-9.md",
@@ -118730,6 +120218,14 @@
       "date": "2026-09-10",
       "tier": "A",
       "size_bytes": 5849
+    },
+    {
+      "file_name": "2026-09-10_reviewer-route-blocked-recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_reviewer-route-blocked-recheck.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1955
     },
     {
       "file_name": "2026-09-10_reviewer_capacity_evidence.md",
@@ -118788,6 +120284,46 @@
       "size_bytes": 2611
     },
     {
+      "file_name": "2026-09-10_saturation-guard-filesystem-error-isolation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_saturation-guard-filesystem-error-isolation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2337
+    },
+    {
+      "file_name": "2026-09-10_saturation-guard-malformed-marker.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_saturation-guard-malformed-marker.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2542
+    },
+    {
+      "file_name": "2026-09-10_saturation-guard-malformed-marker_independent-review.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_saturation-guard-malformed-marker_independent-review.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 1087
+    },
+    {
+      "file_name": "2026-09-10_saturation-guard-malformed-marker_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_saturation-guard-malformed-marker_v2.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2875
+    },
+    {
+      "file_name": "2026-09-10_saturation-guard-malformed-marker_v3.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_saturation-guard-malformed-marker_v3.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2709
+    },
+    {
       "file_name": "2026-09-10_search_fallback_guard_and_index_accounting.md",
       "home": "sanji",
       "rel_path": "2026-09-10_search_fallback_guard_and_index_accounting.md",
@@ -118804,6 +120340,14 @@
       "size_bytes": 2717
     },
     {
+      "file_name": "2026-09-10_seat-truth-closure-capacity-diagnosis.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_seat-truth-closure-capacity-diagnosis.md",
+      "date": "2026-09-10",
+      "tier": "B",
+      "size_bytes": 4183
+    },
+    {
       "file_name": "2026-09-10_semantic_compression_invariant_sync.md",
       "home": "sanji",
       "rel_path": "2026-09-10_semantic_compression_invariant_sync.md",
@@ -118812,12 +120356,84 @@
       "size_bytes": 3124
     },
     {
+      "file_name": "2026-09-10_session-export-caller-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_session-export-caller-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4090
+    },
+    {
+      "file_name": "2026-09-10_session-export-deterministic-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_session-export-deterministic-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2425
+    },
+    {
+      "file_name": "2026-09-10_session-export-insertion-order.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_session-export-insertion-order.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2230
+    },
+    {
+      "file_name": "2026-09-10_session-signout-roster-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_session-signout-roster-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4148
+    },
+    {
+      "file_name": "2026-09-10_shell-contract-test-reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_shell-contract-test-reconciliation.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2236
+    },
+    {
+      "file_name": "2026-09-10_shield-queue-sync-atomicity-postformat.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_shield-queue-sync-atomicity-postformat.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3036
+    },
+    {
+      "file_name": "2026-09-10_shield-queue-sync-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_shield-queue-sync-atomicity.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4450
+    },
+    {
+      "file_name": "2026-09-10_shield-queue-sync-atomicity_receipt-correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_shield-queue-sync-atomicity_receipt-correction.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2826
+    },
+    {
       "file_name": "2026-09-10_situation-compiler-dispatch-adoption-tests.md",
       "home": "sanji",
       "rel_path": "2026-09-10_situation-compiler-dispatch-adoption-tests.md",
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2309
+    },
+    {
+      "file_name": "2026-09-10_situation-compiler-lifecycle-adoption.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_situation-compiler-lifecycle-adoption.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3960
     },
     {
       "file_name": "2026-09-10_situation-compiler-multilane-boundary-addendum.md",
@@ -118852,12 +120468,68 @@
       "size_bytes": 1681
     },
     {
+      "file_name": "2026-09-10_spark-oauth-code-cas-addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_spark-oauth-code-cas-addendum.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 2763
+    },
+    {
+      "file_name": "2026-09-10_spark-oauth-code-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_spark-oauth-code-cas.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3746
+    },
+    {
+      "file_name": "2026-09-10_square-webhook-recording-failclosed.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_square-webhook-recording-failclosed.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3655
+    },
+    {
+      "file_name": "2026-09-10_starter-fuel-grant-cas.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_starter-fuel-grant-cas.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2513
+    },
+    {
+      "file_name": "2026-09-10_storage-delete-event-atomicity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_storage-delete-event-atomicity.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2812
+    },
+    {
       "file_name": "2026-09-10_storage-upload-atomicity.md",
       "home": "sanji",
       "rel_path": "2026-09-10_storage-upload-atomicity.md",
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2057
+    },
+    {
+      "file_name": "2026-09-10_terminal-relay-active-audit-boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_terminal-relay-active-audit-boundary.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3726
+    },
+    {
+      "file_name": "2026-09-10_user-project-read-truth.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_user-project-read-truth.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2075
     },
     {
       "file_name": "2026-09-10_weave-provenance-atomicity.md",
@@ -118890,6 +120562,54 @@
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2101
+    },
+    {
+      "file_name": "2026-09-10_work-sprint-conversion-idempotency.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_work-sprint-conversion-idempotency.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 2247
+    },
+    {
+      "file_name": "2026-09-10_work-sprint-customer-isolation-repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_work-sprint-customer-isolation-repair.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 3932
+    },
+    {
+      "file_name": "2026-09-10_worker-chronology-cluster-3.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_worker-chronology-cluster-3.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 5220
+    },
+    {
+      "file_name": "2026-09-10_worker-chronology-cluster-4.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_worker-chronology-cluster-4.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 5051
+    },
+    {
+      "file_name": "2026-09-10_worker-chronology-cluster-5.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_worker-chronology-cluster-5.md",
+      "date": "2026-09-10",
+      "tier": "A",
+      "size_bytes": 4183
+    },
+    {
+      "file_name": "2026-09-10_workspace-companion-platform-chronology.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_workspace-companion-platform-chronology.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3316
     },
     {
       "file_name": "2026-09-10_workspace-dream-idempotency.md",
@@ -118946,6 +120666,14 @@
       "date": "2026-09-10",
       "tier": null,
       "size_bytes": 2550
+    },
+    {
+      "file_name": "2026-09-10_workspace-social-chronology.md",
+      "home": "sanji",
+      "rel_path": "2026-09-10_workspace-social-chronology.md",
+      "date": "2026-09-10",
+      "tier": null,
+      "size_bytes": 3037
     },
     {
       "file_name": "2026-09-10_world-model-v2-consumer-census.md",
