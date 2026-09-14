@@ -1,12 +1,53 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-11T18:41:15.130989+00:00
-> Total receipts indexed: 18090
+> Last updated: 2026-09-14T00:41:09.921256+00:00
+> Total receipts indexed: 18145
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-13_correspondence_resource_executor_checkpoint.md | sanji | 2026-09-13 | B | 4637 |
+| 2026-09-13_daily_scaling_review_refinement.md | sanji | 2026-09-13 | A | 4865 |
+| 2026-09-13_decision_evidence_freshness_v0_1.md | sanji | 2026-09-13 | B | 8285 |
+| 2026-09-13_glee_estate_morning_audit.md | sanji | 2026-09-13 | B | 6928 |
+| 2026-09-13_research_resource_allocation_correspondence_addendum.md | sanji | 2026-09-13 | A | 3548 |
+| 2026-09-13_research_resource_allocation_v1.md | sanji | 2026-09-13 | A | 3507 |
+| 2026-09-13_terminal_wall_cli_tabs.md | sanji | 2026-09-13 | B | 7426 |
+| 2026-09-13_terminal_wall_crash_repair.md | sanji | 2026-09-13 | A | 7739 |
+| 2026-09-12_seam_replay_independent_verification.md | glee | 2026-09-12 | A | 7385 |
+| 2026-09-12_capability-compounding-compile-independent-evaluation.md | sanji | 2026-09-12 | A | 2581 |
+| 2026-09-12_capability-compounding-verification-a1-scope-closure.md | sanji | 2026-09-12 | A | 3978 |
+| 2026-09-12_capability-record-immutability-dependency-boundary.md | sanji | 2026-09-12 | A | 3960 |
+| 2026-09-12_commercial-refresh-repair-revalidation.md | sanji | 2026-09-12 | B | 2902 |
+| 2026-09-12_counterexample-garden-local-recheck.md | sanji | 2026-09-12 | A | 3698 |
+| 2026-09-12_firefox_cache_migration_lifecycle_hardening.md | sanji | 2026-09-12 | B | 7182 |
+| 2026-09-12_firefox_launch_cache_target_repair.md | sanji | 2026-09-12 | A | 6109 |
+| 2026-09-12_graph-mutation-invariant_canonical-chain-guard.md | sanji | 2026-09-12 | A | 6001 |
+| 2026-09-12_institutional_cognition_w0_continuity.md | sanji | 2026-09-12 | C | 2134 |
+| 2026-09-12_institutional_cognition_w0_contract.md | sanji | 2026-09-12 | B | 9181 |
+| 2026-09-12_institutional_cognition_w0_contract_correction.md | sanji | 2026-09-12 | B | 2467 |
+| 2026-09-12_institutional_cognition_w0_ratified_amendment.md | sanji | 2026-09-12 | C | 4639 |
+| 2026-09-12_lane-promise-operating-slice-final.md | sanji | 2026-09-12 | B | 4601 |
+| 2026-09-12_lane-promise-operating-slice.md | sanji | 2026-09-12 | B | 4786 |
+| 2026-09-12_overnight-report-continuation-reconciliation.md | sanji | 2026-09-12 | A | 4682 |
+| 2026-09-12_receipt-freeze-substantive-body-guard-independent-replay.md | sanji | 2026-09-12 | A | 4504 |
+| 2026-09-12_reserve-qualification-event-aware-timeout.md | sanji | 2026-09-12 | A | 3918 |
+| 2026-09-12_reserve_event_qualification_boundary.md | sanji | 2026-09-12 | A | 9093 |
+| 2026-09-12_reserve_event_qualification_instrumentation_partial.md | sanji | 2026-09-12 | A | 5271 |
+| 2026-09-12_reserve_opencode_ollama_route_repair_partial.md | sanji | 2026-09-12 | A | 9067 |
+| 2026-09-12_reserve_wrapper_runtime_boundary.md | sanji | 2026-09-12 | A | 5076 |
+| 2026-09-12_review-nonblocking-continuation.md | sanji | 2026-09-12 | A | 5659 |
+| 2026-09-12_review-wake-canary.md | sanji | 2026-09-12 | A | 5278 |
+| 2026-09-12_robin-review-lane-canary.md | sanji | 2026-09-12 | B | 5422 |
+| 2026-09-12_terminal_copy_canonical_resolver.md | sanji | 2026-09-12 | A | 7694 |
+| 2026-09-12_terminal_provider_identity_canary.md | sanji | 2026-09-12 | B | 6024 |
+| 2026-09-12_bll_v1_goal6_concept_compressor_upgrade_and_empirical_breakthrough.md | robin | 2026-09-12 | B | 4411 |
+| 2026-09-12_economic_engine_live_readiness_audit.md | robin | 2026-09-12 | B | 2452 |
+| 2026-09-12_ext_val_commerce_001_gate_b1_surface_reconciliation.md | robin | 2026-09-12 | B | 4941 |
+| 2026-09-12_graph_mutation_invariant_v1_verification_and_closure.md | robin | 2026-09-12 | B | 2409 |
+| 2026-09-12_payment_rail_canary_verification.md | robin | 2026-09-12 | B | 6357 |
+| 2026-09-12_robin_continuation_kernel_and_canary_audit.md | robin | 2026-09-12 | B | 3171 |
 | 2026-09-11_keeper_0ek_cycle_envelope_1610.md | glee | 2026-09-11 | A | 2216 |
 | 2026-09-11_keeper_8hyGP1_closure_1525.md | glee | 2026-09-11 | A | 3472 |
 | 2026-09-11_keeper_agent_bus_callback_template_boundary.md | glee | 2026-09-11 | A | 3747 |
@@ -99,6 +140,7 @@
 | 2026-09-11_agent-promotion-write-error-boundary.md | sanji | 2026-09-11 | — | 1953 |
 | 2026-09-11_agent-receipt-persistence-fail-closed-review.md | sanji | 2026-09-11 | A | 1417 |
 | 2026-09-11_agent-run-event-payload-immutability-independent-review.md | sanji | 2026-09-11 | — | 1960 |
+| 2026-09-11_agent-trace-extract-publication-durability.md | sanji | 2026-09-11 | — | 1901 |
 | 2026-09-11_agent-trace-model-provenance-gate-review.md | sanji | 2026-09-11 | A | 1388 |
 | 2026-09-11_agent-trace-rank-publication-durability.md | sanji | 2026-09-11 | — | 1600 |
 | 2026-09-11_agent-workbench-malformed-payload-boundary-adoption.md | sanji | 2026-09-11 | — | 1626 |
@@ -140,6 +182,7 @@
 | 2026-09-11_capability-compounding-a1-path-correction.md | sanji | 2026-09-11 | — | 1762 |
 | 2026-09-11_capability-compounding-a1-successor-independent-review.md | sanji | 2026-09-11 | — | 1982 |
 | 2026-09-11_capability-compounding-a2-family-freeze.md | sanji | 2026-09-11 | A | 4531 |
+| 2026-09-11_capability-compounding-compile.md | sanji | 2026-09-11 | A | 8247 |
 | 2026-09-11_capability-compounding-replan-independent-review.md | sanji | 2026-09-11 | — | 1458 |
 | 2026-09-11_capability-compounding-replan.md | sanji | 2026-09-11 | A | 3539 |
 | 2026-09-11_capability-compounding-verification-a1-independent-review.md | sanji | 2026-09-11 | — | 1719 |
@@ -164,50 +207,7 @@
 | 2026-09-11_commercial-refresh-ownership-diagnosis-proof-output-reconciliation.md | sanji | 2026-09-11 | B | 923 |
 | 2026-09-11_commercial-refresh-ownership-diagnosis.md | sanji | 2026-09-11 | B | 2349 |
 | 2026-09-11_communication-layer-c1-c5-reconciliation.md | sanji | 2026-09-11 | B | 2833 |
-| 2026-09-11_completion-authority-finite-timestamp-independent-review.md | sanji | 2026-09-11 | — | 2628 |
-| 2026-09-11_computer-agency-durable-publication.md | sanji | 2026-09-11 | — | 2935 |
-| 2026-09-11_context-manifest-publication.md | sanji | 2026-09-11 | — | 2884 |
-| 2026-09-11_continual-task-episode-deserialization-boundary.md | sanji | 2026-09-11 | — | 1941 |
-| 2026-09-11_continuation-canary-relay-error-boundary.md | sanji | 2026-09-11 | — | 1707 |
-| 2026-09-11_continuation-nonterminal-classification.md | sanji | 2026-09-11 | — | 3501 |
-| 2026-09-11_contract-envelope-boundaries.md | sanji | 2026-09-11 | — | 2128 |
-| 2026-09-11_contract-ledger-atomic-write-temp-path.md | sanji | 2026-09-11 | A | 5711 |
-| 2026-09-11_control_plane_efficiency_foundation.md | sanji | 2026-09-11 | A | 7549 |
-| 2026-09-11_coordination-mcp-post-argument-shape-boundary.md | sanji | 2026-09-11 | A | 2690 |
-| 2026-09-11_corpus-provenance-baseline-publication-concurrency.md | sanji | 2026-09-11 | — | 2651 |
-| 2026-09-11_correspondence-generator-failure-diagnostics-review.md | sanji | 2026-09-11 | A | 1272 |
-| 2026-09-11_cost-ceiling-daily-budget-concurrency.md | sanji | 2026-09-11 | — | 2738 |
-| 2026-09-11_cycle-contract-objectref-deserialization-boundary.md | sanji | 2026-09-11 | — | 1894 |
-| 2026-09-11_decision-split-watcher-state-durability.md | sanji | 2026-09-11 | — | 2793 |
-| 2026-09-11_dispatch-authority-observation-error-boundary.md | sanji | 2026-09-11 | — | 1655 |
-| 2026-09-11_dispatch-authority-observation-independent-review.md | sanji | 2026-09-11 | — | 2613 |
-| 2026-09-11_durable-event-log-finite-json-identity.md | sanji | 2026-09-11 | — | 1636 |
-| 2026-09-11_economic-quote-error-boundary-review.md | sanji | 2026-09-11 | A | 1255 |
-| 2026-09-11_economic-quote-error-boundary.md | sanji | 2026-09-11 | — | 1519 |
-| 2026-09-11_economic-truth-gate-evidence-store-compat-review.md | sanji | 2026-09-11 | A | 1650 |
-| 2026-09-11_event-ledger-build-idempotency-review.md | sanji | 2026-09-11 | A | 1346 |
-| 2026-09-11_event-ledger-economics-preservation.md | sanji | 2026-09-11 | A | 2532 |
-| 2026-09-11_evidence-evaluation-result-boundary.md | sanji | 2026-09-11 | — | 2147 |
-| 2026-09-11_evidence-packet-shape-boundary.md | sanji | 2026-09-11 | — | 2208 |
-| 2026-09-11_evidence-vault-report-publication-concurrency.md | sanji | 2026-09-11 | — | 3334 |
-| 2026-09-11_execution-reality-worker-record-publication-concurrency.md | sanji | 2026-09-11 | — | 3397 |
-| 2026-09-11_execution-witness-finite-json-contract.md | sanji | 2026-09-11 | — | 1370 |
-| 2026-09-11_experiment-spec-deserialization-shape-boundary.md | sanji | 2026-09-11 | — | 2518 |
-| 2026-09-11_failure-diagnosis-report-publication-concurrency.md | sanji | 2026-09-11 | — | 3252 |
-| 2026-09-11_falsification-ledger-scalar-roundtrip.md | sanji | 2026-09-11 | A | 4003 |
-| 2026-09-11_federation-ipc-error-boundary.md | sanji | 2026-09-11 | A | 3591 |
-| 2026-09-11_feed-vote-fuel-atomicity-independent-verification.md | sanji | 2026-09-11 | A | 3398 |
-| 2026-09-11_fleet-throughput-denominator-review.md | sanji | 2026-09-11 | A | 1362 |
-| 2026-09-11_future-agent-cold-inheritance-start.md | sanji | 2026-09-11 | — | 1539 |
-| 2026-09-11_future-agent-cold-inheritance.md | sanji | 2026-09-11 | B | 4188 |
-| 2026-09-11_generic-route-wrap-error-boundary-adoption.md | sanji | 2026-09-11 | — | 1106 |
-| 2026-09-11_generic-route-wrap-error-boundary-independent-review.md | sanji | 2026-09-11 | — | 1239 |
-| 2026-09-11_github-app-token-body-shape-review.md | sanji | 2026-09-11 | A | 1215 |
-| 2026-09-11_glee-event-envelope-boundary.md | sanji | 2026-09-11 | — | 2122 |
-| 2026-09-11_glee-event-required-envelope-boundary.md | sanji | 2026-09-11 | — | 2277 |
-| 2026-09-11_glee-event-top-level-boundary.md | sanji | 2026-09-11 | — | 2089 |
-| 2026-09-11_goal-engine-orientation-immutability-independent-review.md | sanji | 2026-09-11 | — | 2049 |
-| _(+17890 more — see full manifest JSON)_ | | | | |
+| _(+17945 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
