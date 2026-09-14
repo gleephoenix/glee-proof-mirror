@@ -1,24 +1,53 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-14T12:41:08.644032+00:00
-> Total receipts indexed: 18238
+> Last updated: 2026-09-14T18:41:10.563439+00:00
+> Total receipts indexed: 18275
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-14_0c2zcc_meta_manifest.md | sanji | 2026-09-14 | A | 5057 |
+| 2026-09-14_0c2zcc_task_binding_audit.md | sanji | 2026-09-14 | A | 3467 |
 | 2026-09-14_active-work-projection-consumer-map.md | sanji | 2026-09-14 | B | 4226 |
+| 2026-09-14_active-work-projection-independent-fail-closed-review.md | sanji | 2026-09-14 | B | 5880 |
 | 2026-09-14_ak_v0_admissible_real_review.md | sanji | 2026-09-14 | B | 6719 |
 | 2026-09-14_ak_v0_archival_closure.md | sanji | 2026-09-14 | B | 4758 |
 | 2026-09-14_ak_v0_archival_closure_v2.md | sanji | 2026-09-14 | B | 5293 |
 | 2026-09-14_ak_v0_archival_closure_v3.md | sanji | 2026-09-14 | B | 4886 |
+| 2026-09-14_aos_write_boundary_preflight_false_mutation_fix.md | sanji | 2026-09-14 | B | 4702 |
 | 2026-09-14_bluesky_standing_publication_grant_infrastructure.md | sanji | 2026-09-14 | A | 8761 |
+| 2026-09-14_estate_ship_lint_classification.md | sanji | 2026-09-14 | A | 5166 |
+| 2026-09-14_ext-val-commerce-001_acquisition-candidate-census-addendum.md | sanji | 2026-09-14 | B | 2669 |
+| 2026-09-14_ext-val-commerce-001_acquisition-candidate-census.md | sanji | 2026-09-14 | C | 3946 |
+| 2026-09-14_ext-val-commerce-001_ca30-acceptance-rehearsal.md | sanji | 2026-09-14 | A | 4061 |
+| 2026-09-14_ext-val-commerce-001_exact-amount-guard-patch.md | sanji | 2026-09-14 | A | 4537 |
+| 2026-09-14_ext-val-commerce-001_fuel-economics-adversarial-review.md | sanji | 2026-09-14 | A | 3325 |
+| 2026-09-14_ext-val-commerce-001_fuel-economics-classification-addendum.md | sanji | 2026-09-14 | A | 4767 |
+| 2026-09-14_ext-val-commerce-001_gate-b2-observation.md | sanji | 2026-09-14 | C | 4578 |
+| 2026-09-14_ext-val-commerce-001_identity-duplicate-matrix.md | sanji | 2026-09-14 | A | 4189 |
+| 2026-09-14_ext-val-commerce-001_n8n-buyer-readiness.md | sanji | 2026-09-14 | C | 3979 |
+| 2026-09-14_ext-val-commerce-001_negative-economics.md | sanji | 2026-09-14 | A | 3989 |
+| 2026-09-14_ext-val-commerce-001_route-wiring-audit.md | sanji | 2026-09-14 | A | 4034 |
+| 2026-09-14_ext-val-commerce-001_settlement-guard-preflight.md | sanji | 2026-09-14 | A | 4095 |
+| 2026-09-14_ext-val-commerce-001_stripe-adapter-suite.md | sanji | 2026-09-14 | A | 2613 |
+| 2026-09-14_ext-val-commerce-001_stripe-economics-compare-packet.md | sanji | 2026-09-14 | A | 5376 |
+| 2026-09-14_ext-val-commerce-001_targeted-lint.md | sanji | 2026-09-14 | A | 3139 |
+| 2026-09-14_ext_val_commerce_001_customer_reentry_and_preflight_race.md | sanji | 2026-09-14 | C | 8488 |
+| 2026-09-14_ext_val_commerce_001_customer_reentry_receipt_clarification.md | sanji | 2026-09-14 | B | 2785 |
+| 2026-09-14_ext_val_commerce_001_direct_acquisition_frontier_v2.md | sanji | 2026-09-14 | B | 8283 |
+| 2026-09-14_ext_val_commerce_001_fuel_economics.md | sanji | 2026-09-14 | A | 5518 |
 | 2026-09-14_ext_val_commerce_001_fulfillment_readiness.md | sanji | 2026-09-14 | B | 4765 |
 | 2026-09-14_ext_val_commerce_001_fulfillment_readiness_v2.md | sanji | 2026-09-14 | B | 4549 |
 | 2026-09-14_ext_val_commerce_001_gate_b2_live_square_and_acquisition_stage.md | sanji | 2026-09-14 | A | 8035 |
 | 2026-09-14_ext_val_commerce_001_paid_trigger_blocker.md | sanji | 2026-09-14 | B | 3457 |
+| 2026-09-14_gate_b2_conversion_payment_idempotency_repair.md | sanji | 2026-09-14 | B | 9066 |
+| 2026-09-14_gate_b2_send_52bbc97830ec_publication.md | sanji | 2026-09-14 | C | 8475 |
+| 2026-09-14_gate_b2_send_52bbc97830ec_verification_addendum.md | sanji | 2026-09-14 | C | 4976 |
+| 2026-09-14_glee-autonomy-benchmark-continuation.md | sanji | 2026-09-14 | B | 3519 |
 | 2026-09-14_media_resolver_bounded_wave.md | sanji | 2026-09-14 | A | 5942 |
 | 2026-09-14_mobile_wall_resume_v012_host_verification_and_gateway_fix.md | sanji | 2026-09-14 | A | 6518 |
+| 2026-09-14_paid_pilot_continuity_dollar_literal_repair.md | sanji | 2026-09-14 | B | 3258 |
 | 2026-09-14_paired-pilot-legibility-transfer-execution-packet.md | sanji | 2026-09-14 | B | 5770 |
 | 2026-09-14_paired-pilot-legibility-transfer-source-fixtures.md | sanji | 2026-09-14 | B | 6967 |
 | 2026-09-14_paired-pilot-legibility-transfer-v0.md | sanji | 2026-09-14 | A | 4181 |
@@ -27,13 +56,21 @@
 | 2026-09-14_paired_pilot_no_spend_harness_and_p03_holdout_v1.md | sanji | 2026-09-14 | B | 6226 |
 | 2026-09-14_paired_pilot_observational_downgrade_v2.md | sanji | 2026-09-14 | B | 5643 |
 | 2026-09-14_parent_delegate_adapter.md | sanji | 2026-09-14 | A | 5063 |
+| 2026-09-14_proc-cli-control-surface-parity-telemetry-census.md | sanji | 2026-09-14 | B | 4930 |
 | 2026-09-14_resource_observatory_run002_captain_ratification.md | sanji | 2026-09-14 | A | 5751 |
 | 2026-09-14_resource_observatory_run002_independent_review.md | sanji | 2026-09-14 | B | 6491 |
 | 2026-09-14_resource_observatory_v01_independent_review.md | sanji | 2026-09-14 | B | 5466 |
 | 2026-09-14_resource_observatory_v01_run002_remediation.md | sanji | 2026-09-14 | A | 9810 |
 | 2026-09-14_review-nonblocking-active-work-shadow-projection.md | sanji | 2026-09-14 | B | 5820 |
 | 2026-09-14_review-nonblocking-current-registry-shadow-comparison.md | sanji | 2026-09-14 | B | 3916 |
+| 2026-09-14_selector_convergence_repair.md | sanji | 2026-09-14 | B | 4432 |
+| 2026-09-14_ship_lint_estate_aggregate.md | sanji | 2026-09-14 | A | 3315 |
 | 2026-09-14_ship_lint_shard0_boundary.md | sanji | 2026-09-14 | A | 3531 |
+| 2026-09-14_side1-cycle0-gelu-batch-workload.md | sanji | 2026-09-14 | B | 3959 |
+| 2026-09-14_side1-cycle0-gelu-dispatch-inventory.md | sanji | 2026-09-14 | B | 4298 |
+| 2026-09-14_side1-cycle0-gelu-isa-fallback.md | sanji | 2026-09-14 | B | 3737 |
+| 2026-09-14_side1-cycle0-gelu-target-consumer.md | sanji | 2026-09-14 | A | 3768 |
+| 2026-09-14_side1-cycle0-gelu-workload.md | sanji | 2026-09-14 | B | 4201 |
 | 2026-09-14_work_sprint_paid_pilot_positioning_repair.md | sanji | 2026-09-14 | A | 6333 |
 | 2026-09-14_capability_organ_v01_promotion_and_shadow_wiring.md | robin | 2026-09-14 | B | 3943 |
 | 2026-09-14_ext_val_commerce_001_gate_b2_autonomous_commerce_pipeline.md | robin | 2026-09-14 | B | 11418 |
@@ -170,44 +207,7 @@
 | 2026-09-11_keeper_reserve_prep_v11_tmux_boundary.md | glee | 2026-09-11 | A | 3800 |
 | 2026-09-11_keeper_reserve_reobserve_0035.md | glee | 2026-09-11 | A | 1549 |
 | 2026-09-11_keeper_reserve_reobserve_0149.md | glee | 2026-09-11 | A | 1422 |
-| 2026-09-11_keeper_reserve_verifier_gate_0219.md | glee | 2026-09-11 | A | 1748 |
-| 2026-09-11_keeper_retry55_verifier_gate_0256.md | glee | 2026-09-11 | A | 2038 |
-| 2026-09-11_keeper_retry56_verifier_gate_0356.md | glee | 2026-09-11 | A | 2378 |
-| 2026-09-11_keeper_review_ack_identity_boundary.md | glee | 2026-09-11 | A | 2241 |
-| 2026-09-11_keeper_roe_review_consumption.md | glee | 2026-09-11 | A | 2256 |
-| 2026-09-11_keeper_scalar_closure_independent_pass_1315.md | glee | 2026-09-11 | A | 2896 |
-| 2026-09-11_keeper_scalar_closure_repair_1305.md | glee | 2026-09-11 | A | 2831 |
-| 2026-09-11_keeper_seat_identity_reconciliation.md | glee | 2026-09-11 | A | 3489 |
-| 2026-09-11_keeper_seed_dashboard_path_repair_0344.md | glee | 2026-09-11 | A | 3252 |
-| 2026-09-11_keeper_seed_pulse_path_repair_0340.md | glee | 2026-09-11 | A | 3153 |
-| 2026-09-11_keeper_seed_status_path_repair_0330.md | glee | 2026-09-11 | A | 2371 |
-| 2026-09-11_keeper_ship_lint_external_evidence_prune_0508.md | glee | 2026-09-11 | A | 2182 |
-| 2026-09-11_keeper_ship_lint_generated_tree_prune_0420.md | glee | 2026-09-11 | A | 2533 |
-| 2026-09-11_keeper_ship_lint_help_readonly_0458.md | glee | 2026-09-11 | A | 2085 |
-| 2026-09-11_keeper_ship_lint_post_prune_resume_0502.md | glee | 2026-09-11 | A | 1881 |
-| 2026-09-11_keeper_ship_lint_resume_after_wake_repair_0518.md | glee | 2026-09-11 | A | 1772 |
-| 2026-09-11_keeper_ship_lint_resume_segment_0521.md | glee | 2026-09-11 | A | 1628 |
-| 2026-09-11_keeper_ship_lint_resume_segment_0526.md | glee | 2026-09-11 | A | 1671 |
-| 2026-09-11_keeper_ship_lint_test_profile_prune_0428.md | glee | 2026-09-11 | A | 2074 |
-| 2026-09-11_keeper_ship_operator_paths_0440.md | glee | 2026-09-11 | A | 2763 |
-| 2026-09-11_keeper_ship_wake_isolated_bounded_lint_0514.md | glee | 2026-09-11 | A | 2340 |
-| 2026-09-11_keeper_snull_capability_telemetry.md | glee | 2026-09-11 | A | 2307 |
-| 2026-09-11_keeper_snull_host_route_inventory.md | glee | 2026-09-11 | A | 2138 |
-| 2026-09-11_keeper_state_semantics_and_egress_frontier_1425.md | glee | 2026-09-11 | B | 2760 |
-| 2026-09-11_keeper_verifier_boundary_reobserve_1410.md | glee | 2026-09-11 | C | 2778 |
-| 2026-09-11_keeper_verifier_config_route_0221.md | glee | 2026-09-11 | A | 1705 |
-| 2026-09-11_keeper_verifier_contract_1230.md | glee | 2026-09-11 | A | 3267 |
-| 2026-09-11_keeper_verifier_route_projection_0237.md | glee | 2026-09-11 | A | 2043 |
-| 2026-09-11_keeper_wall_owner_unit_drift_diagnostics.md | glee | 2026-09-11 | A | 2546 |
-| 2026-09-11_sanji_completion_boundary_guard_0909.md | glee | 2026-09-11 | C | 4161 |
-| 2026-09-11_sanji_meta_graph_repair_0621.md | glee | 2026-09-11 | A | 3446 |
-| 2026-09-11_sanji_meta_required_repair_0609.md | glee | 2026-09-11 | A | 2971 |
-| 2026-09-11_sanji_mutable_attribution_provenance_audit_0937.md | glee | 2026-09-11 | C | 2591 |
-| 2026-09-11_sanji_observer_negative_evidence_contract_1008.md | glee | 2026-09-11 | A | 4261 |
-| 2026-09-11_sanji_provenance_artifact_path_repair_0954.md | glee | 2026-09-11 | C | 2848 |
-| 2026-09-11_sanji_receipt_attribution_gap_manifest_0931.md | glee | 2026-09-11 | C | 3256 |
-| 2026-09-11_sanji_receipt_attribution_writer_repair_0640.md | glee | 2026-09-11 | A | 3765 |
-| _(+18038 more — see full manifest JSON)_ | | | | |
+| _(+18075 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
