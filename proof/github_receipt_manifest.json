@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 18275,
+  "total_receipts": 18305,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -5354,6 +5354,14 @@
       "date": "2026-09-12",
       "tier": "A",
       "size_bytes": 7385
+    },
+    {
+      "file_name": "2026-09-14_core_test_regressions_diagnosis_and_site_manager_pin_fix.md",
+      "home": "glee",
+      "rel_path": "2026-09-14_core_test_regressions_diagnosis_and_site_manager_pin_fix.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 6312
     },
     {
       "file_name": "META.md",
@@ -127972,6 +127980,22 @@
       "size_bytes": 4094
     },
     {
+      "file_name": "2026-09-14_0c2zcc_admission_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_0c2zcc_admission_recovery.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 7770
+    },
+    {
+      "file_name": "2026-09-14_0c2zcc_admission_surface_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_0c2zcc_admission_surface_audit.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 4363
+    },
+    {
       "file_name": "2026-09-14_0c2zcc_meta_manifest.md",
       "home": "sanji",
       "rel_path": "2026-09-14_0c2zcc_meta_manifest.md",
@@ -127980,12 +128004,36 @@
       "size_bytes": 5057
     },
     {
+      "file_name": "2026-09-14_0c2zcc_retry_rebind_diagnostic.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_0c2zcc_retry_rebind_diagnostic.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 5287
+    },
+    {
       "file_name": "2026-09-14_0c2zcc_task_binding_audit.md",
       "home": "sanji",
       "rel_path": "2026-09-14_0c2zcc_task_binding_audit.md",
       "date": "2026-09-14",
       "tier": "A",
       "size_bytes": 3467
+    },
+    {
+      "file_name": "2026-09-14_0c2zcc_v5_rebind_exercise.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_0c2zcc_v5_rebind_exercise.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 8337
+    },
+    {
+      "file_name": "2026-09-14_0c2zcc_v5_rebind_verification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_0c2zcc_v5_rebind_verification_addendum.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 4762
     },
     {
       "file_name": "2026-09-14_active-work-projection-consumer-map.md",
@@ -128052,6 +128100,14 @@
       "size_bytes": 8761
     },
     {
+      "file_name": "2026-09-14_dtv5_canonical_mail_transport_trace.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_dtv5_canonical_mail_transport_trace.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 6160
+    },
+    {
       "file_name": "2026-09-14_estate_ship_lint_classification.md",
       "home": "sanji",
       "rel_path": "2026-09-14_estate_ship_lint_classification.md",
@@ -128092,6 +128148,14 @@
       "size_bytes": 4537
     },
     {
+      "file_name": "2026-09-14_ext-val-commerce-001_externalcomm_bootstrap.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_externalcomm_bootstrap.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 7204
+    },
+    {
       "file_name": "2026-09-14_ext-val-commerce-001_fuel-economics-adversarial-review.md",
       "home": "sanji",
       "rel_path": "2026-09-14_ext-val-commerce-001_fuel-economics-adversarial-review.md",
@@ -128108,6 +128172,14 @@
       "size_bytes": 4767
     },
     {
+      "file_name": "2026-09-14_ext-val-commerce-001_funnel_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_funnel_recheck.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 1934
+    },
+    {
       "file_name": "2026-09-14_ext-val-commerce-001_gate-b2-observation.md",
       "home": "sanji",
       "rel_path": "2026-09-14_ext-val-commerce-001_gate-b2-observation.md",
@@ -128116,12 +128188,36 @@
       "size_bytes": 4578
     },
     {
+      "file_name": "2026-09-14_ext-val-commerce-001_global_blocked_frontier.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_global_blocked_frontier.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 3251
+    },
+    {
+      "file_name": "2026-09-14_ext-val-commerce-001_hook_durability_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_hook_durability_repair.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 7436
+    },
+    {
       "file_name": "2026-09-14_ext-val-commerce-001_identity-duplicate-matrix.md",
       "home": "sanji",
       "rel_path": "2026-09-14_ext-val-commerce-001_identity-duplicate-matrix.md",
       "date": "2026-09-14",
       "tier": "A",
       "size_bytes": 4189
+    },
+    {
+      "file_name": "2026-09-14_ext-val-commerce-001_live_hire_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_live_hire_readiness.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 2045
     },
     {
       "file_name": "2026-09-14_ext-val-commerce-001_n8n-buyer-readiness.md",
@@ -128138,6 +128234,30 @@
       "date": "2026-09-14",
       "tier": "A",
       "size_bytes": 3989
+    },
+    {
+      "file_name": "2026-09-14_ext-val-commerce-001_public_demand_scan.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_public_demand_scan.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 2744
+    },
+    {
+      "file_name": "2026-09-14_ext-val-commerce-001_public_demand_scan_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_public_demand_scan_followup.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 1851
+    },
+    {
+      "file_name": "2026-09-14_ext-val-commerce-001_public_demand_scan_upwork_job_search.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext-val-commerce-001_public_demand_scan_upwork_job_search.md",
+      "date": "2026-09-14",
+      "tier": "C",
+      "size_bytes": 2324
     },
     {
       "file_name": "2026-09-14_ext-val-commerce-001_route-wiring-audit.md",
@@ -128180,6 +128300,14 @@
       "size_bytes": 3139
     },
     {
+      "file_name": "2026-09-14_ext_val_commerce_001_control_recovery_v0_1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext_val_commerce_001_control_recovery_v0_1.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 5430
+    },
+    {
       "file_name": "2026-09-14_ext_val_commerce_001_customer_reentry_and_preflight_race.md",
       "home": "sanji",
       "rel_path": "2026-09-14_ext_val_commerce_001_customer_reentry_and_preflight_race.md",
@@ -128202,6 +128330,14 @@
       "date": "2026-09-14",
       "tier": "B",
       "size_bytes": 8283
+    },
+    {
+      "file_name": "2026-09-14_ext_val_commerce_001_direct_acquisition_observation_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext_val_commerce_001_direct_acquisition_observation_refresh.md",
+      "date": "2026-09-14",
+      "tier": "C",
+      "size_bytes": 4021
     },
     {
       "file_name": "2026-09-14_ext_val_commerce_001_fuel_economics.md",
@@ -128236,6 +128372,22 @@
       "size_bytes": 8035
     },
     {
+      "file_name": "2026-09-14_ext_val_commerce_001_guest_inquiry_conversion.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext_val_commerce_001_guest_inquiry_conversion.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 8476
+    },
+    {
+      "file_name": "2026-09-14_ext_val_commerce_001_guest_inquiry_conversion_v0_1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext_val_commerce_001_guest_inquiry_conversion_v0_1.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 7152
+    },
+    {
       "file_name": "2026-09-14_ext_val_commerce_001_paid_trigger_blocker.md",
       "home": "sanji",
       "rel_path": "2026-09-14_ext_val_commerce_001_paid_trigger_blocker.md",
@@ -128244,12 +128396,36 @@
       "size_bytes": 3457
     },
     {
+      "file_name": "2026-09-14_ext_val_commerce_001_rfq_xlsx_readiness_v0_1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_ext_val_commerce_001_rfq_xlsx_readiness_v0_1.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 9155
+    },
+    {
+      "file_name": "2026-09-14_fresh_run_recovery_v0_1_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_fresh_run_recovery_v0_1_contract.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 4711
+    },
+    {
       "file_name": "2026-09-14_gate_b2_conversion_payment_idempotency_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-14_gate_b2_conversion_payment_idempotency_repair.md",
       "date": "2026-09-14",
       "tier": "B",
       "size_bytes": 9066
+    },
+    {
+      "file_name": "2026-09-14_gate_b2_route_failure_and_acquisition_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_gate_b2_route_failure_and_acquisition_reconciliation.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 6781
     },
     {
       "file_name": "2026-09-14_gate_b2_send_52bbc97830ec_publication.md",
@@ -128266,6 +128442,14 @@
       "date": "2026-09-14",
       "tier": "C",
       "size_bytes": 4976
+    },
+    {
+      "file_name": "2026-09-14_gate_b2_square_provider_truth_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_gate_b2_square_provider_truth_repair.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 11281
     },
     {
       "file_name": "2026-09-14_glee-autonomy-benchmark-continuation.md",
@@ -128420,6 +128604,22 @@
       "size_bytes": 3916
     },
     {
+      "file_name": "2026-09-14_sanji_glee_wall_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_sanji_glee_wall_repair.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 7822
+    },
+    {
+      "file_name": "2026-09-14_sanji_reserve_physical_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_sanji_reserve_physical_reconciliation.md",
+      "date": "2026-09-14",
+      "tier": "C",
+      "size_bytes": 7582
+    },
+    {
       "file_name": "2026-09-14_selector_convergence_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-14_selector_convergence_repair.md",
@@ -128484,12 +128684,36 @@
       "size_bytes": 4201
     },
     {
+      "file_name": "2026-09-14_stripe_primary_cutover_readiness_checkpoint.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_stripe_primary_cutover_readiness_checkpoint.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 11761
+    },
+    {
+      "file_name": "2026-09-14_stripe_readiness_independence_accounting_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-14_stripe_readiness_independence_accounting_reconciliation.md",
+      "date": "2026-09-14",
+      "tier": "A",
+      "size_bytes": 6329
+    },
+    {
       "file_name": "2026-09-14_work_sprint_paid_pilot_positioning_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-14_work_sprint_paid_pilot_positioning_repair.md",
       "date": "2026-09-14",
       "tier": "A",
       "size_bytes": 6333
+    },
+    {
+      "file_name": "2026-09-15_gate_b2_one_actionable_buyer_and_prospect_freshness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-15_gate_b2_one_actionable_buyer_and_prospect_freshness.md",
+      "date": "2026-09-15",
+      "tier": "A",
+      "size_bytes": 8396
     },
     {
       "file_name": "INDEX.md",
@@ -145452,6 +145676,14 @@
       "size_bytes": 8467
     },
     {
+      "file_name": "2026-09-14_autonomous_agent_runtime_v0_1.md",
+      "home": "robin",
+      "rel_path": "2026-09-14_autonomous_agent_runtime_v0_1.md",
+      "date": "2026-09-14",
+      "tier": "B",
+      "size_bytes": 6818
+    },
+    {
       "file_name": "2026-09-14_capability_organ_v01_promotion_and_shadow_wiring.md",
       "home": "robin",
       "rel_path": "2026-09-14_capability_organ_v01_promotion_and_shadow_wiring.md",
@@ -145538,6 +145770,14 @@
       "date": "2026-09-14",
       "tier": "B",
       "size_bytes": 4426
+    },
+    {
+      "file_name": "2026-09-14_robin_node_canary_001_root_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-09-14_robin_node_canary_001_root_receipt.md",
+      "date": "2026-09-14",
+      "tier": null,
+      "size_bytes": 423
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
