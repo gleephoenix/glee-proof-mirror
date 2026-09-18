@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 18629,
+  "total_receipts": 18653,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -130420,6 +130420,14 @@
       "size_bytes": 9702
     },
     {
+      "file_name": "2026-09-17_autonomous_frontier_reseed_v1_scoped_closure.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_autonomous_frontier_reseed_v1_scoped_closure.md",
+      "date": "2026-09-17",
+      "tier": "A",
+      "size_bytes": 7043
+    },
+    {
       "file_name": "2026-09-17_autonomous_frontier_reseed_v1_state_correction.md",
       "home": "sanji",
       "rel_path": "2026-09-17_autonomous_frontier_reseed_v1_state_correction.md",
@@ -130612,6 +130620,22 @@
       "size_bytes": 2175
     },
     {
+      "file_name": "2026-09-17_glee_local_executive_independent_acceptance.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_glee_local_executive_independent_acceptance.md",
+      "date": "2026-09-17",
+      "tier": "A",
+      "size_bytes": 7934
+    },
+    {
+      "file_name": "2026-09-17_glee_local_executive_sunny_runtime_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_glee_local_executive_sunny_runtime_qualification.md",
+      "date": "2026-09-17",
+      "tier": "A",
+      "size_bytes": 10923
+    },
+    {
       "file_name": "2026-09-17_gleephoenix_ai_platform.md",
       "home": "sanji",
       "rel_path": "2026-09-17_gleephoenix_ai_platform.md",
@@ -130658,6 +130682,22 @@
       "date": "2026-09-17",
       "tier": "A",
       "size_bytes": 7983
+    },
+    {
+      "file_name": "2026-09-17_live_product_acceptance_execution_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_live_product_acceptance_execution_identity.md",
+      "date": "2026-09-17",
+      "tier": "B",
+      "size_bytes": 7129
+    },
+    {
+      "file_name": "2026-09-17_live_product_acceptance_native_run_independent_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_live_product_acceptance_native_run_independent_repair.md",
+      "date": "2026-09-17",
+      "tier": "B",
+      "size_bytes": 8933
     },
     {
       "file_name": "2026-09-17_ode-deterministic-route-truth.md",
@@ -130844,6 +130884,22 @@
       "size_bytes": 6103
     },
     {
+      "file_name": "2026-09-17_release_a_deployment_gate_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_release_a_deployment_gate_repair.md",
+      "date": "2026-09-17",
+      "tier": "A",
+      "size_bytes": 9999
+    },
+    {
+      "file_name": "2026-09-17_release_a_deployment_gate_repair_final.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_release_a_deployment_gate_repair_final.md",
+      "date": "2026-09-17",
+      "tier": "A",
+      "size_bytes": 14078
+    },
+    {
       "file_name": "2026-09-17_resident-fixture-leak-repair.md",
       "home": "sanji",
       "rel_path": "2026-09-17_resident-fixture-leak-repair.md",
@@ -130986,6 +131042,22 @@
       "date": "2026-09-17",
       "tier": "A",
       "size_bytes": 5507
+    },
+    {
+      "file_name": "2026-09-17_seat_journal.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_seat_journal.md",
+      "date": "2026-09-17",
+      "tier": "A",
+      "size_bytes": 9664
+    },
+    {
+      "file_name": "2026-09-17_seat_journal_acceptance.md",
+      "home": "sanji",
+      "rel_path": "2026-09-17_seat_journal_acceptance.md",
+      "date": "2026-09-17",
+      "tier": "A",
+      "size_bytes": 6732
     },
     {
       "file_name": "2026-09-17_sigstore_authority_candidate_probe.md",
@@ -131146,6 +131218,94 @@
       "date": "2026-09-17",
       "tier": "B",
       "size_bytes": 7594
+    },
+    {
+      "file_name": "2026-09-18_evidence_audit_zero_inference_wait_control_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_evidence_audit_zero_inference_wait_control_contract.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 7678
+    },
+    {
+      "file_name": "2026-09-18_fresh_frontier_prioritization_exhaustion.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_fresh_frontier_prioritization_exhaustion.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 5920
+    },
+    {
+      "file_name": "2026-09-18_h1zkaf_lineage_failure_transfer_probe.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_h1zkaf_lineage_failure_transfer_probe.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 11932
+    },
+    {
+      "file_name": "2026-09-18_h1zkaf_lineage_regime_robustness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_h1zkaf_lineage_regime_robustness.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 10693
+    },
+    {
+      "file_name": "2026-09-18_h1zkaf_prospective_dispatch_close_lineage.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_h1zkaf_prospective_dispatch_close_lineage.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 8550
+    },
+    {
+      "file_name": "2026-09-18_h1zkaf_real_history_shadow_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_h1zkaf_real_history_shadow_adapter.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 7793
+    },
+    {
+      "file_name": "2026-09-18_h1zkaf_tiny_lineage_risk_learner.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_h1zkaf_tiny_lineage_risk_learner.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 9647
+    },
+    {
+      "file_name": "2026-09-18_release_a_production_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_release_a_production_reconciliation.md",
+      "date": "2026-09-18",
+      "tier": null,
+      "size_bytes": 15065
+    },
+    {
+      "file_name": "2026-09-18_release_a_v13_deployment.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_release_a_v13_deployment.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 9592
+    },
+    {
+      "file_name": "2026-09-18_ui_baseline_v1_frontier_semantics_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_ui_baseline_v1_frontier_semantics_correction.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 3608
+    },
+    {
+      "file_name": "2026-09-18_ui_baseline_v1_production_release.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_ui_baseline_v1_production_release.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 8420
     },
     {
       "file_name": "INDEX.md",
@@ -148348,12 +148508,36 @@
       "size_bytes": 7049
     },
     {
+      "file_name": "2026-09-17_live_auth_continuity_investigation_and_qualification.md",
+      "home": "robin",
+      "rel_path": "2026-09-17_live_auth_continuity_investigation_and_qualification.md",
+      "date": "2026-09-17",
+      "tier": null,
+      "size_bytes": 6167
+    },
+    {
       "file_name": "2026-09-17_live_product_acceptance_001_reconciliation_and_disposition.md",
       "home": "robin",
       "rel_path": "2026-09-17_live_product_acceptance_001_reconciliation_and_disposition.md",
       "date": "2026-09-17",
       "tier": "B",
       "size_bytes": 5637
+    },
+    {
+      "file_name": "2026-09-17_live_product_acceptance_bounded_enactment.md",
+      "home": "robin",
+      "rel_path": "2026-09-17_live_product_acceptance_bounded_enactment.md",
+      "date": "2026-09-17",
+      "tier": "B",
+      "size_bytes": 6153
+    },
+    {
+      "file_name": "2026-09-17_live_product_acceptance_preflight_and_enactment_packet.md",
+      "home": "robin",
+      "rel_path": "2026-09-17_live_product_acceptance_preflight_and_enactment_packet.md",
+      "date": "2026-09-17",
+      "tier": "B",
+      "size_bytes": 6052
     },
     {
       "file_name": "2026-09-17_public_canary_contract_reconciliation_receipt.md",
@@ -148370,6 +148554,14 @@
       "date": "2026-09-17",
       "tier": "B",
       "size_bytes": 8430
+    },
+    {
+      "file_name": "2026-09-18_account_500_defect_repair_and_boundary_qualification.md",
+      "home": "robin",
+      "rel_path": "2026-09-18_account_500_defect_repair_and_boundary_qualification.md",
+      "date": "2026-09-18",
+      "tier": null,
+      "size_bytes": 8368
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
