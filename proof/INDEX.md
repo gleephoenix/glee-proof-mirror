@@ -1,24 +1,50 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-18T12:41:07.998812+00:00
-> Total receipts indexed: 18653
+> Last updated: 2026-09-19T00:41:10.026409+00:00
+> Total receipts indexed: 18679
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-18_legibility_control_state_wording_correction.md | glee | 2026-09-18 | — | 5984 |
+| 2026-09-18_GLEE_CANADIAN_AI_PLATFORM_CREDIBILITY_001.md | sanji | 2026-09-18 | B | 6200 |
+| 2026-09-18_P7ZYQZ_production_baseline_reconciliation.md | sanji | 2026-09-18 | B | 6085 |
+| 2026-09-18_canadian_ai_compute_credibility_map.md | sanji | 2026-09-18 | A | 6442 |
+| 2026-09-18_canadian_ai_platform_90_day_reconciliation.md | sanji | 2026-09-18 | A | 5821 |
+| 2026-09-18_cognitive_abi_route_work_shadow_v1.md | sanji | 2026-09-18 | A | 6011 |
 | 2026-09-18_evidence_audit_zero_inference_wait_control_contract.md | sanji | 2026-09-18 | B | 7678 |
+| 2026-09-18_execution_slice_three_defects.md | sanji | 2026-09-18 | A | 5317 |
 | 2026-09-18_fresh_frontier_prioritization_exhaustion.md | sanji | 2026-09-18 | A | 5920 |
+| 2026-09-18_gate_a_frontier_and_canadian_dependency_inventory.md | sanji | 2026-09-18 | A | 7998 |
+| 2026-09-18_glee_shared_understanding_decision.md | sanji | 2026-09-18 | A | 7935 |
+| 2026-09-18_glee_shared_understanding_pilot_slice.md | sanji | 2026-09-18 | A | 7034 |
 | 2026-09-18_h1zkaf_lineage_failure_transfer_probe.md | sanji | 2026-09-18 | A | 11932 |
 | 2026-09-18_h1zkaf_lineage_regime_robustness.md | sanji | 2026-09-18 | A | 10693 |
+| 2026-09-18_h1zkaf_post_dispatch_negative_evidence_handoff.md | sanji | 2026-09-18 | A | 6481 |
+| 2026-09-18_h1zkaf_prospective_decision_usefulness.md | sanji | 2026-09-18 | B | 9004 |
 | 2026-09-18_h1zkaf_prospective_dispatch_close_lineage.md | sanji | 2026-09-18 | A | 8550 |
 | 2026-09-18_h1zkaf_real_history_shadow_adapter.md | sanji | 2026-09-18 | A | 7793 |
 | 2026-09-18_h1zkaf_tiny_lineage_risk_learner.md | sanji | 2026-09-18 | A | 9647 |
+| 2026-09-18_p0-readiness-truth-repair.md | sanji | 2026-09-18 | B | 4922 |
+| 2026-09-18_p0_acceptance_reconciliation_preflight.md | sanji | 2026-09-18 | — | 7830 |
+| 2026-09-18_p0_predicate_repair_lanes_probe.md | sanji | 2026-09-18 | B | 6801 |
+| 2026-09-18_p0_run3_a1_admission_review_probe.md | sanji | 2026-09-18 | B | 4612 |
+| 2026-09-18_p7_literal_five_proof_reconciliation.md | sanji | 2026-09-18 | A | 11255 |
+| 2026-09-18_p7_production_baseline_reconciliation_readonly.md | sanji | 2026-09-18 | A | 11383 |
+| 2026-09-18_production_baseline_readonly_followup.md | sanji | 2026-09-18 | A | 8220 |
+| 2026-09-18_readiness_rescan_supervisor_rejection_evidence_repair.md | sanji | 2026-09-18 | A | 5420 |
 | 2026-09-18_release_a_production_reconciliation.md | sanji | 2026-09-18 | — | 15065 |
 | 2026-09-18_release_a_v13_deployment.md | sanji | 2026-09-18 | A | 9592 |
+| 2026-09-18_threat_radar_policy_frozen.md | sanji | 2026-09-18 | C | 3930 |
 | 2026-09-18_ui_baseline_v1_frontier_semantics_correction.md | sanji | 2026-09-18 | B | 3608 |
 | 2026-09-18_ui_baseline_v1_production_release.md | sanji | 2026-09-18 | A | 8420 |
+| 2026-09-18_wnve0e_operational_control_invariant.md | sanji | 2026-09-18 | A | 6555 |
+| 2026-09-18_worker_exact_provenance_pages_surface_disposition.md | sanji | 2026-09-18 | A | 9515 |
 | 2026-09-18_account_500_defect_repair_and_boundary_qualification.md | robin | 2026-09-18 | — | 8368 |
+| 2026-09-18_aeso_research_translation_held_out_benchmark.md | robin | 2026-09-18 | A | 7967 |
+| 2026-09-18_hung_seat_recovery_repair_receipt.md | robin | 2026-09-18 | B | 3846 |
+| 2026-09-18_terminal_context_clearing_end_to_end_receipt.md | robin | 2026-09-18 | B | 7228 |
 | 2026-09-17_anti_paper_pass_mandate_appended_loop_confirmed_ended.md | glee | 2026-09-17 | — | 2888 |
 | 2026-09-17_cf4yjp_review_closure_canonical_state_reconciled.md | glee | 2026-09-17 | — | 4028 |
 | 2026-09-17_directive_idempotence_and_restatement_loop_closed.md | glee | 2026-09-17 | — | 5294 |
@@ -181,33 +207,7 @@
 | 2026-09-16_authority_policy_v2_route_reconciliation_live_proof.md | sanji | 2026-09-16 | B | 6423 |
 | 2026-09-16_autonomous_execution_context_decoupling.md | sanji | 2026-09-16 | B | 5241 |
 | 2026-09-16_autonomous_execution_no_sleep_proof_correction.md | sanji | 2026-09-16 | B | 7440 |
-| 2026-09-16_bonsai_credential_binding_sealed_replay.md | sanji | 2026-09-16 | A | 5481 |
-| 2026-09-16_bonsai_harness_recovery_experiment.md | sanji | 2026-09-16 | A | 5487 |
-| 2026-09-16_bonsai_runtime_binding_reconciliation.md | sanji | 2026-09-16 | A | 5202 |
-| 2026-09-16_commons_deployment_gate_request.md | sanji | 2026-09-16 | — | 2684 |
-| 2026-09-16_commons_production_frontier.md | sanji | 2026-09-16 | — | 3010 |
-| 2026-09-16_commons_successor_bridge_recovery.md | sanji | 2026-09-16 | A | 4719 |
-| 2026-09-16_commons_successor_transition.md | sanji | 2026-09-16 | A | 6755 |
-| 2026-09-16_dca_a4_rule_diverse_developmental_capability_acquisition.md | sanji | 2026-09-16 | A | 7217 |
-| 2026-09-16_dca_a5_novel_rule_construction.md | sanji | 2026-09-16 | A | 7746 |
-| 2026-09-16_dca_a6_causal_compositional_construction.md | sanji | 2026-09-16 | A | 6720 |
-| 2026-09-16_developmental_capability_acquisition_a1_causal_contract.md | sanji | 2026-09-16 | A | 7056 |
-| 2026-09-16_developmental_capability_acquisition_a2_minimal_learner_only_causal_pilot.md | sanji | 2026-09-16 | A | 8176 |
-| 2026-09-16_developmental_capability_acquisition_a3_information_budget_replication.md | sanji | 2026-09-16 | A | 5701 |
-| 2026-09-16_developmental_capability_acquisition_program_v0.md | sanji | 2026-09-16 | A | 4936 |
-| 2026-09-16_evidence_gated_continuation_capability_compilation_implementation.md | sanji | 2026-09-16 | A | 8567 |
-| 2026-09-16_glee_local_executive_cf4yjp_environment_admission.md | sanji | 2026-09-16 | A | 6529 |
-| 2026-09-16_glee_local_executive_dependency_lock_reconciliation.md | sanji | 2026-09-16 | A | 6212 |
-| 2026-09-16_glee_local_executive_evaluator_measurement_repair.md | sanji | 2026-09-16 | A | 6054 |
-| 2026-09-16_glee_local_learning_executive_v01_independent_review.md | sanji | 2026-09-16 | C | 7025 |
-| 2026-09-16_going_merry_preflight_qualification.md | sanji | 2026-09-16 | A | 7092 |
-| 2026-09-16_going_merry_route_discovery.md | sanji | 2026-09-16 | A | 5651 |
-| 2026-09-16_homepage_fragment_legibility_slice.md | sanji | 2026-09-16 | B | 9319 |
-| 2026-09-16_independent_level4_evaluation_and_repair.md | sanji | 2026-09-16 | A | 7579 |
-| 2026-09-16_live_terminal_tui_feedback_viewport_repair.md | sanji | 2026-09-16 | A | 7184 |
-| 2026-09-16_local_bridge_refresh_recovery.md | sanji | 2026-09-16 | B | 4645 |
-| 2026-09-16_non_claude_route_admission_evidence.md | sanji | 2026-09-16 | B | 10968 |
-| _(+18453 more — see full manifest JSON)_ | | | | |
+| _(+18479 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
