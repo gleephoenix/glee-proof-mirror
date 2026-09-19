@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 18679,
+  "total_receipts": 18703,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -5762,6 +5762,54 @@
       "date": "2026-09-18",
       "tier": null,
       "size_bytes": 5984
+    },
+    {
+      "file_name": "2026-09-19_codex_communication_loop_diagnosis.md",
+      "home": "glee",
+      "rel_path": "2026-09-19_codex_communication_loop_diagnosis.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 8634
+    },
+    {
+      "file_name": "2026-09-19_codex_keeper_spiral_schema_audit_blocked.md",
+      "home": "glee",
+      "rel_path": "2026-09-19_codex_keeper_spiral_schema_audit_blocked.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5556
+    },
+    {
+      "file_name": "2026-09-19_cooperation_vs_coercive_coordination_authority_contestability_amendment.md",
+      "home": "glee",
+      "rel_path": "2026-09-19_cooperation_vs_coercive_coordination_authority_contestability_amendment.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4437
+    },
+    {
+      "file_name": "2026-09-19_cooperation_vs_coercive_coordination_current_reality_map.md",
+      "home": "glee",
+      "rel_path": "2026-09-19_cooperation_vs_coercive_coordination_current_reality_map.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4207
+    },
+    {
+      "file_name": "2026-09-19_keeper_0ek_malformed_matrix_repair.md",
+      "home": "glee",
+      "rel_path": "2026-09-19_keeper_0ek_malformed_matrix_repair.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 2668
+    },
+    {
+      "file_name": "2026-09-19_keeper_frontier_reselection_blocked.md",
+      "home": "glee",
+      "rel_path": "2026-09-19_keeper_frontier_reselection_blocked.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 7695
     },
     {
       "file_name": "META.md",
@@ -40146,6 +40194,14 @@
       "date": "2026-09-11",
       "tier": null,
       "size_bytes": 6127
+    },
+    {
+      "file_name": "2026-09-19_public_private_domain_legibility_tranche.md",
+      "home": "zoro",
+      "rel_path": "2026-09-19_public_private_domain_legibility_tranche.md",
+      "date": "2026-09-19",
+      "tier": null,
+      "size_bytes": 10392
     },
     {
       "file_name": "INDEX.md",
@@ -131396,6 +131452,14 @@
       "size_bytes": 6801
     },
     {
+      "file_name": "2026-09-18_p0_resource_gate_repair_reviewer_blocker.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_p0_resource_gate_repair_reviewer_blocker.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 5087
+    },
+    {
       "file_name": "2026-09-18_p0_run3_a1_admission_review_probe.md",
       "home": "sanji",
       "rel_path": "2026-09-18_p0_run3_a1_admission_review_probe.md",
@@ -131452,6 +131516,14 @@
       "size_bytes": 9592
     },
     {
+      "file_name": "2026-09-18_terminal_wall_latency_overlay_priority_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_terminal_wall_latency_overlay_priority_repair.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 6533
+    },
+    {
       "file_name": "2026-09-18_threat_radar_policy_frozen.md",
       "home": "sanji",
       "rel_path": "2026-09-18_threat_radar_policy_frozen.md",
@@ -131490,6 +131562,126 @@
       "date": "2026-09-18",
       "tier": "A",
       "size_bytes": 9515
+    },
+    {
+      "file_name": "2026-09-19_ai_lexical_discovery_research.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_ai_lexical_discovery_research.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5300
+    },
+    {
+      "file_name": "2026-09-19_ai_lexical_discovery_tranche.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_ai_lexical_discovery_tranche.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6211
+    },
+    {
+      "file_name": "2026-09-19_ail_replay_boundary_source_census.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_ail_replay_boundary_source_census.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 3757
+    },
+    {
+      "file_name": "2026-09-19_antigravity_gemini_tool_schema_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_antigravity_gemini_tool_schema_repair.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5135
+    },
+    {
+      "file_name": "2026-09-19_antigravity_review_routing_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_antigravity_review_routing_correction.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4961
+    },
+    {
+      "file_name": "2026-09-19_evidence_backed_discovery_fit_and_pilot.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_evidence_backed_discovery_fit_and_pilot.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 5794
+    },
+    {
+      "file_name": "2026-09-19_externalized_intelligence_captain_ratification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_externalized_intelligence_captain_ratification_addendum.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 3237
+    },
+    {
+      "file_name": "2026-09-19_externalized_intelligence_ratification_verification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_externalized_intelligence_ratification_verification_addendum.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 3456
+    },
+    {
+      "file_name": "2026-09-19_externalized_intelligence_research_package.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_externalized_intelligence_research_package.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5809
+    },
+    {
+      "file_name": "2026-09-19_jev_ad4_execution_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_jev_ad4_execution_packet.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 3408
+    },
+    {
+      "file_name": "2026-09-19_p0_predicate_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_p0_predicate_recheck.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 4815
+    },
+    {
+      "file_name": "2026-09-19_reality_engine_provenance_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_reality_engine_provenance_reconciliation.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 5854
+    },
+    {
+      "file_name": "2026-09-19_reality_lineage_recovery_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_reality_lineage_recovery_boundary.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 4668
+    },
+    {
+      "file_name": "2026-09-19_seat_observation_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_seat_observation_refresh.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 4365
+    },
+    {
+      "file_name": "2026-09-19_sutton_shadow_experiment_blocked.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_sutton_shadow_experiment_blocked.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 6988
     },
     {
       "file_name": "INDEX.md",
