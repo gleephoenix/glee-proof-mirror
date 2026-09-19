@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 18653,
+  "total_receipts": 18679,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -5754,6 +5754,14 @@
       "date": "2026-09-17",
       "tier": null,
       "size_bytes": 2927
+    },
+    {
+      "file_name": "2026-09-18_legibility_control_state_wording_correction.md",
+      "home": "glee",
+      "rel_path": "2026-09-18_legibility_control_state_wording_correction.md",
+      "date": "2026-09-18",
+      "tier": null,
+      "size_bytes": 5984
     },
     {
       "file_name": "META.md",
@@ -131220,6 +131228,46 @@
       "size_bytes": 7594
     },
     {
+      "file_name": "2026-09-18_GLEE_CANADIAN_AI_PLATFORM_CREDIBILITY_001.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_GLEE_CANADIAN_AI_PLATFORM_CREDIBILITY_001.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 6200
+    },
+    {
+      "file_name": "2026-09-18_P7ZYQZ_production_baseline_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_P7ZYQZ_production_baseline_reconciliation.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 6085
+    },
+    {
+      "file_name": "2026-09-18_canadian_ai_compute_credibility_map.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_canadian_ai_compute_credibility_map.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 6442
+    },
+    {
+      "file_name": "2026-09-18_canadian_ai_platform_90_day_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_canadian_ai_platform_90_day_reconciliation.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 5821
+    },
+    {
+      "file_name": "2026-09-18_cognitive_abi_route_work_shadow_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_cognitive_abi_route_work_shadow_v1.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 6011
+    },
+    {
       "file_name": "2026-09-18_evidence_audit_zero_inference_wait_control_contract.md",
       "home": "sanji",
       "rel_path": "2026-09-18_evidence_audit_zero_inference_wait_control_contract.md",
@@ -131228,12 +131276,44 @@
       "size_bytes": 7678
     },
     {
+      "file_name": "2026-09-18_execution_slice_three_defects.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_execution_slice_three_defects.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 5317
+    },
+    {
       "file_name": "2026-09-18_fresh_frontier_prioritization_exhaustion.md",
       "home": "sanji",
       "rel_path": "2026-09-18_fresh_frontier_prioritization_exhaustion.md",
       "date": "2026-09-18",
       "tier": "A",
       "size_bytes": 5920
+    },
+    {
+      "file_name": "2026-09-18_gate_a_frontier_and_canadian_dependency_inventory.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_gate_a_frontier_and_canadian_dependency_inventory.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 7998
+    },
+    {
+      "file_name": "2026-09-18_glee_shared_understanding_decision.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_glee_shared_understanding_decision.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 7935
+    },
+    {
+      "file_name": "2026-09-18_glee_shared_understanding_pilot_slice.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_glee_shared_understanding_pilot_slice.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 7034
     },
     {
       "file_name": "2026-09-18_h1zkaf_lineage_failure_transfer_probe.md",
@@ -131250,6 +131330,22 @@
       "date": "2026-09-18",
       "tier": "A",
       "size_bytes": 10693
+    },
+    {
+      "file_name": "2026-09-18_h1zkaf_post_dispatch_negative_evidence_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_h1zkaf_post_dispatch_negative_evidence_handoff.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 6481
+    },
+    {
+      "file_name": "2026-09-18_h1zkaf_prospective_decision_usefulness.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_h1zkaf_prospective_decision_usefulness.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 9004
     },
     {
       "file_name": "2026-09-18_h1zkaf_prospective_dispatch_close_lineage.md",
@@ -131276,6 +131372,70 @@
       "size_bytes": 9647
     },
     {
+      "file_name": "2026-09-18_p0-readiness-truth-repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_p0-readiness-truth-repair.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 4922
+    },
+    {
+      "file_name": "2026-09-18_p0_acceptance_reconciliation_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_p0_acceptance_reconciliation_preflight.md",
+      "date": "2026-09-18",
+      "tier": null,
+      "size_bytes": 7830
+    },
+    {
+      "file_name": "2026-09-18_p0_predicate_repair_lanes_probe.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_p0_predicate_repair_lanes_probe.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 6801
+    },
+    {
+      "file_name": "2026-09-18_p0_run3_a1_admission_review_probe.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_p0_run3_a1_admission_review_probe.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 4612
+    },
+    {
+      "file_name": "2026-09-18_p7_literal_five_proof_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_p7_literal_five_proof_reconciliation.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 11255
+    },
+    {
+      "file_name": "2026-09-18_p7_production_baseline_reconciliation_readonly.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_p7_production_baseline_reconciliation_readonly.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 11383
+    },
+    {
+      "file_name": "2026-09-18_production_baseline_readonly_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_production_baseline_readonly_followup.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 8220
+    },
+    {
+      "file_name": "2026-09-18_readiness_rescan_supervisor_rejection_evidence_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_readiness_rescan_supervisor_rejection_evidence_repair.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 5420
+    },
+    {
       "file_name": "2026-09-18_release_a_production_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-09-18_release_a_production_reconciliation.md",
@@ -131292,6 +131452,14 @@
       "size_bytes": 9592
     },
     {
+      "file_name": "2026-09-18_threat_radar_policy_frozen.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_threat_radar_policy_frozen.md",
+      "date": "2026-09-18",
+      "tier": "C",
+      "size_bytes": 3930
+    },
+    {
       "file_name": "2026-09-18_ui_baseline_v1_frontier_semantics_correction.md",
       "home": "sanji",
       "rel_path": "2026-09-18_ui_baseline_v1_frontier_semantics_correction.md",
@@ -131306,6 +131474,22 @@
       "date": "2026-09-18",
       "tier": "A",
       "size_bytes": 8420
+    },
+    {
+      "file_name": "2026-09-18_wnve0e_operational_control_invariant.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_wnve0e_operational_control_invariant.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 6555
+    },
+    {
+      "file_name": "2026-09-18_worker_exact_provenance_pages_surface_disposition.md",
+      "home": "sanji",
+      "rel_path": "2026-09-18_worker_exact_provenance_pages_surface_disposition.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 9515
     },
     {
       "file_name": "INDEX.md",
@@ -148425,7 +148609,7 @@
       "rel_path": "2026-09-16_ghost_seat_reconciliation_and_admission_repair_receipt.md",
       "date": "2026-09-16",
       "tier": null,
-      "size_bytes": 10594
+      "size_bytes": 11415
     },
     {
       "file_name": "2026-09-16_glee_local_executive_cf4yjp_independent_qualification_receipt.md",
@@ -148562,6 +148746,30 @@
       "date": "2026-09-18",
       "tier": null,
       "size_bytes": 8368
+    },
+    {
+      "file_name": "2026-09-18_aeso_research_translation_held_out_benchmark.md",
+      "home": "robin",
+      "rel_path": "2026-09-18_aeso_research_translation_held_out_benchmark.md",
+      "date": "2026-09-18",
+      "tier": "A",
+      "size_bytes": 7967
+    },
+    {
+      "file_name": "2026-09-18_hung_seat_recovery_repair_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-09-18_hung_seat_recovery_repair_receipt.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 3846
+    },
+    {
+      "file_name": "2026-09-18_terminal_context_clearing_end_to_end_receipt.md",
+      "home": "robin",
+      "rel_path": "2026-09-18_terminal_context_clearing_end_to_end_receipt.md",
+      "date": "2026-09-18",
+      "tier": "B",
+      "size_bytes": 7228
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
