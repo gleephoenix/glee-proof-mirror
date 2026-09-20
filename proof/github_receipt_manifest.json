@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 18737,
+  "total_receipts": 18772,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -5833,7 +5833,7 @@
       "rel_path": "2026-09-19_deepseek_v41_flash_opencode_model_entry.md",
       "date": "2026-09-19",
       "tier": "A",
-      "size_bytes": 5578
+      "size_bytes": 7914
     },
     {
       "file_name": "2026-09-19_keeper_0ek_malformed_matrix_repair.md",
@@ -5850,6 +5850,22 @@
       "date": "2026-09-19",
       "tier": "A",
       "size_bytes": 7695
+    },
+    {
+      "file_name": "2026-09-19_lesson_spine_v0_1_circulation_for_learning_organs.md",
+      "home": "glee",
+      "rel_path": "2026-09-19_lesson_spine_v0_1_circulation_for_learning_organs.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 7815
+    },
+    {
+      "file_name": "2026-09-20_probe_402_wallet_empty_classification.md",
+      "home": "glee",
+      "rel_path": "2026-09-20_probe_402_wallet_empty_classification.md",
+      "date": "2026-09-20",
+      "tier": "A",
+      "size_bytes": 3792
     },
     {
       "file_name": "META.md",
@@ -131604,6 +131620,22 @@
       "size_bytes": 9515
     },
     {
+      "file_name": "2026-09-19_agency_continuity_claim_fencing.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_agency_continuity_claim_fencing.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6047
+    },
+    {
+      "file_name": "2026-09-19_agentic_federation_public_world_blueprint_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_agentic_federation_public_world_blueprint_v2.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5819
+    },
+    {
       "file_name": "2026-09-19_ai_lexical_discovery_research.md",
       "home": "sanji",
       "rel_path": "2026-09-19_ai_lexical_discovery_research.md",
@@ -131724,6 +131756,14 @@
       "size_bytes": 13651
     },
     {
+      "file_name": "2026-09-19_continuity_scope_foreman_seat_fix.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_continuity_scope_foreman_seat_fix.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4991
+    },
+    {
       "file_name": "2026-09-19_control_tower_skill_reference_compatibility_investigation.md",
       "home": "sanji",
       "rel_path": "2026-09-19_control_tower_skill_reference_compatibility_investigation.md",
@@ -131740,12 +131780,36 @@
       "size_bytes": 11290
     },
     {
+      "file_name": "2026-09-19_durable_agency_concept_freeze.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_durable_agency_concept_freeze.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 3989
+    },
+    {
+      "file_name": "2026-09-19_effect_recovery_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_effect_recovery_projection.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6757
+    },
+    {
       "file_name": "2026-09-19_evidence_backed_discovery_fit_and_pilot.md",
       "home": "sanji",
       "rel_path": "2026-09-19_evidence_backed_discovery_fit_and_pilot.md",
       "date": "2026-09-19",
       "tier": "B",
       "size_bytes": 5794
+    },
+    {
+      "file_name": "2026-09-19_exclusive_experiment_claim_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_exclusive_experiment_claim_adapter.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 7218
     },
     {
       "file_name": "2026-09-19_externalized_intelligence_captain_ratification_addendum.md",
@@ -131772,6 +131836,30 @@
       "size_bytes": 5809
     },
     {
+      "file_name": "2026-09-19_github_account_setup.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_github_account_setup.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 9176
+    },
+    {
+      "file_name": "2026-09-19_github_capability_independence.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_github_capability_independence.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4713
+    },
+    {
+      "file_name": "2026-09-19_github_noise_source_stepback.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_github_noise_source_stepback.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6946
+    },
+    {
       "file_name": "2026-09-19_glee_federation_identity_and_participation_audit.md",
       "home": "sanji",
       "rel_path": "2026-09-19_glee_federation_identity_and_participation_audit.md",
@@ -131796,6 +131884,14 @@
       "size_bytes": 15525
     },
     {
+      "file_name": "2026-09-19_glee_liveness_ordinary_entry_acceptance.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_glee_liveness_ordinary_entry_acceptance.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 17390
+    },
+    {
       "file_name": "2026-09-19_glee_liveness_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-19_glee_liveness_repair.md",
@@ -131818,6 +131914,14 @@
       "date": "2026-09-19",
       "tier": "B",
       "size_bytes": 3408
+    },
+    {
+      "file_name": "2026-09-19_jev_governed_transport_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_jev_governed_transport_repair.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 5629
     },
     {
       "file_name": "2026-09-19_jev_pilot.md",
@@ -131852,6 +131956,30 @@
       "size_bytes": 8792
     },
     {
+      "file_name": "2026-09-19_keeper_recovery_continuation.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_keeper_recovery_continuation.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 7601
+    },
+    {
+      "file_name": "2026-09-19_local_capped_economic_controller_commissioning.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_local_capped_economic_controller_commissioning.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 6042
+    },
+    {
+      "file_name": "2026-09-19_machine_customer_quote_handshake.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_machine_customer_quote_handshake.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6849
+    },
+    {
       "file_name": "2026-09-19_multi_principal_offline_qualification.md",
       "home": "sanji",
       "rel_path": "2026-09-19_multi_principal_offline_qualification.md",
@@ -131876,12 +132004,76 @@
       "size_bytes": 6029
     },
     {
+      "file_name": "2026-09-19_owned_learning_system_direction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_owned_learning_system_direction.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6414
+    },
+    {
       "file_name": "2026-09-19_p0_predicate_recheck.md",
       "home": "sanji",
       "rel_path": "2026-09-19_p0_predicate_recheck.md",
       "date": "2026-09-19",
       "tier": "B",
       "size_bytes": 4815
+    },
+    {
+      "file_name": "2026-09-19_persistent_state_integrity_false_green_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_persistent_state_integrity_false_green_repair.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 6122
+    },
+    {
+      "file_name": "2026-09-19_process_state_causal_use_pilot.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_process_state_causal_use_pilot.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4018
+    },
+    {
+      "file_name": "2026-09-19_process_state_clean_handback.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_process_state_clean_handback.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5386
+    },
+    {
+      "file_name": "2026-09-19_process_state_cursor_routing_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_process_state_cursor_routing_correction.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4187
+    },
+    {
+      "file_name": "2026-09-19_process_state_evidence_unit_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_process_state_evidence_unit_correction.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6739
+    },
+    {
+      "file_name": "2026-09-19_process_state_one_agent_resume_efficiency.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_process_state_one_agent_resume_efficiency.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5384
+    },
+    {
+      "file_name": "2026-09-19_productive_research_river_blueprint.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_productive_research_river_blueprint.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5227
     },
     {
       "file_name": "2026-09-19_prompt_architect_preparation_dispatch_gate.md",
@@ -131916,6 +132108,14 @@
       "size_bytes": 4365
     },
     {
+      "file_name": "2026-09-19_shared_understanding_transfer_repair_plan.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_shared_understanding_transfer_repair_plan.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5433
+    },
+    {
       "file_name": "2026-09-19_skill_reference_self_resolution.md",
       "home": "sanji",
       "rel_path": "2026-09-19_skill_reference_self_resolution.md",
@@ -131924,12 +132124,36 @@
       "size_bytes": 5356
     },
     {
+      "file_name": "2026-09-19_step_out_matched_contrast_bottleneck.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_step_out_matched_contrast_bottleneck.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6569
+    },
+    {
+      "file_name": "2026-09-19_step_out_public_intent_compiler_discovery.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_step_out_public_intent_compiler_discovery.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 6670
+    },
+    {
       "file_name": "2026-09-19_sutton_shadow_experiment_blocked.md",
       "home": "sanji",
       "rel_path": "2026-09-19_sutton_shadow_experiment_blocked.md",
       "date": "2026-09-19",
       "tier": "B",
       "size_bytes": 6988
+    },
+    {
+      "file_name": "2026-09-19_terminal_wall_autoclose_forensic.md",
+      "home": "sanji",
+      "rel_path": "2026-09-19_terminal_wall_autoclose_forensic.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4410
     },
     {
       "file_name": "2026-09-19_test_telemetry_isolation.md",
@@ -149220,6 +149444,22 @@
       "size_bytes": 7228
     },
     {
+      "file_name": "2026-09-19_epistemic_state_capsule_and_replication_evidence.md",
+      "home": "robin",
+      "rel_path": "2026-09-19_epistemic_state_capsule_and_replication_evidence.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 4359
+    },
+    {
+      "file_name": "2026-09-19_evidence_audit_zero_inference_wait_slice.md",
+      "home": "robin",
+      "rel_path": "2026-09-19_evidence_audit_zero_inference_wait_slice.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 3096
+    },
+    {
       "file_name": "2026-09-19_jev_tool_commissioning.md",
       "home": "robin",
       "rel_path": "2026-09-19_jev_tool_commissioning.md",
@@ -149228,12 +149468,52 @@
       "size_bytes": 5172
     },
     {
+      "file_name": "2026-09-19_local_capped_economic_controller_commissioning.md",
+      "home": "robin",
+      "rel_path": "2026-09-19_local_capped_economic_controller_commissioning.md",
+      "date": "2026-09-19",
+      "tier": "B",
+      "size_bytes": 6042
+    },
+    {
+      "file_name": "2026-09-19_reconcile_gate_hook_memoization_and_foreman_detection.md",
+      "home": "robin",
+      "rel_path": "2026-09-19_reconcile_gate_hook_memoization_and_foreman_detection.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 5116
+    },
+    {
+      "file_name": "2026-09-19_step_out_of_trench_congestion_and_headless_trust_repair.md",
+      "home": "robin",
+      "rel_path": "2026-09-19_step_out_of_trench_congestion_and_headless_trust_repair.md",
+      "date": "2026-09-19",
+      "tier": "A",
+      "size_bytes": 3378
+    },
+    {
       "file_name": "2026-09-19_webchat_multi_provider_closure.md",
       "home": "robin",
       "rel_path": "2026-09-19_webchat_multi_provider_closure.md",
       "date": "2026-09-19",
       "tier": "B",
-      "size_bytes": 11461
+      "size_bytes": 13029
+    },
+    {
+      "file_name": "2026-09-20_evidence_audit_and_zero_inference_wait_vertical_sl.md",
+      "home": "robin",
+      "rel_path": "2026-09-20_evidence_audit_and_zero_inference_wait_vertical_sl.md",
+      "date": "2026-09-20",
+      "tier": "A",
+      "size_bytes": 1837
+    },
+    {
+      "file_name": "2026-09-20_host_saturation_politening_and_sanji_context_pressure_gate.md",
+      "home": "robin",
+      "rel_path": "2026-09-20_host_saturation_politening_and_sanji_context_pressure_gate.md",
+      "date": "2026-09-20",
+      "tier": "B",
+      "size_bytes": 2798
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
