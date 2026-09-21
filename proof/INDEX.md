@@ -1,12 +1,18 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-21T12:41:09.304361+00:00
-> Total receipts indexed: 19106
+> Last updated: 2026-09-21T18:41:08.711708+00:00
+> Total receipts indexed: 19132
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-21_estate_degraded_disk_reserve_checkpoint_blocker.md | zoro | 2026-09-21 | C | 4138 |
+| 2026-09-21_6wc8z3_receipt_v1_freeze_guard_proof.md | sanji | 2026-09-21 | B | 3549 |
+| 2026-09-21_6wff9e_execution_unknown_estate_adoption_projection.md | sanji | 2026-09-21 | A | 5265 |
+| 2026-09-21_GLEE_CONVERGENCE_FRAME.md | sanji | 2026-09-21 | B | 2531 |
+| 2026-09-21_agent-attention-surface-continuity-repair.md | sanji | 2026-09-21 | A | 3364 |
+| 2026-09-21_agent-attention-surface-public-recheck.md | sanji | 2026-09-21 | B | 4875 |
 | 2026-09-21_agent_economic_group_admitted_demand_dry_run_settlement.md | sanji | 2026-09-21 | A | 4097 |
 | 2026-09-21_agent_economic_group_authorization_packet.md | sanji | 2026-09-21 | A | 4642 |
 | 2026-09-21_agent_economic_group_demand_admission_gate.md | sanji | 2026-09-21 | A | 5144 |
@@ -18,9 +24,20 @@
 | 2026-09-21_agent_economic_group_taskmarket_kaleidoscope_binding.md | sanji | 2026-09-21 | B | 5043 |
 | 2026-09-21_agent_economic_group_team_run_replay.md | sanji | 2026-09-21 | A | 5132 |
 | 2026-09-21_agent_economic_group_team_run_review_report.md | sanji | 2026-09-21 | A | 4864 |
+| 2026-09-21_android_download_delivery_repair.md | sanji | 2026-09-21 | A | 5897 |
+| 2026-09-21_boot_path_ambiguity_gate_repair.md | sanji | 2026-09-21 | A | 3331 |
+| 2026-09-21_boot_path_runtime_gate.md | sanji | 2026-09-21 | A | 3818 |
+| 2026-09-21_btatd6_execution_cards_brief_boundary.md | sanji | 2026-09-21 | B | 6201 |
+| 2026-09-21_cd354z_worker_runner_current_surface_verification.md | sanji | 2026-09-21 | A | 5387 |
+| 2026-09-21_codex-clear-command-routing.md | sanji | 2026-09-21 | A | 4552 |
+| 2026-09-21_codex-clear-headless-readiness.md | sanji | 2026-09-21 | B | 5159 |
+| 2026-09-21_continuation-binding-reverification.md | sanji | 2026-09-21 | B | 3996 |
 | 2026-09-21_continuation_binding_reverify_boundary_0152.md | sanji | 2026-09-21 | B | 3752 |
 | 2026-09-21_continuation_command_binding_current_cursor_reverification.md | sanji | 2026-09-21 | B | 4030 |
 | 2026-09-21_continuation_command_binding_latest_cursor_reverification.md | sanji | 2026-09-21 | B | 4479 |
+| 2026-09-21_cthmpe-native-tmux-runtime-diagnosis.md | sanji | 2026-09-21 | B | 8150 |
+| 2026-09-21_cthmpe_terminal_responsiveness_probe.md | sanji | 2026-09-21 | A | 8551 |
+| 2026-09-21_degraded_checkpoint_c0_recheck.md | sanji | 2026-09-21 | B | 4650 |
 | 2026-09-21_degraded_checkpoint_recovery_boundary.md | sanji | 2026-09-21 | B | 7275 |
 | 2026-09-21_degraded_storage_candidate_ownership.md | sanji | 2026-09-21 | B | 5732 |
 | 2026-09-21_economic_frontier_recheck_review_pending.md | sanji | 2026-09-21 | B | 3119 |
@@ -28,6 +45,7 @@
 | 2026-09-21_eventledger_recovery_a1_checkpoint_branch.md | sanji | 2026-09-21 | B | 5764 |
 | 2026-09-21_eventledger_recovery_decision.md | sanji | 2026-09-21 | B | 6122 |
 | 2026-09-21_eventledger_recovery_regression_tranche.md | sanji | 2026-09-21 | B | 3897 |
+| 2026-09-21_execution-unknown-assurance-state-repair.md | sanji | 2026-09-21 | A | 5565 |
 | 2026-09-21_freebuff_transcript_identity_repair.md | sanji | 2026-09-21 | B | 5395 |
 | 2026-09-21_jev_adjudication_readiness.md | sanji | 2026-09-21 | A | 5333 |
 | 2026-09-21_jev_native_adjudication_request.md | sanji | 2026-09-21 | A | 4493 |
@@ -36,6 +54,8 @@
 | 2026-09-21_openjobs_marked4098_pre_authorization_requalification.md | sanji | 2026-09-21 | — | 2323 |
 | 2026-09-21_openjobs_marked4098_preparation.md | sanji | 2026-09-21 | — | 4738 |
 | 2026-09-21_public_demand_requalification.md | sanji | 2026-09-21 | — | 3477 |
+| 2026-09-21_qh3a7t_ship_lint_checkpoint_and_aggregator_boundary.md | sanji | 2026-09-21 | B | 8971 |
+| 2026-09-21_qh3a7t_write_thread_iso_offset_successor.md | sanji | 2026-09-21 | B | 7478 |
 | 2026-09-21_receipt_freeze_global_lint_boundary.md | sanji | 2026-09-21 | B | 4324 |
 | 2026-09-21_runpod_local_timeout_diagnostic_0141.md | sanji | 2026-09-21 | B | 5026 |
 | 2026-09-21_runpod_model_ladder_semantic_replay_0115.md | sanji | 2026-09-21 | B | 4307 |
@@ -47,10 +67,16 @@
 | 2026-09-21_speedbot_technical_audit_draft.md | sanji | 2026-09-21 | B | 3614 |
 | 2026-09-21_speedbot_technical_audit_preflight.md | sanji | 2026-09-21 | A | 3119 |
 | 2026-09-21_speedbot_technical_audit_response_packet.md | sanji | 2026-09-21 | B | 3182 |
+| 2026-09-21_storage-recovery-observation.md | sanji | 2026-09-21 | B | 3811 |
+| 2026-09-21_storage-recovery-recheck.md | sanji | 2026-09-21 | B | 3616 |
+| 2026-09-21_storage_recovery_recheck.md | sanji | 2026-09-21 | A | 8375 |
 | 2026-09-21_taskmarket_kaleidoscope_preparation.md | sanji | 2026-09-21 | B | 6722 |
 | 2026-09-21_taskmarket_kaleidoscope_recheck.md | sanji | 2026-09-21 | B | 4439 |
 | 2026-09-21_taskmarket_qsb_qualification.md | sanji | 2026-09-21 | — | 4391 |
+| 2026-09-21_terminal_picker_live_only.md | sanji | 2026-09-21 | A | 5968 |
+| 2026-09-21_terminal_picker_runtime_gate.md | sanji | 2026-09-21 | A | 4706 |
 | 2026-09-21_trash_candidate_metadata_census.md | sanji | 2026-09-21 | B | 5787 |
+| 2026-09-21_1f916_listing39_payout_unblocked_and_glee_renown_wave1_shipped.md | robin | 2026-09-21 | B | 6366 |
 | 2026-09-20_copy_handoff_anti_homogeneity.md | glee | 2026-09-20 | — | 11104 |
 | 2026-09-20_design_semantic_control_vocabulary_doctrine_drafted.md | glee | 2026-09-20 | — | 5558 |
 | 2026-09-20_lesson_spine_admission_zero_spend_rule.md | glee | 2026-09-20 | A | 4214 |
@@ -181,33 +207,7 @@
 | 2026-09-20_marked4098_independent_review_dispatch.md | sanji | 2026-09-20 | B | 4047 |
 | 2026-09-20_marked4098_packet_ready_revalidation.md | sanji | 2026-09-20 | B | 4670 |
 | 2026-09-20_marked4098_review_pending_frontier_repoll.md | sanji | 2026-09-20 | B | 3513 |
-| 2026-09-20_n8n_dorian_repair_lead_revalidation.md | sanji | 2026-09-20 | A | 4275 |
-| 2026-09-20_n8n_repair_quick_close.md | sanji | 2026-09-20 | B | 3770 |
-| 2026-09-20_openclaw_vps_trial_application.md | sanji | 2026-09-20 | B | 4479 |
-| 2026-09-20_opencode_resume_identity_ingress.md | sanji | 2026-09-20 | B | 6413 |
-| 2026-09-20_openjobs_marked4098_continuation_poll.md | sanji | 2026-09-20 | A | 4279 |
-| 2026-09-20_openjobs_marked4098_preparation.md | sanji | 2026-09-20 | A | 5887 |
-| 2026-09-20_openjobs_marked4098_requalification.md | sanji | 2026-09-20 | A | 4062 |
-| 2026-09-20_openjobs_public_inventory.md | sanji | 2026-09-20 | A | 3649 |
-| 2026-09-20_openjobs_rich4211_continuation_recheck.md | sanji | 2026-09-20 | A | 3557 |
-| 2026-09-20_openjobs_rich4211_identity_gate.md | sanji | 2026-09-20 | A | 3519 |
-| 2026-09-20_openjobs_rich4211_onboarding_gate_readonly_recheck.md | sanji | 2026-09-20 | B | 4069 |
-| 2026-09-20_openjobs_rich4211_onboarding_gate_requalification.md | sanji | 2026-09-20 | B | 5131 |
-| 2026-09-20_openjobs_rich4211_owner_route_recheck.md | sanji | 2026-09-20 | A | 4151 |
-| 2026-09-20_openjobs_rich4211_owner_route_requalification.md | sanji | 2026-09-20 | B | 6208 |
-| 2026-09-20_openjobs_rich4211_preparation.md | sanji | 2026-09-20 | A | 5217 |
-| 2026-09-20_openjobs_rich4211_readonly_recheck.md | sanji | 2026-09-20 | B | 4048 |
-| 2026-09-20_openjobs_rich4211_recheck.md | sanji | 2026-09-20 | A | 4260 |
-| 2026-09-20_paid_market_census.md | sanji | 2026-09-20 | B | 4172 |
-| 2026-09-20_paid_work_feed_recheck.md | sanji | 2026-09-20 | B | 3977 |
-| 2026-09-20_phoenix_local_intent_homepage_and_private_draft_verification.md | sanji | 2026-09-20 | B | 4928 |
-| 2026-09-20_privacy_inventory_before_remote_d1.md | sanji | 2026-09-20 | B | 8323 |
-| 2026-09-20_proposition_lineage_repair_validation.md | sanji | 2026-09-20 | B | 7932 |
-| 2026-09-20_proposition_lineage_repair_validation_addendum.md | sanji | 2026-09-20 | B | 3744 |
-| 2026-09-20_public_agent_market_recheck.md | sanji | 2026-09-20 | B | 4594 |
-| 2026-09-20_public_market_poll_no_funded_target.md | sanji | 2026-09-20 | A | 3948 |
-| 2026-09-20_public_paid_frontier_poll_qsb.md | sanji | 2026-09-20 | A | 4927 |
-| _(+18906 more — see full manifest JSON)_ | | | | |
+| _(+18932 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
