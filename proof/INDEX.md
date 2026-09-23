@@ -1,21 +1,42 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-23T06:41:09.233242+00:00
-> Total receipts indexed: 19269
+> Last updated: 2026-09-23T12:41:08.293058+00:00
+> Total receipts indexed: 19292
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
-| 2026-09-23_calibration_preflight_and_identity_separation.md | zoro | 2026-09-23 | — | 2975 |
+| 2026-09-23_calibration_preflight_and_identity_separation.md | zoro | 2026-09-23 | — | 3763 |
 | 2026-09-23_canonical_lease_takeover_proof.md | zoro | 2026-09-23 | — | 3756 |
 | 2026-09-23_execution_identity_step0.md | zoro | 2026-09-23 | — | 2295 |
 | 2026-09-23_frozen_launch_primitive.md | zoro | 2026-09-23 | — | 3065 |
 | 2026-09-23_lease_semantics_and_expiry_boundary.md | zoro | 2026-09-23 | — | 3657 |
 | 2026-09-23_restart_replication_reopened.md | zoro | 2026-09-23 | — | 3253 |
 | 2026-09-23_restart_takeover_defect_and_effect_classes.md | zoro | 2026-09-23 | — | 3663 |
+| 2026-09-23_routing_verification_debt_enactment.md | zoro | 2026-09-23 | B | 3453 |
 | 2026-09-23_tracker_revision_race_rootcause.md | zoro | 2026-09-23 | — | 3709 |
+| 2026-09-23_ttl_stale_rejection_trial.md | zoro | 2026-09-23 | — | 2461 |
+| 2026-09-23_ttl_temporal_transition.md | zoro | 2026-09-23 | — | 2476 |
 | 2026-09-23_waiter_restart_and_mandatory_fencing.md | zoro | 2026-09-23 | — | 3397 |
+| 2026-09-23_attention_governance_causal_replay.md | sanji | 2026-09-23 | — | 9647 |
+| 2026-09-23_authority_gate_sink_census.md | sanji | 2026-09-23 | B | 6744 |
+| 2026-09-23_authority_projection_current_tree_reattestation.md | sanji | 2026-09-23 | B | 8285 |
+| 2026-09-23_authority_resolution_single_path_census.md | sanji | 2026-09-23 | B | 6833 |
+| 2026-09-23_autonomy_kernel_authority_discriminator_canary.md | sanji | 2026-09-23 | A | 9077 |
+| 2026-09-23_autonomy_kernel_successor_recovery_io.md | sanji | 2026-09-23 | A | 5681 |
+| 2026-09-23_executor_recurrence_discriminator_successor.md | sanji | 2026-09-23 | B | 6868 |
+| 2026-09-23_executor_start_boundary_discriminator.md | sanji | 2026-09-23 | B | 7558 |
+| 2026-09-23_human_authority_pinned_specimen_followup.md | sanji | 2026-09-23 | B | 5443 |
+| 2026-09-23_human_authority_projection_negative_path_partial.md | sanji | 2026-09-23 | B | 7676 |
+| 2026-09-23_independent_recovery_actuation.md | sanji | 2026-09-23 | B | 6478 |
+| 2026-09-23_late-evidence-transition-contract.md | sanji | 2026-09-23 | C | 6817 |
+| 2026-09-23_obligation-state-persistence-boundary.md | sanji | 2026-09-23 | B | 5866 |
+| 2026-09-23_occ002_capacity_observation_and_dtv5_eligibility.md | sanji | 2026-09-23 | A | 9595 |
+| 2026-09-23_occ002_reserve00_capacity_authority_boundary.md | sanji | 2026-09-23 | A | 5874 |
+| 2026-09-23_succession_continuity_candidate.md | sanji | 2026-09-23 | B | 6017 |
+| 2026-09-23_v5_verifier_recovery_dispatch_partial.md | sanji | 2026-09-23 | A | 13787 |
+| 2026-09-23_verifier_dispatch_false_green_followup.md | sanji | 2026-09-23 | B | 10290 |
 | 2026-09-22_continuation_invariant_repair.md | zoro | 2026-09-22 | — | 4549 |
 | 2026-09-22_continuation_production_paths.md | zoro | 2026-09-22 | — | 4486 |
 | 2026-09-22_continuation_proofs_and_census_v2.md | zoro | 2026-09-22 | — | 4529 |
@@ -27,10 +48,12 @@
 | 2026-09-22_terminal_journal_v1_1_android_materializer.md | zoro | 2026-09-22 | A | 6045 |
 | 2026-09-22_wall_adversarial_recovery_diagnostic.md | zoro | 2026-09-22 | A | 3095 |
 | 2026-09-22_wall_checkpoint_coordinate_typing.md | zoro | 2026-09-22 | A | 2033 |
+| 2026-09-22_wall_lifecycle_semantics_frozen.md | zoro | 2026-09-22 | A | 2018 |
 | 2026-09-22_wall_local_first_views_and_gesture_telemetry.md | zoro | 2026-09-22 | A | 6214 |
 | 2026-09-22_wall_local_only_gestures_wiring.md | zoro | 2026-09-22 | B | 5188 |
 | 2026-09-22_wall_producer_seal_and_projection_replay.md | zoro | 2026-09-22 | B | 4474 |
 | 2026-09-22_wall_projection_checkpoint_and_retention_guard.md | zoro | 2026-09-22 | A | 2690 |
+| 2026-09-22_wall_seal_identity_stage2_partial.md | zoro | 2026-09-22 | A | 1930 |
 | 2026-09-22_wall_seal_integrity_projection_coverage.md | zoro | 2026-09-22 | B | 3299 |
 | 2026-09-22_wall_send_transaction_semantics.md | zoro | 2026-09-22 | — | 4901 |
 | 2026-09-22_wall_transcript_commit_protocol.md | zoro | 2026-09-22 | B | 4963 |
@@ -45,7 +68,7 @@
 | 2026-09-22_agent-attention-surface-publication-recheck.md | sanji | 2026-09-22 | A | 5180 |
 | 2026-09-22_agent-attention-surface-publication-repair.md | sanji | 2026-09-22 | B | 9617 |
 | 2026-09-22_agent_studies_attention_governance_artifact_split.md | sanji | 2026-09-22 | — | 4136 |
-| 2026-09-22_attention_governance_provenance_trace.md | sanji | 2026-09-22 | — | 5673 |
+| 2026-09-22_attention_governance_provenance_trace.md | sanji | 2026-09-22 | — | 6344 |
 | 2026-09-22_attention_governance_runtime_map.md | sanji | 2026-09-22 | — | 4348 |
 | 2026-09-22_authority_escalation_emitter_propagation.md | sanji | 2026-09-22 | B | 6340 |
 | 2026-09-22_authority_projection_emitter_repair.md | sanji | 2026-09-22 | B | 6085 |
@@ -184,30 +207,7 @@
 | 2026-09-21_storage-recovery-observation.md | sanji | 2026-09-21 | B | 3811 |
 | 2026-09-21_storage-recovery-recheck.md | sanji | 2026-09-21 | B | 3616 |
 | 2026-09-21_storage_census_addendum.md | sanji | 2026-09-21 | B | 2449 |
-| 2026-09-21_storage_reclaim_census_1922.md | sanji | 2026-09-21 | B | 3396 |
-| 2026-09-21_storage_reclaim_integrity_addendum.md | sanji | 2026-09-21 | B | 2945 |
-| 2026-09-21_storage_recovery_recheck.md | sanji | 2026-09-21 | A | 8375 |
-| 2026-09-21_taskmarket_kaleidoscope_preparation.md | sanji | 2026-09-21 | B | 6722 |
-| 2026-09-21_taskmarket_kaleidoscope_recheck.md | sanji | 2026-09-21 | B | 4439 |
-| 2026-09-21_taskmarket_qsb_qualification.md | sanji | 2026-09-21 | — | 4391 |
-| 2026-09-21_terminal_picker_live_only.md | sanji | 2026-09-21 | A | 5968 |
-| 2026-09-21_terminal_picker_runtime_gate.md | sanji | 2026-09-21 | A | 4706 |
-| 2026-09-21_tmp_runtime_module_census_1950.md | sanji | 2026-09-21 | B | 3396 |
-| 2026-09-21_tmp_runtime_module_cohort_manifest.md | sanji | 2026-09-21 | B | 2867 |
-| 2026-09-21_tmp_runtime_module_cohort_verification_addendum.md | sanji | 2026-09-21 | B | 3364 |
-| 2026-09-21_tmp_runtime_module_hash_addendum.md | sanji | 2026-09-21 | B | 2800 |
-| 2026-09-21_trash_candidate_metadata_census.md | sanji | 2026-09-21 | B | 5787 |
-| 2026-09-21_turn_gate_authority_resolution_boundary.md | sanji | 2026-09-21 | B | 5465 |
-| 2026-09-21_wall_transport_resilience.md | sanji | 2026-09-21 | A | 6925 |
-| 2026-09-21_1f916_listing39_payout_unblocked_and_glee_renown_wave1_shipped.md | robin | 2026-09-21 | B | 6366 |
-| 2026-09-21_estate_route_selection_and_local_adapter_enactment.md | robin | 2026-09-21 | B | 6823 |
-| 2026-09-21_frontier_routing_empirical_reproduction_and_boundary_honesty.md | robin | 2026-09-21 | — | 11661 |
-| 2026-09-21_routing_projection_diagnostics_and_task_reconciliation.md | robin | 2026-09-21 | — | 6314 |
-| 2026-09-20_copy_handoff_anti_homogeneity.md | glee | 2026-09-20 | — | 11104 |
-| 2026-09-20_design_semantic_control_vocabulary_doctrine_drafted.md | glee | 2026-09-20 | — | 5558 |
-| 2026-09-20_lesson_spine_admission_zero_spend_rule.md | glee | 2026-09-20 | A | 4214 |
-| 2026-09-20_predicate_audit_and_shadow_drain.md | glee | 2026-09-20 | A | 9702 |
-| _(+19069 more — see full manifest JSON)_ | | | | |
+| _(+19092 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
