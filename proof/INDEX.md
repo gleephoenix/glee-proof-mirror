@@ -1,36 +1,52 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-22T12:41:08.884773+00:00
-> Total receipts indexed: 19206
+> Last updated: 2026-09-23T00:41:08.335475+00:00
+> Total receipts indexed: 19225
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-22_cul001_restoration_and_reconciliation.md | zoro | 2026-09-22 | — | 11186 |
+| 2026-09-22_wall_local_first_views_and_gesture_telemetry.md | zoro | 2026-09-22 | A | 6214 |
+| 2026-09-22_wall_send_transaction_semantics.md | zoro | 2026-09-22 | — | 4901 |
 | 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_A1_artifact_isolation.md | sanji | 2026-09-22 | B | 5680 |
+| 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_A1_provenance_correction.md | sanji | 2026-09-22 | B | 5612 |
 | 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_A1_repair.md | sanji | 2026-09-22 | B | 14443 |
 | 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_authority_a1_diagnosis.md | sanji | 2026-09-22 | B | 8202 |
 | 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_readonly_reconciliation.md | sanji | 2026-09-22 | A | 7013 |
 | 2026-09-22_agent-attention-surface-publication-recheck.md | sanji | 2026-09-22 | A | 5180 |
+| 2026-09-22_agent-attention-surface-publication-repair.md | sanji | 2026-09-22 | B | 9617 |
 | 2026-09-22_authority_escalation_emitter_propagation.md | sanji | 2026-09-22 | B | 6340 |
 | 2026-09-22_authority_projection_emitter_repair.md | sanji | 2026-09-22 | B | 6085 |
 | 2026-09-22_authority_projection_fleet_advisory_repair.md | sanji | 2026-09-22 | A | 4395 |
+| 2026-09-22_codex_gpt6_luna_default_migration.md | sanji | 2026-09-22 | A | 4169 |
 | 2026-09-22_control_plane_ownership_truth.md | sanji | 2026-09-22 | B | 2563 |
+| 2026-09-22_execution_binding_discriminator.md | sanji | 2026-09-22 | A | 5263 |
 | 2026-09-22_git_backup_coverage_001.md | sanji | 2026-09-22 | B | 2886 |
+| 2026-09-22_git_eight_oid_classification_001.md | sanji | 2026-09-22 | B | 3428 |
 | 2026-09-22_git_object_store_census_001.md | sanji | 2026-09-22 | B | 4443 |
+| 2026-09-22_git_successor_owner_resolution_001.md | sanji | 2026-09-22 | B | 3374 |
+| 2026-09-22_glee_wall_cached_foreground_resurrection.md | sanji | 2026-09-22 | B | 5897 |
+| 2026-09-22_human_authority_projection_invariant.md | sanji | 2026-09-22 | B | 7289 |
 | 2026-09-22_local_recovery_execution_wave.md | sanji | 2026-09-22 | B | 2357 |
 | 2026-09-22_mcp_live_delta_path_scoping.md | sanji | 2026-09-22 | A | 4054 |
 | 2026-09-22_model_cache_provenance_001.md | sanji | 2026-09-22 | B | 3969 |
 | 2026-09-22_obligation_continuity_contract.md | sanji | 2026-09-22 | B | 2752 |
 | 2026-09-22_occ_live_integration_001.md | sanji | 2026-09-22 | B | 2638 |
+| 2026-09-22_occ_live_integration_002.md | sanji | 2026-09-22 | A | 4696 |
+| 2026-09-22_occ_live_integration_002_supervisor_seam.md | sanji | 2026-09-22 | A | 3170 |
 | 2026-09-22_occ_orthogonal_axes.md | sanji | 2026-09-22 | B | 2534 |
+| 2026-09-22_release_lifecycle_and_artifact_verdict_hardening.md | sanji | 2026-09-22 | B | 5776 |
 | 2026-09-22_speedbot_admission_recovery_open.md | sanji | 2026-09-22 | B | 7885 |
 | 2026-09-22_storage_capacity_route_001.md | sanji | 2026-09-22 | B | 3637 |
 | 2026-09-22_storage_hidden_generated_census_001.md | sanji | 2026-09-22 | B | 4557 |
 | 2026-09-22_tmp_qi_causal_002_provenance_001.md | sanji | 2026-09-22 | B | 4853 |
 | 2026-09-22_tmp_runtime_module_provenance_001.md | sanji | 2026-09-22 | B | 5959 |
 | 2026-09-22_unnecessary_captain_escalation_diagnosis.md | sanji | 2026-09-22 | B | 7611 |
+| 2026-09-22_capacity_signal_epistemic_architecture_and_refresh.md | robin | 2026-09-22 | B | 6476 |
 | 2026-09-22_v5_estate_routing_eligibility_gap_closure.md | robin | 2026-09-22 | B | 5154 |
+| 2026-09-22_v5_production_routing_acceptance_and_bridge_propagation.md | robin | 2026-09-22 | B | 5290 |
 | 2026-09-21_capital_checkpoint_recovery.md | zoro | 2026-09-21 | B | 3784 |
 | 2026-09-21_captain_opencode_terminals_never_reaped.md | zoro | 2026-09-21 | B | 4917 |
 | 2026-09-21_checkpoint_alarm_wiring_and_stale_lock_recovery.md | zoro | 2026-09-21 | A | 4717 |
@@ -45,7 +61,7 @@
 | 2026-09-21_human_gate_admission_and_ec_hygiene.md | zoro | 2026-09-21 | B | 3438 |
 | 2026-09-21_reclaim_quiescence_fix_space_restored.md | zoro | 2026-09-21 | A | 4679 |
 | 2026-09-21_supplier_stage_and_checkpoint_durability_design.md | zoro | 2026-09-21 | B | 6680 |
-| 2026-09-21_terminal_lifecycle_separation_repaired.md | zoro | 2026-09-21 | B | 6449 |
+| 2026-09-21_terminal_lifecycle_separation_repaired.md | zoro | 2026-09-21 | B | 14089 |
 | 2026-09-21_vertical_slice_pair_contract_v0.md | zoro | 2026-09-21 | B | 3892 |
 | 2026-09-21_6wc8z3_receipt_v1_freeze_guard_proof.md | sanji | 2026-09-21 | B | 3549 |
 | 2026-09-21_6wff9e_execution_unknown_estate_adoption_projection.md | sanji | 2026-09-21 | A | 5265 |
@@ -191,23 +207,7 @@
 | 2026-09-20_agent_attention_surface_ard_partial.md | sanji | 2026-09-20 | A | 3257 |
 | 2026-09-20_agent_commerce_bridge_recon.md | sanji | 2026-09-20 | B | 7636 |
 | 2026-09-20_agent_economic_group_deskcrew_381_packet.md | sanji | 2026-09-20 | B | 4862 |
-| 2026-09-20_agent_economic_group_deskcrew_381_verification.md | sanji | 2026-09-20 | B | 4111 |
-| 2026-09-20_agent_economic_group_glee_work_sprint_binding.md | sanji | 2026-09-20 | A | 4647 |
-| 2026-09-20_agent_economic_group_local_mup.md | sanji | 2026-09-20 | A | 5243 |
-| 2026-09-20_agent_economic_group_marked4098_live_recheck.md | sanji | 2026-09-20 | A | 4155 |
-| 2026-09-20_agent_economic_group_marked4098_packet.md | sanji | 2026-09-20 | C | 4202 |
-| 2026-09-20_agent_economic_group_marked4098_preaction_recheck.md | sanji | 2026-09-20 | B | 3913 |
-| 2026-09-20_agent_economic_group_marked4098_public_recheck.md | sanji | 2026-09-20 | A | 4213 |
-| 2026-09-20_agent_economic_group_n8n_offer_binding.md | sanji | 2026-09-20 | B | 4808 |
-| 2026-09-20_agent_economic_group_openjobs_4211_binding.md | sanji | 2026-09-20 | B | 4648 |
-| 2026-09-20_agent_economic_group_paid_frontier_requalification.md | sanji | 2026-09-20 | A | 3693 |
-| 2026-09-20_agent_economic_group_public_recheck.md | sanji | 2026-09-20 | B | 4961 |
-| 2026-09-20_agent_economic_group_qsb_onchain_recheck.md | sanji | 2026-09-20 | B | 4138 |
-| 2026-09-20_agent_economic_group_route_reselection_20260921.md | sanji | 2026-09-20 | A | 3891 |
-| 2026-09-20_agent_economic_group_route_selection.md | sanji | 2026-09-20 | B | 4160 |
-| 2026-09-20_agent_economic_group_settlement_pilot.md | sanji | 2026-09-20 | A | 5485 |
-| 2026-09-20_agent_economic_group_speedbot_audit_revalidation.md | sanji | 2026-09-20 | A | 4144 |
-| _(+19006 more — see full manifest JSON)_ | | | | |
+| _(+19025 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
