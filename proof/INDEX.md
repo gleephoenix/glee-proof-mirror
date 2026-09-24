@@ -1,18 +1,33 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-24T06:41:08.092195+00:00
-> Total receipts indexed: 19352
+> Last updated: 2026-09-24T12:41:09.282638+00:00
+> Total receipts indexed: 19369
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
-| 2026-09-24_acceptance_v0_shipped.md | zoro | 2026-09-24 | B | 5600 |
+| 2026-09-24_acceptance_v0_shipped.md | zoro | 2026-09-24 | B | 8171 |
+| 2026-09-24_fifth_brief_receipt_vocab_and_kernel_describe.md | zoro | 2026-09-24 | A | 3662 |
+| 2026-09-24_h1_h9_hostile_baseline_against_incumbent.md | zoro | 2026-09-24 | A | 4299 |
+| 2026-09-24_h7_authority_gate_h8_expiry_wiring.md | zoro | 2026-09-24 | A | 2785 |
+| 2026-09-24_autonomous-continuation-v1-acceptance-packet.md | sanji | 2026-09-24 | C | 4005 |
+| 2026-09-24_cairn_builder_companion_evidence_reconciliation.md | sanji | 2026-09-24 | A | 6950 |
+| 2026-09-24_dissent-and-evidence-led-convergence-guidance-v2.md | sanji | 2026-09-24 | A | 4928 |
+| 2026-09-24_glee-civilization-dimension-evidence-map-blocked.md | sanji | 2026-09-24 | A | 4218 |
 | 2026-09-24_jev_shadow_runtime_discovery_partial.md | sanji | 2026-09-24 | B | 9652 |
 | 2026-09-24_jev_shadow_runtime_discovery_path_correction.md | sanji | 2026-09-24 | B | 2332 |
+| 2026-09-24_independent_adjudication_and_provisional_graduation.md | robin | 2026-09-24 | B | 5656 |
+| 2026-09-24_independent_reviewer_transport_and_dispatch_gate.md | robin | 2026-09-24 | B | 5289 |
+| 2026-09-24_objective_continuation_and_a_minus_1_autonomy_canary.md | robin | 2026-09-24 | B | 8104 |
+| 2026-09-24_positive_criterion_evidence_canary_and_cohort.md | robin | 2026-09-24 | B | 6313 |
+| 2026-09-24_verifier_repair_freeze_and_negative_canary.md | robin | 2026-09-24 | B | 4966 |
 | 2026-09-23_calibration_preflight_and_identity_separation.md | zoro | 2026-09-23 | — | 3763 |
 | 2026-09-23_canonical_lease_takeover_proof.md | zoro | 2026-09-23 | — | 3756 |
+| 2026-09-23_ecpr_cal_prereg_and_projection_enforcement_v1.md | zoro | 2026-09-23 | A | 2126 |
+| 2026-09-23_ecpr_cal_semantics_implementation_v1.md | zoro | 2026-09-23 | A | 2845 |
 | 2026-09-23_execution_identity_step0.md | zoro | 2026-09-23 | — | 2295 |
+| 2026-09-23_fourth_brief_fold_intent_digest_atomicity_h9.md | zoro | 2026-09-23 | A | 3445 |
 | 2026-09-23_freeze_dependency_items_and_envelope_design_opened.md | zoro | 2026-09-23 | A | 4458 |
 | 2026-09-23_frozen_launch_primitive.md | zoro | 2026-09-23 | — | 3065 |
 | 2026-09-23_lease_semantics_and_expiry_boundary.md | zoro | 2026-09-23 | — | 3657 |
@@ -23,12 +38,13 @@
 | 2026-09-23_routing_verification_debt_enactment.md | zoro | 2026-09-23 | B | 17158 |
 | 2026-09-23_search_space_evolution_law_and_program.md | zoro | 2026-09-23 | — | 5265 |
 | 2026-09-23_step1_freeze_and_the_stale_client_right_now.md | zoro | 2026-09-23 | A | 3106 |
-| 2026-09-23_stream_completion_cross_provider_counterexample.md | zoro | 2026-09-23 | — | 5130 |
+| 2026-09-23_stream_completion_cross_provider_counterexample.md | zoro | 2026-09-23 | — | 7079 |
 | 2026-09-23_stream_completion_failure_class_freeze.md | zoro | 2026-09-23 | — | 12494 |
-| 2026-09-23_third_brief_corrections_and_oracle_frozen.md | zoro | 2026-09-23 | A | 4487 |
+| 2026-09-23_third_brief_corrections_and_oracle_frozen.md | zoro | 2026-09-23 | A | 4614 |
 | 2026-09-23_tracker_revision_race_rootcause.md | zoro | 2026-09-23 | — | 3709 |
 | 2026-09-23_ttl_stale_rejection_trial.md | zoro | 2026-09-23 | — | 2461 |
 | 2026-09-23_ttl_temporal_transition.md | zoro | 2026-09-23 | — | 2766 |
+| 2026-09-23_w1_kernel_reality_and_record_authority.md | zoro | 2026-09-23 | — | 4727 |
 | 2026-09-23_waiter_restart_and_mandatory_fencing.md | zoro | 2026-09-23 | — | 3397 |
 | 2026-09-23_wall_phone_terminal_count_and_send_copy_repair.md | zoro | 2026-09-23 | — | 4807 |
 | 2026-09-23_A2_0_executor_observation_contract.md | sanji | 2026-09-23 | A | 6703 |
@@ -191,23 +207,7 @@
 | 2026-09-21_GLEE_CANADIAN_AI_PLATFORM_CREDIBILITY_001_ownership_semantics_correction.md | sanji | 2026-09-21 | A | 6156 |
 | 2026-09-21_GLEE_CONVERGENCE_FRAME.md | sanji | 2026-09-21 | B | 2531 |
 | 2026-09-21_agent-attention-surface-continuity-repair.md | sanji | 2026-09-21 | A | 3364 |
-| 2026-09-21_agent-attention-surface-public-recheck.md | sanji | 2026-09-21 | B | 4875 |
-| 2026-09-21_agent-attention-surface-route-contract.md | sanji | 2026-09-21 | A | 4550 |
-| 2026-09-21_agent_economic_group_admitted_demand_dry_run_settlement.md | sanji | 2026-09-21 | A | 4097 |
-| 2026-09-21_agent_economic_group_authorization_packet.md | sanji | 2026-09-21 | A | 4642 |
-| 2026-09-21_agent_economic_group_demand_admission_gate.md | sanji | 2026-09-21 | A | 5144 |
-| 2026-09-21_agent_economic_group_demand_to_synthetic_settlement.md | sanji | 2026-09-21 | A | 4619 |
-| 2026-09-21_agent_economic_group_fresh_demand_refresh.md | sanji | 2026-09-21 | A | 5377 |
-| 2026-09-21_agent_economic_group_glee_team_replay_binding.md | sanji | 2026-09-21 | B | 5517 |
-| 2026-09-21_agent_economic_group_review_packet.md | sanji | 2026-09-21 | A | 6070 |
-| 2026-09-21_agent_economic_group_settlement_reconciliation_gate.md | sanji | 2026-09-21 | A | 4620 |
-| 2026-09-21_agent_economic_group_taskmarket_kaleidoscope_binding.md | sanji | 2026-09-21 | B | 5043 |
-| 2026-09-21_agent_economic_group_team_run_replay.md | sanji | 2026-09-21 | A | 5132 |
-| 2026-09-21_agent_economic_group_team_run_review_report.md | sanji | 2026-09-21 | A | 4864 |
-| 2026-09-21_android_download_delivery_repair.md | sanji | 2026-09-21 | A | 5897 |
-| 2026-09-21_app_long_message_transport_001.md | sanji | 2026-09-21 | A | 6475 |
-| 2026-09-21_authority_resolution_provenance_repair.md | sanji | 2026-09-21 | B | 7568 |
-| _(+19152 more — see full manifest JSON)_ | | | | |
+| _(+19169 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
