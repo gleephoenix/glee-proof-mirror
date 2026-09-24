@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-23T18:41:12.676931+00:00
-> Total receipts indexed: 19312
+> Last updated: 2026-09-24T00:41:08.938767+00:00
+> Total receipts indexed: 19324
 
 ## Receipt Manifest
 
@@ -12,17 +12,19 @@
 | 2026-09-23_execution_identity_step0.md | zoro | 2026-09-23 | — | 2295 |
 | 2026-09-23_frozen_launch_primitive.md | zoro | 2026-09-23 | — | 3065 |
 | 2026-09-23_lease_semantics_and_expiry_boundary.md | zoro | 2026-09-23 | — | 3657 |
-| 2026-09-23_operating_elapsed_ttl_witness.md | zoro | 2026-09-23 | — | 2626 |
+| 2026-09-23_operating_elapsed_ttl_witness.md | zoro | 2026-09-23 | — | 2789 |
 | 2026-09-23_operating_ttl_trial_attempt.md | zoro | 2026-09-23 | — | 2435 |
 | 2026-09-23_restart_replication_reopened.md | zoro | 2026-09-23 | — | 3253 |
 | 2026-09-23_restart_takeover_defect_and_effect_classes.md | zoro | 2026-09-23 | — | 3663 |
-| 2026-09-23_routing_verification_debt_enactment.md | zoro | 2026-09-23 | B | 12710 |
+| 2026-09-23_routing_verification_debt_enactment.md | zoro | 2026-09-23 | B | 17158 |
 | 2026-09-23_tracker_revision_race_rootcause.md | zoro | 2026-09-23 | — | 3709 |
 | 2026-09-23_ttl_stale_rejection_trial.md | zoro | 2026-09-23 | — | 2461 |
 | 2026-09-23_ttl_temporal_transition.md | zoro | 2026-09-23 | — | 2766 |
 | 2026-09-23_waiter_restart_and_mandatory_fencing.md | zoro | 2026-09-23 | — | 3397 |
+| 2026-09-23_wall_phone_terminal_count_and_send_copy_repair.md | zoro | 2026-09-23 | — | 4807 |
 | 2026-09-23_A2_0_executor_observation_contract.md | sanji | 2026-09-23 | A | 6703 |
-| 2026-09-23_attention_governance_causal_replay.md | sanji | 2026-09-23 | — | 10673 |
+| 2026-09-23_A2_0_recurrence_contract_v1_1_revision.md | sanji | 2026-09-23 | B | 9865 |
+| 2026-09-23_attention_governance_causal_replay.md | sanji | 2026-09-23 | — | 15202 |
 | 2026-09-23_authority_continuation_sink_census_partial.md | sanji | 2026-09-23 | A | 4399 |
 | 2026-09-23_authority_gate_sink_census.md | sanji | 2026-09-23 | B | 6744 |
 | 2026-09-23_authority_projection_current_tree_reattestation.md | sanji | 2026-09-23 | B | 8285 |
@@ -34,6 +36,7 @@
 | 2026-09-23_continuity-validator-diagnostic-hardening.md | sanji | 2026-09-23 | C | 6684 |
 | 2026-09-23_executor_recurrence_discriminator_successor.md | sanji | 2026-09-23 | B | 6868 |
 | 2026-09-23_executor_start_boundary_discriminator.md | sanji | 2026-09-23 | B | 7558 |
+| 2026-09-23_going_merry_wall_live_service_repair.md | sanji | 2026-09-23 | A | 5931 |
 | 2026-09-23_human_authority_pinned_specimen_followup.md | sanji | 2026-09-23 | B | 5443 |
 | 2026-09-23_human_authority_projection_negative_path_partial.md | sanji | 2026-09-23 | B | 7676 |
 | 2026-09-23_independent_recovery_actuation.md | sanji | 2026-09-23 | B | 6478 |
@@ -41,6 +44,7 @@
 | 2026-09-23_late-evidence-transition-contract.md | sanji | 2026-09-23 | C | 6817 |
 | 2026-09-23_obligation-state-persistence-boundary.md | sanji | 2026-09-23 | B | 5866 |
 | 2026-09-23_occ002_capacity_observation_and_dtv5_eligibility.md | sanji | 2026-09-23 | A | 9595 |
+| 2026-09-23_occ002_capacity_observation_route_repair.md | sanji | 2026-09-23 | A | 8719 |
 | 2026-09-23_occ002_dtv5_provenance_addendum.md | sanji | 2026-09-23 | A | 9200 |
 | 2026-09-23_occ002_identity_and_route_admission_audit.md | sanji | 2026-09-23 | A | 8202 |
 | 2026-09-23_occ002_identity_route_admission_audit.md | sanji | 2026-09-23 | A | 9154 |
@@ -49,10 +53,16 @@
 | 2026-09-23_occ002_requalification_gate_evidence_closeout_frozen.md | sanji | 2026-09-23 | A | 8346 |
 | 2026-09-23_occ002_reserve00_capacity_authority_boundary.md | sanji | 2026-09-23 | A | 5874 |
 | 2026-09-23_sc001_semantic_breaktest_v1.md | sanji | 2026-09-23 | B | 5412 |
+| 2026-09-23_sc001_semantic_repair_contract_v1.md | sanji | 2026-09-23 | B | 6063 |
 | 2026-09-23_signed_authority_decision_v1_dark_consumer.md | sanji | 2026-09-23 | B | 9519 |
 | 2026-09-23_succession_continuity_candidate.md | sanji | 2026-09-23 | B | 6017 |
+| 2026-09-23_v5-exact-lineage-contract.md | sanji | 2026-09-23 | B | 5087 |
 | 2026-09-23_v5-verifier-live-canary-hardening.md | sanji | 2026-09-23 | B | 6234 |
+| 2026-09-23_v5_successor_lineage_fence_proof.md | sanji | 2026-09-23 | B | 6567 |
 | 2026-09-23_v5_verifier_recovery_dispatch_partial.md | sanji | 2026-09-23 | A | 13787 |
+| 2026-09-23_v6_deployed_footer_source_attribution.md | sanji | 2026-09-23 | B | 7300 |
+| 2026-09-23_v6_footer_response_projection_boundary.md | sanji | 2026-09-23 | A | 7801 |
+| 2026-09-23_validator-routing-and-contract-sequence.md | sanji | 2026-09-23 | C | 6889 |
 | 2026-09-23_verifier_dispatch_false_green_followup.md | sanji | 2026-09-23 | B | 10290 |
 | 2026-09-22_continuation_invariant_repair.md | zoro | 2026-09-22 | — | 4549 |
 | 2026-09-22_continuation_production_paths.md | zoro | 2026-09-22 | — | 4486 |
@@ -66,6 +76,7 @@
 | 2026-09-22_wall_adversarial_recovery_diagnostic.md | zoro | 2026-09-22 | A | 3095 |
 | 2026-09-22_wall_checkpoint_coordinate_typing.md | zoro | 2026-09-22 | A | 2033 |
 | 2026-09-22_wall_close_authority_split.md | zoro | 2026-09-22 | A | 1998 |
+| 2026-09-22_wall_close_bindings_frozen.md | zoro | 2026-09-22 | A | 2675 |
 | 2026-09-22_wall_lifecycle_semantics_frozen.md | zoro | 2026-09-22 | A | 2018 |
 | 2026-09-22_wall_local_first_views_and_gesture_telemetry.md | zoro | 2026-09-22 | A | 6214 |
 | 2026-09-22_wall_local_only_gestures_wiring.md | zoro | 2026-09-22 | B | 5188 |
@@ -75,6 +86,7 @@
 | 2026-09-22_wall_seal_integrity_projection_coverage.md | zoro | 2026-09-22 | B | 3299 |
 | 2026-09-22_wall_send_transaction_semantics.md | zoro | 2026-09-22 | — | 4901 |
 | 2026-09-22_wall_sink_census_closing_resolution.md | zoro | 2026-09-22 | A | 2415 |
+| 2026-09-22_wall_sink_manifest_frozen.md | zoro | 2026-09-22 | A | 2415 |
 | 2026-09-22_wall_transcript_commit_protocol.md | zoro | 2026-09-22 | B | 4963 |
 | 2026-09-22_wall_transcript_correctness_gate.md | zoro | 2026-09-22 | A | 5067 |
 | 2026-09-22_wall_transcript_frontier_and_sealing.md | zoro | 2026-09-22 | A | 5092 |
@@ -195,19 +207,7 @@
 | 2026-09-21_eventledger_recovery_decision.md | sanji | 2026-09-21 | B | 6122 |
 | 2026-09-21_eventledger_recovery_regression_tranche.md | sanji | 2026-09-21 | B | 3897 |
 | 2026-09-21_execution-unknown-assurance-state-repair.md | sanji | 2026-09-21 | A | 5565 |
-| 2026-09-21_ext_val_live_demand_001.md | sanji | 2026-09-21 | B | 14190 |
-| 2026-09-21_freebuff_transcript_identity_repair.md | sanji | 2026-09-21 | B | 5395 |
-| 2026-09-21_goal_runtime_captain_projection_repair.md | sanji | 2026-09-21 | B | 5820 |
-| 2026-09-21_intervention_level_diagnosis.md | sanji | 2026-09-21 | A | 5392 |
-| 2026-09-21_jev_adjudication_readiness.md | sanji | 2026-09-21 | A | 5333 |
-| 2026-09-21_jev_native_adjudication_request.md | sanji | 2026-09-21 | A | 4493 |
-| 2026-09-21_jev_native_moltbook_observation.md | sanji | 2026-09-21 | A | 3025 |
-| 2026-09-21_openjobs_marked4098_packet_independent_review.md | sanji | 2026-09-21 | — | 2830 |
-| 2026-09-21_openjobs_marked4098_pre_authorization_requalification.md | sanji | 2026-09-21 | — | 2323 |
-| 2026-09-21_openjobs_marked4098_preparation.md | sanji | 2026-09-21 | — | 4738 |
-| 2026-09-21_process_state_r2_fixture_wave.md | sanji | 2026-09-21 | A | 3588 |
-| 2026-09-21_process_state_r2_schema_matched_control.md | sanji | 2026-09-21 | A | 3846 |
-| _(+19112 more — see full manifest JSON)_ | | | | |
+| _(+19124 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
