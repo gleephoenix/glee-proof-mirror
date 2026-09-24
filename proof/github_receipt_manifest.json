@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 19312,
+  "total_receipts": 19324,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -40737,7 +40737,7 @@
       "rel_path": "2026-09-22_isr_investigation/RECEIPT.md",
       "date": null,
       "tier": null,
-      "size_bytes": 50088
+      "size_bytes": 54184
     },
     {
       "file_name": "INDEPENDENT_REVIEW.md",
@@ -40828,6 +40828,14 @@
       "size_bytes": 1998
     },
     {
+      "file_name": "2026-09-22_wall_close_bindings_frozen.md",
+      "home": "zoro",
+      "rel_path": "2026-09-22_wall_close_bindings_frozen.md",
+      "date": "2026-09-22",
+      "tier": "A",
+      "size_bytes": 2675
+    },
+    {
       "file_name": "2026-09-22_wall_lifecycle_semantics_frozen.md",
       "home": "zoro",
       "rel_path": "2026-09-22_wall_lifecycle_semantics_frozen.md",
@@ -40895,6 +40903,14 @@
       "file_name": "2026-09-22_wall_sink_census_closing_resolution.md",
       "home": "zoro",
       "rel_path": "2026-09-22_wall_sink_census_closing_resolution.md",
+      "date": "2026-09-22",
+      "tier": "A",
+      "size_bytes": 2415
+    },
+    {
+      "file_name": "2026-09-22_wall_sink_manifest_frozen.md",
+      "home": "zoro",
+      "rel_path": "2026-09-22_wall_sink_manifest_frozen.md",
       "date": "2026-09-22",
       "tier": "A",
       "size_bytes": 2415
@@ -40985,7 +41001,7 @@
       "rel_path": "2026-09-23_operating_elapsed_ttl_witness.md",
       "date": "2026-09-23",
       "tier": null,
-      "size_bytes": 2626
+      "size_bytes": 2789
     },
     {
       "file_name": "2026-09-23_operating_ttl_trial_attempt.md",
@@ -41017,7 +41033,7 @@
       "rel_path": "2026-09-23_routing_verification_debt_enactment.md",
       "date": "2026-09-23",
       "tier": "B",
-      "size_bytes": 12710
+      "size_bytes": 17158
     },
     {
       "file_name": "2026-09-23_tracker_revision_race_rootcause.md",
@@ -41050,6 +41066,14 @@
       "date": "2026-09-23",
       "tier": null,
       "size_bytes": 3397
+    },
+    {
+      "file_name": "2026-09-23_wall_phone_terminal_count_and_send_copy_repair.md",
+      "home": "zoro",
+      "rel_path": "2026-09-23_wall_phone_terminal_count_and_send_copy_repair.md",
+      "date": "2026-09-23",
+      "tier": null,
+      "size_bytes": 4807
     },
     {
       "file_name": "INDEX.md",
@@ -135692,12 +135716,20 @@
       "size_bytes": 6703
     },
     {
+      "file_name": "2026-09-23_A2_0_recurrence_contract_v1_1_revision.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_A2_0_recurrence_contract_v1_1_revision.md",
+      "date": "2026-09-23",
+      "tier": "B",
+      "size_bytes": 9865
+    },
+    {
       "file_name": "2026-09-23_attention_governance_causal_replay.md",
       "home": "sanji",
       "rel_path": "2026-09-23_attention_governance_causal_replay.md",
       "date": "2026-09-23",
       "tier": null,
-      "size_bytes": 10673
+      "size_bytes": 15202
     },
     {
       "file_name": "2026-09-23_authority_continuation_sink_census_partial.md",
@@ -135788,6 +135820,14 @@
       "size_bytes": 7558
     },
     {
+      "file_name": "2026-09-23_going_merry_wall_live_service_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_going_merry_wall_live_service_repair.md",
+      "date": "2026-09-23",
+      "tier": "A",
+      "size_bytes": 5931
+    },
+    {
       "file_name": "2026-09-23_human_authority_pinned_specimen_followup.md",
       "home": "sanji",
       "rel_path": "2026-09-23_human_authority_pinned_specimen_followup.md",
@@ -135842,6 +135882,14 @@
       "date": "2026-09-23",
       "tier": "A",
       "size_bytes": 9595
+    },
+    {
+      "file_name": "2026-09-23_occ002_capacity_observation_route_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_occ002_capacity_observation_route_repair.md",
+      "date": "2026-09-23",
+      "tier": "A",
+      "size_bytes": 8719
     },
     {
       "file_name": "2026-09-23_occ002_dtv5_provenance_addendum.md",
@@ -135908,6 +135956,14 @@
       "size_bytes": 5412
     },
     {
+      "file_name": "2026-09-23_sc001_semantic_repair_contract_v1.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_sc001_semantic_repair_contract_v1.md",
+      "date": "2026-09-23",
+      "tier": "B",
+      "size_bytes": 6063
+    },
+    {
       "file_name": "2026-09-23_signed_authority_decision_v1_dark_consumer.md",
       "home": "sanji",
       "rel_path": "2026-09-23_signed_authority_decision_v1_dark_consumer.md",
@@ -135924,6 +135980,14 @@
       "size_bytes": 6017
     },
     {
+      "file_name": "2026-09-23_v5-exact-lineage-contract.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_v5-exact-lineage-contract.md",
+      "date": "2026-09-23",
+      "tier": "B",
+      "size_bytes": 5087
+    },
+    {
       "file_name": "2026-09-23_v5-verifier-live-canary-hardening.md",
       "home": "sanji",
       "rel_path": "2026-09-23_v5-verifier-live-canary-hardening.md",
@@ -135932,12 +135996,44 @@
       "size_bytes": 6234
     },
     {
+      "file_name": "2026-09-23_v5_successor_lineage_fence_proof.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_v5_successor_lineage_fence_proof.md",
+      "date": "2026-09-23",
+      "tier": "B",
+      "size_bytes": 6567
+    },
+    {
       "file_name": "2026-09-23_v5_verifier_recovery_dispatch_partial.md",
       "home": "sanji",
       "rel_path": "2026-09-23_v5_verifier_recovery_dispatch_partial.md",
       "date": "2026-09-23",
       "tier": "A",
       "size_bytes": 13787
+    },
+    {
+      "file_name": "2026-09-23_v6_deployed_footer_source_attribution.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_v6_deployed_footer_source_attribution.md",
+      "date": "2026-09-23",
+      "tier": "B",
+      "size_bytes": 7300
+    },
+    {
+      "file_name": "2026-09-23_v6_footer_response_projection_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_v6_footer_response_projection_boundary.md",
+      "date": "2026-09-23",
+      "tier": "A",
+      "size_bytes": 7801
+    },
+    {
+      "file_name": "2026-09-23_validator-routing-and-contract-sequence.md",
+      "home": "sanji",
+      "rel_path": "2026-09-23_validator-routing-and-contract-sequence.md",
+      "date": "2026-09-23",
+      "tier": "C",
+      "size_bytes": 6889
     },
     {
       "file_name": "2026-09-23_verifier_dispatch_false_green_followup.md",
