@@ -1,14 +1,22 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-24T18:41:09.552103+00:00
-> Total receipts indexed: 19409
+> Last updated: 2026-09-25T06:41:08.237890+00:00
+> Total receipts indexed: 19448
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-25_keeper_git_garbage_mount_boundary.md | glee | 2026-09-25 | A | 10176 |
+| 2026-09-25_keeper_recipient_addressability.md | glee | 2026-09-25 | A | 4402 |
+| 2026-09-25_canonical_execution_record_trace_partial.md | sanji | 2026-09-25 | A | 19421 |
+| 2026-09-25_generic_continuation_wake_transport.md | sanji | 2026-09-25 | B | 8651 |
+| 2026-09-25_generic_obligation_wake_canary.md | sanji | 2026-09-25 | C | 6989 |
+| 2026-09-24_keeper_checkpoint_owner_recheck.md | glee | 2026-09-24 | A | 4489 |
 | 2026-09-24_acceptance_v0_shipped.md | zoro | 2026-09-24 | B | 8171 |
 | 2026-09-24_context_reset_actuator_v1.md | zoro | 2026-09-24 | A | 2613 |
+| 2026-09-24_context_reset_full_canary_join_v1.md | zoro | 2026-09-24 | A | 3158 |
+| 2026-09-24_context_reset_live_canary_v1.md | zoro | 2026-09-24 | A | 2704 |
 | 2026-09-24_context_reset_transition_ledger_v1.md | zoro | 2026-09-24 | A | 2530 |
 | 2026-09-24_context_reset_transition_v2.md | zoro | 2026-09-24 | A | 2007 |
 | 2026-09-24_ecpr_cal_five_scope_census_v1.md | zoro | 2026-09-24 | A | 3104 |
@@ -18,6 +26,10 @@
 | 2026-09-24_h9_graduation_and_frozen_baseline_compare.md | zoro | 2026-09-24 | A | 5753 |
 | 2026-09-24_stable_front_door_terminate_checkpoint.md | zoro | 2026-09-24 | A | 2042 |
 | 2026-09-24_tier1_parity_state_compat_independent_verify.md | zoro | 2026-09-24 | A | 3361 |
+| 2026-09-24_BUS_RUNTIME_V0_canonical_settlement_local_slice.md | sanji | 2026-09-24 | B | 8442 |
+| 2026-09-24_BUS_RUNTIME_V0_review_dimensions_context_release.md | sanji | 2026-09-24 | B | 8463 |
+| 2026-09-24_BUS_RUNTIME_V0_settlement_abi_acceptance_r2.md | sanji | 2026-09-24 | B | 6822 |
+| 2026-09-24_BUS_RUNTIME_V0_settlement_abi_review_repair_r2.md | sanji | 2026-09-24 | B | 6395 |
 | 2026-09-24_BUS_RUNTIME_V0_settlement_design.md | sanji | 2026-09-24 | C | 6174 |
 | 2026-09-24_agent_capital_audit_semantics_amendment.md | sanji | 2026-09-24 | C | 5102 |
 | 2026-09-24_agent_capital_exact_scheme_join_v1_partial.md | sanji | 2026-09-24 | C | 8708 |
@@ -26,30 +38,55 @@
 | 2026-09-24_agent_revenue_canary_001_scope_and_gate.md | sanji | 2026-09-24 | B | 6120 |
 | 2026-09-24_autonomous-continuation-v1-acceptance-packet.md | sanji | 2026-09-24 | C | 4005 |
 | 2026-09-24_blocked_dependency_bus_runtime_v0_partial.md | sanji | 2026-09-24 | C | 8369 |
+| 2026-09-24_c4www1_autonomous_continuation.md | sanji | 2026-09-24 | B | 8508 |
 | 2026-09-24_c4www1_measurement_addendum.md | sanji | 2026-09-24 | A | 6528 |
 | 2026-09-24_c4www1_prospective_preregistration.md | sanji | 2026-09-24 | A | 9113 |
 | 2026-09-24_c4www1_slot_allocation_erratum.md | sanji | 2026-09-24 | A | 4851 |
 | 2026-09-24_cairn_builder_companion_evidence_reconciliation.md | sanji | 2026-09-24 | A | 6950 |
+| 2026-09-24_context-lifecycle-admission-block.md | sanji | 2026-09-24 | A | 10766 |
+| 2026-09-24_context-lifecycle-conversation-boundary-proposal.md | sanji | 2026-09-24 | A | 6493 |
+| 2026-09-24_context-lifecycle-conversation-boundary.md | sanji | 2026-09-24 | A | 5334 |
+| 2026-09-24_context-lifecycle-host-supervisor-partial.md | sanji | 2026-09-24 | B | 4454 |
+| 2026-09-24_context-lifecycle-invocation-boundary-v2_1.md | sanji | 2026-09-24 | C | 6608 |
+| 2026-09-24_context-lifecycle-owner-routing-correction.md | sanji | 2026-09-24 | B | 6685 |
+| 2026-09-24_context-lifecycle-park-wake-preservation.md | sanji | 2026-09-24 | A | 4943 |
 | 2026-09-24_context_terminal_failclosed_partial.md | sanji | 2026-09-24 | B | 5491 |
 | 2026-09-24_dissent-and-evidence-led-convergence-guidance-v2.md | sanji | 2026-09-24 | A | 4928 |
 | 2026-09-24_dissent-independent-review-admission-block.md | sanji | 2026-09-24 | A | 4398 |
 | 2026-09-24_dissent-independent-reviewer-discovery.md | sanji | 2026-09-24 | A | 5046 |
+| 2026-09-24_dissent-review-obligation-continuity.md | sanji | 2026-09-24 | A | 5048 |
 | 2026-09-24_glee-civilization-dimension-evidence-map-blocked.md | sanji | 2026-09-24 | A | 4218 |
 | 2026-09-24_glee-civilization-dimension-evidence-map-wave.md | sanji | 2026-09-24 | C | 7910 |
+| 2026-09-24_host_context_retirement_acceptance_partial.md | sanji | 2026-09-24 | B | 5913 |
 | 2026-09-24_jev_c4www1_discovery_slice_partial.md | sanji | 2026-09-24 | B | 10463 |
 | 2026-09-24_jev_shadow_runtime_discovery_partial.md | sanji | 2026-09-24 | B | 9652 |
 | 2026-09-24_jev_shadow_runtime_discovery_path_correction.md | sanji | 2026-09-24 | B | 2332 |
+| 2026-09-24_recovery-obligation-quiescent-context-disposition.md | sanji | 2026-09-24 | C | 7345 |
+| 2026-09-24_recovery-turn-4f2c1a4c4f13522823b9-owner-action-binding.md | sanji | 2026-09-24 | B | 6193 |
 | 2026-09-24_recovery_obligation_host_handoff_transfer_partial.md | sanji | 2026-09-24 | B | 6072 |
 | 2026-09-24_recovery_obligation_termination_law_partial.md | sanji | 2026-09-24 | B | 7257 |
+| 2026-09-24_recovery_turn_authority_and_wake_boundary.md | sanji | 2026-09-24 | B | 10186 |
+| 2026-09-24_recovery_turn_release_seat_binding.md | sanji | 2026-09-24 | B | 5816 |
+| 2026-09-24_recovery_turn_release_seat_handoff_followup.md | sanji | 2026-09-24 | B | 6639 |
+| 2026-09-24_terminate_instance_scoped_release.md | sanji | 2026-09-24 | B | 8845 |
+| 2026-09-24_worker-plane-contained-execution-verified.md | sanji | 2026-09-24 | A | 9478 |
+| 2026-09-24_worker_plane_partial_continuation_runtime.md | sanji | 2026-09-24 | B | 5120 |
+| 2026-09-24_worker_plane_v1_attempt_fencing.md | sanji | 2026-09-24 | B | 7742 |
+| 2026-09-24_worker_plane_v1_contained_patch_verify.md | sanji | 2026-09-24 | B | 6768 |
+| 2026-09-24_worker_plane_v1_fresh_contained_integration.md | sanji | 2026-09-24 | A | 5703 |
+| 2026-09-24_worker_plane_v1_v5_effect_outcomes.md | sanji | 2026-09-24 | B | 7536 |
 | 2026-09-24_compounding_transfer_witness.md | robin | 2026-09-24 | B | 5791 |
 | 2026-09-24_context_lifecycle_and_terminal_disposition.md | robin | 2026-09-24 | B | 6066 |
 | 2026-09-24_cross_seat_canonical_discovery.md | robin | 2026-09-24 | B | 7296 |
+| 2026-09-24_glee_identity_and_terminal_purpose_handoff.md | robin | 2026-09-24 | A | 2616 |
 | 2026-09-24_host_terminal_context_reset_actuator.md | robin | 2026-09-24 | B | 5392 |
 | 2026-09-24_hostile_context_recycling_and_actuator_proof.md | robin | 2026-09-24 | B | 6044 |
 | 2026-09-24_independent_adjudication_and_provisional_graduation.md | robin | 2026-09-24 | B | 5656 |
 | 2026-09-24_independent_reviewer_transport_and_dispatch_gate.md | robin | 2026-09-24 | B | 5289 |
 | 2026-09-24_local_intelligence_economics_cohort.md | robin | 2026-09-24 | B | 5859 |
 | 2026-09-24_objective_continuation_and_a_minus_1_autonomy_canary.md | robin | 2026-09-24 | B | 8104 |
+| 2026-09-24_orchestrated_terminal_context_reset_bridge.md | robin | 2026-09-24 | B | 8850 |
+| 2026-09-24_physical_context_reset_actuation.md | robin | 2026-09-24 | B | 8949 |
 | 2026-09-24_positive_criterion_evidence_canary_and_cohort.md | robin | 2026-09-24 | B | 6313 |
 | 2026-09-24_retired_identity_fencing_and_queue_rebind.md | robin | 2026-09-24 | B | 6428 |
 | 2026-09-24_verified_agent_workflow_audit_package.md | robin | 2026-09-24 | B | 4760 |
@@ -60,7 +97,7 @@
 | 2026-09-23_d1_t4_effect_boundary.md | zoro | 2026-09-23 | — | 4425 |
 | 2026-09-23_d1_t5_legacy_evidence_adapter.md | zoro | 2026-09-23 | — | 4470 |
 | 2026-09-23_d1_t6_composition.md | zoro | 2026-09-23 | — | 5689 |
-| 2026-09-23_d1_t7_input_contract.md | zoro | 2026-09-23 | — | 15693 |
+| 2026-09-23_d1_t7_input_contract.md | zoro | 2026-09-23 | — | 30622 |
 | 2026-09-23_ecpr_cal_prereg_and_projection_enforcement_v1.md | zoro | 2026-09-23 | A | 2126 |
 | 2026-09-23_ecpr_cal_semantics_implementation_v1.md | zoro | 2026-09-23 | A | 2845 |
 | 2026-09-23_execution_identity_step0.md | zoro | 2026-09-23 | — | 2295 |
@@ -170,44 +207,7 @@
 | 2026-09-22_wall_transcript_correctness_gate.md | zoro | 2026-09-22 | A | 5067 |
 | 2026-09-22_wall_transcript_frontier_and_sealing.md | zoro | 2026-09-22 | A | 5092 |
 | 2026-09-22_wall_transcript_plane_runtime_guard.md | zoro | 2026-09-22 | B | 5456 |
-| 2026-09-22_wall_writer_fence_contract.md | zoro | 2026-09-22 | A | 2041 |
-| 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_A1_artifact_isolation.md | sanji | 2026-09-22 | B | 5680 |
-| 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_A1_provenance_correction.md | sanji | 2026-09-22 | B | 5612 |
-| 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_A1_repair.md | sanji | 2026-09-22 | B | 14443 |
-| 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_authority_a1_diagnosis.md | sanji | 2026-09-22 | B | 8202 |
-| 2026-09-22_LIVE_PRODUCT_ACCEPTANCE_001_readonly_reconciliation.md | sanji | 2026-09-22 | A | 7013 |
-| 2026-09-22_agent-attention-surface-publication-recheck.md | sanji | 2026-09-22 | A | 5180 |
-| 2026-09-22_agent-attention-surface-publication-repair.md | sanji | 2026-09-22 | B | 9617 |
-| 2026-09-22_agent_studies_attention_governance_artifact_split.md | sanji | 2026-09-22 | — | 4136 |
-| 2026-09-22_attention_governance_provenance_trace.md | sanji | 2026-09-22 | — | 6808 |
-| 2026-09-22_attention_governance_runtime_map.md | sanji | 2026-09-22 | — | 4348 |
-| 2026-09-22_authority_escalation_emitter_propagation.md | sanji | 2026-09-22 | B | 6340 |
-| 2026-09-22_authority_projection_emitter_repair.md | sanji | 2026-09-22 | B | 6085 |
-| 2026-09-22_authority_projection_fleet_advisory_repair.md | sanji | 2026-09-22 | A | 4395 |
-| 2026-09-22_autonomous-verifier-route-partial.md | sanji | 2026-09-22 | B | 8031 |
-| 2026-09-22_codex_gpt6_luna_default_migration.md | sanji | 2026-09-22 | A | 4169 |
-| 2026-09-22_control-plane-authority-recovery-infrastructure.md | sanji | 2026-09-22 | B | 8336 |
-| 2026-09-22_control_plane_ownership_truth.md | sanji | 2026-09-22 | B | 2563 |
-| 2026-09-22_control_plane_recovery_surface_investigation.md | sanji | 2026-09-22 | A | 6979 |
-| 2026-09-22_execution_binding_discriminator.md | sanji | 2026-09-22 | A | 5263 |
-| 2026-09-22_executor_start_binding_boundary.md | sanji | 2026-09-22 | B | 5454 |
-| 2026-09-22_final_stop_escalation_provenance_gate.md | sanji | 2026-09-22 | B | 6079 |
-| 2026-09-22_git_backup_coverage_001.md | sanji | 2026-09-22 | B | 2886 |
-| 2026-09-22_git_eight_oid_classification_001.md | sanji | 2026-09-22 | B | 3428 |
-| 2026-09-22_git_object_store_census_001.md | sanji | 2026-09-22 | B | 4443 |
-| 2026-09-22_git_object_store_reachability_census.md | sanji | 2026-09-22 | B | 6832 |
-| 2026-09-22_git_successor_owner_resolution_001.md | sanji | 2026-09-22 | B | 3374 |
-| 2026-09-22_git_successor_turn_close_wait_state.md | sanji | 2026-09-22 | B | 4297 |
-| 2026-09-22_git_successor_wait_and_model_cache_reacquisition.md | sanji | 2026-09-22 | B | 5992 |
-| 2026-09-22_glee_wall_cached_foreground_resurrection.md | sanji | 2026-09-22 | B | 5897 |
-| 2026-09-22_human_authority_projection_invariant.md | sanji | 2026-09-22 | B | 7289 |
-| 2026-09-22_local_recovery_execution_wave.md | sanji | 2026-09-22 | B | 2357 |
-| 2026-09-22_mcp_live_delta_path_scoping.md | sanji | 2026-09-22 | A | 4054 |
-| 2026-09-22_model_cache_provenance_001.md | sanji | 2026-09-22 | B | 3969 |
-| 2026-09-22_obligation_continuity_contract.md | sanji | 2026-09-22 | B | 2752 |
-| 2026-09-22_obligation_uncertainty_separation_ratification.md | sanji | 2026-09-22 | C | 6854 |
-| 2026-09-22_occ_live_integration_001.md | sanji | 2026-09-22 | B | 2638 |
-| _(+19209 more — see full manifest JSON)_ | | | | |
+| _(+19248 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
