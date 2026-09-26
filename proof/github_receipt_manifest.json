@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 19579,
+  "total_receipts": 19593,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -41412,12 +41412,52 @@
       "size_bytes": 3361
     },
     {
+      "file_name": "2026-09-25_codex_stop_harvester_path_repair.md",
+      "home": "zoro",
+      "rel_path": "2026-09-25_codex_stop_harvester_path_repair.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 7266
+    },
+    {
+      "file_name": "2026-09-25_memory_scorer_rerank_truth_and_stage_timing.md",
+      "home": "zoro",
+      "rel_path": "2026-09-25_memory_scorer_rerank_truth_and_stage_timing.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 3992
+    },
+    {
+      "file_name": "2026-09-25_memory_scorer_shadow_capacity_admission.md",
+      "home": "zoro",
+      "rel_path": "2026-09-25_memory_scorer_shadow_capacity_admission.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 3171
+    },
+    {
       "file_name": "2026-09-25_nightshift_zoro_frontier_continuation.md",
       "home": "zoro",
       "rel_path": "2026-09-25_nightshift_zoro_frontier_continuation.md",
       "date": "2026-09-25",
       "tier": "B",
       "size_bytes": 4920
+    },
+    {
+      "file_name": "2026-09-26_nightshift_storage_recovery.md",
+      "home": "zoro",
+      "rel_path": "2026-09-26_nightshift_storage_recovery.md",
+      "date": "2026-09-26",
+      "tier": "B",
+      "size_bytes": 6534
+    },
+    {
+      "file_name": "2026-09-26_nightshift_zoro.md",
+      "home": "zoro",
+      "rel_path": "2026-09-26_nightshift_zoro.md",
+      "date": "2026-09-26",
+      "tier": "B",
+      "size_bytes": 5437
     },
     {
       "file_name": "INDEX.md",
@@ -41977,7 +42017,7 @@
       "rel_path": "receipt_2026-09-24_routing_projection_repair_reserve00.md",
       "date": null,
       "tier": "B",
-      "size_bytes": 16893
+      "size_bytes": 21965
     },
     {
       "file_name": "receipt_2026-09-24_terminate_success_cd002.md",
@@ -136996,6 +137036,38 @@
       "size_bytes": 6259
     },
     {
+      "file_name": "2026-09-25_captain_desk_canonical_goals.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_captain_desk_canonical_goals.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 5820
+    },
+    {
+      "file_name": "2026-09-25_captain_desk_review_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_captain_desk_review_repair.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 6477
+    },
+    {
+      "file_name": "2026-09-25_captain_desk_work_binding_recovery_routed.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_captain_desk_work_binding_recovery_routed.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 5877
+    },
+    {
+      "file_name": "2026-09-25_captain_wording_correction_transfer_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_captain_wording_correction_transfer_gate.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 5673
+    },
+    {
       "file_name": "2026-09-25_codex_text_paste_shortcut_repair.md",
       "home": "sanji",
       "rel_path": "2026-09-25_codex_text_paste_shortcut_repair.md",
@@ -137266,6 +137338,14 @@
       "date": "2026-09-25",
       "tier": "B",
       "size_bytes": 8692
+    },
+    {
+      "file_name": "2026-09-25_going_merry_captain_desk_entry_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_going_merry_captain_desk_entry_candidate.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 5381
     },
     {
       "file_name": "2026-09-25_health_publication_reobservation_resolution.md",
@@ -137828,6 +137908,14 @@
       "size_bytes": 12017
     },
     {
+      "file_name": "2026-09-25_nightshift_treasury_wallet_access.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_treasury_wallet_access.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 6172
+    },
+    {
       "file_name": "2026-09-25_nightshift_work_lineage_canary_trace_1752.md",
       "home": "sanji",
       "rel_path": "2026-09-25_nightshift_work_lineage_canary_trace_1752.md",
@@ -137860,6 +137948,22 @@
       "size_bytes": 5963
     },
     {
+      "file_name": "2026-09-25_operations_desk_information_architecture.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_operations_desk_information_architecture.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 5127
+    },
+    {
+      "file_name": "2026-09-25_operations_desk_wall_deprecation_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_operations_desk_wall_deprecation_correction.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 4073
+    },
+    {
       "file_name": "2026-09-25_post_quiescence_live_ingress_enforcement.md",
       "home": "sanji",
       "rel_path": "2026-09-25_post_quiescence_live_ingress_enforcement.md",
@@ -137890,6 +137994,14 @@
       "date": "2026-09-25",
       "tier": "B",
       "size_bytes": 7211
+    },
+    {
+      "file_name": "2026-09-25_thousand_sunny_captain_desk_first_slice.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_thousand_sunny_captain_desk_first_slice.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 6532
     },
     {
       "file_name": "2026-09-25_wall_input_trace.md",
