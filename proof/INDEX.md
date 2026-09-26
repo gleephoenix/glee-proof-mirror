@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-25T18:41:11.340686+00:00
-> Total receipts indexed: 19547
+> Last updated: 2026-09-26T00:41:09.296396+00:00
+> Total receipts indexed: 19579
 
 ## Receipt Manifest
 
@@ -22,6 +22,8 @@
 | 2026-09-25_nightshift_taskmarket_wallet_boundary.md | glee | 2026-09-25 | B | 8352 |
 | 2026-09-25_nightshift_zoro_frontier_continuation.md | zoro | 2026-09-25 | B | 4920 |
 | 2026-09-25_canonical_execution_record_trace_partial.md | sanji | 2026-09-25 | A | 19421 |
+| 2026-09-25_capability_leverage_measurement_proposal.md | sanji | 2026-09-25 | A | 6259 |
+| 2026-09-25_codex_text_paste_shortcut_repair.md | sanji | 2026-09-25 | B | 3138 |
 | 2026-09-25_cognitive_continuity_not_obligation_continuity_candidate.md | sanji | 2026-09-25 | B | 4201 |
 | 2026-09-25_cognitive_continuity_not_obligation_continuity_r2.md | sanji | 2026-09-25 | B | 5057 |
 | 2026-09-25_context-lifecycle-supervisor-reconciliation.md | sanji | 2026-09-25 | B | 7463 |
@@ -30,6 +32,7 @@
 | 2026-09-25_generic_continuation_wake_transport.md | sanji | 2026-09-25 | B | 8651 |
 | 2026-09-25_generic_obligation_wake_canary.md | sanji | 2026-09-25 | C | 9581 |
 | 2026-09-25_generic_obligation_wake_final_canary.md | sanji | 2026-09-25 | C | 15554 |
+| 2026-09-25_generic_obligation_wake_replay_reconciliation_2204.md | sanji | 2026-09-25 | A | 6208 |
 | 2026-09-25_glee_nightshift_assistant_market_screen_1539.md | sanji | 2026-09-25 | A | 7220 |
 | 2026-09-25_glee_nightshift_buyer_and_identity_provenance_addendum_1351.md | sanji | 2026-09-25 | B | 11055 |
 | 2026-09-25_glee_nightshift_canary_identity_pilot_1642.md | sanji | 2026-09-25 | A | 13990 |
@@ -37,7 +40,10 @@
 | 2026-09-25_glee_nightshift_compound.md | sanji | 2026-09-25 | B | 43609 |
 | 2026-09-25_glee_nightshift_compound_checkpoint_1432.md | sanji | 2026-09-25 | B | 15036 |
 | 2026-09-25_glee_nightshift_compound_continuation_1046.md | sanji | 2026-09-25 | B | 11430 |
-| 2026-09-25_glee_nightshift_compound_receipt.md | sanji | 2026-09-25 | C | 89347 |
+| 2026-09-25_glee_nightshift_compound_continuation_2035.md | sanji | 2026-09-25 | A | 9368 |
+| 2026-09-25_glee_nightshift_compound_continuation_2112.md | sanji | 2026-09-25 | A | 10054 |
+| 2026-09-25_glee_nightshift_compound_current_2224.md | sanji | 2026-09-25 | A | 12410 |
+| 2026-09-25_glee_nightshift_compound_receipt.md | sanji | 2026-09-25 | C | 120768 |
 | 2026-09-25_glee_nightshift_context_release_handoff_1508.md | sanji | 2026-09-25 | B | 5387 |
 | 2026-09-25_glee_nightshift_context_retirement_idle_split_0531.md | sanji | 2026-09-25 | B | 5437 |
 | 2026-09-25_glee_nightshift_continuation_1209.md | sanji | 2026-09-25 | C | 41182 |
@@ -45,14 +51,19 @@
 | 2026-09-25_glee_nightshift_health_archive_verification_addendum.md | sanji | 2026-09-25 | C | 13128 |
 | 2026-09-25_glee_nightshift_identity_postfreeze_reconciliation.md | sanji | 2026-09-25 | B | 7825 |
 | 2026-09-25_glee_nightshift_identity_transfer_v2_addendum.md | sanji | 2026-09-25 | B | 17548 |
+| 2026-09-25_glee_nightshift_p006_verification_addendum.md | sanji | 2026-09-25 | C | 9558 |
+| 2026-09-25_glee_nightshift_p006_verification_addendum_002.md | sanji | 2026-09-25 | C | 9125 |
 | 2026-09-25_glee_nightshift_receipt_integrity_verification_addendum_1103.md | sanji | 2026-09-25 | B | 7846 |
 | 2026-09-25_glee_nightshift_receipt_lifecycle_addendum_1711Z.md | sanji | 2026-09-25 | B | 5439 |
 | 2026-09-25_glee_nightshift_receipt_manifest_correction_1721Z.md | sanji | 2026-09-25 | B | 6471 |
 | 2026-09-25_glee_nightshift_taskmarket_and_assistant_route_addendum_1414.md | sanji | 2026-09-25 | B | 8692 |
 | 2026-09-25_health_publication_reobservation_resolution.md | sanji | 2026-09-25 | B | 5481 |
+| 2026-09-25_health_stale_authority_readonly_review_001.md | sanji | 2026-09-25 | A | 6457 |
+| 2026-09-25_health_stale_cli_boundary_verification.md | sanji | 2026-09-25 | C | 4775 |
 | 2026-09-25_instance_scoped_lifecycle_host_handoff.md | sanji | 2026-09-25 | B | 7834 |
 | 2026-09-25_jev_native_adjudication_source_supplement.md | sanji | 2026-09-25 | C | 6502 |
 | 2026-09-25_nightshift-compound_partial.md | sanji | 2026-09-25 | A | 9581 |
+| 2026-09-25_nightshift_activation_gate_checkpoint_2256.md | sanji | 2026-09-25 | A | 6439 |
 | 2026-09-25_nightshift_alternative_market_scan.md | sanji | 2026-09-25 | B | 8176 |
 | 2026-09-25_nightshift_ariadne_route_reconciliation.md | sanji | 2026-09-25 | B | 5694 |
 | 2026-09-25_nightshift_assistant_federation_rollup.md | sanji | 2026-09-25 | B | 7527 |
@@ -61,15 +72,24 @@
 | 2026-09-25_nightshift_assistant_use_rollup.md | sanji | 2026-09-25 | B | 7829 |
 | 2026-09-25_nightshift_autonomy_frontier_diagnostic_1609.md | sanji | 2026-09-25 | B | 8603 |
 | 2026-09-25_nightshift_basedagents_frontier.md | sanji | 2026-09-25 | B | 6182 |
+| 2026-09-25_nightshift_compound.md | sanji | 2026-09-25 | B | 14378 |
+| 2026-09-25_nightshift_compound_checkpoint.md | sanji | 2026-09-25 | B | 17501 |
+| 2026-09-25_nightshift_compound_partial.md | sanji | 2026-09-25 | B | 15565 |
+| 2026-09-25_nightshift_compound_v2_partial.md | sanji | 2026-09-25 | B | 15716 |
 | 2026-09-25_nightshift_evidence_instrumentation.md | sanji | 2026-09-25 | C | 7160 |
 | 2026-09-25_nightshift_execution_market_offer_safety_screen_001.md | sanji | 2026-09-25 | A | 6216 |
 | 2026-09-25_nightshift_execution_market_tail_scan_002.md | sanji | 2026-09-25 | A | 6488 |
 | 2026-09-25_nightshift_frontier_jev_choice.md | sanji | 2026-09-25 | A | 5842 |
+| 2026-09-25_nightshift_frontier_recheck_2248.md | sanji | 2026-09-25 | B | 5571 |
 | 2026-09-25_nightshift_identity_assimilation_v4.md | sanji | 2026-09-25 | B | 8637 |
 | 2026-09-25_nightshift_identity_assistant_probe.md | sanji | 2026-09-25 | B | 10468 |
 | 2026-09-25_nightshift_identity_attachment_contract_amendment.md | sanji | 2026-09-25 | A | 8628 |
 | 2026-09-25_nightshift_identity_behavioral_experiment_1245.md | sanji | 2026-09-25 | B | 8908 |
+| 2026-09-25_nightshift_identity_experience_transfer_pilot_004.md | sanji | 2026-09-25 | — | 5037 |
 | 2026-09-25_nightshift_identity_memory_transfer_trial_001.md | sanji | 2026-09-25 | A | 6234 |
+| 2026-09-25_nightshift_identity_probe005_partial.md | sanji | 2026-09-25 | B | 9733 |
+| 2026-09-25_nightshift_identity_probe006_correction.md | sanji | 2026-09-25 | C | 15650 |
+| 2026-09-25_nightshift_identity_probe006_micro.md | sanji | 2026-09-25 | C | 10797 |
 | 2026-09-25_nightshift_identity_retrieval_continuation.md | sanji | 2026-09-25 | B | 7939 |
 | 2026-09-25_nightshift_identity_retrieval_contract_addendum.md | sanji | 2026-09-25 | A | 6386 |
 | 2026-09-25_nightshift_identity_retrieval_implementation_addendum.md | sanji | 2026-09-25 | B | 7579 |
@@ -77,32 +97,44 @@
 | 2026-09-25_nightshift_identity_scope_transfer_attempt.md | sanji | 2026-09-25 | B | 9067 |
 | 2026-09-25_nightshift_identity_self_correction_003_and_profit_1531.md | sanji | 2026-09-25 | — | 7809 |
 | 2026-09-25_nightshift_identity_taskmarket_wave_1427.md | sanji | 2026-09-25 | — | 14985 |
+| 2026-09-25_nightshift_identity_transfer_probe006_micro.md | sanji | 2026-09-25 | B | 6466 |
 | 2026-09-25_nightshift_identity_transfer_probe_003.md | sanji | 2026-09-25 | A | 10858 |
+| 2026-09-25_nightshift_identity_transfer_probe_003_addendum.md | sanji | 2026-09-25 | C | 10211 |
+| 2026-09-25_nightshift_identity_v5r1_jev_adjudication.md | sanji | 2026-09-25 | B | 7534 |
+| 2026-09-25_nightshift_jev_bonsai_identity_shadow_001.md | sanji | 2026-09-25 | B | 5145 |
 | 2026-09-25_nightshift_jev_bonsai_usage_reconciliation_verification.md | sanji | 2026-09-25 | C | 5366 |
 | 2026-09-25_nightshift_jev_revenue_shortlist.md | sanji | 2026-09-25 | B | 6998 |
 | 2026-09-25_nightshift_jev_source_drift_evidence.md | sanji | 2026-09-25 | C | 6303 |
 | 2026-09-25_nightshift_jev_validation_diagnosis.md | sanji | 2026-09-25 | B | 5767 |
+| 2026-09-25_nightshift_local_qwen_identity_shadow_001.md | sanji | 2026-09-25 | B | 4774 |
 | 2026-09-25_nightshift_local_response_capture_harness.md | sanji | 2026-09-25 | A | 5554 |
 | 2026-09-25_nightshift_market_alternative_scout_1702.md | sanji | 2026-09-25 | B | 6842 |
 | 2026-09-25_nightshift_market_storage_frontier_1636.md | sanji | 2026-09-25 | B | 8427 |
 | 2026-09-25_nightshift_marketplace_wake_predicate.md | sanji | 2026-09-25 | B | 6360 |
+| 2026-09-25_nightshift_opentask_lead_qualification.md | sanji | 2026-09-25 | B | 6405 |
 | 2026-09-25_nightshift_payment_route_observation.md | sanji | 2026-09-25 | B | 6694 |
+| 2026-09-25_nightshift_provider_invocation_gate_fep_004.md | sanji | 2026-09-25 | A | 4682 |
+| 2026-09-25_nightshift_provider_invocation_gate_slice_003.md | sanji | 2026-09-25 | A | 7021 |
 | 2026-09-25_nightshift_provider_prompt_provenance_and_identity_probe.md | sanji | 2026-09-25 | C | 8035 |
 | 2026-09-25_nightshift_provider_provenance_independent_review_r2_addendum.md | sanji | 2026-09-25 | A | 6863 |
 | 2026-09-25_nightshift_public_demand_rail_check_001.md | sanji | 2026-09-25 | A | 4845 |
 | 2026-09-25_nightshift_qsb_identity_addendum.md | sanji | 2026-09-25 | C | 16700 |
 | 2026-09-25_nightshift_qsb_surface_addendum.md | sanji | 2026-09-25 | B | 8267 |
+| 2026-09-25_nightshift_revenue_market_screen.md | sanji | 2026-09-25 | B | 7985 |
 | 2026-09-25_nightshift_revenue_receiver_reconciliation.md | sanji | 2026-09-25 | B | 7025 |
 | 2026-09-25_nightshift_task_market_freeze_reconciliation_1419.md | sanji | 2026-09-25 | B | 7507 |
 | 2026-09-25_nightshift_task_market_probe_1352.md | sanji | 2026-09-25 | B | 5122 |
 | 2026-09-25_nightshift_taskmarket_funded_opportunities_001.md | sanji | 2026-09-25 | A | 6895 |
 | 2026-09-25_nightshift_taskmarket_funded_prospect_001.md | sanji | 2026-09-25 | A | 7358 |
+| 2026-09-25_nightshift_taskmarket_qualification_1943.md | sanji | 2026-09-25 | C | 12017 |
 | 2026-09-25_nightshift_work_lineage_canary_trace_1752.md | sanji | 2026-09-25 | C | 5501 |
 | 2026-09-25_nightshift_worker_plane_canary_inventory_1721.md | sanji | 2026-09-25 | C | 7616 |
 | 2026-09-25_nightshift_x402_market_evidence_1210.md | sanji | 2026-09-25 | B | 7698 |
 | 2026-09-25_nightshift_x402_wallet_observation_addendum_1316.md | sanji | 2026-09-25 | B | 5963 |
 | 2026-09-25_post_quiescence_live_ingress_enforcement.md | sanji | 2026-09-25 | B | 8513 |
+| 2026-09-25_probe004_unadmitted_local_timeout.md | sanji | 2026-09-25 | C | 10289 |
 | 2026-09-25_stale-health-observation-admission-repair.md | sanji | 2026-09-25 | B | 6019 |
+| 2026-09-25_stale_health_admission_policy.md | sanji | 2026-09-25 | B | 7211 |
 | 2026-09-25_wall_input_trace.md | sanji | 2026-09-25 | B | 6148 |
 | 2026-09-25_wall_input_trace_seat_correction.md | sanji | 2026-09-25 | B | 4257 |
 | 2026-09-25_wall_lifecycle_contract_gate.md | sanji | 2026-09-25 | A | 11395 |
@@ -175,39 +207,7 @@
 | 2026-09-24_worker_plane_v1_fresh_contained_integration.md | sanji | 2026-09-24 | A | 5703 |
 | 2026-09-24_worker_plane_v1_v5_effect_outcomes.md | sanji | 2026-09-24 | B | 7536 |
 | 2026-09-24_compounding_transfer_witness.md | robin | 2026-09-24 | B | 5791 |
-| 2026-09-24_context_lifecycle_and_terminal_disposition.md | robin | 2026-09-24 | B | 6066 |
-| 2026-09-24_cross_seat_canonical_discovery.md | robin | 2026-09-24 | B | 7296 |
-| 2026-09-24_glee_identity_and_terminal_purpose_handoff.md | robin | 2026-09-24 | A | 2616 |
-| 2026-09-24_host_terminal_context_reset_actuator.md | robin | 2026-09-24 | B | 5392 |
-| 2026-09-24_hostile_context_recycling_and_actuator_proof.md | robin | 2026-09-24 | B | 6044 |
-| 2026-09-24_independent_adjudication_and_provisional_graduation.md | robin | 2026-09-24 | B | 5656 |
-| 2026-09-24_independent_reviewer_transport_and_dispatch_gate.md | robin | 2026-09-24 | B | 5289 |
-| 2026-09-24_local_intelligence_economics_cohort.md | robin | 2026-09-24 | B | 5859 |
-| 2026-09-24_objective_continuation_and_a_minus_1_autonomy_canary.md | robin | 2026-09-24 | B | 8104 |
-| 2026-09-24_orchestrated_terminal_context_reset_bridge.md | robin | 2026-09-24 | B | 8850 |
-| 2026-09-24_physical_context_reset_actuation.md | robin | 2026-09-24 | B | 8949 |
-| 2026-09-24_positive_criterion_evidence_canary_and_cohort.md | robin | 2026-09-24 | B | 6313 |
-| 2026-09-24_retired_identity_fencing_and_queue_rebind.md | robin | 2026-09-24 | B | 6428 |
-| 2026-09-24_verified_agent_workflow_audit_package.md | robin | 2026-09-24 | B | 4760 |
-| 2026-09-24_verifier_repair_freeze_and_negative_canary.md | robin | 2026-09-24 | B | 4966 |
-| 2026-09-23_calibration_preflight_and_identity_separation.md | zoro | 2026-09-23 | — | 3763 |
-| 2026-09-23_canonical_lease_takeover_proof.md | zoro | 2026-09-23 | — | 3756 |
-| 2026-09-23_d1_t3_membership_generations.md | zoro | 2026-09-23 | — | 5405 |
-| 2026-09-23_d1_t4_effect_boundary.md | zoro | 2026-09-23 | — | 4425 |
-| 2026-09-23_d1_t5_legacy_evidence_adapter.md | zoro | 2026-09-23 | — | 4470 |
-| 2026-09-23_d1_t6_composition.md | zoro | 2026-09-23 | — | 5689 |
-| 2026-09-23_d1_t7_input_contract.md | zoro | 2026-09-23 | — | 32513 |
-| 2026-09-23_ecpr_cal_prereg_and_projection_enforcement_v1.md | zoro | 2026-09-23 | A | 2126 |
-| 2026-09-23_ecpr_cal_semantics_implementation_v1.md | zoro | 2026-09-23 | A | 2845 |
-| 2026-09-23_execution_identity_step0.md | zoro | 2026-09-23 | — | 2295 |
-| 2026-09-23_fourth_brief_fold_intent_digest_atomicity_h9.md | zoro | 2026-09-23 | A | 3445 |
-| 2026-09-23_freeze_dependency_items_and_envelope_design_opened.md | zoro | 2026-09-23 | A | 4458 |
-| 2026-09-23_frozen_launch_primitive.md | zoro | 2026-09-23 | — | 3065 |
-| 2026-09-23_lease_semantics_and_expiry_boundary.md | zoro | 2026-09-23 | — | 3657 |
-| 2026-09-23_operating_elapsed_ttl_witness.md | zoro | 2026-09-23 | — | 2789 |
-| 2026-09-23_operating_ttl_trial_attempt.md | zoro | 2026-09-23 | — | 2435 |
-| 2026-09-23_restart_replication_reopened.md | zoro | 2026-09-23 | — | 3253 |
-| _(+19347 more — see full manifest JSON)_ | | | | |
+| _(+19379 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
