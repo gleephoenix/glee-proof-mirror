@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 19547,
+  "total_receipts": 19579,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -41976,8 +41976,8 @@
       "home": "zoro",
       "rel_path": "receipt_2026-09-24_routing_projection_repair_reserve00.md",
       "date": null,
-      "tier": null,
-      "size_bytes": 10567
+      "tier": "B",
+      "size_bytes": 16893
     },
     {
       "file_name": "receipt_2026-09-24_terminate_success_cd002.md",
@@ -136988,6 +136988,22 @@
       "size_bytes": 19421
     },
     {
+      "file_name": "2026-09-25_capability_leverage_measurement_proposal.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_capability_leverage_measurement_proposal.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 6259
+    },
+    {
+      "file_name": "2026-09-25_codex_text_paste_shortcut_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_codex_text_paste_shortcut_repair.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 3138
+    },
+    {
       "file_name": "2026-09-25_cognitive_continuity_not_obligation_continuity_candidate.md",
       "home": "sanji",
       "rel_path": "2026-09-25_cognitive_continuity_not_obligation_continuity_candidate.md",
@@ -137052,6 +137068,14 @@
       "size_bytes": 15554
     },
     {
+      "file_name": "2026-09-25_generic_obligation_wake_replay_reconciliation_2204.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_generic_obligation_wake_replay_reconciliation_2204.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 6208
+    },
+    {
       "file_name": "2026-09-25_glee_nightshift_assistant_market_screen_1539.md",
       "home": "sanji",
       "rel_path": "2026-09-25_glee_nightshift_assistant_market_screen_1539.md",
@@ -137108,12 +137132,36 @@
       "size_bytes": 11430
     },
     {
+      "file_name": "2026-09-25_glee_nightshift_compound_continuation_2035.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_glee_nightshift_compound_continuation_2035.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 9368
+    },
+    {
+      "file_name": "2026-09-25_glee_nightshift_compound_continuation_2112.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_glee_nightshift_compound_continuation_2112.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 10054
+    },
+    {
+      "file_name": "2026-09-25_glee_nightshift_compound_current_2224.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_glee_nightshift_compound_current_2224.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 12410
+    },
+    {
       "file_name": "2026-09-25_glee_nightshift_compound_receipt.md",
       "home": "sanji",
       "rel_path": "2026-09-25_glee_nightshift_compound_receipt.md",
       "date": "2026-09-25",
       "tier": "C",
-      "size_bytes": 89347
+      "size_bytes": 120768
     },
     {
       "file_name": "2026-09-25_glee_nightshift_context_release_handoff_1508.md",
@@ -137172,6 +137220,22 @@
       "size_bytes": 17548
     },
     {
+      "file_name": "2026-09-25_glee_nightshift_p006_verification_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_glee_nightshift_p006_verification_addendum.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 9558
+    },
+    {
+      "file_name": "2026-09-25_glee_nightshift_p006_verification_addendum_002.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_glee_nightshift_p006_verification_addendum_002.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 9125
+    },
+    {
       "file_name": "2026-09-25_glee_nightshift_receipt_integrity_verification_addendum_1103.md",
       "home": "sanji",
       "rel_path": "2026-09-25_glee_nightshift_receipt_integrity_verification_addendum_1103.md",
@@ -137212,6 +137276,22 @@
       "size_bytes": 5481
     },
     {
+      "file_name": "2026-09-25_health_stale_authority_readonly_review_001.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_health_stale_authority_readonly_review_001.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 6457
+    },
+    {
+      "file_name": "2026-09-25_health_stale_cli_boundary_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_health_stale_cli_boundary_verification.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 4775
+    },
+    {
       "file_name": "2026-09-25_instance_scoped_lifecycle_host_handoff.md",
       "home": "sanji",
       "rel_path": "2026-09-25_instance_scoped_lifecycle_host_handoff.md",
@@ -137234,6 +137314,14 @@
       "date": "2026-09-25",
       "tier": "A",
       "size_bytes": 9581
+    },
+    {
+      "file_name": "2026-09-25_nightshift_activation_gate_checkpoint_2256.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_activation_gate_checkpoint_2256.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 6439
     },
     {
       "file_name": "2026-09-25_nightshift_alternative_market_scan.md",
@@ -137300,6 +137388,38 @@
       "size_bytes": 6182
     },
     {
+      "file_name": "2026-09-25_nightshift_compound.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_compound.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 14378
+    },
+    {
+      "file_name": "2026-09-25_nightshift_compound_checkpoint.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_compound_checkpoint.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 17501
+    },
+    {
+      "file_name": "2026-09-25_nightshift_compound_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_compound_partial.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 15565
+    },
+    {
+      "file_name": "2026-09-25_nightshift_compound_v2_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_compound_v2_partial.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 15716
+    },
+    {
       "file_name": "2026-09-25_nightshift_evidence_instrumentation.md",
       "home": "sanji",
       "rel_path": "2026-09-25_nightshift_evidence_instrumentation.md",
@@ -137330,6 +137450,14 @@
       "date": "2026-09-25",
       "tier": "A",
       "size_bytes": 5842
+    },
+    {
+      "file_name": "2026-09-25_nightshift_frontier_recheck_2248.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_frontier_recheck_2248.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 5571
     },
     {
       "file_name": "2026-09-25_nightshift_identity_assimilation_v4.md",
@@ -137364,12 +137492,44 @@
       "size_bytes": 8908
     },
     {
+      "file_name": "2026-09-25_nightshift_identity_experience_transfer_pilot_004.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_identity_experience_transfer_pilot_004.md",
+      "date": "2026-09-25",
+      "tier": null,
+      "size_bytes": 5037
+    },
+    {
       "file_name": "2026-09-25_nightshift_identity_memory_transfer_trial_001.md",
       "home": "sanji",
       "rel_path": "2026-09-25_nightshift_identity_memory_transfer_trial_001.md",
       "date": "2026-09-25",
       "tier": "A",
       "size_bytes": 6234
+    },
+    {
+      "file_name": "2026-09-25_nightshift_identity_probe005_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_identity_probe005_partial.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 9733
+    },
+    {
+      "file_name": "2026-09-25_nightshift_identity_probe006_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_identity_probe006_correction.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 15650
+    },
+    {
+      "file_name": "2026-09-25_nightshift_identity_probe006_micro.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_identity_probe006_micro.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 10797
     },
     {
       "file_name": "2026-09-25_nightshift_identity_retrieval_continuation.md",
@@ -137428,12 +137588,44 @@
       "size_bytes": 14985
     },
     {
+      "file_name": "2026-09-25_nightshift_identity_transfer_probe006_micro.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_identity_transfer_probe006_micro.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 6466
+    },
+    {
       "file_name": "2026-09-25_nightshift_identity_transfer_probe_003.md",
       "home": "sanji",
       "rel_path": "2026-09-25_nightshift_identity_transfer_probe_003.md",
       "date": "2026-09-25",
       "tier": "A",
       "size_bytes": 10858
+    },
+    {
+      "file_name": "2026-09-25_nightshift_identity_transfer_probe_003_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_identity_transfer_probe_003_addendum.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 10211
+    },
+    {
+      "file_name": "2026-09-25_nightshift_identity_v5r1_jev_adjudication.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_identity_v5r1_jev_adjudication.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 7534
+    },
+    {
+      "file_name": "2026-09-25_nightshift_jev_bonsai_identity_shadow_001.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_jev_bonsai_identity_shadow_001.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 5145
     },
     {
       "file_name": "2026-09-25_nightshift_jev_bonsai_usage_reconciliation_verification.md",
@@ -137468,6 +137660,14 @@
       "size_bytes": 5767
     },
     {
+      "file_name": "2026-09-25_nightshift_local_qwen_identity_shadow_001.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_local_qwen_identity_shadow_001.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 4774
+    },
+    {
       "file_name": "2026-09-25_nightshift_local_response_capture_harness.md",
       "home": "sanji",
       "rel_path": "2026-09-25_nightshift_local_response_capture_harness.md",
@@ -137500,12 +137700,36 @@
       "size_bytes": 6360
     },
     {
+      "file_name": "2026-09-25_nightshift_opentask_lead_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_opentask_lead_qualification.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 6405
+    },
+    {
       "file_name": "2026-09-25_nightshift_payment_route_observation.md",
       "home": "sanji",
       "rel_path": "2026-09-25_nightshift_payment_route_observation.md",
       "date": "2026-09-25",
       "tier": "B",
       "size_bytes": 6694
+    },
+    {
+      "file_name": "2026-09-25_nightshift_provider_invocation_gate_fep_004.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_provider_invocation_gate_fep_004.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 4682
+    },
+    {
+      "file_name": "2026-09-25_nightshift_provider_invocation_gate_slice_003.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_provider_invocation_gate_slice_003.md",
+      "date": "2026-09-25",
+      "tier": "A",
+      "size_bytes": 7021
     },
     {
       "file_name": "2026-09-25_nightshift_provider_prompt_provenance_and_identity_probe.md",
@@ -137548,6 +137772,14 @@
       "size_bytes": 8267
     },
     {
+      "file_name": "2026-09-25_nightshift_revenue_market_screen.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_revenue_market_screen.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 7985
+    },
+    {
       "file_name": "2026-09-25_nightshift_revenue_receiver_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-09-25_nightshift_revenue_receiver_reconciliation.md",
@@ -137586,6 +137818,14 @@
       "date": "2026-09-25",
       "tier": "A",
       "size_bytes": 7358
+    },
+    {
+      "file_name": "2026-09-25_nightshift_taskmarket_qualification_1943.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_nightshift_taskmarket_qualification_1943.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 12017
     },
     {
       "file_name": "2026-09-25_nightshift_work_lineage_canary_trace_1752.md",
@@ -137628,12 +137868,28 @@
       "size_bytes": 8513
     },
     {
+      "file_name": "2026-09-25_probe004_unadmitted_local_timeout.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_probe004_unadmitted_local_timeout.md",
+      "date": "2026-09-25",
+      "tier": "C",
+      "size_bytes": 10289
+    },
+    {
       "file_name": "2026-09-25_stale-health-observation-admission-repair.md",
       "home": "sanji",
       "rel_path": "2026-09-25_stale-health-observation-admission-repair.md",
       "date": "2026-09-25",
       "tier": "B",
       "size_bytes": 6019
+    },
+    {
+      "file_name": "2026-09-25_stale_health_admission_policy.md",
+      "home": "sanji",
+      "rel_path": "2026-09-25_stale_health_admission_policy.md",
+      "date": "2026-09-25",
+      "tier": "B",
+      "size_bytes": 7211
     },
     {
       "file_name": "2026-09-25_wall_input_trace.md",
