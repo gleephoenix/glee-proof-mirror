@@ -1,12 +1,14 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-26T00:41:09.296396+00:00
-> Total receipts indexed: 19579
+> Last updated: 2026-09-26T06:41:08.538899+00:00
+> Total receipts indexed: 19593
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-26_nightshift_storage_recovery.md | zoro | 2026-09-26 | B | 6534 |
+| 2026-09-26_nightshift_zoro.md | zoro | 2026-09-26 | B | 5437 |
 | 2026-09-25_keeper_c1_external_state_release.md | glee | 2026-09-25 | A | 4184 |
 | 2026-09-25_keeper_git_garbage_mount_boundary.md | glee | 2026-09-25 | A | 10176 |
 | 2026-09-25_keeper_recipient_addressability.md | glee | 2026-09-25 | A | 4402 |
@@ -20,9 +22,16 @@
 | 2026-09-25_nightshift_keeper_memory_replication_c1.md | glee | 2026-09-25 | B | 5631 |
 | 2026-09-25_nightshift_receipt_revision_2.md | glee | 2026-09-25 | B | 5859 |
 | 2026-09-25_nightshift_taskmarket_wallet_boundary.md | glee | 2026-09-25 | B | 8352 |
+| 2026-09-25_codex_stop_harvester_path_repair.md | zoro | 2026-09-25 | A | 7266 |
+| 2026-09-25_memory_scorer_rerank_truth_and_stage_timing.md | zoro | 2026-09-25 | A | 3992 |
+| 2026-09-25_memory_scorer_shadow_capacity_admission.md | zoro | 2026-09-25 | A | 3171 |
 | 2026-09-25_nightshift_zoro_frontier_continuation.md | zoro | 2026-09-25 | B | 4920 |
 | 2026-09-25_canonical_execution_record_trace_partial.md | sanji | 2026-09-25 | A | 19421 |
 | 2026-09-25_capability_leverage_measurement_proposal.md | sanji | 2026-09-25 | A | 6259 |
+| 2026-09-25_captain_desk_canonical_goals.md | sanji | 2026-09-25 | B | 5820 |
+| 2026-09-25_captain_desk_review_repair.md | sanji | 2026-09-25 | B | 6477 |
+| 2026-09-25_captain_desk_work_binding_recovery_routed.md | sanji | 2026-09-25 | B | 5877 |
+| 2026-09-25_captain_wording_correction_transfer_gate.md | sanji | 2026-09-25 | B | 5673 |
 | 2026-09-25_codex_text_paste_shortcut_repair.md | sanji | 2026-09-25 | B | 3138 |
 | 2026-09-25_cognitive_continuity_not_obligation_continuity_candidate.md | sanji | 2026-09-25 | B | 4201 |
 | 2026-09-25_cognitive_continuity_not_obligation_continuity_r2.md | sanji | 2026-09-25 | B | 5057 |
@@ -57,6 +66,7 @@
 | 2026-09-25_glee_nightshift_receipt_lifecycle_addendum_1711Z.md | sanji | 2026-09-25 | B | 5439 |
 | 2026-09-25_glee_nightshift_receipt_manifest_correction_1721Z.md | sanji | 2026-09-25 | B | 6471 |
 | 2026-09-25_glee_nightshift_taskmarket_and_assistant_route_addendum_1414.md | sanji | 2026-09-25 | B | 8692 |
+| 2026-09-25_going_merry_captain_desk_entry_candidate.md | sanji | 2026-09-25 | B | 5381 |
 | 2026-09-25_health_publication_reobservation_resolution.md | sanji | 2026-09-25 | B | 5481 |
 | 2026-09-25_health_stale_authority_readonly_review_001.md | sanji | 2026-09-25 | A | 6457 |
 | 2026-09-25_health_stale_cli_boundary_verification.md | sanji | 2026-09-25 | C | 4775 |
@@ -127,14 +137,18 @@
 | 2026-09-25_nightshift_taskmarket_funded_opportunities_001.md | sanji | 2026-09-25 | A | 6895 |
 | 2026-09-25_nightshift_taskmarket_funded_prospect_001.md | sanji | 2026-09-25 | A | 7358 |
 | 2026-09-25_nightshift_taskmarket_qualification_1943.md | sanji | 2026-09-25 | C | 12017 |
+| 2026-09-25_nightshift_treasury_wallet_access.md | sanji | 2026-09-25 | B | 6172 |
 | 2026-09-25_nightshift_work_lineage_canary_trace_1752.md | sanji | 2026-09-25 | C | 5501 |
 | 2026-09-25_nightshift_worker_plane_canary_inventory_1721.md | sanji | 2026-09-25 | C | 7616 |
 | 2026-09-25_nightshift_x402_market_evidence_1210.md | sanji | 2026-09-25 | B | 7698 |
 | 2026-09-25_nightshift_x402_wallet_observation_addendum_1316.md | sanji | 2026-09-25 | B | 5963 |
+| 2026-09-25_operations_desk_information_architecture.md | sanji | 2026-09-25 | A | 5127 |
+| 2026-09-25_operations_desk_wall_deprecation_correction.md | sanji | 2026-09-25 | A | 4073 |
 | 2026-09-25_post_quiescence_live_ingress_enforcement.md | sanji | 2026-09-25 | B | 8513 |
 | 2026-09-25_probe004_unadmitted_local_timeout.md | sanji | 2026-09-25 | C | 10289 |
 | 2026-09-25_stale-health-observation-admission-repair.md | sanji | 2026-09-25 | B | 6019 |
 | 2026-09-25_stale_health_admission_policy.md | sanji | 2026-09-25 | B | 7211 |
+| 2026-09-25_thousand_sunny_captain_desk_first_slice.md | sanji | 2026-09-25 | B | 6532 |
 | 2026-09-25_wall_input_trace.md | sanji | 2026-09-25 | B | 6148 |
 | 2026-09-25_wall_input_trace_seat_correction.md | sanji | 2026-09-25 | B | 4257 |
 | 2026-09-25_wall_lifecycle_contract_gate.md | sanji | 2026-09-25 | A | 11395 |
@@ -193,21 +207,7 @@
 | 2026-09-24_jev_shadow_runtime_discovery_partial.md | sanji | 2026-09-24 | B | 9652 |
 | 2026-09-24_jev_shadow_runtime_discovery_path_correction.md | sanji | 2026-09-24 | B | 2332 |
 | 2026-09-24_recovery-obligation-quiescent-context-disposition.md | sanji | 2026-09-24 | C | 7345 |
-| 2026-09-24_recovery-turn-4f2c1a4c4f13522823b9-owner-action-binding.md | sanji | 2026-09-24 | B | 6193 |
-| 2026-09-24_recovery_obligation_host_handoff_transfer_partial.md | sanji | 2026-09-24 | B | 6072 |
-| 2026-09-24_recovery_obligation_termination_law_partial.md | sanji | 2026-09-24 | B | 7257 |
-| 2026-09-24_recovery_turn_authority_and_wake_boundary.md | sanji | 2026-09-24 | B | 10186 |
-| 2026-09-24_recovery_turn_release_seat_binding.md | sanji | 2026-09-24 | B | 5816 |
-| 2026-09-24_recovery_turn_release_seat_handoff_followup.md | sanji | 2026-09-24 | B | 6639 |
-| 2026-09-24_terminate_instance_scoped_release.md | sanji | 2026-09-24 | B | 8845 |
-| 2026-09-24_worker-plane-contained-execution-verified.md | sanji | 2026-09-24 | A | 9478 |
-| 2026-09-24_worker_plane_partial_continuation_runtime.md | sanji | 2026-09-24 | B | 5120 |
-| 2026-09-24_worker_plane_v1_attempt_fencing.md | sanji | 2026-09-24 | B | 7742 |
-| 2026-09-24_worker_plane_v1_contained_patch_verify.md | sanji | 2026-09-24 | B | 6768 |
-| 2026-09-24_worker_plane_v1_fresh_contained_integration.md | sanji | 2026-09-24 | A | 5703 |
-| 2026-09-24_worker_plane_v1_v5_effect_outcomes.md | sanji | 2026-09-24 | B | 7536 |
-| 2026-09-24_compounding_transfer_witness.md | robin | 2026-09-24 | B | 5791 |
-| _(+19379 more — see full manifest JSON)_ | | | | |
+| _(+19393 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
