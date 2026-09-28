@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20084,
+  "total_receipts": 20094,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -41841,7 +41841,7 @@
       "rel_path": "2026-09-27_chatgpt_delivery_proof_and_readiness_chain_regression.md",
       "date": "2026-09-27",
       "tier": null,
-      "size_bytes": 5450
+      "size_bytes": 8471
     },
     {
       "file_name": "2026-09-27_context_explorer_live.md",
@@ -41994,6 +41994,14 @@
       "date": "2026-09-27",
       "tier": null,
       "size_bytes": 5711
+    },
+    {
+      "file_name": "2026-09-28_identityless_write_guard_and_rebind_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-09-28_identityless_write_guard_and_rebind_gate.md",
+      "date": "2026-09-28",
+      "tier": "B",
+      "size_bytes": 5516
     },
     {
       "file_name": "2026-09-28_jev_scale_harness.md",
@@ -140401,7 +140409,7 @@
       "rel_path": "2026-09-27_codex_stop_publication_recovery_927bb682.md",
       "date": "2026-09-27",
       "tier": null,
-      "size_bytes": 18793
+      "size_bytes": 20390
     },
     {
       "file_name": "2026-09-27_codex_terminal_wall_4x4.md",
@@ -141249,7 +141257,7 @@
       "rel_path": "2026-09-27_terminal_dual_path_resilience.md",
       "date": "2026-09-27",
       "tier": null,
-      "size_bytes": 55026
+      "size_bytes": 58082
     },
     {
       "file_name": "2026-09-27_terminal_wall_add_close_repair.md",
@@ -141316,6 +141324,22 @@
       "size_bytes": 3387
     },
     {
+      "file_name": "2026-09-28_agent_network_ex2_ordinary_work_value.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_agent_network_ex2_ordinary_work_value.md",
+      "date": "2026-09-28",
+      "tier": null,
+      "size_bytes": 7840
+    },
+    {
+      "file_name": "2026-09-28_codex_stop_28a605_job_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_codex_stop_28a605_job_binding.md",
+      "date": "2026-09-28",
+      "tier": null,
+      "size_bytes": 5943
+    },
+    {
       "file_name": "2026-09-28_cold_fold_gate_and_stage_map.md",
       "home": "sanji",
       "rel_path": "2026-09-28_cold_fold_gate_and_stage_map.md",
@@ -141340,6 +141364,14 @@
       "size_bytes": 4917
     },
     {
+      "file_name": "2026-09-28_ephemeral_claimed_turnover_and_dispatch_fence.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_ephemeral_claimed_turnover_and_dispatch_fence.md",
+      "date": "2026-09-28",
+      "tier": "B",
+      "size_bytes": 8826
+    },
+    {
       "file_name": "2026-09-28_ephemeral_terminal_fast_refresh_and_classification_probe.md",
       "home": "sanji",
       "rel_path": "2026-09-28_ephemeral_terminal_fast_refresh_and_classification_probe.md",
@@ -141362,6 +141394,14 @@
       "date": "2026-09-28",
       "tier": "B",
       "size_bytes": 9007
+    },
+    {
+      "file_name": "2026-09-28_ephemeral_witness_obligation_authority_hold.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_ephemeral_witness_obligation_authority_hold.md",
+      "date": "2026-09-28",
+      "tier": "B",
+      "size_bytes": 4406
     },
     {
       "file_name": "2026-09-28_glee_wall_status_mismatch_repair.md",
@@ -141468,6 +141508,30 @@
       "size_bytes": 8060
     },
     {
+      "file_name": "2026-09-28_quad_exact_investigator_route_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_quad_exact_investigator_route_boundary.md",
+      "date": "2026-09-28",
+      "tier": "B",
+      "size_bytes": 6913
+    },
+    {
+      "file_name": "2026-09-28_quad_investigator_oom_attribution_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_quad_investigator_oom_attribution_correction.md",
+      "date": "2026-09-28",
+      "tier": "B",
+      "size_bytes": 3847
+    },
+    {
+      "file_name": "2026-09-28_quad_live_investigator_route_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_quad_live_investigator_route_recheck.md",
+      "date": "2026-09-28",
+      "tier": null,
+      "size_bytes": 4426
+    },
+    {
       "file_name": "2026-09-28_resource_attribution_exact_event_trace.md",
       "home": "sanji",
       "rel_path": "2026-09-28_resource_attribution_exact_event_trace.md",
@@ -141537,7 +141601,15 @@
       "rel_path": "2026-09-28_terminal_ai_control_strip_and_state_dimensions.md",
       "date": "2026-09-28",
       "tier": null,
-      "size_bytes": 12846
+      "size_bytes": 15206
+    },
+    {
+      "file_name": "2026-09-28_terminal_noshim_return_and_edge_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_terminal_noshim_return_and_edge_boundary.md",
+      "date": "2026-09-28",
+      "tier": null,
+      "size_bytes": 8495
     },
     {
       "file_name": "2026-09-28_terminal_page_permission_denial_readonly.md",
@@ -141545,7 +141617,15 @@
       "rel_path": "2026-09-28_terminal_page_permission_denial_readonly.md",
       "date": "2026-09-28",
       "tier": null,
-      "size_bytes": 5182
+      "size_bytes": 11728
+    },
+    {
+      "file_name": "2026-09-28_terminal_product_probe_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-28_terminal_product_probe_boundary.md",
+      "date": "2026-09-28",
+      "tier": null,
+      "size_bytes": 33893
     },
     {
       "file_name": "2026-09-28_terminal_public_multiplexer_wave.md",
