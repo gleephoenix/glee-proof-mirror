@@ -1,21 +1,26 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-28T06:41:13.657359+00:00
-> Total receipts indexed: 20084
+> Last updated: 2026-09-28T12:41:26.716938+00:00
+> Total receipts indexed: 20094
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-28_identityless_write_guard_and_rebind_gate.md | zoro | 2026-09-28 | B | 5516 |
 | 2026-09-28_jev_scale_harness.md | zoro | 2026-09-28 | — | 4313 |
 | 2026-09-28_agent_delivery_safe_seat_preflight.md | sanji | 2026-09-28 | — | 2712 |
 | 2026-09-28_agent_delivery_uncertainty_nonce_probe.md | sanji | 2026-09-28 | — | 3387 |
+| 2026-09-28_agent_network_ex2_ordinary_work_value.md | sanji | 2026-09-28 | — | 7840 |
+| 2026-09-28_codex_stop_28a605_job_binding.md | sanji | 2026-09-28 | — | 5943 |
 | 2026-09-28_cold_fold_gate_and_stage_map.md | sanji | 2026-09-28 | — | 3785 |
 | 2026-09-28_diagnostics_causal_closure_wave.md | sanji | 2026-09-28 | — | 21897 |
 | 2026-09-28_diagnostics_indexed_attribution_continuation.md | sanji | 2026-09-28 | A | 4917 |
+| 2026-09-28_ephemeral_claimed_turnover_and_dispatch_fence.md | sanji | 2026-09-28 | B | 8826 |
 | 2026-09-28_ephemeral_terminal_fast_refresh_and_classification_probe.md | sanji | 2026-09-28 | B | 7293 |
 | 2026-09-28_ephemeral_terminal_legacy_migration_wave.md | sanji | 2026-09-28 | B | 9229 |
 | 2026-09-28_ephemeral_terminal_lifecycle_execution_wave.md | sanji | 2026-09-28 | B | 9007 |
+| 2026-09-28_ephemeral_witness_obligation_authority_hold.md | sanji | 2026-09-28 | B | 4406 |
 | 2026-09-28_glee_wall_status_mismatch_repair.md | sanji | 2026-09-28 | B | 7608 |
 | 2026-09-28_guest_post_draft_transport_staged.md | sanji | 2026-09-28 | — | 6498 |
 | 2026-09-28_guest_public_post_route_completion.md | sanji | 2026-09-28 | — | 3372 |
@@ -29,6 +34,9 @@
 | 2026-09-28_natural_timer_first_fires.md | sanji | 2026-09-28 | — | 6459 |
 | 2026-09-28_operated_diagnostics_five_surface_rollout.md | sanji | 2026-09-28 | — | 7581 |
 | 2026-09-28_permanent_operated_diagnostics_activation.md | sanji | 2026-09-28 | — | 8060 |
+| 2026-09-28_quad_exact_investigator_route_boundary.md | sanji | 2026-09-28 | B | 6913 |
+| 2026-09-28_quad_investigator_oom_attribution_correction.md | sanji | 2026-09-28 | B | 3847 |
+| 2026-09-28_quad_live_investigator_route_recheck.md | sanji | 2026-09-28 | — | 4426 |
 | 2026-09-28_resource_attribution_exact_event_trace.md | sanji | 2026-09-28 | — | 6115 |
 | 2026-09-28_rr01_execution_transfer.md | sanji | 2026-09-28 | — | 6985 |
 | 2026-09-28_rr01_final_handoff.md | sanji | 2026-09-28 | A | 3487 |
@@ -37,8 +45,10 @@
 | 2026-09-28_rr01_reconciliation_errata.md | sanji | 2026-09-28 | A | 4186 |
 | 2026-09-28_rr01_transfer_cost_match_supplement.md | sanji | 2026-09-28 | A | 4262 |
 | 2026-09-28_storage_archive_manifest_discriminator.md | sanji | 2026-09-28 | — | 3918 |
-| 2026-09-28_terminal_ai_control_strip_and_state_dimensions.md | sanji | 2026-09-28 | — | 12846 |
-| 2026-09-28_terminal_page_permission_denial_readonly.md | sanji | 2026-09-28 | — | 5182 |
+| 2026-09-28_terminal_ai_control_strip_and_state_dimensions.md | sanji | 2026-09-28 | — | 15206 |
+| 2026-09-28_terminal_noshim_return_and_edge_boundary.md | sanji | 2026-09-28 | — | 8495 |
+| 2026-09-28_terminal_page_permission_denial_readonly.md | sanji | 2026-09-28 | — | 11728 |
+| 2026-09-28_terminal_product_probe_boundary.md | sanji | 2026-09-28 | — | 33893 |
 | 2026-09-28_terminal_public_multiplexer_wave.md | sanji | 2026-09-28 | B | 5279 |
 | 2026-09-28_terminal_public_return_probe_contract.md | sanji | 2026-09-28 | B | 3996 |
 | 2026-09-28_terminal_shared_continuation_intake.md | sanji | 2026-09-28 | A | 19048 |
@@ -59,7 +69,7 @@
 | 2026-09-27_attention_panel_collector_inc002.md | zoro | 2026-09-27 | — | 2544 |
 | 2026-09-27_autonomy_wave_execute_all.md | zoro | 2026-09-27 | — | 3754 |
 | 2026-09-27_bonsai_cascade_live_proof_blocked_on_cli_admission_seam.md | zoro | 2026-09-27 | C | 6072 |
-| 2026-09-27_chatgpt_delivery_proof_and_readiness_chain_regression.md | zoro | 2026-09-27 | — | 5450 |
+| 2026-09-27_chatgpt_delivery_proof_and_readiness_chain_regression.md | zoro | 2026-09-27 | — | 8471 |
 | 2026-09-27_context_explorer_live.md | zoro | 2026-09-27 | B | 3725 |
 | 2026-09-27_effect_latency_service_action_layer_doctrine.md | zoro | 2026-09-27 | — | 2867 |
 | 2026-09-27_examples_norm_landed_registry_repair.md | zoro | 2026-09-27 | — | 1564 |
@@ -119,7 +129,7 @@
 | 2026-09-27_cave_escape_and_return.md | sanji | 2026-09-27 | A | 6835 |
 | 2026-09-27_cave_escape_execution.md | sanji | 2026-09-27 | A | 9916 |
 | 2026-09-27_chatgpt_sunny_file_handoff_assessment.md | sanji | 2026-09-27 | A | 4631 |
-| 2026-09-27_codex_stop_publication_recovery_927bb682.md | sanji | 2026-09-27 | — | 18793 |
+| 2026-09-27_codex_stop_publication_recovery_927bb682.md | sanji | 2026-09-27 | — | 20390 |
 | 2026-09-27_codex_terminal_wall_4x4.md | sanji | 2026-09-27 | A | 4783 |
 | 2026-09-27_codex_terminal_wall_4x4_closeout.md | sanji | 2026-09-27 | A | 3022 |
 | 2026-09-27_completion_authority_partial_components_control.md | sanji | 2026-09-27 | A | 4638 |
@@ -197,17 +207,7 @@
 | 2026-09-27_opencode_cross_model_investigation_closeout.md | sanji | 2026-09-27 | A | 3647 |
 | 2026-09-27_opencode_stream_guard_repair.md | sanji | 2026-09-27 | A | 11681 |
 | 2026-09-27_operated_product_diagnostics_pilot.md | sanji | 2026-09-27 | — | 6883 |
-| 2026-09-27_partial_claim_portable_receipt_scope_probe.md | sanji | 2026-09-27 | A | 4970 |
-| 2026-09-27_readability_active_owner_boundary.md | sanji | 2026-09-27 | A | 3855 |
-| 2026-09-27_readability_baseline_requirement.md | sanji | 2026-09-27 | A | 4910 |
-| 2026-09-27_readability_controls_local_build.md | sanji | 2026-09-27 | A | 8987 |
-| 2026-09-27_readability_ownership_addendum.md | sanji | 2026-09-27 | A | 4131 |
-| 2026-09-27_readability_production_release.md | sanji | 2026-09-27 | A | 10335 |
-| 2026-09-27_readability_real_worker_route_proof.md | sanji | 2026-09-27 | A | 9024 |
-| 2026-09-27_readability_review_routing_checkpoint.md | sanji | 2026-09-27 | A | 5450 |
-| 2026-09-27_readability_scope_correction.md | sanji | 2026-09-27 | A | 4045 |
-| 2026-09-27_readability_studio_followup.md | sanji | 2026-09-27 | A | 7733 |
-| _(+19884 more — see full manifest JSON)_ | | | | |
+| _(+19894 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
