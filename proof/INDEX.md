@@ -1,12 +1,21 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-29T00:41:09.224538+00:00
-> Total receipts indexed: 20156
+> Last updated: 2026-09-29T06:41:08.054794+00:00
+> Total receipts indexed: 20186
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-29_autonomy_refill_unbound_turn_witness.md | sanji | 2026-09-29 | — | 8367 |
+| 2026-09-29_ex_learn_negative_episode_intake.md | sanji | 2026-09-29 | — | 3586 |
+| 2026-09-29_experience_transfer_baseline_label.md | sanji | 2026-09-29 | — | 2392 |
+| 2026-09-29_institutional_experience_learning_intake.md | sanji | 2026-09-29 | — | 4806 |
+| 2026-09-29_predicate_wake_adapter_architecture.md | sanji | 2026-09-29 | — | 3539 |
+| 2026-09-29_terminal_copy_negative_control_intake.md | sanji | 2026-09-29 | — | 6117 |
+| 2026-09-29_terminal_copy_semantic_and_owner_boundary.md | sanji | 2026-09-29 | — | 7926 |
+| 2026-09-29_terminal_copy_underbinding_live_intake.md | sanji | 2026-09-29 | — | 5916 |
+| 2026-09-29_terminal_idea_fenced_delivery_controller.md | sanji | 2026-09-29 | — | 6423 |
 | 2026-09-28_bonsai_cascade_narrow_seam_native_proof_closed.md | zoro | 2026-09-28 | B | 6954 |
 | 2026-09-28_cairn_draft_persistence_failure.md | zoro | 2026-09-28 | — | 1228 |
 | 2026-09-28_ex2_independent_workbench_verdict.md | zoro | 2026-09-28 | — | 2651 |
@@ -23,30 +32,36 @@
 | 2026-09-28_truncation_lever_closed_v3_reconcile_witness.md | zoro | 2026-09-28 | B | 4596 |
 | 2026-09-28_verdict_stream_label_viability_correction.md | zoro | 2026-09-28 | A | 2553 |
 | 2026-09-28_acceptance_verifier_external_usage_campaign.md | sanji | 2026-09-28 | B | 8069 |
+| 2026-09-28_acceptance_verifier_ordinary_discovery_publication_gate.md | sanji | 2026-09-28 | B | 8131 |
 | 2026-09-28_agent_delivery_safe_seat_preflight.md | sanji | 2026-09-28 | — | 2712 |
 | 2026-09-28_agent_delivery_uncertainty_nonce_probe.md | sanji | 2026-09-28 | — | 3387 |
 | 2026-09-28_agent_network_ex2_ordinary_work_value.md | sanji | 2026-09-28 | — | 46705 |
 | 2026-09-28_agent_peer_outbound_boundary_addendum.md | sanji | 2026-09-28 | A | 6628 |
 | 2026-09-28_agent_peer_prospect_intake.md | sanji | 2026-09-28 | A | 6988 |
+| 2026-09-28_agent_trust_fabric_institution_intake.md | sanji | 2026-09-28 | — | 6079 |
 | 2026-09-28_anomalous_events_meaning_intake.md | sanji | 2026-09-28 | — | 2548 |
 | 2026-09-28_autonomy_turn_end_reassignment_diagnostic.md | sanji | 2026-09-28 | — | 26275 |
 | 2026-09-28_captain_desk_fleet_health_pass.md | sanji | 2026-09-28 | — | 4897 |
+| 2026-09-28_chatgpt_glee_context_intake_v2.md | sanji | 2026-09-28 | B | 5465 |
 | 2026-09-28_code_search_transfer_promotion_gate_amendment.md | sanji | 2026-09-28 | — | 5495 |
 | 2026-09-28_code_search_transfer_wake_predicate.md | sanji | 2026-09-28 | — | 4711 |
 | 2026-09-28_codex_stop_28a605_job_binding.md | sanji | 2026-09-28 | — | 5943 |
 | 2026-09-28_cold_fold_gate_and_stage_map.md | sanji | 2026-09-28 | — | 3785 |
+| 2026-09-28_coppice_dormant_referral_disposition.md | sanji | 2026-09-28 | B | 3224 |
+| 2026-09-28_coppice_external_wake_only_correction.md | sanji | 2026-09-28 | B | 6174 |
 | 2026-09-28_coppice_first_contact.md | sanji | 2026-09-28 | A | 6170 |
 | 2026-09-28_coppice_reply_continuation_gate_addendum.md | sanji | 2026-09-28 | B | 4563 |
 | 2026-09-28_coppice_reply_continuation_slice.md | sanji | 2026-09-28 | B | 7519 |
 | 2026-09-28_diagnostics_causal_closure_wave.md | sanji | 2026-09-28 | — | 21897 |
 | 2026-09-28_diagnostics_indexed_attribution_continuation.md | sanji | 2026-09-28 | A | 4917 |
+| 2026-09-28_discover_symbolic_structure_intake.md | sanji | 2026-09-28 | — | 4900 |
 | 2026-09-28_ephemeral_claimed_turnover_and_dispatch_fence.md | sanji | 2026-09-28 | B | 8826 |
 | 2026-09-28_ephemeral_terminal_fast_refresh_and_classification_probe.md | sanji | 2026-09-28 | B | 7293 |
 | 2026-09-28_ephemeral_terminal_legacy_migration_wave.md | sanji | 2026-09-28 | B | 9229 |
 | 2026-09-28_ephemeral_terminal_lifecycle_execution_wave.md | sanji | 2026-09-28 | B | 9007 |
 | 2026-09-28_ephemeral_witness_obligation_authority_hold.md | sanji | 2026-09-28 | B | 4406 |
 | 2026-09-28_ex_learn_1_experience_reusable_improvement.md | sanji | 2026-09-28 | — | 8667 |
-| 2026-09-28_ex_learn_2_cost_route_decision_and_source_drift.md | sanji | 2026-09-28 | — | 8602 |
+| 2026-09-28_ex_learn_2_cost_route_decision_and_source_drift.md | sanji | 2026-09-28 | — | 9533 |
 | 2026-09-28_ex_learn_2_durable_wake.md | sanji | 2026-09-28 | — | 7973 |
 | 2026-09-28_ex_learn_2_preregistration_and_admission.md | sanji | 2026-09-28 | — | 8063 |
 | 2026-09-28_executorless_continuity_lineage_instrumentation.md | sanji | 2026-09-28 | — | 5342 |
@@ -58,7 +73,12 @@
 | 2026-09-28_experience_transfer_offer_identity_intake.md | sanji | 2026-09-28 | — | 2655 |
 | 2026-09-28_experience_transfer_selector_wake.md | sanji | 2026-09-28 | — | 5096 |
 | 2026-09-28_experience_transfer_wake_concurrency.md | sanji | 2026-09-28 | — | 3618 |
+| 2026-09-28_flare_on_capability_shock_intake.md | sanji | 2026-09-28 | — | 4624 |
 | 2026-09-28_glee_wall_status_mismatch_repair.md | sanji | 2026-09-28 | B | 7608 |
+| 2026-09-28_gmail_readonly_reply_observer_activation_gate.md | sanji | 2026-09-28 | B | 8532 |
+| 2026-09-28_gmail_readonly_reply_observer_stop_addendum.md | sanji | 2026-09-28 | B | 4348 |
+| 2026-09-28_gmail_reply_observer_hardening.md | sanji | 2026-09-28 | B | 6955 |
+| 2026-09-28_gmail_reply_observer_hardening_stop_addendum.md | sanji | 2026-09-28 | B | 3648 |
 | 2026-09-28_guest_post_draft_transport_staged.md | sanji | 2026-09-28 | — | 6498 |
 | 2026-09-28_guest_public_post_route_completion.md | sanji | 2026-09-28 | — | 3372 |
 | 2026-09-28_hypothesis_colony_policy_provenance_negative_search.md | sanji | 2026-09-28 | — | 4324 |
@@ -80,6 +100,9 @@
 | 2026-09-28_quad_exact_investigator_route_boundary.md | sanji | 2026-09-28 | B | 6913 |
 | 2026-09-28_quad_investigator_oom_attribution_correction.md | sanji | 2026-09-28 | B | 3847 |
 | 2026-09-28_quad_live_investigator_route_recheck.md | sanji | 2026-09-28 | — | 4426 |
+| 2026-09-28_reserve03_authority_closure_and_identity_conflict.md | sanji | 2026-09-28 | B | 6916 |
+| 2026-09-28_reserve03_postrefusal_copy_readback.md | sanji | 2026-09-28 | B | 4891 |
+| 2026-09-28_reserve03_stale_deployment_reconciliation.md | sanji | 2026-09-28 | B | 4154 |
 | 2026-09-28_resource_attribution_exact_event_trace.md | sanji | 2026-09-28 | — | 6115 |
 | 2026-09-28_rr01_execution_transfer.md | sanji | 2026-09-28 | — | 6985 |
 | 2026-09-28_rr01_final_handoff.md | sanji | 2026-09-28 | A | 3487 |
@@ -96,11 +119,18 @@
 | 2026-09-28_storage_archive_manifest_discriminator.md | sanji | 2026-09-28 | — | 3918 |
 | 2026-09-28_terminal_ai_control_strip_and_state_dimensions.md | sanji | 2026-09-28 | — | 43243 |
 | 2026-09-28_terminal_cognitive_capacity_idea_ingress.md | sanji | 2026-09-28 | — | 8249 |
+| 2026-09-28_terminal_copy_continuation_safe.md | sanji | 2026-09-28 | — | 8083 |
+| 2026-09-28_terminal_copy_post_turn_envelope.md | sanji | 2026-09-28 | — | 5959 |
+| 2026-09-28_terminal_copy_semantic_final_state_addendum.md | sanji | 2026-09-28 | B | 3598 |
+| 2026-09-28_terminal_copy_semantic_gap_addendum.md | sanji | 2026-09-28 | B | 5999 |
 | 2026-09-28_terminal_four_quantities_projection.md | sanji | 2026-09-28 | — | 5539 |
+| 2026-09-28_terminal_history_mobile_ux.md | sanji | 2026-09-28 | — | 8264 |
+| 2026-09-28_terminal_history_scroll_reflow_followup.md | sanji | 2026-09-28 | — | 9380 |
 | 2026-09-28_terminal_idea_independent_admission.md | sanji | 2026-09-28 | — | 5927 |
 | 2026-09-28_terminal_idea_live_acceptance_checkpoint.md | sanji | 2026-09-28 | — | 5976 |
 | 2026-09-28_terminal_noshim_return_and_edge_boundary.md | sanji | 2026-09-28 | — | 8495 |
 | 2026-09-28_terminal_page_permission_denial_readonly.md | sanji | 2026-09-28 | — | 11728 |
+| 2026-09-28_terminal_plus_cli_model_reasoning.md | sanji | 2026-09-28 | — | 5822 |
 | 2026-09-28_terminal_product_probe_boundary.md | sanji | 2026-09-28 | — | 33893 |
 | 2026-09-28_terminal_public_multiplexer_wave.md | sanji | 2026-09-28 | B | 5279 |
 | 2026-09-28_terminal_public_return_probe_contract.md | sanji | 2026-09-28 | B | 3996 |
@@ -177,37 +207,7 @@
 | 2026-09-27_arg_box_shadow_trial_contract_and_gate.md | sanji | 2026-09-27 | A | 4509 |
 | 2026-09-27_ariadne_explicit_pause_guard.md | sanji | 2026-09-27 | — | 6777 |
 | 2026-09-27_ariadne_stack_focus.md | sanji | 2026-09-27 | A | 5497 |
-| 2026-09-27_autonomy_barriers.md | sanji | 2026-09-27 | — | 19991 |
-| 2026-09-27_autonomy_full_diagnostic.md | sanji | 2026-09-27 | — | 11035 |
-| 2026-09-27_autonomy_premature_intake_closure.md | sanji | 2026-09-27 | — | 7729 |
-| 2026-09-27_b1_b2_issuer_preflight_boundary.md | sanji | 2026-09-27 | A | 4521 |
-| 2026-09-27_b1_b2_production_scope_stop_addendum.md | sanji | 2026-09-27 | A | 3898 |
-| 2026-09-27_b1_b2_signed_egress_boundary_implementation.md | sanji | 2026-09-27 | B | 10632 |
-| 2026-09-27_b3_registered_job_authority_stop_addendum.md | sanji | 2026-09-27 | B | 4790 |
-| 2026-09-27_b3_registered_job_binding_boundary.md | sanji | 2026-09-27 | B | 6263 |
-| 2026-09-27_cave_escape_and_return.md | sanji | 2026-09-27 | A | 6835 |
-| 2026-09-27_cave_escape_execution.md | sanji | 2026-09-27 | A | 9916 |
-| 2026-09-27_chatgpt_sunny_file_handoff_assessment.md | sanji | 2026-09-27 | A | 4631 |
-| 2026-09-27_codex_stop_publication_recovery_927bb682.md | sanji | 2026-09-27 | — | 20390 |
-| 2026-09-27_codex_terminal_wall_4x4.md | sanji | 2026-09-27 | A | 4783 |
-| 2026-09-27_codex_terminal_wall_4x4_closeout.md | sanji | 2026-09-27 | A | 3022 |
-| 2026-09-27_completion_authority_partial_components_control.md | sanji | 2026-09-27 | A | 4638 |
-| 2026-09-27_continuation_autonomy_repair.md | sanji | 2026-09-27 | A | 6611 |
-| 2026-09-27_continuation_no_work_period_fix.md | sanji | 2026-09-27 | A | 4870 |
-| 2026-09-27_current_conversation_writer_identity.md | sanji | 2026-09-27 | A | 8536 |
-| 2026-09-27_customer_discovery_adaptive_continuation.md | sanji | 2026-09-27 | A | 9043 |
-| 2026-09-27_customer_discovery_continuation_acceptance_audit.md | sanji | 2026-09-27 | A | 7486 |
-| 2026-09-27_customer_discovery_continuation_integration.md | sanji | 2026-09-27 | A | 7882 |
-| 2026-09-27_customer_discovery_continuation_integration_observation.md | sanji | 2026-09-27 | A | 4557 |
-| 2026-09-27_customer_discovery_five_source_status_cluster.md | sanji | 2026-09-27 | A | 7036 |
-| 2026-09-27_customer_discovery_source_status_addendum.md | sanji | 2026-09-27 | A | 6477 |
-| 2026-09-27_customer_discovery_source_status_cluster.md | sanji | 2026-09-27 | A | 9029 |
-| 2026-09-27_cybernetics_discovery_loop_trace_and_dissemination.md | sanji | 2026-09-27 | A | 7892 |
-| 2026-09-27_cybernetics_video_intake.md | sanji | 2026-09-27 | A | 6786 |
-| 2026-09-27_daily_scaling_review_reconciliation.md | sanji | 2026-09-27 | A | 7912 |
-| 2026-09-27_designed_intentions_intake.md | sanji | 2026-09-27 | — | 11097 |
-| 2026-09-27_designed_intentions_pilot.md | sanji | 2026-09-27 | — | 10108 |
-| _(+19956 more — see full manifest JSON)_ | | | | |
+| _(+19986 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
