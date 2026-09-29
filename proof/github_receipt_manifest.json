@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20186,
+  "total_receipts": 20193,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -141777,7 +141777,7 @@
       "rel_path": "2026-09-28_flare_on_capability_shock_intake.md",
       "date": "2026-09-28",
       "tier": null,
-      "size_bytes": 4624
+      "size_bytes": 5110
     },
     {
       "file_name": "2026-09-28_glee_wall_status_mismatch_repair.md",
@@ -142300,12 +142300,28 @@
       "size_bytes": 7418
     },
     {
+      "file_name": "2026-09-29_agent_run_recovery_and_lock_sensor.md",
+      "home": "sanji",
+      "rel_path": "2026-09-29_agent_run_recovery_and_lock_sensor.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 5378
+    },
+    {
       "file_name": "2026-09-29_autonomy_refill_unbound_turn_witness.md",
       "home": "sanji",
       "rel_path": "2026-09-29_autonomy_refill_unbound_turn_witness.md",
       "date": "2026-09-29",
       "tier": null,
       "size_bytes": 8367
+    },
+    {
+      "file_name": "2026-09-29_capability_shock_control_plane_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-29_capability_shock_control_plane_repair.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 8393
     },
     {
       "file_name": "2026-09-29_ex_learn_negative_episode_intake.md",
@@ -142322,6 +142338,30 @@
       "date": "2026-09-29",
       "tier": null,
       "size_bytes": 2392
+    },
+    {
+      "file_name": "2026-09-29_flare_crew_delivery_hook_backlog_diagnostic.md",
+      "home": "sanji",
+      "rel_path": "2026-09-29_flare_crew_delivery_hook_backlog_diagnostic.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 5261
+    },
+    {
+      "file_name": "2026-09-29_flare_lifecycle_and_copy_served_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-09-29_flare_lifecycle_and_copy_served_recheck.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 7083
+    },
+    {
+      "file_name": "2026-09-29_fleet_throughput_lane_contract_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-09-29_fleet_throughput_lane_contract_intake.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 5453
     },
     {
       "file_name": "2026-09-29_institutional_experience_learning_intake.md",
@@ -142370,6 +142410,22 @@
       "date": "2026-09-29",
       "tier": null,
       "size_bytes": 6423
+    },
+    {
+      "file_name": "2026-09-29_terminal_primary_live_ux.md",
+      "home": "sanji",
+      "rel_path": "2026-09-29_terminal_primary_live_ux.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 5019
+    },
+    {
+      "file_name": "2026-09-29_terminal_status_semantics_source_diagnosis.md",
+      "home": "sanji",
+      "rel_path": "2026-09-29_terminal_status_semantics_source_diagnosis.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 4427
     },
     {
       "file_name": "INDEX.md",
