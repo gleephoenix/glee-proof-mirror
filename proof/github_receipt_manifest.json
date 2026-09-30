@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20210,
+  "total_receipts": 20213,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -42114,6 +42114,30 @@
       "date": "2026-09-28",
       "tier": "A",
       "size_bytes": 2553
+    },
+    {
+      "file_name": "2026-09-29_claude_code_wall_tab.md",
+      "home": "zoro",
+      "rel_path": "2026-09-29_claude_code_wall_tab.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 5859
+    },
+    {
+      "file_name": "2026-09-29_htyg_repo_verification.md",
+      "home": "zoro",
+      "rel_path": "2026-09-29_htyg_repo_verification.md",
+      "date": "2026-09-29",
+      "tier": null,
+      "size_bytes": 6607
+    },
+    {
+      "file_name": "2026-09-29_terminal_remove_ux_and_false_running_fix.md",
+      "home": "zoro",
+      "rel_path": "2026-09-29_terminal_remove_ux_and_false_running_fix.md",
+      "date": "2026-09-29",
+      "tier": "B",
+      "size_bytes": 7523
     },
     {
       "file_name": "INDEX.md",
