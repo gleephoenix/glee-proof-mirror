@@ -1,19 +1,57 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-30T06:41:09.760218+00:00
-> Total receipts indexed: 20250
+> Last updated: 2026-09-30T18:41:09.905442+00:00
+> Total receipts indexed: 20290
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-09-30_agy_chars_badge_transport_fix.md | zoro | 2026-09-30 | A | 16540 |
+| 2026-09-30_chatgpt_desktop_upgrade_this_computer.md | zoro | 2026-09-30 | A | 3210 |
+| 2026-09-30_constructive_ai_critics_program_and_internal_adversarial_epistemology.md | zoro | 2026-09-30 | — | 5444 |
+| 2026-09-30_gate_and_ack_lag_fixes.md | zoro | 2026-09-30 | A | 3744 |
+| 2026-09-30_glee04_wedged_turn_painted_working.md | zoro | 2026-09-30 | A | 9832 |
+| 2026-09-30_hammer_and_goal_authority_doctrine_candidate.md | zoro | 2026-09-30 | — | 10710 |
+| 2026-09-30_native_ai_quad_source_verification_deferred_trace_completed.md | zoro | 2026-09-30 | — | 3060 |
+| 2026-09-30_orphan_scope_triage_and_follow_through.md | zoro | 2026-09-30 | B | 8524 |
+| 2026-09-30_orphaned_scope_triage.md | zoro | 2026-09-30 | A | 10698 |
+| 2026-09-30_pa_slice1_shadow_attention_inbox_build.md | zoro | 2026-09-30 | A | 5360 |
+| 2026-09-30_practical_awareness_slice1_objective_binding.md | zoro | 2026-09-30 | B | 5747 |
+| 2026-09-30_terminus_v0_history_navigator.md | zoro | 2026-09-30 | A | 7280 |
+| 2026-09-30_tui_native_thesis_status_source_gap.md | zoro | 2026-09-30 | A | 7366 |
+| 2026-09-30_wall_clear_refused_on_bound_seat.md | zoro | 2026-09-30 | A | 9661 |
+| 2026-09-30_wall_provenance_join_diagnostic_dtv5_e85e64c8.md | zoro | 2026-09-30 | — | 6942 |
+| 2026-09-30_captain_escape_velocity_first_commercial_tranche.md | sanji | 2026-09-30 | — | 9291 |
+| 2026-09-30_copy_artifact_binding_audit.md | sanji | 2026-09-30 | — | 9827 |
+| 2026-09-30_copy_binding_lifecycle_audit.md | sanji | 2026-09-30 | — | 6691 |
+| 2026-09-30_copy_identity_relations_intake.md | sanji | 2026-09-30 | — | 4200 |
 | 2026-09-30_copy_resume_guard_source_repair.md | sanji | 2026-09-30 | — | 9109 |
+| 2026-09-30_copy_semantic_fyi_intake.md | sanji | 2026-09-30 | — | 4654 |
+| 2026-09-30_execution_network_intake.md | sanji | 2026-09-30 | B | 9937 |
+| 2026-09-30_glee_native_conversations_and_practical_memory_build.md | sanji | 2026-09-30 | — | 11389 |
+| 2026-09-30_hammer_principle_handoff.md | sanji | 2026-09-30 | — | 7387 |
+| 2026-09-30_institutional_context_intake.md | sanji | 2026-09-30 | — | 7229 |
+| 2026-09-30_institutional_selection_environment.md | sanji | 2026-09-30 | — | 8480 |
+| 2026-09-30_interface_control_projection_intake.md | sanji | 2026-09-30 | — | 5355 |
 | 2026-09-30_keeper_contact_readiness.md | sanji | 2026-09-30 | — | 6612 |
 | 2026-09-30_keeper_lifecycle_verification.md | sanji | 2026-09-30 | — | 8176 |
+| 2026-09-30_levin_goal_dynamics_intake.md | sanji | 2026-09-30 | — | 6833 |
+| 2026-09-30_outreach_authority_runtime.md | sanji | 2026-09-30 | — | 2458 |
+| 2026-09-30_resource_diagnosis_attachment.md | sanji | 2026-09-30 | — | 6804 |
+| 2026-09-30_resource_routing_diagnosis.md | sanji | 2026-09-30 | — | 7045 |
+| 2026-09-30_standing_outreach_authority_correction.md | sanji | 2026-09-30 | — | 10712 |
+| 2026-09-30_substrate_maintenance_return.md | sanji | 2026-09-30 | — | 9382 |
+| 2026-09-30_sunny5_clear_reuse.md | sanji | 2026-09-30 | — | 4817 |
+| 2026-09-30_sunny_web_merry_unified_software_design.md | sanji | 2026-09-30 | — | 6365 |
+| 2026-09-30_unified_system_design_audit_intake.md | sanji | 2026-09-30 | — | 6227 |
 | 2026-09-30_validator-hardening-review-route-boundary.md | sanji | 2026-09-30 | — | 4751 |
 | 2026-09-30_autonomous_rsi_loop_and_compounding_meta_capability.md | robin | 2026-09-30 | B | 8020 |
 | 2026-09-30_commercial_loop_payable_machine_endpoints_and_m2_settlement.md | robin | 2026-09-30 | B | 8196 |
 | 2026-09-30_intelligence_market_scheduler_and_continuous_experience_accumulation.md | robin | 2026-09-30 | B | 7315 |
+| 2026-09-30_seat_job_1c70ae25_blocker_diagnosis.md | robin | 2026-09-30 | A | 5134 |
+| 2026-09-30_seat_job_b6b4ca59_blocker_diagnosis.md | robin | 2026-09-30 | A | 4605 |
+| 2026-09-30_terminal_presentation_decoupling_and_unbounded_copy.md | robin | 2026-09-30 | B | 4484 |
 | 2026-09-29_claude_code_wall_tab.md | zoro | 2026-09-29 | — | 7894 |
 | 2026-09-29_claude_launcher_bypass_and_settings_cleanup.md | zoro | 2026-09-29 | — | 4435 |
 | 2026-09-29_closure_plumbing_receipt_locator_and_obligation_lookup.md | zoro | 2026-09-29 | — | 5245 |
@@ -169,45 +207,7 @@
 | 2026-09-28_rr01_execution_transfer.md | sanji | 2026-09-28 | — | 6985 |
 | 2026-09-28_rr01_final_handoff.md | sanji | 2026-09-28 | A | 3487 |
 | 2026-09-28_rr01_freeze_boundary_correction.md | sanji | 2026-09-28 | — | 9732 |
-| 2026-09-28_rr01_prerun_freeze_v1.md | sanji | 2026-09-28 | — | 5198 |
-| 2026-09-28_rr01_reconciliation_errata.md | sanji | 2026-09-28 | A | 4186 |
-| 2026-09-28_rr01_transfer_cost_match_supplement.md | sanji | 2026-09-28 | A | 4262 |
-| 2026-09-28_stop_authority_scope_recovery.md | sanji | 2026-09-28 | — | 6577 |
-| 2026-09-28_stop_gate_6002ef_and_class_budget_trial.md | sanji | 2026-09-28 | — | 9441 |
-| 2026-09-28_stop_gate_class_containment_and_timing.md | sanji | 2026-09-28 | — | 5044 |
-| 2026-09-28_stop_gate_executorless_continuation_wave.md | sanji | 2026-09-28 | — | 8388 |
-| 2026-09-28_stop_gate_timeout_recurrence.md | sanji | 2026-09-28 | — | 3930 |
-| 2026-09-28_stop_recovery_successor_claim_repair.md | sanji | 2026-09-28 | — | 4873 |
-| 2026-09-28_storage_archive_manifest_discriminator.md | sanji | 2026-09-28 | — | 3918 |
-| 2026-09-28_terminal_ai_control_strip_and_state_dimensions.md | sanji | 2026-09-28 | — | 43243 |
-| 2026-09-28_terminal_cognitive_capacity_idea_ingress.md | sanji | 2026-09-28 | — | 8249 |
-| 2026-09-28_terminal_copy_continuation_safe.md | sanji | 2026-09-28 | — | 8083 |
-| 2026-09-28_terminal_copy_post_turn_envelope.md | sanji | 2026-09-28 | — | 5959 |
-| 2026-09-28_terminal_copy_semantic_final_state_addendum.md | sanji | 2026-09-28 | B | 3598 |
-| 2026-09-28_terminal_copy_semantic_gap_addendum.md | sanji | 2026-09-28 | B | 5999 |
-| 2026-09-28_terminal_four_quantities_projection.md | sanji | 2026-09-28 | — | 5539 |
-| 2026-09-28_terminal_history_mobile_ux.md | sanji | 2026-09-28 | — | 8264 |
-| 2026-09-28_terminal_history_scroll_reflow_followup.md | sanji | 2026-09-28 | — | 9380 |
-| 2026-09-28_terminal_idea_independent_admission.md | sanji | 2026-09-28 | — | 5927 |
-| 2026-09-28_terminal_idea_live_acceptance_checkpoint.md | sanji | 2026-09-28 | — | 5976 |
-| 2026-09-28_terminal_noshim_return_and_edge_boundary.md | sanji | 2026-09-28 | — | 8495 |
-| 2026-09-28_terminal_page_permission_denial_readonly.md | sanji | 2026-09-28 | — | 11728 |
-| 2026-09-28_terminal_plus_cli_model_reasoning.md | sanji | 2026-09-28 | — | 5822 |
-| 2026-09-28_terminal_product_probe_boundary.md | sanji | 2026-09-28 | — | 33893 |
-| 2026-09-28_terminal_public_multiplexer_wave.md | sanji | 2026-09-28 | B | 5279 |
-| 2026-09-28_terminal_public_return_probe_contract.md | sanji | 2026-09-28 | B | 3996 |
-| 2026-09-28_terminal_shared_continuation_intake.md | sanji | 2026-09-28 | A | 19048 |
-| 2026-09-28_terminal_status_reason_and_continuation_replay.md | sanji | 2026-09-28 | — | 7039 |
-| 2026-09-28_terminal_tailnet_ingress_probe.md | sanji | 2026-09-28 | — | 25264 |
-| 2026-09-28_terminal_waiting_status_intake.md | sanji | 2026-09-28 | — | 6982 |
-| 2026-09-28_weekly_ai_research_intake.md | sanji | 2026-09-28 | — | 7418 |
-| 2026-09-28_autonomous_continuation_chain_and_race_hardened_fleet.md | robin | 2026-09-28 | B | 7714 |
-| 2026-09-28_bounded_hostile_continuity_regression_family_and_cold_transfer_witness.md | robin | 2026-09-28 | B | 6413 |
-| 2026-09-28_reactive_fleet_orchestration_and_dynamic_seat_lifecycle.md | robin | 2026-09-28 | B | 6993 |
-| 2026-09-27_architecture_contract_dissemination.md | glee | 2026-09-27 | A | 6787 |
-| 2026-09-27_commerce_authenticated_funding.md | glee | 2026-09-27 | A | 7666 |
-| 2026-09-27_commerce_economic_independence.md | glee | 2026-09-27 | A | 7061 |
-| _(+20050 more — see full manifest JSON)_ | | | | |
+| _(+20090 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
