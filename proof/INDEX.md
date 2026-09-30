@@ -1,24 +1,53 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-09-30T00:41:14.119199+00:00
-> Total receipts indexed: 20213
+> Last updated: 2026-09-30T06:41:09.760218+00:00
+> Total receipts indexed: 20250
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
-| 2026-09-29_claude_code_wall_tab.md | zoro | 2026-09-29 | — | 5859 |
-| 2026-09-29_htyg_repo_verification.md | zoro | 2026-09-29 | — | 6607 |
+| 2026-09-30_copy_resume_guard_source_repair.md | sanji | 2026-09-30 | — | 9109 |
+| 2026-09-30_keeper_contact_readiness.md | sanji | 2026-09-30 | — | 6612 |
+| 2026-09-30_keeper_lifecycle_verification.md | sanji | 2026-09-30 | — | 8176 |
+| 2026-09-30_validator-hardening-review-route-boundary.md | sanji | 2026-09-30 | — | 4751 |
+| 2026-09-30_autonomous_rsi_loop_and_compounding_meta_capability.md | robin | 2026-09-30 | B | 8020 |
+| 2026-09-30_commercial_loop_payable_machine_endpoints_and_m2_settlement.md | robin | 2026-09-30 | B | 8196 |
+| 2026-09-30_intelligence_market_scheduler_and_continuous_experience_accumulation.md | robin | 2026-09-30 | B | 7315 |
+| 2026-09-29_claude_code_wall_tab.md | zoro | 2026-09-29 | — | 7894 |
+| 2026-09-29_claude_launcher_bypass_and_settings_cleanup.md | zoro | 2026-09-29 | — | 4435 |
+| 2026-09-29_closure_plumbing_receipt_locator_and_obligation_lookup.md | zoro | 2026-09-29 | — | 5245 |
+| 2026-09-29_compounding_rejudge_evidence_and_checkpoint_lane_degradation.md | zoro | 2026-09-29 | — | 12563 |
+| 2026-09-29_context_fabric_intake_assessment.md | zoro | 2026-09-29 | A | 5615 |
+| 2026-09-29_continuation_waiter_poison_record.md | zoro | 2026-09-29 | A | 7124 |
+| 2026-09-29_executor_settlement_invariant.md | zoro | 2026-09-29 | — | 6623 |
+| 2026-09-29_htyg_repo_verification.md | zoro | 2026-09-29 | — | 13504 |
+| 2026-09-29_obligation_reconciliation_tw3_settled.md | zoro | 2026-09-29 | — | 5839 |
+| 2026-09-29_post_settlement_seat_binding_boundary.md | zoro | 2026-09-29 | — | 9854 |
+| 2026-09-29_pressure_gate_bounded_deferral.md | zoro | 2026-09-29 | A | 6300 |
 | 2026-09-29_terminal_remove_ux_and_false_running_fix.md | zoro | 2026-09-29 | B | 7523 |
+| 2026-09-29_tracker_projection_reconciliation_diagnosis.md | zoro | 2026-09-29 | — | 4945 |
+| 2026-09-29_unit_health_header_section.md | zoro | 2026-09-29 | B | 5283 |
+| 2026-09-29_v5_admission_repair_ownership_and_evidence_pack.md | zoro | 2026-09-29 | — | 11652 |
 | 2026-09-29_agent_run_next_move_release_seat.md | sanji | 2026-09-29 | — | 2380 |
 | 2026-09-29_agent_run_recovery_and_lock_sensor.md | sanji | 2026-09-29 | — | 5378 |
 | 2026-09-29_agent_run_recovery_selector_handoff.md | sanji | 2026-09-29 | — | 4187 |
 | 2026-09-29_autonomy_refill_unbound_turn_witness.md | sanji | 2026-09-29 | — | 8367 |
 | 2026-09-29_capability_shock_control_plane_repair.md | sanji | 2026-09-29 | — | 8393 |
 | 2026-09-29_chatgpt_glee_first_consumer_observation.md | sanji | 2026-09-29 | B | 7261 |
+| 2026-09-29_codex_boot_boundary_intake.md | sanji | 2026-09-29 | — | 8705 |
+| 2026-09-29_codex_boot_disposition_correction.md | sanji | 2026-09-29 | — | 2757 |
+| 2026-09-29_codex_cli_refresh_four_terminals.md | sanji | 2026-09-29 | — | 5945 |
 | 2026-09-29_completion_planning_and_operator_search_v1.md | sanji | 2026-09-29 | — | 11302 |
+| 2026-09-29_continual_orchestrator_memory_policy.md | sanji | 2026-09-29 | — | 8670 |
+| 2026-09-29_continuity_research_acceptance.md | sanji | 2026-09-29 | — | 13345 |
 | 2026-09-29_control_plane_observation_lifecycle_source_repair.md | sanji | 2026-09-29 | — | 6105 |
+| 2026-09-29_e1_artifact_binding.md | sanji | 2026-09-29 | — | 6554 |
 | 2026-09-29_ex_learn_negative_episode_intake.md | sanji | 2026-09-29 | — | 3586 |
+| 2026-09-29_execution_capsule_acceptance.md | sanji | 2026-09-29 | — | 1263 |
+| 2026-09-29_execution_capsule_acceptance_v1.md | sanji | 2026-09-29 | — | 1289 |
+| 2026-09-29_execution_identity_contribution_graph_v1.md | sanji | 2026-09-29 | — | 12588 |
+| 2026-09-29_executor_lifecycle_closure_intake.md | sanji | 2026-09-29 | — | 10214 |
 | 2026-09-29_experience_transfer_baseline_label.md | sanji | 2026-09-29 | — | 2392 |
 | 2026-09-29_flare_crew_delivery_hook_backlog_diagnostic.md | sanji | 2026-09-29 | — | 5261 |
 | 2026-09-29_flare_fresh_handoff_adapter_and_delivery_intake.md | sanji | 2026-09-29 | — | 7176 |
@@ -28,10 +57,14 @@
 | 2026-09-29_gmail_untrusted_reply_wake.md | sanji | 2026-09-29 | — | 3845 |
 | 2026-09-29_institutional_experience_learning_intake.md | sanji | 2026-09-29 | — | 4806 |
 | 2026-09-29_institutional_learning_writer_and_predicate_adapter.md | sanji | 2026-09-29 | — | 6880 |
+| 2026-09-29_manufactured_work_intake.md | sanji | 2026-09-29 | — | 15126 |
+| 2026-09-29_memory_policy_handoff_review.md | sanji | 2026-09-29 | — | 5438 |
 | 2026-09-29_orphan_capacity_wait_reuse.md | sanji | 2026-09-29 | — | 4239 |
+| 2026-09-29_practical_memory_captain_link.md | sanji | 2026-09-29 | — | 7874 |
 | 2026-09-29_prearmed_ingress_and_pressure_relief_wake.md | sanji | 2026-09-29 | — | 6547 |
 | 2026-09-29_predicate_wake_adapter_architecture.md | sanji | 2026-09-29 | — | 3539 |
 | 2026-09-29_stale_v5_terminal_task_reconciliation.md | sanji | 2026-09-29 | — | 6107 |
+| 2026-09-29_sutton_apprenticeship_intake.md | sanji | 2026-09-29 | A | 8631 |
 | 2026-09-29_terminal_copy_negative_control_intake.md | sanji | 2026-09-29 | — | 6117 |
 | 2026-09-29_terminal_copy_semantic_and_owner_boundary.md | sanji | 2026-09-29 | — | 7926 |
 | 2026-09-29_terminal_copy_underbinding_live_intake.md | sanji | 2026-09-29 | — | 5916 |
@@ -39,10 +72,12 @@
 | 2026-09-29_terminal_idea_fenced_delivery_controller.md | sanji | 2026-09-29 | — | 6423 |
 | 2026-09-29_terminal_primary_live_ux.md | sanji | 2026-09-29 | — | 5019 |
 | 2026-09-29_terminal_primary_live_web_and_instrumentation.md | sanji | 2026-09-29 | — | 9661 |
+| 2026-09-29_terminal_recovery_and_naming.md | sanji | 2026-09-29 | — | 11202 |
 | 2026-09-29_terminal_status_semantics_source_diagnosis.md | sanji | 2026-09-29 | — | 4427 |
 | 2026-09-29_v5_pressure_wait_projection.md | sanji | 2026-09-29 | — | 5362 |
 | 2026-09-29_v5_pressure_wake_and_unbound_turn_reconciliation.md | sanji | 2026-09-29 | — | 8187 |
 | 2026-09-29_wall_apk_delivery_evidence_intake.md | sanji | 2026-09-29 | — | 5113 |
+| 2026-09-29_reserve_slots_booting_timeout_repair_and_receipt_visibility_bridge.md | robin | 2026-09-29 | B | 7079 |
 | 2026-09-28_bonsai_cascade_narrow_seam_native_proof_closed.md | zoro | 2026-09-28 | B | 6954 |
 | 2026-09-28_cairn_draft_persistence_failure.md | zoro | 2026-09-28 | — | 1228 |
 | 2026-09-28_ex2_independent_workbench_verdict.md | zoro | 2026-09-28 | — | 2651 |
@@ -172,42 +207,7 @@
 | 2026-09-27_architecture_contract_dissemination.md | glee | 2026-09-27 | A | 6787 |
 | 2026-09-27_commerce_authenticated_funding.md | glee | 2026-09-27 | A | 7666 |
 | 2026-09-27_commerce_economic_independence.md | glee | 2026-09-27 | A | 7061 |
-| 2026-09-27_compute_efficient_models_research.md | glee | 2026-09-27 | A | 3700 |
-| 2026-09-27_economic_evidence_repairs.md | glee | 2026-09-27 | B | 7530 |
-| 2026-09-27_institutional_kinetics_research.md | glee | 2026-09-27 | A | 4612 |
-| 2026-09-27_invention_contract_integration.md | glee | 2026-09-27 | A | 6494 |
-| 2026-09-27_paid_outcomes_broad_dissemination.md | glee | 2026-09-27 | A | 7404 |
-| 2026-09-27_paid_outcomes_integration_probe.md | glee | 2026-09-27 | A | 5459 |
-| 2026-09-27_shutdown_checkpoint_sunny_1156.md | glee | 2026-09-27 | B | 3061 |
-| 2026-09-27_1156_sunny-shutdown_capital-codex.md | glee | 2026-09-27 | — | 5271 |
-| 2026-09-27_PAID_OUTCOMES_AND_RECURSIVE_IMPROVEMENT.md | glee | 2026-09-27 | — | 15189 |
-| 2026-09-27_PAID_OUTCOMES_AND_RECURSIVE_IMPROVEMENT.md | glee | 2026-09-27 | — | 12981 |
-| 2026-09-27_attention_panel_collector_inc002.md | zoro | 2026-09-27 | — | 2544 |
-| 2026-09-27_autonomy_wave_execute_all.md | zoro | 2026-09-27 | — | 3754 |
-| 2026-09-27_bonsai_cascade_live_proof_blocked_on_cli_admission_seam.md | zoro | 2026-09-27 | C | 6072 |
-| 2026-09-27_chatgpt_delivery_proof_and_readiness_chain_regression.md | zoro | 2026-09-27 | — | 17223 |
-| 2026-09-27_context_explorer_live.md | zoro | 2026-09-27 | B | 3725 |
-| 2026-09-27_effect_latency_service_action_layer_doctrine.md | zoro | 2026-09-27 | — | 2867 |
-| 2026-09-27_examples_norm_landed_registry_repair.md | zoro | 2026-09-27 | — | 1564 |
-| 2026-09-27_examples_substrate_execute_all_drain.md | zoro | 2026-09-27 | — | 2830 |
-| 2026-09-27_glee_systems_engineering_macro_focus.md | zoro | 2026-09-27 | — | 1520 |
-| 2026-09-27_glee_video_visual_intake_v0.md | zoro | 2026-09-27 | B | 10930 |
-| 2026-09-27_macro_first_terminal_status_proof.md | zoro | 2026-09-27 | — | 3016 |
-| 2026-09-27_native_ai_quad_continuity_forensics.md | zoro | 2026-09-27 | A | 4251 |
-| 2026-09-27_pad_c1_stage1_calibration_and_contention.md | zoro | 2026-09-27 | A | 2888 |
-| 2026-09-27_public_signal_first_source_access_and_frozen_experiment.md | zoro | 2026-09-27 | — | 3731 |
-| 2026-09-27_runaway_promisor_fetch_and_index_recovery.md | zoro | 2026-09-27 | B | 3831 |
-| 2026-09-27_stream_framing_witness_guard_correlation.md | zoro | 2026-09-27 | B | 2607 |
-| 2026-09-27_sunny_shutdown_checkpoint.md | zoro | 2026-09-27 | — | 3529 |
-| 2026-09-27_verification_debt_rebind_atomicity.md | zoro | 2026-09-27 | — | 3585 |
-| 2026-09-27_waiting_badge_spec_and_delivery_chain_check.md | zoro | 2026-09-27 | A | 3731 |
-| 2026-09-27_wall_app_android_live_state_badges.md | zoro | 2026-09-27 | B | 4084 |
-| 2026-09-27_wall_app_live_state_badges.md | zoro | 2026-09-27 | B | 3631 |
-| 2026-09-27_wall_extra_target_contract_repair.md | zoro | 2026-09-27 | — | 11787 |
-| 2026-09-27_world_watch_v1_standing_observation.md | zoro | 2026-09-27 | — | 5711 |
-| 2026-09-27_1156_shutdown_preparation.md | sanji | 2026-09-27 | — | 2156 |
-| 2026-09-27_active_scope_timestamp_sort_repair.md | sanji | 2026-09-27 | A | 4835 |
-| _(+20013 more — see full manifest JSON)_ | | | | |
+| _(+20050 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
