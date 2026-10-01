@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20348,
+  "total_receipts": 20352,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -143602,6 +143602,38 @@
       "date": "2026-09-30",
       "tier": null,
       "size_bytes": 4751
+    },
+    {
+      "file_name": "2026-10-01_captain_desk_attention.md",
+      "home": "sanji",
+      "rel_path": "2026-10-01_captain_desk_attention.md",
+      "date": "2026-10-01",
+      "tier": "A",
+      "size_bytes": 9402
+    },
+    {
+      "file_name": "2026-10-01_contribution_log_20260930_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-01_contribution_log_20260930_intake.md",
+      "date": "2026-10-01",
+      "tier": "A",
+      "size_bytes": 8550
+    },
+    {
+      "file_name": "2026-10-01_sunny_resource_baseline_dispatch_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-01_sunny_resource_baseline_dispatch_recovery.md",
+      "date": "2026-10-01",
+      "tier": "A",
+      "size_bytes": 4650
+    },
+    {
+      "file_name": "2026-10-01_wall_connection_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-01_wall_connection_repair.md",
+      "date": "2026-10-01",
+      "tier": "A",
+      "size_bytes": 8855
     },
     {
       "file_name": "INDEX.md",
