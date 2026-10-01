@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20344,
+  "total_receipts": 20348,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -42466,6 +42466,14 @@
       "date": "2026-09-30",
       "tier": "A",
       "size_bytes": 7280
+    },
+    {
+      "file_name": "2026-09-30_tracker_epoch_rollback_restore.md",
+      "home": "zoro",
+      "rel_path": "2026-09-30_tracker_epoch_rollback_restore.md",
+      "date": "2026-09-30",
+      "tier": "B",
+      "size_bytes": 17603
     },
     {
       "file_name": "2026-09-30_tui_native_thesis_status_source_gap.md",
@@ -143484,6 +143492,14 @@
       "size_bytes": 5164
     },
     {
+      "file_name": "2026-09-30_semantic_acceptance_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-09-30_semantic_acceptance_boundary.md",
+      "date": "2026-09-30",
+      "tier": null,
+      "size_bytes": 11246
+    },
+    {
       "file_name": "2026-09-30_standing_outreach_authority_correction.md",
       "home": "sanji",
       "rel_path": "2026-09-30_standing_outreach_authority_correction.md",
@@ -143498,6 +143514,14 @@
       "date": "2026-09-30",
       "tier": null,
       "size_bytes": 8689
+    },
+    {
+      "file_name": "2026-09-30_submission_resubmit_dec_6b8e66ac88d0b9be.md",
+      "home": "sanji",
+      "rel_path": "2026-09-30_submission_resubmit_dec_6b8e66ac88d0b9be.md",
+      "date": "2026-09-30",
+      "tier": null,
+      "size_bytes": 3759
     },
     {
       "file_name": "2026-09-30_substrate_maintenance_return.md",
@@ -143530,6 +143554,14 @@
       "date": "2026-09-30",
       "tier": null,
       "size_bytes": 6365
+    },
+    {
+      "file_name": "2026-09-30_terminal_lifecycle_e2c761_control_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-09-30_terminal_lifecycle_e2c761_control_repair.md",
+      "date": "2026-09-30",
+      "tier": null,
+      "size_bytes": 10477
     },
     {
       "file_name": "2026-09-30_terminus_gate_separation_intake.md",
