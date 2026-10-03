@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20407,
+  "total_receipts": 20418,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -42668,6 +42668,14 @@
       "size_bytes": 3284
     },
     {
+      "file_name": "2026-10-02_a2a_discovery_lists_live_acceptance_verifier.md",
+      "home": "zoro",
+      "rel_path": "2026-10-02_a2a_discovery_lists_live_acceptance_verifier.md",
+      "date": "2026-10-02",
+      "tier": "B",
+      "size_bytes": 10147
+    },
+    {
       "file_name": "2026-10-02_admission_by_work_footprint.md",
       "home": "zoro",
       "rel_path": "2026-10-02_admission_by_work_footprint.md",
@@ -42690,6 +42698,14 @@
       "date": "2026-10-02",
       "tier": "B",
       "size_bytes": 17677
+    },
+    {
+      "file_name": "2026-10-02_bootloops_reference_organism_organ_batteries.md",
+      "home": "zoro",
+      "rel_path": "2026-10-02_bootloops_reference_organism_organ_batteries.md",
+      "date": "2026-10-02",
+      "tier": "B",
+      "size_bytes": 6542
     },
     {
       "file_name": "2026-10-02_dtctl_trace_two_phase_release.md",
@@ -42732,6 +42748,14 @@
       "size_bytes": 10811
     },
     {
+      "file_name": "2026-10-02_sunny_seat_eligibility_gpt6_registry_and_quad_audit_route_cause.md",
+      "home": "zoro",
+      "rel_path": "2026-10-02_sunny_seat_eligibility_gpt6_registry_and_quad_audit_route_cause.md",
+      "date": "2026-10-02",
+      "tier": "B",
+      "size_bytes": 8180
+    },
+    {
       "file_name": "2026-10-02_verification_backlog_closed_unverified_and_routed_evidence_census.md",
       "home": "zoro",
       "rel_path": "2026-10-02_verification_backlog_closed_unverified_and_routed_evidence_census.md",
@@ -42746,6 +42770,14 @@
       "date": "2026-10-02",
       "tier": "B",
       "size_bytes": 10238
+    },
+    {
+      "file_name": "2026-10-02_wall_pinned_is_kept_open.md",
+      "home": "zoro",
+      "rel_path": "2026-10-02_wall_pinned_is_kept_open.md",
+      "date": "2026-10-02",
+      "tier": "A",
+      "size_bytes": 11960
     },
     {
       "file_name": "INDEX.md",
@@ -144060,6 +144092,46 @@
       "size_bytes": 9411
     },
     {
+      "file_name": "2026-10-02_wall_context_pin_live_controls.md",
+      "home": "sanji",
+      "rel_path": "2026-10-02_wall_context_pin_live_controls.md",
+      "date": "2026-10-02",
+      "tier": "A",
+      "size_bytes": 7753
+    },
+    {
+      "file_name": "2026-10-03_load_admission_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_load_admission_correction.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 8404
+    },
+    {
+      "file_name": "2026-10-03_native_quad_seat_alarm_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_native_quad_seat_alarm_repair.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 8307
+    },
+    {
+      "file_name": "2026-10-03_terminal_count_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_terminal_count_reconciliation.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 4787
+    },
+    {
+      "file_name": "2026-10-03_wall_operational_views_design.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_wall_operational_views_design.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 3411
+    },
+    {
       "file_name": "INDEX.md",
       "home": "sanji",
       "rel_path": "INDEX.md",
@@ -162594,6 +162666,22 @@
       "date": "2026-10-01",
       "tier": "B",
       "size_bytes": 4712
+    },
+    {
+      "file_name": "2026-10-03_levin_diverse_intelligence_and_goal_regulator.md",
+      "home": "robin",
+      "rel_path": "2026-10-03_levin_diverse_intelligence_and_goal_regulator.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 7957
+    },
+    {
+      "file_name": "2026-10-03_wall_explicit_pin_unpin_controls.md",
+      "home": "robin",
+      "rel_path": "2026-10-03_wall_explicit_pin_unpin_controls.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 6764
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
