@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20505,
+  "total_receipts": 20550,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -42804,6 +42804,14 @@
       "size_bytes": 6010
     },
     {
+      "file_name": "2026-10-03_cairn_codesign_closed_protocol_v2_1_folded.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_cairn_codesign_closed_protocol_v2_1_folded.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 3269
+    },
+    {
       "file_name": "2026-10-03_cairn_second_codesign_reply_sent.md",
       "home": "zoro",
       "rel_path": "2026-10-03_cairn_second_codesign_reply_sent.md",
@@ -42852,6 +42860,14 @@
       "size_bytes": 4442
     },
     {
+      "file_name": "2026-10-03_demand_side_market_research.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_demand_side_market_research.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 2262
+    },
+    {
       "file_name": "2026-10-03_earlyoom_bench_kill_loop.md",
       "home": "zoro",
       "rel_path": "2026-10-03_earlyoom_bench_kill_loop.md",
@@ -42865,7 +42881,23 @@
       "rel_path": "2026-10-03_franky_downloads_verify_and_scratchpad_answer.md",
       "date": "2026-10-03",
       "tier": "A",
-      "size_bytes": 1512
+      "size_bytes": 1945
+    },
+    {
+      "file_name": "2026-10-03_glee_init_clean_room_test_and_napoleon_note.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_glee_init_clean_room_test_and_napoleon_note.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 1494
+    },
+    {
+      "file_name": "2026-10-03_glee_phoenix_wall_crash_root_cause_and_epoch_census.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_glee_phoenix_wall_crash_root_cause_and_epoch_census.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 8776
     },
     {
       "file_name": "2026-10-03_host_memory_census_and_mcp_import_diet.md",
@@ -42874,6 +42906,22 @@
       "date": "2026-10-03",
       "tier": "A",
       "size_bytes": 3082
+    },
+    {
+      "file_name": "2026-10-03_host_usage_execute_all.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_host_usage_execute_all.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 4059
+    },
+    {
+      "file_name": "2026-10-03_host_usage_who_uses_the_computer.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_host_usage_who_uses_the_computer.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 2228
     },
     {
       "file_name": "2026-10-03_new_terminal_cascade_spec_and_android_parity_source.md",
@@ -42961,7 +43009,7 @@
       "rel_path": "2026-10-03_random_lane_honesty_audit_wall_dispatch.md",
       "date": "2026-10-03",
       "tier": "A",
-      "size_bytes": 5819
+      "size_bytes": 9651
     },
     {
       "file_name": "2026-10-03_reserve00_reaper_exemption.md",
@@ -42972,6 +43020,14 @@
       "size_bytes": 3867
     },
     {
+      "file_name": "2026-10-03_revenue_demand_side_market_research_inc004.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_revenue_demand_side_market_research_inc004.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 2322
+    },
+    {
       "file_name": "2026-10-03_revisable_knowledge_intake_recovered.md",
       "home": "zoro",
       "rel_path": "2026-10-03_revisable_knowledge_intake_recovered.md",
@@ -42980,12 +43036,36 @@
       "size_bytes": 6434
     },
     {
+      "file_name": "2026-10-03_step_out_admission_unblock_and_revenue_last_mile.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_step_out_admission_unblock_and_revenue_last_mile.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 5054
+    },
+    {
       "file_name": "2026-10-03_studio_ask_ai_judge_and_deploy_gap.md",
       "home": "zoro",
       "rel_path": "2026-10-03_studio_ask_ai_judge_and_deploy_gap.md",
       "date": "2026-10-03",
       "tier": "A",
       "size_bytes": 7451
+    },
+    {
+      "file_name": "2026-10-03_studio_family_ask_studio.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_studio_family_ask_studio.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 5644
+    },
+    {
+      "file_name": "2026-10-03_studio_release_verification_glm_successor.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_studio_release_verification_glm_successor.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 4057
     },
     {
       "file_name": "2026-10-03_substrate_interoception_ledger_and_refusal_snapshot.md",
@@ -43004,6 +43084,14 @@
       "size_bytes": 3599
     },
     {
+      "file_name": "2026-10-03_v5_silent_rejections_fallback_digest_ruling.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_v5_silent_rejections_fallback_digest_ruling.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 8074
+    },
+    {
       "file_name": "2026-10-03_v5_tool_free_reasoning_route.md",
       "home": "zoro",
       "rel_path": "2026-10-03_v5_tool_free_reasoning_route.md",
@@ -43017,7 +43105,15 @@
       "rel_path": "2026-10-03_wall_agent_done_auto_close.md",
       "date": "2026-10-03",
       "tier": "A",
-      "size_bytes": 2823
+      "size_bytes": 3603
+    },
+    {
+      "file_name": "2026-10-03_wall_provenance_p1_p2_landing.md",
+      "home": "zoro",
+      "rel_path": "2026-10-03_wall_provenance_p1_p2_landing.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 2714
     },
     {
       "file_name": "INDEX.md",
@@ -144452,12 +144548,60 @@
       "size_bytes": 9308
     },
     {
+      "file_name": "2026-10-03_capability_first_revenue_and_capacity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_capability_first_revenue_and_capacity.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 6595
+    },
+    {
+      "file_name": "2026-10-03_ceramic_credential_latency_monitor_started.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_ceramic_credential_latency_monitor_started.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 3515
+    },
+    {
+      "file_name": "2026-10-03_ceramic_funded_search_provider_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_ceramic_funded_search_provider_handoff.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 6284
+    },
+    {
+      "file_name": "2026-10-03_ceramic_recovery_entry_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_ceramic_recovery_entry_verification.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 2537
+    },
+    {
       "file_name": "2026-10-03_chatgpt_usability_and_read_guard.md",
       "home": "sanji",
       "rel_path": "2026-10-03_chatgpt_usability_and_read_guard.md",
       "date": "2026-10-03",
       "tier": "A",
       "size_bytes": 4967
+    },
+    {
+      "file_name": "2026-10-03_checkout_release_held_by_d1_authority.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_checkout_release_held_by_d1_authority.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 7442
+    },
+    {
+      "file_name": "2026-10-03_claude_terminal_migration.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_claude_terminal_migration.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 6298
     },
     {
       "file_name": "2026-10-03_cloudflare_web_search_intake.md",
@@ -144500,6 +144644,22 @@
       "size_bytes": 8555
     },
     {
+      "file_name": "2026-10-03_continuous_measurement_activation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_continuous_measurement_activation.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 18714
+    },
+    {
+      "file_name": "2026-10-03_crash_recovery_live_function.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_crash_recovery_live_function.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 10510
+    },
+    {
       "file_name": "2026-10-03_daily_operating_plan_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-03_daily_operating_plan_intake.md",
@@ -144514,6 +144674,14 @@
       "date": "2026-10-03",
       "tier": null,
       "size_bytes": 5725
+    },
+    {
+      "file_name": "2026-10-03_digital_capability_resilience_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_digital_capability_resilience_intake.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 6264
     },
     {
       "file_name": "2026-10-03_discord_room_admission_correction.md",
@@ -144532,6 +144700,22 @@
       "size_bytes": 6614
     },
     {
+      "file_name": "2026-10-03_fc1c465ea2f91cf76d584cd9_recovery_readonly_rollout.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_fc1c465ea2f91cf76d584cd9_recovery_readonly_rollout.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 3958
+    },
+    {
+      "file_name": "2026-10-03_fc1c465ea2f91cf76d584cd9_trench_verifier_reuse.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_fc1c465ea2f91cf76d584cd9_trench_verifier_reuse.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 6939
+    },
+    {
       "file_name": "2026-10-03_flow_execution_graph_v1_implementation.md",
       "home": "sanji",
       "rel_path": "2026-10-03_flow_execution_graph_v1_implementation.md",
@@ -144546,6 +144730,30 @@
       "date": "2026-10-03",
       "tier": "A",
       "size_bytes": 6583
+    },
+    {
+      "file_name": "2026-10-03_handoff_coordination_investigation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_handoff_coordination_investigation.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 3812
+    },
+    {
+      "file_name": "2026-10-03_handoff_recovery_readonly_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_handoff_recovery_readonly_verification.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 4674
+    },
+    {
+      "file_name": "2026-10-03_host_memory_successor_readonly_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_host_memory_successor_readonly_verification.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 12483
     },
     {
       "file_name": "2026-10-03_human_cognitive_ownership_intake.md",
@@ -144570,6 +144778,30 @@
       "date": "2026-10-03",
       "tier": null,
       "size_bytes": 5229
+    },
+    {
+      "file_name": "2026-10-03_keeper_inherited_lane_rebase.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_keeper_inherited_lane_rebase.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 5750
+    },
+    {
+      "file_name": "2026-10-03_keeper_submit_confirmation_905068ff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_keeper_submit_confirmation_905068ff.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 8681
+    },
+    {
+      "file_name": "2026-10-03_liability_commons_c1_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_liability_commons_c1_trial.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 8948
     },
     {
       "file_name": "2026-10-03_live_context_minimum_sufficient_reality.md",
@@ -144620,6 +144852,14 @@
       "size_bytes": 24526
     },
     {
+      "file_name": "2026-10-03_opencode_tui_u_split_diagnosis.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_opencode_tui_u_split_diagnosis.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 6998
+    },
+    {
       "file_name": "2026-10-03_phone_release_a5c8_hotfix.md",
       "home": "sanji",
       "rel_path": "2026-10-03_phone_release_a5c8_hotfix.md",
@@ -144634,6 +144874,22 @@
       "date": "2026-10-03",
       "tier": null,
       "size_bytes": 8794
+    },
+    {
+      "file_name": "2026-10-03_rami_offer_identity_and_checkout_isolation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_rami_offer_identity_and_checkout_isolation.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 6255
+    },
+    {
+      "file_name": "2026-10-03_random_audit_completion_repair_staged.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_random_audit_completion_repair_staged.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 9585
     },
     {
       "file_name": "2026-10-03_relational_exposure_surface.md",
@@ -144666,6 +144922,14 @@
       "date": "2026-10-03",
       "tier": "A",
       "size_bytes": 9315
+    },
+    {
+      "file_name": "2026-10-03_rfq_pdf_excel_local_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_rfq_pdf_excel_local_trial.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 7339
     },
     {
       "file_name": "2026-10-03_science_of_intelligence_intake.md",
@@ -144708,6 +144972,14 @@
       "size_bytes": 8543
     },
     {
+      "file_name": "2026-10-03_step_out_desk_update_identity_905068ff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_step_out_desk_update_identity_905068ff.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 9021
+    },
+    {
       "file_name": "2026-10-03_switching_context_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-03_switching_context_intake.md",
@@ -144732,12 +145004,60 @@
       "size_bytes": 4787
     },
     {
+      "file_name": "2026-10-03_terminal_wall_crash_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_terminal_wall_crash_recovery.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 7301
+    },
+    {
       "file_name": "2026-10-03_terminal_wall_views_scope_closure.md",
       "home": "sanji",
       "rel_path": "2026-10-03_terminal_wall_views_scope_closure.md",
       "date": "2026-10-03",
       "tier": "A",
       "size_bytes": 3193
+    },
+    {
+      "file_name": "2026-10-03_trench_conversation_cursor_isolation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_trench_conversation_cursor_isolation.md",
+      "date": "2026-10-03",
+      "tier": "A",
+      "size_bytes": 9268
+    },
+    {
+      "file_name": "2026-10-03_trench_shared_memory_accounting.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_trench_shared_memory_accounting.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 8371
+    },
+    {
+      "file_name": "2026-10-03_trench_single_light_slot_transaction.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_trench_single_light_slot_transaction.md",
+      "date": "2026-10-03",
+      "tier": "B",
+      "size_bytes": 3880
+    },
+    {
+      "file_name": "2026-10-03_wall_desk_recovery_entry_905068ff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_wall_desk_recovery_entry_905068ff.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 4545
+    },
+    {
+      "file_name": "2026-10-03_wall_desk_successor_readonly_905068ff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_wall_desk_successor_readonly_905068ff.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 5969
     },
     {
       "file_name": "2026-10-03_wall_fleet_native_navigation.md",
@@ -144764,6 +145084,14 @@
       "size_bytes": 3411
     },
     {
+      "file_name": "2026-10-03_website_accents_retry_and_ui_proof.md",
+      "home": "sanji",
+      "rel_path": "2026-10-03_website_accents_retry_and_ui_proof.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 5971
+    },
+    {
       "file_name": "2026-10-03_website_art_concepts.md",
       "home": "sanji",
       "rel_path": "2026-10-03_website_art_concepts.md",
@@ -144786,6 +145114,14 @@
       "date": "2026-10-03",
       "tier": "B",
       "size_bytes": 8112
+    },
+    {
+      "file_name": "2026-10-04_scratchpad_beta_release.md",
+      "home": "sanji",
+      "rel_path": "2026-10-04_scratchpad_beta_release.md",
+      "date": "2026-10-04",
+      "tier": "A",
+      "size_bytes": 15721
     },
     {
       "file_name": "INDEX.md",
@@ -163337,7 +163673,7 @@
       "rel_path": "2026-10-03_cul001_runtime_enactment_receipt.md",
       "date": "2026-10-03",
       "tier": "B",
-      "size_bytes": 3222
+      "size_bytes": 3240
     },
     {
       "file_name": "2026-10-03_desktop_terminal_wall_navigation_persistence.md",
@@ -163372,12 +163708,36 @@
       "size_bytes": 7782
     },
     {
+      "file_name": "2026-10-03_native_ai_quad_comprehensive_improvement.md",
+      "home": "robin",
+      "rel_path": "2026-10-03_native_ai_quad_comprehensive_improvement.md",
+      "date": "2026-10-03",
+      "tier": null,
+      "size_bytes": 14223
+    },
+    {
       "file_name": "2026-10-03_wall_explicit_pin_unpin_controls.md",
       "home": "robin",
       "rel_path": "2026-10-03_wall_explicit_pin_unpin_controls.md",
       "date": "2026-10-03",
       "tier": null,
       "size_bytes": 6764
+    },
+    {
+      "file_name": "2026-10-04_estate_interface_teleology_and_multi_model_audit_harness.md",
+      "home": "robin",
+      "rel_path": "2026-10-04_estate_interface_teleology_and_multi_model_audit_harness.md",
+      "date": "2026-10-04",
+      "tier": "B",
+      "size_bytes": 7971
+    },
+    {
+      "file_name": "2026-10-04_website_conceptual_artistic_teleology_improvement.md",
+      "home": "robin",
+      "rel_path": "2026-10-04_website_conceptual_artistic_teleology_improvement.md",
+      "date": "2026-10-04",
+      "tier": null,
+      "size_bytes": 5329
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
