@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20782,
+  "total_receipts": 20802,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -43193,7 +43193,7 @@
       "rel_path": "2026-10-04_claude_weekly_burn_governor.md",
       "date": "2026-10-04",
       "tier": null,
-      "size_bytes": 11488
+      "size_bytes": 14192
     },
     {
       "file_name": "2026-10-04_cron_jobs_out_of_system_slice.md",
@@ -43489,7 +43489,23 @@
       "rel_path": "2026-10-05_burn_fu-deploy-wrapper-sealed-mode-identity-gate.md",
       "date": "2026-10-05",
       "tier": "C",
-      "size_bytes": 13554
+      "size_bytes": 20718
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-o3-capacity-meter-clean.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-o3-capacity-meter-clean.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 8427
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-retire-stale-h1-blocker-in-scope.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-retire-stale-h1-blocker-in-scope.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 9259
     },
     {
       "file_name": "2026-10-05_burn_fu-verify-remaining-pending-agentwork.md",
@@ -43540,6 +43556,30 @@
       "size_bytes": 10716
     },
     {
+      "file_name": "2026-10-05_burn_law-c02-review-sealed-wrapper-gate.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_law-c02-review-sealed-wrapper-gate.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 13835
+    },
+    {
+      "file_name": "2026-10-05_burn_lifecycle-current-base-rebase-prep.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_lifecycle-current-base-rebase-prep.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 21586
+    },
+    {
+      "file_name": "2026-10-05_burn_lifecycle-rebased-candidate-rereview.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_lifecycle-rebased-candidate-rereview.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 15407
+    },
+    {
       "file_name": "2026-10-05_burn_money-o2.md",
       "home": "zoro",
       "rel_path": "2026-10-05_burn_money-o2.md",
@@ -43570,6 +43610,38 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 19676
+    },
+    {
+      "file_name": "2026-10-05_burn_scope-analyze-llm-reasoning-limits.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_scope-analyze-llm-reasoning-limits.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 12911
+    },
+    {
+      "file_name": "2026-10-05_burn_scope-cul001-runtime-enactment.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_scope-cul001-runtime-enactment.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 10341
+    },
+    {
+      "file_name": "2026-10-05_burn_scope-p-current-gen-models-20261004.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_scope-p-current-gen-models-20261004.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 8994
+    },
+    {
+      "file_name": "2026-10-05_burn_scope-terminus-phone-link-origin.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_scope-terminus-phone-link-origin.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 10605
     },
     {
       "file_name": "2026-10-05_burn_scope-who-uses-computer-host.md",
@@ -43618,6 +43690,22 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 16290
+    },
+    {
+      "file_name": "2026-10-05_capability_bootstrap_study2_prereg.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_capability_bootstrap_study2_prereg.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 2068
+    },
+    {
+      "file_name": "2026-10-05_epistemic_constitution_organ_census.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_epistemic_constitution_organ_census.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 4793
     },
     {
       "file_name": "2026-10-05_terminal_lifecycle_e2c761_independent_review.md",
@@ -146732,6 +146820,14 @@
       "size_bytes": 6704
     },
     {
+      "file_name": "2026-10-05_blackbody_programmable_media_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_blackbody_programmable_media_intake.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 7004
+    },
+    {
       "file_name": "2026-10-05_codex_context_retirement_native_loop.md",
       "home": "sanji",
       "rel_path": "2026-10-05_codex_context_retirement_native_loop.md",
@@ -146772,6 +146868,22 @@
       "size_bytes": 7690
     },
     {
+      "file_name": "2026-10-05_revenue_and_sunny5_intake_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_revenue_and_sunny5_intake_reconciliation.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 7780
+    },
+    {
+      "file_name": "2026-10-05_revenue_buyer_channel_revalidation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_revenue_buyer_channel_revalidation.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 7916
+    },
+    {
       "file_name": "2026-10-05_revenue_first_customer_wait_boundary.md",
       "home": "sanji",
       "rel_path": "2026-10-05_revenue_first_customer_wait_boundary.md",
@@ -146796,12 +146908,60 @@
       "size_bytes": 6144
     },
     {
+      "file_name": "2026-10-05_revenue_rail_scope_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_revenue_rail_scope_reconciliation.md",
+      "date": "2026-10-05",
+      "tier": "A",
+      "size_bytes": 7137
+    },
+    {
+      "file_name": "2026-10-05_revenue_sender_boundary_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_revenue_sender_boundary_addendum.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 4582
+    },
+    {
+      "file_name": "2026-10-05_revenue_state_freshness_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_revenue_state_freshness_addendum.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 9730
+    },
+    {
+      "file_name": "2026-10-05_revenue_stripe_rail_comparison.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_revenue_stripe_rail_comparison.md",
+      "date": "2026-10-05",
+      "tier": "A",
+      "size_bytes": 5995
+    },
+    {
       "file_name": "2026-10-05_revenue_x402_receiver_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-10-05_revenue_x402_receiver_reconciliation.md",
       "date": "2026-10-05",
       "tier": "A",
       "size_bytes": 7673
+    },
+    {
+      "file_name": "2026-10-05_scratchpad_autonomy_grounding_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_scratchpad_autonomy_grounding_recovery.md",
+      "date": "2026-10-05",
+      "tier": "A",
+      "size_bytes": 8919
+    },
+    {
+      "file_name": "2026-10-05_scratchpad_event_bridge_handoff_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_scratchpad_event_bridge_handoff_repair.md",
+      "date": "2026-10-05",
+      "tier": "A",
+      "size_bytes": 8780
     },
     {
       "file_name": "INDEX.md",
