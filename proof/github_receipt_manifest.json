@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20816,
+  "total_receipts": 20841,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -43193,7 +43193,7 @@
       "rel_path": "2026-10-04_claude_weekly_burn_governor.md",
       "date": "2026-10-04",
       "tier": null,
-      "size_bytes": 18166
+      "size_bytes": 23560
     },
     {
       "file_name": "2026-10-04_cron_jobs_out_of_system_slice.md",
@@ -43484,6 +43484,22 @@
       "size_bytes": 80859
     },
     {
+      "file_name": "2026-10-05_burn_deploy-reversion-guard-ledger-blindness.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_deploy-reversion-guard-ledger-blindness.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 12285
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-deploy-wrapper-bind-immutable-executing-bytes.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-deploy-wrapper-bind-immutable-executing-bytes.md",
+      "date": "2026-10-05",
+      "tier": "C",
+      "size_bytes": 15872
+    },
+    {
       "file_name": "2026-10-05_burn_fu-deploy-wrapper-sealed-mode-identity-gate.md",
       "home": "zoro",
       "rel_path": "2026-10-05_burn_fu-deploy-wrapper-sealed-mode-identity-gate.md",
@@ -43498,6 +43514,14 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 14601
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-incremental-execution-seat-jobs-keyerror.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-incremental-execution-seat-jobs-keyerror.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 11309
     },
     {
       "file_name": "2026-10-05_burn_fu-o3-capacity-meter-clean.md",
@@ -43516,6 +43540,14 @@
       "size_bytes": 12710
     },
     {
+      "file_name": "2026-10-05_burn_fu-retire-stale-ghost-predicate-audit.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-retire-stale-ghost-predicate-audit.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 7870
+    },
+    {
       "file_name": "2026-10-05_burn_fu-retire-stale-h1-blocker-in-scope.md",
       "home": "zoro",
       "rel_path": "2026-10-05_burn_fu-retire-stale-h1-blocker-in-scope.md",
@@ -43530,6 +43562,14 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 10268
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-verified-close-dead-seat-ready.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-verified-close-dead-seat-ready.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 9395
     },
     {
       "file_name": "2026-10-05_burn_fu-verify-remaining-pending-agentwork.md",
@@ -43612,6 +43652,14 @@
       "size_bytes": 10716
     },
     {
+      "file_name": "2026-10-05_burn_inbox-trench-candidate-patch.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_inbox-trench-candidate-patch.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 8611
+    },
+    {
       "file_name": "2026-10-05_burn_law-c02-review-sealed-wrapper-gate.md",
       "home": "zoro",
       "rel_path": "2026-10-05_burn_law-c02-review-sealed-wrapper-gate.md",
@@ -43660,6 +43708,14 @@
       "size_bytes": 18657
     },
     {
+      "file_name": "2026-10-05_burn_prod-hire-truth-fix-prep.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_prod-hire-truth-fix-prep.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 22792
+    },
+    {
       "file_name": "2026-10-05_burn_prod-restore-chat-scratchpad-prep.md",
       "home": "zoro",
       "rel_path": "2026-10-05_burn_prod-restore-chat-scratchpad-prep.md",
@@ -43674,6 +43730,14 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 15572
+    },
+    {
+      "file_name": "2026-10-05_burn_prod-restore-final-with-xss-fix.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_prod-restore-final-with-xss-fix.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 20575
     },
     {
       "file_name": "2026-10-05_burn_promise-holds-no-exit.md",
@@ -43778,6 +43842,22 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 4793
+    },
+    {
+      "file_name": "2026-10-05_phone_durable_request_ledger.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_phone_durable_request_ledger.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 6312
+    },
+    {
+      "file_name": "2026-10-05_prod_rollback_restore_and_login_xss_fix_deployed.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_prod_rollback_restore_and_login_xss_fix_deployed.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 5137
     },
     {
       "file_name": "2026-10-05_terminal_lifecycle_e2c761_independent_review.md",
@@ -146892,6 +146972,14 @@
       "size_bytes": 6704
     },
     {
+      "file_name": "2026-10-05_android_wall_send_creation_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_android_wall_send_creation_repair.md",
+      "date": "2026-10-05",
+      "tier": "A",
+      "size_bytes": 7343
+    },
+    {
       "file_name": "2026-10-05_blackbody_programmable_media_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-05_blackbody_programmable_media_intake.md",
@@ -146908,12 +146996,36 @@
       "size_bytes": 9249
     },
     {
+      "file_name": "2026-10-05_communication_path_custody_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_communication_path_custody_repair.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 8348
+    },
+    {
+      "file_name": "2026-10-05_discharged_native_wait_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_discharged_native_wait_recovery.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 4852
+    },
+    {
+      "file_name": "2026-10-05_halted_parent_recovery_precedence.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_halted_parent_recovery_precedence.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 8036
+    },
+    {
       "file_name": "2026-10-05_handoff_epoch_scan_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-05_handoff_epoch_scan_recovery.md",
       "date": "2026-10-05",
       "tier": null,
-      "size_bytes": 5718
+      "size_bytes": 6115
     },
     {
       "file_name": "2026-10-05_ingestion_candidate_locator_continuation.md",
@@ -146930,6 +147042,30 @@
       "date": "2026-10-05",
       "tier": "B",
       "size_bytes": 7818
+    },
+    {
+      "file_name": "2026-10-05_memory_resume_root_reserve.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_memory_resume_root_reserve.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 6472
+    },
+    {
+      "file_name": "2026-10-05_predictive_execution_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_predictive_execution_intake.md",
+      "date": "2026-10-05",
+      "tier": "A",
+      "size_bytes": 9502
+    },
+    {
+      "file_name": "2026-10-05_recovery_dispatch_quarantine.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_recovery_dispatch_quarantine.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 5092
     },
     {
       "file_name": "2026-10-05_recurring_revenue_offer_reconciliation.md",
@@ -147068,12 +147204,76 @@
       "size_bytes": 5304
     },
     {
+      "file_name": "2026-10-05_stop_default_host_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_stop_default_host_binding.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 5922
+    },
+    {
+      "file_name": "2026-10-05_stop_recovery_exact_owner_route.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_stop_recovery_exact_owner_route.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 5997
+    },
+    {
+      "file_name": "2026-10-05_stop_timeout_record_retention.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_stop_timeout_record_retention.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 6548
+    },
+    {
       "file_name": "2026-10-05_technical_source_formal_core.md",
       "home": "sanji",
       "rel_path": "2026-10-05_technical_source_formal_core.md",
       "date": "2026-10-05",
       "tier": "B",
       "size_bytes": 11780
+    },
+    {
+      "file_name": "2026-10-06_cache_physical_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_cache_physical_preflight.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 4806
+    },
+    {
+      "file_name": "2026-10-06_fixed_quarantine_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_fixed_quarantine_reconciliation.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 5501
+    },
+    {
+      "file_name": "2026-10-06_provider_hold_custody_trace.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_provider_hold_custody_trace.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 3795
+    },
+    {
+      "file_name": "2026-10-06_restic_cache_lifecycle_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_restic_cache_lifecycle_recovery.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 4644
+    },
+    {
+      "file_name": "2026-10-06_restic_process_crash_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_restic_process_crash_recovery.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6036
     },
     {
       "file_name": "INDEX.md",
