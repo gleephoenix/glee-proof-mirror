@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20853,
+  "total_receipts": 20859,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -43868,12 +43868,28 @@
       "size_bytes": 12372
     },
     {
+      "file_name": "2026-10-06_crew_inbox_prompt_delivery_fix.md",
+      "home": "zoro",
+      "rel_path": "2026-10-06_crew_inbox_prompt_delivery_fix.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 8476
+    },
+    {
       "file_name": "2026-10-06_phone_wall_unlimited_send.md",
       "home": "zoro",
       "rel_path": "2026-10-06_phone_wall_unlimited_send.md",
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 5299
+    },
+    {
+      "file_name": "2026-10-06_recovery_executor_qualification_response.md",
+      "home": "zoro",
+      "rel_path": "2026-10-06_recovery_executor_qualification_response.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 7276
     },
     {
       "file_name": "INDEX.md",
@@ -147316,6 +147332,22 @@
       "size_bytes": 5501
     },
     {
+      "file_name": "2026-10-06_local_model_scout_continuation_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_local_model_scout_continuation_reconciliation.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 2825
+    },
+    {
+      "file_name": "2026-10-06_local_model_scout_host_inventory_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_local_model_scout_host_inventory_refresh.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 5446
+    },
+    {
       "file_name": "2026-10-06_local_model_scout_ingestion_and_inventory.md",
       "home": "sanji",
       "rel_path": "2026-10-06_local_model_scout_ingestion_and_inventory.md",
@@ -147340,6 +147372,14 @@
       "size_bytes": 3795
     },
     {
+      "file_name": "2026-10-06_recovery_chain_verified_prerequisites.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_recovery_chain_verified_prerequisites.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 11338
+    },
+    {
       "file_name": "2026-10-06_restic_cache_lifecycle_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-06_restic_cache_lifecycle_recovery.md",
@@ -147362,6 +147402,14 @@
       "date": "2026-10-06",
       "tier": "A",
       "size_bytes": 7064
+    },
+    {
+      "file_name": "2026-10-06_sunny_storage_write_destinations.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_sunny_storage_write_destinations.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 11485
     },
     {
       "file_name": "2026-10-06_technical_source_formal_core_followup.md",
