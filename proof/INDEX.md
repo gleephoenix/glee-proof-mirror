@@ -1,19 +1,29 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-06T00:41:18.570399+00:00
-> Total receipts indexed: 20816
+> Last updated: 2026-10-06T06:41:13.908946+00:00
+> Total receipts indexed: 20841
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-06_cache_physical_preflight.md | sanji | 2026-10-06 | — | 4806 |
+| 2026-10-06_fixed_quarantine_reconciliation.md | sanji | 2026-10-06 | — | 5501 |
+| 2026-10-06_provider_hold_custody_trace.md | sanji | 2026-10-06 | — | 3795 |
+| 2026-10-06_restic_cache_lifecycle_recovery.md | sanji | 2026-10-06 | — | 4644 |
+| 2026-10-06_restic_process_crash_recovery.md | sanji | 2026-10-06 | — | 6036 |
 | 2026-10-05_burn_crew-inbox-triage.md | zoro | 2026-10-05 | — | 80859 |
+| 2026-10-05_burn_deploy-reversion-guard-ledger-blindness.md | zoro | 2026-10-05 | — | 12285 |
+| 2026-10-05_burn_fu-deploy-wrapper-bind-immutable-executing-bytes.md | zoro | 2026-10-05 | C | 15872 |
 | 2026-10-05_burn_fu-deploy-wrapper-sealed-mode-identity-gate.md | zoro | 2026-10-05 | C | 21744 |
 | 2026-10-05_burn_fu-hire-page-copy-claim-audit.md | zoro | 2026-10-05 | — | 14601 |
+| 2026-10-05_burn_fu-incremental-execution-seat-jobs-keyerror.md | zoro | 2026-10-05 | — | 11309 |
 | 2026-10-05_burn_fu-o3-capacity-meter-clean.md | zoro | 2026-10-05 | — | 8427 |
 | 2026-10-05_burn_fu-platform-worker-capital-vs-prod-drift.md | zoro | 2026-10-05 | — | 12710 |
+| 2026-10-05_burn_fu-retire-stale-ghost-predicate-audit.md | zoro | 2026-10-05 | — | 7870 |
 | 2026-10-05_burn_fu-retire-stale-h1-blocker-in-scope.md | zoro | 2026-10-05 | — | 9259 |
 | 2026-10-05_burn_fu-usage-ledger-full-readers-tail-bound.md | zoro | 2026-10-05 | — | 10268 |
+| 2026-10-05_burn_fu-verified-close-dead-seat-ready.md | zoro | 2026-10-05 | — | 9395 |
 | 2026-10-05_burn_fu-verify-remaining-pending-agentwork.md | zoro | 2026-10-05 | — | 13367 |
 | 2026-10-05_burn_fu-watchdog-syslog-identifier.md | zoro | 2026-10-05 | — | 6843 |
 | 2026-10-05_burn_fu-wrapper-identity-fail-closed-env-hygiene.md | zoro | 2026-10-05 | C | 16129 |
@@ -24,14 +34,17 @@
 | 2026-10-05_burn_inbox-control-plane-closure.md | zoro | 2026-10-05 | — | 13548 |
 | 2026-10-05_burn_inbox-stop-keeper-owned-work.md | zoro | 2026-10-05 | — | 15368 |
 | 2026-10-05_burn_inbox-terminal-lifecycle-review.md | zoro | 2026-10-05 | — | 10716 |
+| 2026-10-05_burn_inbox-trench-candidate-patch.md | zoro | 2026-10-05 | — | 8611 |
 | 2026-10-05_burn_law-c02-review-sealed-wrapper-gate.md | zoro | 2026-10-05 | — | 13835 |
 | 2026-10-05_burn_lifecycle-current-base-rebase-prep.md | zoro | 2026-10-05 | — | 21586 |
 | 2026-10-05_burn_lifecycle-rebased-candidate-rereview.md | zoro | 2026-10-05 | — | 15407 |
 | 2026-10-05_burn_money-o2.md | zoro | 2026-10-05 | — | 10733 |
 | 2026-10-05_burn_money-z1.md | zoro | 2026-10-05 | — | 12048 |
 | 2026-10-05_burn_planner-scopes.md | zoro | 2026-10-05 | — | 18657 |
+| 2026-10-05_burn_prod-hire-truth-fix-prep.md | zoro | 2026-10-05 | — | 22792 |
 | 2026-10-05_burn_prod-restore-chat-scratchpad-prep.md | zoro | 2026-10-05 | — | 22788 |
 | 2026-10-05_burn_prod-restore-codex-review.md | zoro | 2026-10-05 | — | 15572 |
+| 2026-10-05_burn_prod-restore-final-with-xss-fix.md | zoro | 2026-10-05 | — | 20575 |
 | 2026-10-05_burn_promise-holds-no-exit.md | zoro | 2026-10-05 | — | 19676 |
 | 2026-10-05_burn_scope-analyze-llm-reasoning-limits.md | zoro | 2026-10-05 | — | 12911 |
 | 2026-10-05_burn_scope-cul001-runtime-enactment.md | zoro | 2026-10-05 | — | 10341 |
@@ -45,12 +58,21 @@
 | 2026-10-05_burn_verify-pending-jobs-finish.md | zoro | 2026-10-05 | — | 16290 |
 | 2026-10-05_capability_bootstrap_study2_prereg.md | zoro | 2026-10-05 | — | 2068 |
 | 2026-10-05_epistemic_constitution_organ_census.md | zoro | 2026-10-05 | — | 4793 |
+| 2026-10-05_phone_durable_request_ledger.md | zoro | 2026-10-05 | — | 6312 |
+| 2026-10-05_prod_rollback_restore_and_login_xss_fix_deployed.md | zoro | 2026-10-05 | — | 5137 |
 | 2026-10-05_terminal_lifecycle_e2c761_independent_review.md | zoro | 2026-10-05 | — | 12372 |
+| 2026-10-05_android_wall_send_creation_repair.md | sanji | 2026-10-05 | A | 7343 |
 | 2026-10-05_blackbody_programmable_media_intake.md | sanji | 2026-10-05 | — | 7004 |
 | 2026-10-05_codex_context_retirement_native_loop.md | sanji | 2026-10-05 | B | 9249 |
-| 2026-10-05_handoff_epoch_scan_recovery.md | sanji | 2026-10-05 | — | 5718 |
+| 2026-10-05_communication_path_custody_repair.md | sanji | 2026-10-05 | B | 8348 |
+| 2026-10-05_discharged_native_wait_recovery.md | sanji | 2026-10-05 | — | 4852 |
+| 2026-10-05_halted_parent_recovery_precedence.md | sanji | 2026-10-05 | — | 8036 |
+| 2026-10-05_handoff_epoch_scan_recovery.md | sanji | 2026-10-05 | — | 6115 |
 | 2026-10-05_ingestion_candidate_locator_continuation.md | sanji | 2026-10-05 | B | 3642 |
 | 2026-10-05_ingestion_install_candidate_recovery.md | sanji | 2026-10-05 | B | 7818 |
+| 2026-10-05_memory_resume_root_reserve.md | sanji | 2026-10-05 | — | 6472 |
+| 2026-10-05_predictive_execution_intake.md | sanji | 2026-10-05 | A | 9502 |
+| 2026-10-05_recovery_dispatch_quarantine.md | sanji | 2026-10-05 | — | 5092 |
 | 2026-10-05_recurring_revenue_offer_reconciliation.md | sanji | 2026-10-05 | B | 7674 |
 | 2026-10-05_recurring_revenue_retainer_pilot.md | sanji | 2026-10-05 | B | 10496 |
 | 2026-10-05_recurring_revenue_square_billing_addendum.md | sanji | 2026-10-05 | B | 8854 |
@@ -68,6 +90,9 @@
 | 2026-10-05_scratchpad_autonomy_grounding_recovery.md | sanji | 2026-10-05 | A | 8919 |
 | 2026-10-05_scratchpad_event_bridge_handoff_repair.md | sanji | 2026-10-05 | A | 8780 |
 | 2026-10-05_stop_deadline_propagation.md | sanji | 2026-10-05 | — | 5304 |
+| 2026-10-05_stop_default_host_binding.md | sanji | 2026-10-05 | — | 5922 |
+| 2026-10-05_stop_recovery_exact_owner_route.md | sanji | 2026-10-05 | — | 5997 |
+| 2026-10-05_stop_timeout_record_retention.md | sanji | 2026-10-05 | — | 6548 |
 | 2026-10-05_technical_source_formal_core.md | sanji | 2026-10-05 | B | 11780 |
 | 2026-10-05_ROBIN_STRIPE_AUTHENTICATION_AND_RAIL_RESTORATION_RECEIPT.md | robin | 2026-10-05 | — | 1962 |
 | 2026-10-04_keeper_0ek_closure.md | glee | 2026-10-04 | A | 1803 |
@@ -79,7 +104,7 @@
 | 2026-10-04_agent_time_census_and_sem_intake.md | zoro | 2026-10-04 | A | 6082 |
 | 2026-10-04_boundary_discovery_inc002_bb1_derived_claim_surface.md | zoro | 2026-10-04 | A | 7219 |
 | 2026-10-04_claude_code_version_shadow_install_fix.md | zoro | 2026-10-04 | — | 4927 |
-| 2026-10-04_claude_weekly_burn_governor.md | zoro | 2026-10-04 | — | 18166 |
+| 2026-10-04_claude_weekly_burn_governor.md | zoro | 2026-10-04 | — | 23560 |
 | 2026-10-04_cron_jobs_out_of_system_slice.md | zoro | 2026-10-04 | — | 8440 |
 | 2026-10-04_current_generation_models_only.md | zoro | 2026-10-04 | A | 14044 |
 | 2026-10-04_d1_capital_lineage_cut.md | zoro | 2026-10-04 | C | 7194 |
@@ -182,32 +207,7 @@
 | 2026-10-04_mcp_workspace_binding.md | sanji | 2026-10-04 | — | 3939 |
 | 2026-10-04_measurement_sources_and_truthful_freshness.md | sanji | 2026-10-04 | A | 11932 |
 | 2026-10-04_native_codex_reset_proof_correction.md | sanji | 2026-10-04 | A | 7216 |
-| 2026-10-04_native_continuation_repair.md | sanji | 2026-10-04 | — | 6837 |
-| 2026-10-04_native_quad_host_impact_assessment.md | sanji | 2026-10-04 | — | 3404 |
-| 2026-10-04_native_research_episode.md | sanji | 2026-10-04 | — | 2916 |
-| 2026-10-04_native_stop_keeper_verification.md | sanji | 2026-10-04 | B | 3706 |
-| 2026-10-04_opencode_integration_repair.md | sanji | 2026-10-04 | — | 9688 |
-| 2026-10-04_orchestration_context_intake.md | sanji | 2026-10-04 | — | 8213 |
-| 2026-10-04_organization_conversations.md | sanji | 2026-10-04 | — | 6109 |
-| 2026-10-04_organization_conversations_final_verification.md | sanji | 2026-10-04 | — | 5673 |
-| 2026-10-04_priority_capacity_assessment.md | sanji | 2026-10-04 | — | 5517 |
-| 2026-10-04_published_contact_buyer_research.md | sanji | 2026-10-04 | A | 8970 |
-| 2026-10-04_purpose_directed_personalization_intake.md | sanji | 2026-10-04 | — | 8526 |
-| 2026-10-04_random_audit_completion_repair_installed.md | sanji | 2026-10-04 | A | 6536 |
-| 2026-10-04_realized_capability_binding.md | sanji | 2026-10-04 | — | 7260 |
-| 2026-10-04_realized_capability_local_worker_intake.md | sanji | 2026-10-04 | — | 4309 |
-| 2026-10-04_recovered_autonomy_admission.md | sanji | 2026-10-04 | B | 6596 |
-| 2026-10-04_recovery_authority_reframe.md | sanji | 2026-10-04 | A | 7333 |
-| 2026-10-04_recovery_followthrough_managed_launch_boundary.md | sanji | 2026-10-04 | A | 9374 |
-| 2026-10-04_recurring_revenue_strategy.md | sanji | 2026-10-04 | A | 6281 |
-| 2026-10-04_recurring_revenue_strategy_resolution.md | sanji | 2026-10-04 | A | 6517 |
-| 2026-10-04_resource_admission_alerts.md | sanji | 2026-10-04 | — | 7178 |
-| 2026-10-04_resource_admission_monitor.md | sanji | 2026-10-04 | — | 6095 |
-| 2026-10-04_resource_value_scrutiny_905068ff.md | sanji | 2026-10-04 | — | 5216 |
-| 2026-10-04_revenue_authority_handoff_continuation.md | sanji | 2026-10-04 | B | 4847 |
-| 2026-10-04_revenue_authority_handoff_source_repair.md | sanji | 2026-10-04 | B | 8425 |
-| 2026-10-04_revenue_binding_condition_wait.md | sanji | 2026-10-04 | B | 6169 |
-| _(+20616 more — see full manifest JSON)_ | | | | |
+| _(+20641 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
