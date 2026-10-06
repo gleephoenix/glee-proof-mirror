@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20841,
+  "total_receipts": 20853,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -43866,6 +43866,14 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 12372
+    },
+    {
+      "file_name": "2026-10-06_phone_wall_unlimited_send.md",
+      "home": "zoro",
+      "rel_path": "2026-10-06_phone_wall_unlimited_send.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 5299
     },
     {
       "file_name": "INDEX.md",
@@ -147236,6 +147244,14 @@
       "size_bytes": 11780
     },
     {
+      "file_name": "2026-10-06_boundary_discovery_delegation_transformations.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_boundary_discovery_delegation_transformations.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 11785
+    },
+    {
       "file_name": "2026-10-06_cache_physical_preflight.md",
       "home": "sanji",
       "rel_path": "2026-10-06_cache_physical_preflight.md",
@@ -147244,12 +147260,76 @@
       "size_bytes": 4806
     },
     {
+      "file_name": "2026-10-06_commercial_milestone_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_commercial_milestone_intake.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 12470
+    },
+    {
+      "file_name": "2026-10-06_contribution_log_20261004_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_contribution_log_20261004_intake.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 6825
+    },
+    {
+      "file_name": "2026-10-06_daily_operating_20261005_retrospective.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_daily_operating_20261005_retrospective.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6446
+    },
+    {
+      "file_name": "2026-10-06_designed_cognitive_topology_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_designed_cognitive_topology_intake.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 6348
+    },
+    {
+      "file_name": "2026-10-06_epistemic_force_clarification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_epistemic_force_clarification.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 7587
+    },
+    {
+      "file_name": "2026-10-06_fenced_cache_and_optimized_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_fenced_cache_and_optimized_guard.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 4087
+    },
+    {
       "file_name": "2026-10-06_fixed_quarantine_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-10-06_fixed_quarantine_reconciliation.md",
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 5501
+    },
+    {
+      "file_name": "2026-10-06_local_model_scout_ingestion_and_inventory.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_local_model_scout_ingestion_and_inventory.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 8618
+    },
+    {
+      "file_name": "2026-10-06_predictive_execution_source_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_predictive_execution_source_followup.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 6821
     },
     {
       "file_name": "2026-10-06_provider_hold_custody_trace.md",
@@ -147274,6 +147354,22 @@
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 6036
+    },
+    {
+      "file_name": "2026-10-06_state_and_plastic_cognition_assessment.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_state_and_plastic_cognition_assessment.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 7064
+    },
+    {
+      "file_name": "2026-10-06_technical_source_formal_core_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_technical_source_formal_core_followup.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 8486
     },
     {
       "file_name": "INDEX.md",
