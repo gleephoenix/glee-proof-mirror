@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20802,
+  "total_receipts": 20816,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -43193,7 +43193,7 @@
       "rel_path": "2026-10-04_claude_weekly_burn_governor.md",
       "date": "2026-10-04",
       "tier": null,
-      "size_bytes": 14192
+      "size_bytes": 18166
     },
     {
       "file_name": "2026-10-04_cron_jobs_out_of_system_slice.md",
@@ -43489,7 +43489,15 @@
       "rel_path": "2026-10-05_burn_fu-deploy-wrapper-sealed-mode-identity-gate.md",
       "date": "2026-10-05",
       "tier": "C",
-      "size_bytes": 20718
+      "size_bytes": 21744
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-hire-page-copy-claim-audit.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-hire-page-copy-claim-audit.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 14601
     },
     {
       "file_name": "2026-10-05_burn_fu-o3-capacity-meter-clean.md",
@@ -43500,12 +43508,28 @@
       "size_bytes": 8427
     },
     {
+      "file_name": "2026-10-05_burn_fu-platform-worker-capital-vs-prod-drift.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-platform-worker-capital-vs-prod-drift.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 12710
+    },
+    {
       "file_name": "2026-10-05_burn_fu-retire-stale-h1-blocker-in-scope.md",
       "home": "zoro",
       "rel_path": "2026-10-05_burn_fu-retire-stale-h1-blocker-in-scope.md",
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 9259
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-usage-ledger-full-readers-tail-bound.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-usage-ledger-full-readers-tail-bound.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 10268
     },
     {
       "file_name": "2026-10-05_burn_fu-verify-remaining-pending-agentwork.md",
@@ -43522,6 +43546,38 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 6843
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-wrapper-identity-fail-closed-env-hygiene.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-wrapper-identity-fail-closed-env-hygiene.md",
+      "date": "2026-10-05",
+      "tier": "C",
+      "size_bytes": 16129
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-z1-ledger-etransfer-rail.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-z1-ledger-etransfer-rail.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 14413
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-z1-repair-case-study.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-z1-repair-case-study.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 6853
+    },
+    {
+      "file_name": "2026-10-05_burn_fu-z1-verified-fix-offer-pack.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_fu-z1-verified-fix-offer-pack.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 9917
     },
     {
       "file_name": "2026-10-05_burn_host-cpu-churn-after-reboot.md",
@@ -43602,6 +43658,22 @@
       "date": "2026-10-05",
       "tier": null,
       "size_bytes": 18657
+    },
+    {
+      "file_name": "2026-10-05_burn_prod-restore-chat-scratchpad-prep.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_prod-restore-chat-scratchpad-prep.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 22788
+    },
+    {
+      "file_name": "2026-10-05_burn_prod-restore-codex-review.md",
+      "home": "zoro",
+      "rel_path": "2026-10-05_burn_prod-restore-codex-review.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 15572
     },
     {
       "file_name": "2026-10-05_burn_promise-holds-no-exit.md",
@@ -146836,6 +146908,30 @@
       "size_bytes": 9249
     },
     {
+      "file_name": "2026-10-05_handoff_epoch_scan_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_handoff_epoch_scan_recovery.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 5718
+    },
+    {
+      "file_name": "2026-10-05_ingestion_candidate_locator_continuation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_ingestion_candidate_locator_continuation.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 3642
+    },
+    {
+      "file_name": "2026-10-05_ingestion_install_candidate_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_ingestion_install_candidate_recovery.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 7818
+    },
+    {
       "file_name": "2026-10-05_recurring_revenue_offer_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-10-05_recurring_revenue_offer_reconciliation.md",
@@ -146962,6 +147058,22 @@
       "date": "2026-10-05",
       "tier": "A",
       "size_bytes": 8780
+    },
+    {
+      "file_name": "2026-10-05_stop_deadline_propagation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_stop_deadline_propagation.md",
+      "date": "2026-10-05",
+      "tier": null,
+      "size_bytes": 5304
+    },
+    {
+      "file_name": "2026-10-05_technical_source_formal_core.md",
+      "home": "sanji",
+      "rel_path": "2026-10-05_technical_source_formal_core.md",
+      "date": "2026-10-05",
+      "tier": "B",
+      "size_bytes": 11780
     },
     {
       "file_name": "INDEX.md",
