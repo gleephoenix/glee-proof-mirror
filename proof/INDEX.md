@@ -1,16 +1,39 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-07T00:41:08.266300+00:00
-> Total receipts indexed: 20873
+> Last updated: 2026-10-07T12:42:16.195457+00:00
+> Total receipts indexed: 20901
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-07_cognition_market_cost_per_accepted_job_vs_live_router.md | zoro | 2026-10-07 | A | 4074 |
+| 2026-10-07_dark_capacity_ladder.md | zoro | 2026-10-07 | — | 4190 |
+| 2026-10-07_gemini_ledger_scope_crosscheck.md | zoro | 2026-10-07 | — | 5493 |
+| 2026-10-07_harness_lid_intake_and_push_pull_gate.md | zoro | 2026-10-07 | — | 3095 |
+| 2026-10-07_judge_calibration_lower_bound_gate.md | zoro | 2026-10-07 | — | 3273 |
+| 2026-10-07_swarm_incident_intake_substrate_census.md | zoro | 2026-10-07 | — | 5208 |
+| 2026-10-07_technical_contract_header_delivery.md | zoro | 2026-10-07 | — | 4403 |
+| 2026-10-07_theory_of_models_foundation_and_first_real_cell.md | zoro | 2026-10-07 | A | 10306 |
+| 2026-10-07_agent_dollar_intake.md | sanji | 2026-10-07 | — | 9428 |
+| 2026-10-07_agent_network_commercial_intake.md | sanji | 2026-10-07 | A | 12002 |
+| 2026-10-07_bev_decider_intake.md | sanji | 2026-10-07 | — | 8958 |
+| 2026-10-07_claim_decomposition_intake.md | sanji | 2026-10-07 | — | 7319 |
+| 2026-10-07_clm_hierarchical_context_intake.md | sanji | 2026-10-07 | — | 9322 |
+| 2026-10-07_coordination_tax_intake.md | sanji | 2026-10-07 | — | 8143 |
+| 2026-10-07_dynamical_organism_model.md | sanji | 2026-10-07 | — | 9689 |
+| 2026-10-07_expert_foresight_intake.md | sanji | 2026-10-07 | — | 4746 |
+| 2026-10-07_greencode_environment_intake.md | sanji | 2026-10-07 | — | 6769 |
+| 2026-10-07_open_theory_intake.md | sanji | 2026-10-07 | — | 7361 |
+| 2026-10-07_plastic_cognition_and_research_watch.md | sanji | 2026-10-07 | — | 9018 |
+| 2026-10-07_reality_anchor_intake.md | sanji | 2026-10-07 | — | 5674 |
 | 2026-10-06_crew_inbox_prompt_delivery_fix.md | zoro | 2026-10-06 | — | 8476 |
-| 2026-10-06_glee_goodput_instrument.md | zoro | 2026-10-06 | — | 6551 |
+| 2026-10-06_five_layer_framing_intake.md | zoro | 2026-10-06 | A | 2501 |
+| 2026-10-06_glee_goodput_instrument.md | zoro | 2026-10-06 | — | 7648 |
+| 2026-10-06_glee_goodput_on_the_wall.md | zoro | 2026-10-06 | — | 7090 |
 | 2026-10-06_phone_wall_unlimited_send.md | zoro | 2026-10-06 | — | 5299 |
 | 2026-10-06_recovery_executor_qualification_response.md | zoro | 2026-10-06 | — | 7276 |
+| 2026-10-06_seat_reach_census.md | zoro | 2026-10-06 | — | 3260 |
 | 2026-10-06_adaptive_control_capacity_intake.md | sanji | 2026-10-06 | — | 6771 |
 | 2026-10-06_boundary_discovery_delegation_transformations.md | sanji | 2026-10-06 | — | 11785 |
 | 2026-10-06_boundary_discovery_obligations_and_revocation.md | sanji | 2026-10-06 | — | 12053 |
@@ -19,6 +42,7 @@
 | 2026-10-06_commercial_milestone_intake.md | sanji | 2026-10-06 | A | 12470 |
 | 2026-10-06_compositional_structure_intake.md | sanji | 2026-10-06 | — | 8402 |
 | 2026-10-06_constructive_technological_pressure.md | sanji | 2026-10-06 | — | 6865 |
+| 2026-10-06_continuous_state_reconciliation_intake.md | sanji | 2026-10-06 | A | 7008 |
 | 2026-10-06_contribution_log_20261004_intake.md | sanji | 2026-10-06 | A | 6825 |
 | 2026-10-06_contribution_log_20261005_intake.md | sanji | 2026-10-06 | A | 9187 |
 | 2026-10-06_daily_operating_20261005_retrospective.md | sanji | 2026-10-06 | — | 6446 |
@@ -30,16 +54,20 @@
 | 2026-10-06_evaluator_outcomes_and_resource_pressure_intake.md | sanji | 2026-10-06 | — | 8349 |
 | 2026-10-06_fenced_cache_and_optimized_guard.md | sanji | 2026-10-06 | — | 4087 |
 | 2026-10-06_fixed_quarantine_reconciliation.md | sanji | 2026-10-06 | — | 5501 |
+| 2026-10-06_honest_scam_value_stack_intake.md | sanji | 2026-10-06 | — | 6158 |
+| 2026-10-06_kolibri_factory_intake.md | sanji | 2026-10-06 | — | 7719 |
 | 2026-10-06_local_decision_runtime_scout_delta.md | sanji | 2026-10-06 | — | 9301 |
 | 2026-10-06_local_model_scout_continuation_reconciliation.md | sanji | 2026-10-06 | A | 2825 |
 | 2026-10-06_local_model_scout_host_inventory_refresh.md | sanji | 2026-10-06 | A | 5446 |
 | 2026-10-06_local_model_scout_ingestion_and_inventory.md | sanji | 2026-10-06 | — | 8618 |
+| 2026-10-06_navier_stokes_research_intake.md | sanji | 2026-10-06 | — | 7409 |
 | 2026-10-06_predictive_execution_source_followup.md | sanji | 2026-10-06 | A | 6821 |
 | 2026-10-06_provider_hold_custody_trace.md | sanji | 2026-10-06 | — | 3795 |
 | 2026-10-06_recovery_chain_verified_prerequisites.md | sanji | 2026-10-06 | — | 11338 |
 | 2026-10-06_recovery_executor_reply_consumed.md | sanji | 2026-10-06 | — | 7825 |
 | 2026-10-06_restic_cache_lifecycle_recovery.md | sanji | 2026-10-06 | — | 4644 |
 | 2026-10-06_restic_process_crash_recovery.md | sanji | 2026-10-06 | — | 6036 |
+| 2026-10-06_shared_state_communication_intake.md | sanji | 2026-10-06 | — | 6352 |
 | 2026-10-06_state_and_plastic_cognition_assessment.md | sanji | 2026-10-06 | A | 7064 |
 | 2026-10-06_sunny_storage_write_destinations.md | sanji | 2026-10-06 | — | 11485 |
 | 2026-10-06_system_judgment_intake.md | sanji | 2026-10-06 | — | 7996 |
@@ -179,35 +207,7 @@
 | 2026-10-04_app_statistics_acceptance_intake.md | sanji | 2026-10-04 | A | 5073 |
 | 2026-10-04_app_unified_live_home.md | sanji | 2026-10-04 | A | 11128 |
 | 2026-10-04_autonomy_coordination_repair.md | sanji | 2026-10-04 | B | 7011 |
-| 2026-10-04_cache_context_reuse.md | sanji | 2026-10-04 | B | 9402 |
-| 2026-10-04_captain_favorite_image_reference.md | sanji | 2026-10-04 | — | 7183 |
-| 2026-10-04_ceramic_concurrent_credential_lookup.md | sanji | 2026-10-04 | — | 5872 |
-| 2026-10-04_ceramic_credential_failure_diagnostics.md | sanji | 2026-10-04 | — | 5551 |
-| 2026-10-04_ceramic_credential_timeout_cleanup.md | sanji | 2026-10-04 | — | 6139 |
-| 2026-10-04_cli_prompt_loop_audit.md | sanji | 2026-10-04 | A | 4693 |
-| 2026-10-04_codex_context_retirement_failure.md | sanji | 2026-10-04 | A | 6125 |
-| 2026-10-04_codex_context_retirement_reconciliation.md | sanji | 2026-10-04 | A | 7331 |
-| 2026-10-04_codex_pane_geometry_recovery.md | sanji | 2026-10-04 | — | 5989 |
-| 2026-10-04_compute_alert_followthrough.md | sanji | 2026-10-04 | — | 3579 |
-| 2026-10-04_compute_credit_applicant_evidence.md | sanji | 2026-10-04 | — | 4390 |
-| 2026-10-04_compute_credit_intake.md | sanji | 2026-10-04 | — | 7251 |
-| 2026-10-04_compute_credit_parked.md | sanji | 2026-10-04 | — | 1911 |
-| 2026-10-04_compute_memory_admission_followthrough.md | sanji | 2026-10-04 | — | 4950 |
-| 2026-10-04_constrained_ambition_intake.md | sanji | 2026-10-04 | — | 4915 |
-| 2026-10-04_context_contamination_intake.md | sanji | 2026-10-04 | — | 11007 |
-| 2026-10-04_context_contamination_review.md | sanji | 2026-10-04 | — | 7930 |
-| 2026-10-04_continuous_measurement_next_wave_plan.md | sanji | 2026-10-04 | A | 7291 |
-| 2026-10-04_contribution_logs_20260929_20261003_intake.md | sanji | 2026-10-04 | A | 6802 |
-| 2026-10-04_cooperative_non_llm_substrate_c1.md | sanji | 2026-10-04 | A | 8875 |
-| 2026-10-04_desk_browser_task_budget_investigation_905068ff.md | sanji | 2026-10-04 | — | 7057 |
-| 2026-10-04_desk_deepseek_runtime_intake.md | sanji | 2026-10-04 | — | 11068 |
-| 2026-10-04_desk_task_budget_control_admission_905068ff.md | sanji | 2026-10-04 | — | 5559 |
-| 2026-10-04_digital_resilience_repeat_intake.md | sanji | 2026-10-04 | A | 5511 |
-| 2026-10-04_durable_external_intelligence_intake.md | sanji | 2026-10-04 | — | 15253 |
-| 2026-10-04_evidence_binding_and_cpu_intake.md | sanji | 2026-10-04 | — | 12562 |
-| 2026-10-04_exact_executor_custody_followthrough.md | sanji | 2026-10-04 | A | 5670 |
-| 2026-10-04_exact_recovery_executor_attribution.md | sanji | 2026-10-04 | A | 5837 |
-| _(+20673 more — see full manifest JSON)_ | | | | |
+| _(+20701 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
