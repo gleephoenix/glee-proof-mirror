@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20859,
+  "total_receipts": 20873,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -43874,6 +43874,14 @@
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 8476
+    },
+    {
+      "file_name": "2026-10-06_glee_goodput_instrument.md",
+      "home": "zoro",
+      "rel_path": "2026-10-06_glee_goodput_instrument.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6551
     },
     {
       "file_name": "2026-10-06_phone_wall_unlimited_send.md",
@@ -147260,12 +147268,28 @@
       "size_bytes": 11780
     },
     {
+      "file_name": "2026-10-06_adaptive_control_capacity_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_adaptive_control_capacity_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6771
+    },
+    {
       "file_name": "2026-10-06_boundary_discovery_delegation_transformations.md",
       "home": "sanji",
       "rel_path": "2026-10-06_boundary_discovery_delegation_transformations.md",
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 11785
+    },
+    {
+      "file_name": "2026-10-06_boundary_discovery_obligations_and_revocation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_boundary_discovery_obligations_and_revocation.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 12053
     },
     {
       "file_name": "2026-10-06_cache_physical_preflight.md",
@@ -147276,12 +147300,36 @@
       "size_bytes": 4806
     },
     {
+      "file_name": "2026-10-06_codex_hook_trust_persistence.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_codex_hook_trust_persistence.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 9856
+    },
+    {
       "file_name": "2026-10-06_commercial_milestone_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-06_commercial_milestone_intake.md",
       "date": "2026-10-06",
       "tier": "A",
       "size_bytes": 12470
+    },
+    {
+      "file_name": "2026-10-06_compositional_structure_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_compositional_structure_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 8402
+    },
+    {
+      "file_name": "2026-10-06_constructive_technological_pressure.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_constructive_technological_pressure.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6865
     },
     {
       "file_name": "2026-10-06_contribution_log_20261004_intake.md",
@@ -147292,12 +147340,28 @@
       "size_bytes": 6825
     },
     {
+      "file_name": "2026-10-06_contribution_log_20261005_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_contribution_log_20261005_intake.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 9187
+    },
+    {
       "file_name": "2026-10-06_daily_operating_20261005_retrospective.md",
       "home": "sanji",
       "rel_path": "2026-10-06_daily_operating_20261005_retrospective.md",
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 6446
+    },
+    {
+      "file_name": "2026-10-06_daily_operating_intake_and_qualification_truth.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_daily_operating_intake_and_qualification_truth.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 10039
     },
     {
       "file_name": "2026-10-06_designed_cognitive_topology_intake.md",
@@ -147308,12 +147372,36 @@
       "size_bytes": 6348
     },
     {
+      "file_name": "2026-10-06_distributed_artifact_architecture_assumption.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_distributed_artifact_architecture_assumption.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6742
+    },
+    {
+      "file_name": "2026-10-06_engineering_learning_loop_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_engineering_learning_loop_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 8145
+    },
+    {
       "file_name": "2026-10-06_epistemic_force_clarification.md",
       "home": "sanji",
       "rel_path": "2026-10-06_epistemic_force_clarification.md",
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 7587
+    },
+    {
+      "file_name": "2026-10-06_evaluator_outcomes_and_resource_pressure_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_evaluator_outcomes_and_resource_pressure_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 8349
     },
     {
       "file_name": "2026-10-06_fenced_cache_and_optimized_guard.md",
@@ -147330,6 +147418,14 @@
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 5501
+    },
+    {
+      "file_name": "2026-10-06_local_decision_runtime_scout_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_local_decision_runtime_scout_delta.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 9301
     },
     {
       "file_name": "2026-10-06_local_model_scout_continuation_reconciliation.md",
@@ -147380,6 +147476,14 @@
       "size_bytes": 11338
     },
     {
+      "file_name": "2026-10-06_recovery_executor_reply_consumed.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_recovery_executor_reply_consumed.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 7825
+    },
+    {
       "file_name": "2026-10-06_restic_cache_lifecycle_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-06_restic_cache_lifecycle_recovery.md",
@@ -147410,6 +147514,14 @@
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 11485
+    },
+    {
+      "file_name": "2026-10-06_system_judgment_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_system_judgment_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 7996
     },
     {
       "file_name": "2026-10-06_technical_source_formal_core_followup.md",
