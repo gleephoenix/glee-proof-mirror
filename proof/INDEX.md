@@ -1,34 +1,48 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-06T18:41:10.162536+00:00
-> Total receipts indexed: 20859
+> Last updated: 2026-10-07T00:41:08.266300+00:00
+> Total receipts indexed: 20873
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
 | 2026-10-06_crew_inbox_prompt_delivery_fix.md | zoro | 2026-10-06 | — | 8476 |
+| 2026-10-06_glee_goodput_instrument.md | zoro | 2026-10-06 | — | 6551 |
 | 2026-10-06_phone_wall_unlimited_send.md | zoro | 2026-10-06 | — | 5299 |
 | 2026-10-06_recovery_executor_qualification_response.md | zoro | 2026-10-06 | — | 7276 |
+| 2026-10-06_adaptive_control_capacity_intake.md | sanji | 2026-10-06 | — | 6771 |
 | 2026-10-06_boundary_discovery_delegation_transformations.md | sanji | 2026-10-06 | — | 11785 |
+| 2026-10-06_boundary_discovery_obligations_and_revocation.md | sanji | 2026-10-06 | — | 12053 |
 | 2026-10-06_cache_physical_preflight.md | sanji | 2026-10-06 | — | 4806 |
+| 2026-10-06_codex_hook_trust_persistence.md | sanji | 2026-10-06 | — | 9856 |
 | 2026-10-06_commercial_milestone_intake.md | sanji | 2026-10-06 | A | 12470 |
+| 2026-10-06_compositional_structure_intake.md | sanji | 2026-10-06 | — | 8402 |
+| 2026-10-06_constructive_technological_pressure.md | sanji | 2026-10-06 | — | 6865 |
 | 2026-10-06_contribution_log_20261004_intake.md | sanji | 2026-10-06 | A | 6825 |
+| 2026-10-06_contribution_log_20261005_intake.md | sanji | 2026-10-06 | A | 9187 |
 | 2026-10-06_daily_operating_20261005_retrospective.md | sanji | 2026-10-06 | — | 6446 |
+| 2026-10-06_daily_operating_intake_and_qualification_truth.md | sanji | 2026-10-06 | — | 10039 |
 | 2026-10-06_designed_cognitive_topology_intake.md | sanji | 2026-10-06 | A | 6348 |
+| 2026-10-06_distributed_artifact_architecture_assumption.md | sanji | 2026-10-06 | — | 6742 |
+| 2026-10-06_engineering_learning_loop_intake.md | sanji | 2026-10-06 | — | 8145 |
 | 2026-10-06_epistemic_force_clarification.md | sanji | 2026-10-06 | — | 7587 |
+| 2026-10-06_evaluator_outcomes_and_resource_pressure_intake.md | sanji | 2026-10-06 | — | 8349 |
 | 2026-10-06_fenced_cache_and_optimized_guard.md | sanji | 2026-10-06 | — | 4087 |
 | 2026-10-06_fixed_quarantine_reconciliation.md | sanji | 2026-10-06 | — | 5501 |
+| 2026-10-06_local_decision_runtime_scout_delta.md | sanji | 2026-10-06 | — | 9301 |
 | 2026-10-06_local_model_scout_continuation_reconciliation.md | sanji | 2026-10-06 | A | 2825 |
 | 2026-10-06_local_model_scout_host_inventory_refresh.md | sanji | 2026-10-06 | A | 5446 |
 | 2026-10-06_local_model_scout_ingestion_and_inventory.md | sanji | 2026-10-06 | — | 8618 |
 | 2026-10-06_predictive_execution_source_followup.md | sanji | 2026-10-06 | A | 6821 |
 | 2026-10-06_provider_hold_custody_trace.md | sanji | 2026-10-06 | — | 3795 |
 | 2026-10-06_recovery_chain_verified_prerequisites.md | sanji | 2026-10-06 | — | 11338 |
+| 2026-10-06_recovery_executor_reply_consumed.md | sanji | 2026-10-06 | — | 7825 |
 | 2026-10-06_restic_cache_lifecycle_recovery.md | sanji | 2026-10-06 | — | 4644 |
 | 2026-10-06_restic_process_crash_recovery.md | sanji | 2026-10-06 | — | 6036 |
 | 2026-10-06_state_and_plastic_cognition_assessment.md | sanji | 2026-10-06 | A | 7064 |
 | 2026-10-06_sunny_storage_write_destinations.md | sanji | 2026-10-06 | — | 11485 |
+| 2026-10-06_system_judgment_intake.md | sanji | 2026-10-06 | — | 7996 |
 | 2026-10-06_technical_source_formal_core_followup.md | sanji | 2026-10-06 | A | 8486 |
 | 2026-10-05_burn_crew-inbox-triage.md | zoro | 2026-10-05 | — | 80859 |
 | 2026-10-05_burn_deploy-reversion-guard-ledger-blindness.md | zoro | 2026-10-05 | — | 12285 |
@@ -193,21 +207,7 @@
 | 2026-10-04_evidence_binding_and_cpu_intake.md | sanji | 2026-10-04 | — | 12562 |
 | 2026-10-04_exact_executor_custody_followthrough.md | sanji | 2026-10-04 | A | 5670 |
 | 2026-10-04_exact_recovery_executor_attribution.md | sanji | 2026-10-04 | A | 5837 |
-| 2026-10-04_executorless_waiter_review.md | sanji | 2026-10-04 | — | 12563 |
-| 2026-10-04_fast_research_loops_intake.md | sanji | 2026-10-04 | — | 5259 |
-| 2026-10-04_fc1c465e_current_tmux_guard_verification.md | sanji | 2026-10-04 | — | 3145 |
-| 2026-10-04_fc1c465e_handoff_recovery_repair.md | sanji | 2026-10-04 | — | 5725 |
-| 2026-10-04_fc1c465e_keeper_private_propagation.md | sanji | 2026-10-04 | — | 5715 |
-| 2026-10-04_fc1c465e_ownership_investigation.md | sanji | 2026-10-04 | — | 10371 |
-| 2026-10-04_fc1c465e_queue_review_adoption_delta.md | sanji | 2026-10-04 | — | 2972 |
-| 2026-10-04_fc1c465e_queue_review_intake.md | sanji | 2026-10-04 | — | 3065 |
-| 2026-10-04_fleet_recovery_unknown_observation_and_custody.md | sanji | 2026-10-04 | B | 12528 |
-| 2026-10-04_four_public_hubs_admin_goals_live.md | sanji | 2026-10-04 | — | 13529 |
-| 2026-10-04_frontier_lab_strategy_313f12.md | sanji | 2026-10-04 | — | 5310 |
-| 2026-10-04_goal_gate_observability_and_memory_progress.md | sanji | 2026-10-04 | — | 6199 |
-| 2026-10-04_health_probe_budget_repair.md | sanji | 2026-10-04 | A | 14460 |
-| 2026-10-04_host_contention_answer.md | sanji | 2026-10-04 | — | 3540 |
-| _(+20659 more — see full manifest JSON)_ | | | | |
+| _(+20673 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
