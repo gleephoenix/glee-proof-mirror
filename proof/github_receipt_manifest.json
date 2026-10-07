@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20873,
+  "total_receipts": 20901,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -43876,12 +43876,28 @@
       "size_bytes": 8476
     },
     {
+      "file_name": "2026-10-06_five_layer_framing_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-10-06_five_layer_framing_intake.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 2501
+    },
+    {
       "file_name": "2026-10-06_glee_goodput_instrument.md",
       "home": "zoro",
       "rel_path": "2026-10-06_glee_goodput_instrument.md",
       "date": "2026-10-06",
       "tier": null,
-      "size_bytes": 6551
+      "size_bytes": 7648
+    },
+    {
+      "file_name": "2026-10-06_glee_goodput_on_the_wall.md",
+      "home": "zoro",
+      "rel_path": "2026-10-06_glee_goodput_on_the_wall.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 7090
     },
     {
       "file_name": "2026-10-06_phone_wall_unlimited_send.md",
@@ -43898,6 +43914,78 @@
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 7276
+    },
+    {
+      "file_name": "2026-10-06_seat_reach_census.md",
+      "home": "zoro",
+      "rel_path": "2026-10-06_seat_reach_census.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 3260
+    },
+    {
+      "file_name": "2026-10-07_cognition_market_cost_per_accepted_job_vs_live_router.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_cognition_market_cost_per_accepted_job_vs_live_router.md",
+      "date": "2026-10-07",
+      "tier": "A",
+      "size_bytes": 4074
+    },
+    {
+      "file_name": "2026-10-07_dark_capacity_ladder.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_dark_capacity_ladder.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 4190
+    },
+    {
+      "file_name": "2026-10-07_gemini_ledger_scope_crosscheck.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_gemini_ledger_scope_crosscheck.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 5493
+    },
+    {
+      "file_name": "2026-10-07_harness_lid_intake_and_push_pull_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_harness_lid_intake_and_push_pull_gate.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 3095
+    },
+    {
+      "file_name": "2026-10-07_judge_calibration_lower_bound_gate.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_judge_calibration_lower_bound_gate.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 3273
+    },
+    {
+      "file_name": "2026-10-07_swarm_incident_intake_substrate_census.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_swarm_incident_intake_substrate_census.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 5208
+    },
+    {
+      "file_name": "2026-10-07_technical_contract_header_delivery.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_technical_contract_header_delivery.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 4403
+    },
+    {
+      "file_name": "2026-10-07_theory_of_models_foundation_and_first_real_cell.md",
+      "home": "zoro",
+      "rel_path": "2026-10-07_theory_of_models_foundation_and_first_real_cell.md",
+      "date": "2026-10-07",
+      "tier": "A",
+      "size_bytes": 10306
     },
     {
       "file_name": "INDEX.md",
@@ -147332,6 +147420,14 @@
       "size_bytes": 6865
     },
     {
+      "file_name": "2026-10-06_continuous_state_reconciliation_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_continuous_state_reconciliation_intake.md",
+      "date": "2026-10-06",
+      "tier": "A",
+      "size_bytes": 7008
+    },
+    {
       "file_name": "2026-10-06_contribution_log_20261004_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-06_contribution_log_20261004_intake.md",
@@ -147420,6 +147516,22 @@
       "size_bytes": 5501
     },
     {
+      "file_name": "2026-10-06_honest_scam_value_stack_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_honest_scam_value_stack_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6158
+    },
+    {
+      "file_name": "2026-10-06_kolibri_factory_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_kolibri_factory_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 7719
+    },
+    {
       "file_name": "2026-10-06_local_decision_runtime_scout_delta.md",
       "home": "sanji",
       "rel_path": "2026-10-06_local_decision_runtime_scout_delta.md",
@@ -147450,6 +147562,14 @@
       "date": "2026-10-06",
       "tier": null,
       "size_bytes": 8618
+    },
+    {
+      "file_name": "2026-10-06_navier_stokes_research_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_navier_stokes_research_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 7409
     },
     {
       "file_name": "2026-10-06_predictive_execution_source_followup.md",
@@ -147500,6 +147620,14 @@
       "size_bytes": 6036
     },
     {
+      "file_name": "2026-10-06_shared_state_communication_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-06_shared_state_communication_intake.md",
+      "date": "2026-10-06",
+      "tier": null,
+      "size_bytes": 6352
+    },
+    {
       "file_name": "2026-10-06_state_and_plastic_cognition_assessment.md",
       "home": "sanji",
       "rel_path": "2026-10-06_state_and_plastic_cognition_assessment.md",
@@ -147530,6 +147658,102 @@
       "date": "2026-10-06",
       "tier": "A",
       "size_bytes": 8486
+    },
+    {
+      "file_name": "2026-10-07_agent_dollar_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_agent_dollar_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 9428
+    },
+    {
+      "file_name": "2026-10-07_agent_network_commercial_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_agent_network_commercial_intake.md",
+      "date": "2026-10-07",
+      "tier": "A",
+      "size_bytes": 12002
+    },
+    {
+      "file_name": "2026-10-07_bev_decider_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_bev_decider_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 8958
+    },
+    {
+      "file_name": "2026-10-07_claim_decomposition_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_claim_decomposition_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 7319
+    },
+    {
+      "file_name": "2026-10-07_clm_hierarchical_context_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_clm_hierarchical_context_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 9322
+    },
+    {
+      "file_name": "2026-10-07_coordination_tax_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_coordination_tax_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 8143
+    },
+    {
+      "file_name": "2026-10-07_dynamical_organism_model.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_dynamical_organism_model.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 9689
+    },
+    {
+      "file_name": "2026-10-07_expert_foresight_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_expert_foresight_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 4746
+    },
+    {
+      "file_name": "2026-10-07_greencode_environment_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_greencode_environment_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 6769
+    },
+    {
+      "file_name": "2026-10-07_open_theory_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_open_theory_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 7361
+    },
+    {
+      "file_name": "2026-10-07_plastic_cognition_and_research_watch.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_plastic_cognition_and_research_watch.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 9018
+    },
+    {
+      "file_name": "2026-10-07_reality_anchor_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_reality_anchor_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 5674
     },
     {
       "file_name": "INDEX.md",
