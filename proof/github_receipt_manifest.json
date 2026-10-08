@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20926,
+  "total_receipts": 20934,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -147780,6 +147780,14 @@
       "size_bytes": 11166
     },
     {
+      "file_name": "2026-10-07_canada_compute_stack_assessment.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_canada_compute_stack_assessment.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 4446
+    },
+    {
       "file_name": "2026-10-07_claim_decomposition_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-07_claim_decomposition_intake.md",
@@ -147794,6 +147802,14 @@
       "date": "2026-10-07",
       "tier": null,
       "size_bytes": 9322
+    },
+    {
+      "file_name": "2026-10-07_coalitional_power_theory_v03.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_coalitional_power_theory_v03.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 5706
     },
     {
       "file_name": "2026-10-07_contribution_log_20261006_intake.md",
@@ -147850,6 +147866,22 @@
       "date": "2026-10-07",
       "tier": null,
       "size_bytes": 6769
+    },
+    {
+      "file_name": "2026-10-07_human_digital_coupled_system_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_human_digital_coupled_system_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 4978
+    },
+    {
+      "file_name": "2026-10-07_human_digital_coupled_system_revalidation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_human_digital_coupled_system_revalidation.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 3064
     },
     {
       "file_name": "2026-10-07_local_model_retrieval_first_update.md",
@@ -147916,6 +147948,22 @@
       "size_bytes": 7361
     },
     {
+      "file_name": "2026-10-07_persistent_capability_lifecycle_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_persistent_capability_lifecycle_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 9292
+    },
+    {
+      "file_name": "2026-10-07_pi_durable_intake_and_crash_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_pi_durable_intake_and_crash_qualification.md",
+      "date": "2026-10-07",
+      "tier": "A",
+      "size_bytes": 9865
+    },
+    {
       "file_name": "2026-10-07_plastic_cognition_and_research_watch.md",
       "home": "sanji",
       "rel_path": "2026-10-07_plastic_cognition_and_research_watch.md",
@@ -147932,12 +147980,28 @@
       "size_bytes": 5674
     },
     {
+      "file_name": "2026-10-07_rlm_external_state_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_rlm_external_state_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 8342
+    },
+    {
       "file_name": "2026-10-07_sigma_continuous_diffusion_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-07_sigma_continuous_diffusion_intake.md",
       "date": "2026-10-07",
       "tier": "A",
       "size_bytes": 7912
+    },
+    {
+      "file_name": "2026-10-07_supercompilation_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-07_supercompilation_intake.md",
+      "date": "2026-10-07",
+      "tier": null,
+      "size_bytes": 9496
     },
     {
       "file_name": "2026-10-07_terminal_truth_projection_audit.md",
