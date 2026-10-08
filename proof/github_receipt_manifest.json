@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20934,
+  "total_receipts": 20935,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -148001,7 +148001,7 @@
       "rel_path": "2026-10-07_supercompilation_intake.md",
       "date": "2026-10-07",
       "tier": null,
-      "size_bytes": 9496
+      "size_bytes": 11889
     },
     {
       "file_name": "2026-10-07_terminal_truth_projection_audit.md",
@@ -148018,6 +148018,14 @@
       "date": "2026-10-07",
       "tier": null,
       "size_bytes": 4361
+    },
+    {
+      "file_name": "2026-10-08_persistent_capability_repeat_revalidation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_persistent_capability_repeat_revalidation.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 5698
     },
     {
       "file_name": "INDEX.md",
