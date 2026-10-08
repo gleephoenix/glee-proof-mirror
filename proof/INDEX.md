@@ -1,32 +1,57 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-07T12:42:16.195457+00:00
-> Total receipts indexed: 20901
+> Last updated: 2026-10-08T00:41:16.006990+00:00
+> Total receipts indexed: 20926
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
-| 2026-10-07_cognition_market_cost_per_accepted_job_vs_live_router.md | zoro | 2026-10-07 | A | 4074 |
-| 2026-10-07_dark_capacity_ladder.md | zoro | 2026-10-07 | — | 4190 |
+| 2026-10-07_cognition_market_cost_per_accepted_job_vs_live_router.md | zoro | 2026-10-07 | A | 5189 |
+| 2026-10-07_control_plane_ghost_truth_merge.md | zoro | 2026-10-07 | — | 10208 |
+| 2026-10-07_crew_request_one_responsible_worker.md | zoro | 2026-10-07 | — | 7740 |
+| 2026-10-07_dark_capacity_ladder.md | zoro | 2026-10-07 | — | 5827 |
+| 2026-10-07_fundamental_inquiry_organ_and_first_loop.md | zoro | 2026-10-07 | B | 12302 |
 | 2026-10-07_gemini_ledger_scope_crosscheck.md | zoro | 2026-10-07 | — | 5493 |
+| 2026-10-07_glee_control_plane_suppression_ab.md | zoro | 2026-10-07 | — | 4615 |
 | 2026-10-07_harness_lid_intake_and_push_pull_gate.md | zoro | 2026-10-07 | — | 3095 |
 | 2026-10-07_judge_calibration_lower_bound_gate.md | zoro | 2026-10-07 | — | 3273 |
+| 2026-10-07_keeper_of_knowledge_intake.md | zoro | 2026-10-07 | A | 4467 |
+| 2026-10-07_mathematical_fundamental_inquiry.md | zoro | 2026-10-07 | B | 12739 |
+| 2026-10-07_openai_math_722_intake_and_assimilation_mirror.md | zoro | 2026-10-07 | A | 7703 |
+| 2026-10-07_result_metabolism_needs_you_and_terminal_retirement.md | zoro | 2026-10-07 | B | 10903 |
+| 2026-10-07_snapshot_cost_and_wall_shared_read.md | zoro | 2026-10-07 | — | 9104 |
 | 2026-10-07_swarm_incident_intake_substrate_census.md | zoro | 2026-10-07 | — | 5208 |
 | 2026-10-07_technical_contract_header_delivery.md | zoro | 2026-10-07 | — | 4403 |
 | 2026-10-07_theory_of_models_foundation_and_first_real_cell.md | zoro | 2026-10-07 | A | 10306 |
+| 2026-10-07_adaptive_ai_governance_intake.md | sanji | 2026-10-07 | — | 9834 |
+| 2026-10-07_adaptive_hui_architecture_design.md | sanji | 2026-10-07 | A | 10378 |
 | 2026-10-07_agent_dollar_intake.md | sanji | 2026-10-07 | — | 9428 |
 | 2026-10-07_agent_network_commercial_intake.md | sanji | 2026-10-07 | A | 12002 |
 | 2026-10-07_bev_decider_intake.md | sanji | 2026-10-07 | — | 8958 |
+| 2026-10-07_boundary_discovery_goals_constraints_topology.md | sanji | 2026-10-07 | — | 11166 |
 | 2026-10-07_claim_decomposition_intake.md | sanji | 2026-10-07 | — | 7319 |
 | 2026-10-07_clm_hierarchical_context_intake.md | sanji | 2026-10-07 | — | 9322 |
+| 2026-10-07_contribution_log_20261006_intake.md | sanji | 2026-10-07 | A | 7838 |
 | 2026-10-07_coordination_tax_intake.md | sanji | 2026-10-07 | — | 8143 |
 | 2026-10-07_dynamical_organism_model.md | sanji | 2026-10-07 | — | 9689 |
+| 2026-10-07_epistemic_production_intake.md | sanji | 2026-10-07 | — | 8741 |
 | 2026-10-07_expert_foresight_intake.md | sanji | 2026-10-07 | — | 4746 |
+| 2026-10-07_goodfire_agent_integrity_intake.md | sanji | 2026-10-07 | — | 7848 |
 | 2026-10-07_greencode_environment_intake.md | sanji | 2026-10-07 | — | 6769 |
+| 2026-10-07_local_model_retrieval_first_update.md | sanji | 2026-10-07 | — | 9461 |
+| 2026-10-07_main_operating_mandate_and_health_repair.md | sanji | 2026-10-07 | — | 6652 |
+| 2026-10-07_main_operations_dispatch_and_peer_transport.md | sanji | 2026-10-07 | — | 6677 |
+| 2026-10-07_main_operations_execution_container_binding.md | sanji | 2026-10-07 | — | 7935 |
+| 2026-10-07_main_operations_native_protocol_and_product_routing.md | sanji | 2026-10-07 | — | 8699 |
+| 2026-10-07_main_operations_private_creation_and_seat.md | sanji | 2026-10-07 | — | 8926 |
+| 2026-10-07_main_operations_project_source_journey.md | sanji | 2026-10-07 | — | 8084 |
 | 2026-10-07_open_theory_intake.md | sanji | 2026-10-07 | — | 7361 |
 | 2026-10-07_plastic_cognition_and_research_watch.md | sanji | 2026-10-07 | — | 9018 |
 | 2026-10-07_reality_anchor_intake.md | sanji | 2026-10-07 | — | 5674 |
+| 2026-10-07_sigma_continuous_diffusion_intake.md | sanji | 2026-10-07 | A | 7912 |
+| 2026-10-07_terminal_truth_projection_audit.md | sanji | 2026-10-07 | A | 14461 |
+| 2026-10-07_wall_exact_sanji_recovery_delivery.md | sanji | 2026-10-07 | — | 4361 |
 | 2026-10-06_crew_inbox_prompt_delivery_fix.md | zoro | 2026-10-06 | — | 8476 |
 | 2026-10-06_five_layer_framing_intake.md | zoro | 2026-10-06 | A | 2501 |
 | 2026-10-06_glee_goodput_instrument.md | zoro | 2026-10-06 | — | 7648 |
@@ -182,32 +207,7 @@
 | 2026-10-04_identity_ratcheting_person_model_provenance.md | zoro | 2026-10-04 | — | 5843 |
 | 2026-10-04_incident_retrieval_symptom_to_cause_eval.md | zoro | 2026-10-04 | — | 3453 |
 | 2026-10-04_itops_false_block_live_model_arm.md | zoro | 2026-10-04 | — | 3081 |
-| 2026-10-04_itops_false_block_recovery_cost_counter.md | zoro | 2026-10-04 | — | 5173 |
-| 2026-10-04_jev_mcp_restored.md | zoro | 2026-10-04 | B | 7500 |
-| 2026-10-04_keeper_multirow_composer_repair.md | zoro | 2026-10-04 | A | 5891 |
-| 2026-10-04_motion_bakeoff_video_to_editable_program.md | zoro | 2026-10-04 | A | 8438 |
-| 2026-10-04_oor_engine_clamped_flattery_removed.md | zoro | 2026-10-04 | — | 5243 |
-| 2026-10-04_opencode_db_lock_seat_addendum.md | zoro | 2026-10-04 | — | 2877 |
-| 2026-10-04_opencode_db_lockerror_root_cause.md | zoro | 2026-10-04 | — | 3748 |
-| 2026-10-04_opencode_sqlite_locks_backup_io_priority.md | zoro | 2026-10-04 | A | 2924 |
-| 2026-10-04_provider_refusal_outcome_class.md | zoro | 2026-10-04 | — | 7019 |
-| 2026-10-04_provider_refusal_reroute_router.md | zoro | 2026-10-04 | — | 5291 |
-| 2026-10-04_refusal_autodiagnosis_autowire.md | zoro | 2026-10-04 | — | 3144 |
-| 2026-10-04_refusal_case_advisory_diagnosis.md | zoro | 2026-10-04 | — | 4870 |
-| 2026-10-04_repo_backup_redesign_wave1.md | zoro | 2026-10-04 | A | 14366 |
-| 2026-10-04_statistics_measurement_phase0_truth_and_live_report.md | zoro | 2026-10-04 | — | 3600 |
-| 2026-10-04_stop_time_keeper.md | zoro | 2026-10-04 | A | 6762 |
-| 2026-10-04_studio_family_release_live_verified.md | zoro | 2026-10-04 | — | 5030 |
-| 2026-10-04_take_all_hook_server_sync_bench_memory.md | zoro | 2026-10-04 | B | 9240 |
-| 2026-10-04_vram_ladder_reserve_sentinel_qwen.md | zoro | 2026-10-04 | A | 4223 |
-| 2026-10-04_aa9ea_current_custody.md | sanji | 2026-10-04 | — | 2850 |
-| 2026-10-04_ai_harm_reduction.md | sanji | 2026-10-04 | — | 8421 |
-| 2026-10-04_aos_admission_recovery.md | sanji | 2026-10-04 | A | 8055 |
-| 2026-10-04_app_candidate_proof_intake.md | sanji | 2026-10-04 | A | 7485 |
-| 2026-10-04_app_statistics_acceptance_intake.md | sanji | 2026-10-04 | A | 5073 |
-| 2026-10-04_app_unified_live_home.md | sanji | 2026-10-04 | A | 11128 |
-| 2026-10-04_autonomy_coordination_repair.md | sanji | 2026-10-04 | B | 7011 |
-| _(+20701 more — see full manifest JSON)_ | | | | |
+| _(+20726 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
