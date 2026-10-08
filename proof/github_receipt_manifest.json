@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20935,
+  "total_receipts": 20944,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -148020,12 +148020,84 @@
       "size_bytes": 4361
     },
     {
+      "file_name": "2026-10-08_capital_generation_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_capital_generation_followup.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 8320
+    },
+    {
+      "file_name": "2026-10-08_contribution_log_20261007_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_contribution_log_20261007_intake.md",
+      "date": "2026-10-08",
+      "tier": "A",
+      "size_bytes": 9667
+    },
+    {
+      "file_name": "2026-10-08_daily_operating_continuity_repairs.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_daily_operating_continuity_repairs.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 10527
+    },
+    {
+      "file_name": "2026-10-08_hui_inheritance_review.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_hui_inheritance_review.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 36435
+    },
+    {
+      "file_name": "2026-10-08_hui_wall_integration_and_live_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_hui_wall_integration_and_live_qualification.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 14895
+    },
+    {
+      "file_name": "2026-10-08_idea_to_effect_successor_custody.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_idea_to_effect_successor_custody.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 7876
+    },
+    {
+      "file_name": "2026-10-08_jev_use_and_discovery_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_jev_use_and_discovery_intake.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 6564
+    },
+    {
       "file_name": "2026-10-08_persistent_capability_repeat_revalidation.md",
       "home": "sanji",
       "rel_path": "2026-10-08_persistent_capability_repeat_revalidation.md",
       "date": "2026-10-08",
       "tier": null,
       "size_bytes": 5698
+    },
+    {
+      "file_name": "2026-10-08_productive_capital_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_productive_capital_intake.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 6580
+    },
+    {
+      "file_name": "2026-10-08_rlm_repeated_intake_source_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_rlm_repeated_intake_source_delta.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 4608
     },
     {
       "file_name": "INDEX.md",
