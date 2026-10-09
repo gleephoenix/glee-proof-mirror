@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 21049,
+  "total_receipts": 21100,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -44073,7 +44073,7 @@
       "rel_path": "2026-10-08_goal_vs_plain_dispatch.md",
       "date": "2026-10-08",
       "tier": null,
-      "size_bytes": 9733
+      "size_bytes": 11476
     },
     {
       "file_name": "2026-10-09_autonomous_objective_continuity.md",
@@ -44081,7 +44081,7 @@
       "rel_path": "2026-10-09_autonomous_objective_continuity.md",
       "date": "2026-10-09",
       "tier": "B",
-      "size_bytes": 20377
+      "size_bytes": 32915
     },
     {
       "file_name": "2026-10-09_hui_wall_0212_conversation_delivery.md",
@@ -44089,7 +44089,15 @@
       "rel_path": "2026-10-09_hui_wall_0212_conversation_delivery.md",
       "date": "2026-10-09",
       "tier": null,
-      "size_bytes": 6450
+      "size_bytes": 8352
+    },
+    {
+      "file_name": "2026-10-09_sunny_recovery_lead_wave1.md",
+      "home": "zoro",
+      "rel_path": "2026-10-09_sunny_recovery_lead_wave1.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 8611
     },
     {
       "file_name": "INDEX.md",
@@ -44348,6 +44356,102 @@
       "size_bytes": 1870
     },
     {
+      "file_name": "judge_r14_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r14_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2300
+    },
+    {
+      "file_name": "judge_r14_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r14_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2230
+    },
+    {
+      "file_name": "judge_r15_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r15_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1647
+    },
+    {
+      "file_name": "judge_r15_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r15_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1685
+    },
+    {
+      "file_name": "judge_r16_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r16_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1388
+    },
+    {
+      "file_name": "judge_r16_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r16_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1179
+    },
+    {
+      "file_name": "judge_r17_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r17_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1526
+    },
+    {
+      "file_name": "judge_r17_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r17_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2300
+    },
+    {
+      "file_name": "judge_r18_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r18_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2004
+    },
+    {
+      "file_name": "judge_r18_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r18_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1651
+    },
+    {
+      "file_name": "judge_r19_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r19_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1499
+    },
+    {
+      "file_name": "judge_r19_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r19_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1762
+    },
+    {
       "file_name": "judge_r1_brief.md",
       "home": "zoro",
       "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r1_brief.md",
@@ -44362,6 +44466,118 @@
       "date": null,
       "tier": null,
       "size_bytes": 3650
+    },
+    {
+      "file_name": "judge_r20_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r20_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1548
+    },
+    {
+      "file_name": "judge_r20_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r20_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1752
+    },
+    {
+      "file_name": "judge_r21_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r21_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1945
+    },
+    {
+      "file_name": "judge_r21_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r21_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1548
+    },
+    {
+      "file_name": "judge_r22_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r22_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1204
+    },
+    {
+      "file_name": "judge_r22_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r22_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1202
+    },
+    {
+      "file_name": "judge_r23_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r23_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1461
+    },
+    {
+      "file_name": "judge_r23_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r23_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1399
+    },
+    {
+      "file_name": "judge_r24_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r24_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1385
+    },
+    {
+      "file_name": "judge_r24_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r24_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1293
+    },
+    {
+      "file_name": "judge_r25_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r25_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1750
+    },
+    {
+      "file_name": "judge_r25_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r25_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1384
+    },
+    {
+      "file_name": "judge_r26_brief.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r26_brief.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 1633
+    },
+    {
+      "file_name": "judge_r26_verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-08_goal_vs_plain_dispatch/judge_r26_verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 723
     },
     {
       "file_name": "judge_r2_brief.md",
@@ -44578,6 +44794,134 @@
       "date": null,
       "tier": null,
       "size_bytes": 3031
+    },
+    {
+      "file_name": "rereview11_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview11_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3753
+    },
+    {
+      "file_name": "rereview12_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview12_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 4524
+    },
+    {
+      "file_name": "rereview13_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview13_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 5293
+    },
+    {
+      "file_name": "rereview14_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview14_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 6085
+    },
+    {
+      "file_name": "rereview15_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview15_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 6986
+    },
+    {
+      "file_name": "rereview16_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview16_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 8210
+    },
+    {
+      "file_name": "rereview17_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview17_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 9039
+    },
+    {
+      "file_name": "rereview18_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview18_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 10195
+    },
+    {
+      "file_name": "rereview19_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview19_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 11202
+    },
+    {
+      "file_name": "rereview20_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview20_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 12001
+    },
+    {
+      "file_name": "rereview21_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview21_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 12614
+    },
+    {
+      "file_name": "rereview22_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview22_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 13347
+    },
+    {
+      "file_name": "rereview23_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview23_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 14602
+    },
+    {
+      "file_name": "rereview24_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview24_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 16355
+    },
+    {
+      "file_name": "rereview25_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview25_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 18280
+    },
+    {
+      "file_name": "rereview26_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview26_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 19487
     },
     {
       "file_name": "rereview2_prompt.md",
@@ -148938,6 +149282,70 @@
       "date": "2026-10-08",
       "tier": "B",
       "size_bytes": 4006
+    },
+    {
+      "file_name": "2026-10-09_agent_adoption_baseline.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_agent_adoption_baseline.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9097
+    },
+    {
+      "file_name": "2026-10-09_engineering_learning_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_engineering_learning_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8290
+    },
+    {
+      "file_name": "2026-10-09_harness_steering_control_cycle_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_harness_steering_control_cycle_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7771
+    },
+    {
+      "file_name": "2026-10-09_open_source_game_theory_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_open_source_game_theory_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7809
+    },
+    {
+      "file_name": "2026-10-09_operating_audit_intake_and_route_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_operating_audit_intake_and_route_qualification.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 5239
+    },
+    {
+      "file_name": "2026-10-09_sleep_identity_continuity_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_sleep_identity_continuity_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 4637
+    },
+    {
+      "file_name": "2026-10-09_twelve_hour_operating_recommendation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_twelve_hour_operating_recommendation.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6136
+    },
+    {
+      "file_name": "2026-10-09_vibecoding_engineering_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_vibecoding_engineering_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8907
     },
     {
       "file_name": "INDEX.md",
