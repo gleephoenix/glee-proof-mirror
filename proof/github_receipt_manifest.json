@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 20944,
+  "total_receipts": 20953,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -148020,6 +148020,22 @@
       "size_bytes": 4361
     },
     {
+      "file_name": "2026-10-08_boundary_discovery_publication_closure.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_boundary_discovery_publication_closure.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 5035
+    },
+    {
+      "file_name": "2026-10-08_boundary_discovery_state_evidence_metadata_populations.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_boundary_discovery_state_evidence_metadata_populations.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 11314
+    },
+    {
       "file_name": "2026-10-08_capital_generation_followup.md",
       "home": "sanji",
       "rel_path": "2026-10-08_capital_generation_followup.md",
@@ -148042,6 +148058,14 @@
       "date": "2026-10-08",
       "tier": null,
       "size_bytes": 10527
+    },
+    {
+      "file_name": "2026-10-08_eko_empowerment_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_eko_empowerment_intake.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 6727
     },
     {
       "file_name": "2026-10-08_hui_inheritance_review.md",
@@ -148068,12 +148092,52 @@
       "size_bytes": 7876
     },
     {
+      "file_name": "2026-10-08_interface_and_realized_capability_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_interface_and_realized_capability_intake.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 6892
+    },
+    {
       "file_name": "2026-10-08_jev_use_and_discovery_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-08_jev_use_and_discovery_intake.md",
       "date": "2026-10-08",
       "tier": null,
       "size_bytes": 6564
+    },
+    {
+      "file_name": "2026-10-08_kaluza_klein_representation_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_kaluza_klein_representation_intake.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 7220
+    },
+    {
+      "file_name": "2026-10-08_language_representation_learning_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_language_representation_learning_intake.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 7160
+    },
+    {
+      "file_name": "2026-10-08_local_model_scan_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_local_model_scan_intake.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 9808
+    },
+    {
+      "file_name": "2026-10-08_native_qualification_and_claim_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_native_qualification_and_claim_projection.md",
+      "date": "2026-10-08",
+      "tier": null,
+      "size_bytes": 9581
     },
     {
       "file_name": "2026-10-08_persistent_capability_repeat_revalidation.md",
@@ -148098,6 +148162,14 @@
       "date": "2026-10-08",
       "tier": null,
       "size_bytes": 4608
+    },
+    {
+      "file_name": "2026-10-08_verified_improvement_math_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-08_verified_improvement_math_intake.md",
+      "date": "2026-10-08",
+      "tier": "B",
+      "size_bytes": 8785
     },
     {
       "file_name": "INDEX.md",
