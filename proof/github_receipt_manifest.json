@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 21100,
+  "total_receipts": 21132,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -44081,7 +44081,15 @@
       "rel_path": "2026-10-09_autonomous_objective_continuity.md",
       "date": "2026-10-09",
       "tier": "B",
-      "size_bytes": 32915
+      "size_bytes": 39250
+    },
+    {
+      "file_name": "2026-10-09_haiku_5_5_current_gen_cheap_tier.md",
+      "home": "zoro",
+      "rel_path": "2026-10-09_haiku_5_5_current_gen_cheap_tier.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6603
     },
     {
       "file_name": "2026-10-09_hui_wall_0212_conversation_delivery.md",
@@ -44092,12 +44100,44 @@
       "size_bytes": 8352
     },
     {
+      "file_name": "2026-10-09_mgo02_dispatch_ground_truth.md",
+      "home": "zoro",
+      "rel_path": "2026-10-09_mgo02_dispatch_ground_truth.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 4852
+    },
+    {
+      "file_name": "2026-10-09_novelty_vs_conventional_pilot_nvc001.md",
+      "home": "zoro",
+      "rel_path": "2026-10-09_novelty_vs_conventional_pilot_nvc001.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 6382
+    },
+    {
+      "file_name": "2026-10-09_subagent_model_routing.md",
+      "home": "zoro",
+      "rel_path": "2026-10-09_subagent_model_routing.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 5341
+    },
+    {
       "file_name": "2026-10-09_sunny_recovery_lead_wave1.md",
       "home": "zoro",
       "rel_path": "2026-10-09_sunny_recovery_lead_wave1.md",
       "date": "2026-10-09",
       "tier": "B",
       "size_bytes": 8611
+    },
+    {
+      "file_name": "2026-10-09_trask_collective_small_models_intake.md",
+      "home": "zoro",
+      "rel_path": "2026-10-09_trask_collective_small_models_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 3952
     },
     {
       "file_name": "INDEX.md",
@@ -44724,6 +44764,46 @@
       "size_bytes": 2135
     },
     {
+      "file_name": "prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_arcade_as001/law_c02_review/prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2042
+    },
+    {
+      "file_name": "verdict.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_arcade_as001/law_c02_review/verdict.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 4047
+    },
+    {
+      "file_name": "review1_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_keeper_live_continuation/review1_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3367
+    },
+    {
+      "file_name": "review2_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_keeper_live_continuation/review2_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3764
+    },
+    {
+      "file_name": "review3_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_keeper_live_continuation/review3_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3268
+    },
+    {
       "file_name": "brief.md",
       "home": "zoro",
       "rel_path": "evidence/2026-10-09_objective_continuity/final2/ledger/attempts/P-FINAL-A/A1/brief.md",
@@ -44924,12 +45004,44 @@
       "size_bytes": 19487
     },
     {
+      "file_name": "rereview27_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview27_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 21570
+    },
+    {
+      "file_name": "rereview28_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview28_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 22605
+    },
+    {
+      "file_name": "rereview29_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview29_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 23953
+    },
+    {
       "file_name": "rereview2_prompt.md",
       "home": "zoro",
       "rel_path": "evidence/2026-10-09_objective_continuity/rereview2_prompt.md",
       "date": null,
       "tier": null,
       "size_bytes": 3406
+    },
+    {
+      "file_name": "rereview30_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_objective_continuity/rereview30_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 25930
     },
     {
       "file_name": "rereview3_prompt.md",
@@ -45074,6 +45186,38 @@
       "date": null,
       "tier": null,
       "size_bytes": 2842
+    },
+    {
+      "file_name": "judge2_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_provider_runtime/judge2_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3100
+    },
+    {
+      "file_name": "judge3_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_provider_runtime/judge3_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2266
+    },
+    {
+      "file_name": "judge4_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_provider_runtime/judge4_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2352
+    },
+    {
+      "file_name": "judge_prompt.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-10-09_provider_runtime/judge_prompt.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 2885
     },
     {
       "file_name": "garl-iter-067-backoff-visibility-2026-06-20.md",
@@ -149292,6 +149436,46 @@
       "size_bytes": 9097
     },
     {
+      "file_name": "2026-10-09_autonomous_goal_continuity_experiment.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomous_goal_continuity_experiment.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 6464
+    },
+    {
+      "file_name": "2026-10-09_autonomous_goal_continuity_review.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomous_goal_continuity_review.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 5698
+    },
+    {
+      "file_name": "2026-10-09_compiled_intelligence_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_compiled_intelligence_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9394
+    },
+    {
+      "file_name": "2026-10-09_continuation_native_activation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_continuation_native_activation.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 10898
+    },
+    {
+      "file_name": "2026-10-09_contribution_log_20261008_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_contribution_log_20261008_intake.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 10147
+    },
+    {
       "file_name": "2026-10-09_engineering_learning_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_engineering_learning_intake.md",
@@ -149300,12 +149484,60 @@
       "size_bytes": 8290
     },
     {
+      "file_name": "2026-10-09_glee_web_001_wave1.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_glee_web_001_wave1.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 15745
+    },
+    {
       "file_name": "2026-10-09_harness_steering_control_cycle_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_harness_steering_control_cycle_intake.md",
       "date": "2026-10-09",
       "tier": null,
       "size_bytes": 7771
+    },
+    {
+      "file_name": "2026-10-09_hui_foundry_concepts.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_hui_foundry_concepts.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9426
+    },
+    {
+      "file_name": "2026-10-09_mechanism_recombination_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_mechanism_recombination_trial.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 12546
+    },
+    {
+      "file_name": "2026-10-09_mechanistic_decompilation_synthesis.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_mechanistic_decompilation_synthesis.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 5186
+    },
+    {
+      "file_name": "2026-10-09_mgo01_local_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_mgo01_local_trial.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 11686
+    },
+    {
+      "file_name": "2026-10-09_mgo01_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_mgo01_readiness.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 14482
     },
     {
       "file_name": "2026-10-09_open_source_game_theory_intake.md",
@@ -149324,12 +149556,36 @@
       "size_bytes": 5239
     },
     {
+      "file_name": "2026-10-09_research_foundations_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_research_foundations_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9758
+    },
+    {
+      "file_name": "2026-10-09_restricted_codex_dispatch_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_restricted_codex_dispatch_readiness.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8329
+    },
+    {
       "file_name": "2026-10-09_sleep_identity_continuity_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_sleep_identity_continuity_intake.md",
       "date": "2026-10-09",
       "tier": null,
       "size_bytes": 4637
+    },
+    {
+      "file_name": "2026-10-09_system_understanding_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_system_understanding_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6153
     },
     {
       "file_name": "2026-10-09_twelve_hour_operating_recommendation.md",
