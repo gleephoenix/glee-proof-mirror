@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 21132,
+  "total_receipts": 21195,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -149452,12 +149452,140 @@
       "size_bytes": 5698
     },
     {
+      "file_name": "2026-10-09_autonomy_ariadne_named_assessment.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomy_ariadne_named_assessment.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 10479
+    },
+    {
+      "file_name": "2026-10-09_autonomy_mastery_watchdog.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomy_mastery_watchdog.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 10263
+    },
+    {
+      "file_name": "2026-10-09_autonomy_native_failure_projection.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomy_native_failure_projection.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 7382
+    },
+    {
+      "file_name": "2026-10-09_autonomy_receipt_census.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomy_receipt_census.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 7286
+    },
+    {
+      "file_name": "2026-10-09_autonomy_recurring_progress_and_boundary_execution.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomy_recurring_progress_and_boundary_execution.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 9329
+    },
+    {
+      "file_name": "2026-10-09_autonomy_stable_diagnostic_retry.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_autonomy_stable_diagnostic_retry.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 7343
+    },
+    {
+      "file_name": "2026-10-09_boundary_discovery_representation_viability_sequential.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_boundary_discovery_representation_viability_sequential.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 5425
+    },
+    {
+      "file_name": "2026-10-09_catalog_referential_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_catalog_referential_integrity.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8716
+    },
+    {
+      "file_name": "2026-10-09_code_interpretability_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_code_interpretability_intake.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 9289
+    },
+    {
       "file_name": "2026-10-09_compiled_intelligence_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_compiled_intelligence_intake.md",
       "date": "2026-10-09",
       "tier": null,
       "size_bytes": 9394
+    },
+    {
+      "file_name": "2026-10-09_compute_efficiency_bench_journal.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_compute_efficiency_bench_journal.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7655
+    },
+    {
+      "file_name": "2026-10-09_compute_efficiency_bus_diagnostics.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_compute_efficiency_bus_diagnostics.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8878
+    },
+    {
+      "file_name": "2026-10-09_compute_efficiency_catalog_index.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_compute_efficiency_catalog_index.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6830
+    },
+    {
+      "file_name": "2026-10-09_compute_efficiency_portfolio_copy.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_compute_efficiency_portfolio_copy.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6138
+    },
+    {
+      "file_name": "2026-10-09_compute_efficiency_terminal_observation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_compute_efficiency_terminal_observation.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7032
+    },
+    {
+      "file_name": "2026-10-09_compute_efficiency_verified_outcome.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_compute_efficiency_verified_outcome.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 4552
+    },
+    {
+      "file_name": "2026-10-09_consequence_engine_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_consequence_engine_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9592
     },
     {
       "file_name": "2026-10-09_continuation_native_activation.md",
@@ -149476,12 +149604,156 @@
       "size_bytes": 10147
     },
     {
+      "file_name": "2026-10-09_convention_constraints_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_convention_constraints_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7802
+    },
+    {
+      "file_name": "2026-10-09_daily_operating_execution.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_daily_operating_execution.md",
+      "date": "2026-10-09",
+      "tier": "B",
+      "size_bytes": 10153
+    },
+    {
+      "file_name": "2026-10-09_development_acceleration_import_index.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_development_acceleration_import_index.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7467
+    },
+    {
+      "file_name": "2026-10-09_development_acceleration_native_context_routing.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_development_acceleration_native_context_routing.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 11802
+    },
+    {
+      "file_name": "2026-10-09_development_acceleration_real_regression_repairs.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_development_acceleration_real_regression_repairs.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7083
+    },
+    {
+      "file_name": "2026-10-09_development_acceleration_slot_custody.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_development_acceleration_slot_custody.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8923
+    },
+    {
+      "file_name": "2026-10-09_development_acceleration_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_development_acceleration_verification.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 5811
+    },
+    {
+      "file_name": "2026-10-09_development_acceleration_watcher_persistence.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_development_acceleration_watcher_persistence.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7954
+    },
+    {
+      "file_name": "2026-10-09_engineering_decision_analysis_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_engineering_decision_analysis_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 10331
+    },
+    {
       "file_name": "2026-10-09_engineering_learning_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_engineering_learning_intake.md",
       "date": "2026-10-09",
       "tier": null,
       "size_bytes": 8290
+    },
+    {
+      "file_name": "2026-10-09_estate_audit_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_audit_identity.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 2452
+    },
+    {
+      "file_name": "2026-10-09_estate_forward_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_forward_wave.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 10853
+    },
+    {
+      "file_name": "2026-10-09_estate_host_observer.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_host_observer.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 4676
+    },
+    {
+      "file_name": "2026-10-09_estate_media_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_media_preflight.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 4314
+    },
+    {
+      "file_name": "2026-10-09_estate_native_boot_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_native_boot_recovery.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7094
+    },
+    {
+      "file_name": "2026-10-09_estate_native_selector.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_native_selector.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 4482
+    },
+    {
+      "file_name": "2026-10-09_estate_queue_batch.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_queue_batch.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 7648
+    },
+    {
+      "file_name": "2026-10-09_estate_release_routing.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_estate_release_routing.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8303
+    },
+    {
+      "file_name": "2026-10-09_exact_inventory_grounding.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_exact_inventory_grounding.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8515
     },
     {
       "file_name": "2026-10-09_glee_web_001_wave1.md",
@@ -149506,6 +149778,30 @@
       "date": "2026-10-09",
       "tier": null,
       "size_bytes": 9426
+    },
+    {
+      "file_name": "2026-10-09_independent_transfer_inputs.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_independent_transfer_inputs.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 4420
+    },
+    {
+      "file_name": "2026-10-09_local_model_scout_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_local_model_scout_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9478
+    },
+    {
+      "file_name": "2026-10-09_mechanism_intake_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_mechanism_intake_reconciliation.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 12607
     },
     {
       "file_name": "2026-10-09_mechanism_recombination_trial.md",
@@ -149556,6 +149852,30 @@
       "size_bytes": 5239
     },
     {
+      "file_name": "2026-10-09_predictive_engineering_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_predictive_engineering_intake.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 10704
+    },
+    {
+      "file_name": "2026-10-09_recursive_loop_and_wall_scope_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_recursive_loop_and_wall_scope_reconciliation.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 11343
+    },
+    {
+      "file_name": "2026-10-09_representation_adaptive_intelligence.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_representation_adaptive_intelligence.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6753
+    },
+    {
       "file_name": "2026-10-09_research_foundations_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_research_foundations_intake.md",
@@ -149572,12 +149892,84 @@
       "size_bytes": 8329
     },
     {
+      "file_name": "2026-10-09_self_improvement_mvp.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_self_improvement_mvp.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 11635
+    },
+    {
+      "file_name": "2026-10-09_situated_cognition_and_responsibility.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_situated_cognition_and_responsibility.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9267
+    },
+    {
+      "file_name": "2026-10-09_six_hour_fleet_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_six_hour_fleet_wave.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 5533
+    },
+    {
+      "file_name": "2026-10-09_six_hour_integration_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_six_hour_integration_wave.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6407
+    },
+    {
+      "file_name": "2026-10-09_six_hour_mobile_http_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_six_hour_mobile_http_wave.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6772
+    },
+    {
+      "file_name": "2026-10-09_six_hour_mobile_recovery_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_six_hour_mobile_recovery_wave.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 5904
+    },
+    {
+      "file_name": "2026-10-09_six_hour_native_regression_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_six_hour_native_regression_wave.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 10950
+    },
+    {
+      "file_name": "2026-10-09_six_hour_response_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_six_hour_response_wave.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 6367
+    },
+    {
       "file_name": "2026-10-09_sleep_identity_continuity_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_sleep_identity_continuity_intake.md",
       "date": "2026-10-09",
       "tier": null,
       "size_bytes": 4637
+    },
+    {
+      "file_name": "2026-10-09_storage_review_and_inbox_projection_merge.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_storage_review_and_inbox_projection_merge.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 12647
     },
     {
       "file_name": "2026-10-09_system_understanding_intake.md",
@@ -149596,12 +149988,124 @@
       "size_bytes": 6136
     },
     {
+      "file_name": "2026-10-09_twelve_hour_plan_scope_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_twelve_hour_plan_scope_reconciliation.md",
+      "date": "2026-10-09",
+      "tier": "A",
+      "size_bytes": 8708
+    },
+    {
       "file_name": "2026-10-09_vibecoding_engineering_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-09_vibecoding_engineering_intake.md",
       "date": "2026-10-09",
       "tier": null,
       "size_bytes": 8907
+    },
+    {
+      "file_name": "2026-10-09_website_discoverability_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_website_discoverability_intake.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 8942
+    },
+    {
+      "file_name": "2026-10-09_website_redesign_conversation_account.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_website_redesign_conversation_account.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 10674
+    },
+    {
+      "file_name": "2026-10-09_website_redesign_discovery_reading.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_website_redesign_discovery_reading.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9122
+    },
+    {
+      "file_name": "2026-10-09_website_redesign_home_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_website_redesign_home_candidate.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 10238
+    },
+    {
+      "file_name": "2026-10-09_website_redesign_native_work.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_website_redesign_native_work.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 14644
+    },
+    {
+      "file_name": "2026-10-09_website_redesign_project_personal_work.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_website_redesign_project_personal_work.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 9273
+    },
+    {
+      "file_name": "2026-10-09_website_redesign_shared_shell.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_website_redesign_shared_shell.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 13416
+    },
+    {
+      "file_name": "2026-10-09_weekend_friend_coding_session.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_weekend_friend_coding_session.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 10414
+    },
+    {
+      "file_name": "2026-10-09_weekend_friend_contribution_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_weekend_friend_contribution_readiness.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 16225
+    },
+    {
+      "file_name": "2026-10-09_weekend_friend_integrated_worker_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-10-09_weekend_friend_integrated_worker_readiness.md",
+      "date": "2026-10-09",
+      "tier": null,
+      "size_bytes": 17539
+    },
+    {
+      "file_name": "2026-10-10_six_hour_choice_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_six_hour_choice_wave.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 3834
+    },
+    {
+      "file_name": "2026-10-10_six_hour_drift_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_six_hour_drift_wave.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 4675
+    },
+    {
+      "file_name": "2026-10-10_six_hour_mutation_wave.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_six_hour_mutation_wave.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 7907
     },
     {
       "file_name": "INDEX.md",
