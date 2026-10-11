@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 21556,
+  "total_receipts": 21620,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -44265,7 +44265,7 @@
       "rel_path": "2026-10-10_sunny_io_relief_intervention.md",
       "date": "2026-10-10",
       "tier": null,
-      "size_bytes": 2319
+      "size_bytes": 2862
     },
     {
       "file_name": "INDEX.md",
@@ -151572,12 +151572,116 @@
       "size_bytes": 5521
     },
     {
+      "file_name": "2026-10-10_master_dynamic_representation_wave25.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave25.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 8419
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave26.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave26.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 8012
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave27.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave27.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 7974
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave28.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave28.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 6966
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave29.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave29.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 6991
+    },
+    {
       "file_name": "2026-10-10_master_dynamic_representation_wave3.md",
       "home": "sanji",
       "rel_path": "2026-10-10_master_dynamic_representation_wave3.md",
       "date": "2026-10-10",
       "tier": null,
       "size_bytes": 5489
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave30.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave30.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 6748
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave31.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave31.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 7220
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave32.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave32.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 7573
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave33.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave33.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 7802
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave34.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave34.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 8343
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave35.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave35.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 7252
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave36.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave36.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 7152
+    },
+    {
+      "file_name": "2026-10-10_master_dynamic_representation_wave37.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_master_dynamic_representation_wave37.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 6020
     },
     {
       "file_name": "2026-10-10_master_dynamic_representation_wave4.md",
@@ -151996,12 +152100,44 @@
       "size_bytes": 10085
     },
     {
+      "file_name": "2026-10-10_private_boundary_rule_spans.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_boundary_rule_spans.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 8150
+    },
+    {
       "file_name": "2026-10-10_private_bounded_source_excerpts.md",
       "home": "sanji",
       "rel_path": "2026-10-10_private_bounded_source_excerpts.md",
       "date": "2026-10-10",
       "tier": "A",
       "size_bytes": 7580
+    },
+    {
+      "file_name": "2026-10-10_private_delegate_write_cue.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_delegate_write_cue.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 7743
+    },
+    {
+      "file_name": "2026-10-10_private_env_declaration_metadata.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_env_declaration_metadata.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 6652
+    },
+    {
+      "file_name": "2026-10-10_private_env_key_set_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_env_key_set_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 6880
     },
     {
       "file_name": "2026-10-10_private_epoch_reuse_qualified.md",
@@ -152028,6 +152164,54 @@
       "size_bytes": 10065
     },
     {
+      "file_name": "2026-10-10_private_header_name_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_header_name_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5762
+    },
+    {
+      "file_name": "2026-10-10_private_http_diagnostic_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_http_diagnostic_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5634
+    },
+    {
+      "file_name": "2026-10-10_private_http_diagnostic_metadata.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_http_diagnostic_metadata.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 6548
+    },
+    {
+      "file_name": "2026-10-10_private_http_header_names.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_http_header_names.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5727
+    },
+    {
+      "file_name": "2026-10-10_private_json_pointer_shape.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_json_pointer_shape.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5409
+    },
+    {
+      "file_name": "2026-10-10_private_json_shape_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_json_shape_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5559
+    },
+    {
       "file_name": "2026-10-10_private_markdown_heading_section_metadata.md",
       "home": "sanji",
       "rel_path": "2026-10-10_private_markdown_heading_section_metadata.md",
@@ -152044,12 +152228,52 @@
       "size_bytes": 10238
     },
     {
+      "file_name": "2026-10-10_private_preflight_path_roles.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_preflight_path_roles.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5501
+    },
+    {
+      "file_name": "2026-10-10_private_proof_declared_input_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_proof_declared_input_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 9433
+    },
+    {
+      "file_name": "2026-10-10_private_proof_input_file_capacity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_proof_input_file_capacity.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 7846
+    },
+    {
       "file_name": "2026-10-10_private_proof_manifest_entry_capacity.md",
       "home": "sanji",
       "rel_path": "2026-10-10_private_proof_manifest_entry_capacity.md",
       "date": "2026-10-10",
       "tier": "A",
       "size_bytes": 8605
+    },
+    {
+      "file_name": "2026-10-10_private_python_api_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_python_api_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5340
+    },
+    {
+      "file_name": "2026-10-10_private_python_callable_surface.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_python_callable_surface.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 8040
     },
     {
       "file_name": "2026-10-10_private_python_import_declarations.md",
@@ -152132,12 +152356,76 @@
       "size_bytes": 9477
     },
     {
+      "file_name": "2026-10-10_private_text_line_layout_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_text_line_layout_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 4956
+    },
+    {
+      "file_name": "2026-10-10_private_text_line_profile.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_text_line_profile.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 4933
+    },
+    {
       "file_name": "2026-10-10_private_toml_key_structure.md",
       "home": "sanji",
       "rel_path": "2026-10-10_private_toml_key_structure.md",
       "date": "2026-10-10",
       "tier": "A",
       "size_bytes": 8314
+    },
+    {
+      "file_name": "2026-10-10_private_tool_catalogue_expansion.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_tool_catalogue_expansion.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5362
+    },
+    {
+      "file_name": "2026-10-10_private_tool_evidence_index.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_tool_evidence_index.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 7217
+    },
+    {
+      "file_name": "2026-10-10_private_tool_portfolio_set.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_tool_portfolio_set.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 5515
+    },
+    {
+      "file_name": "2026-10-10_private_tool_usage_cards.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_tool_usage_cards.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 4961
+    },
+    {
+      "file_name": "2026-10-10_private_url_origin_metadata.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_url_origin_metadata.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 6118
+    },
+    {
+      "file_name": "2026-10-10_private_url_query_name_delta.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_private_url_query_name_delta.md",
+      "date": "2026-10-10",
+      "tier": "A",
+      "size_bytes": 6323
     },
     {
       "file_name": "2026-10-10_proof_run_terminal_results.md",
@@ -152460,12 +152748,28 @@
       "size_bytes": 4183
     },
     {
+      "file_name": "2026-10-10_supply_chain_github_discovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_supply_chain_github_discovery.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 8783
+    },
+    {
+      "file_name": "2026-10-10_supply_chain_inline_capabilities.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_supply_chain_inline_capabilities.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 12351
+    },
+    {
       "file_name": "2026-10-10_supply_chain_private_telemetry.md",
       "home": "sanji",
       "rel_path": "2026-10-10_supply_chain_private_telemetry.md",
       "date": "2026-10-10",
       "tier": null,
-      "size_bytes": 7012
+      "size_bytes": 10802
     },
     {
       "file_name": "2026-10-10_supply_chain_security_execution.md",
@@ -152506,6 +152810,14 @@
       "date": "2026-10-10",
       "tier": null,
       "size_bytes": 12907
+    },
+    {
+      "file_name": "2026-10-10_supply_chain_shell_enforcement.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_supply_chain_shell_enforcement.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 12431
     },
     {
       "file_name": "2026-10-10_symbolic_computation_prompt.md",
@@ -152580,6 +152892,14 @@
       "size_bytes": 5363
     },
     {
+      "file_name": "2026-10-10_tft_first_match_phone_coordination_acknowledged.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_tft_first_match_phone_coordination_acknowledged.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 4330
+    },
+    {
       "file_name": "2026-10-10_tft_first_match_research.md",
       "home": "sanji",
       "rel_path": "2026-10-10_tft_first_match_research.md",
@@ -152650,6 +152970,22 @@
       "date": "2026-10-10",
       "tier": null,
       "size_bytes": 5061
+    },
+    {
+      "file_name": "2026-10-10_tft_wireless_debugging_reenabled.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_tft_wireless_debugging_reenabled.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 3433
+    },
+    {
+      "file_name": "2026-10-10_tft_wireless_reenabled_capture.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_tft_wireless_reenabled_capture.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 6082
     },
     {
       "file_name": "2026-10-10_tom002_execution.md",
@@ -152772,12 +153108,108 @@
       "size_bytes": 8045
     },
     {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave21.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave21.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 9015
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave22.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave22.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 7136
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave23.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave23.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 7160
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave24.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave24.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 8313
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave25.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave25.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 7212
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave26.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave26.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 7017
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave27.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave27.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 7490
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave28.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave28.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 6623
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave29.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave29.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 6769
+    },
+    {
       "file_name": "2026-10-10_useful_software_reverse_engineering_wave3.md",
       "home": "sanji",
       "rel_path": "2026-10-10_useful_software_reverse_engineering_wave3.md",
       "date": "2026-10-10",
       "tier": "B",
       "size_bytes": 7376
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave30.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave30.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 10747
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave31.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave31.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 7396
+    },
+    {
+      "file_name": "2026-10-10_useful_software_reverse_engineering_wave32.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_useful_software_reverse_engineering_wave32.md",
+      "date": "2026-10-10",
+      "tier": "B",
+      "size_bytes": 8021
     },
     {
       "file_name": "2026-10-10_useful_software_reverse_engineering_wave4.md",
@@ -152828,6 +153260,14 @@
       "size_bytes": 13314
     },
     {
+      "file_name": "2026-10-10_website_agent_run_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_website_agent_run_recovery.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 10186
+    },
+    {
       "file_name": "2026-10-10_website_conversation_work_requests.md",
       "home": "sanji",
       "rel_path": "2026-10-10_website_conversation_work_requests.md",
@@ -152860,6 +153300,14 @@
       "size_bytes": 6281
     },
     {
+      "file_name": "2026-10-10_website_production_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-10_website_production_reconciliation.md",
+      "date": "2026-10-10",
+      "tier": null,
+      "size_bytes": 9709
+    },
+    {
       "file_name": "2026-10-10_website_profile_conversation.md",
       "home": "sanji",
       "rel_path": "2026-10-10_website_profile_conversation.md",
@@ -152873,7 +153321,7 @@
       "rel_path": "2026-10-10_website_project_conversation.md",
       "date": "2026-10-10",
       "tier": null,
-      "size_bytes": 5988
+      "size_bytes": 9432
     },
     {
       "file_name": "2026-10-10_xi_kernel_intake.md",
@@ -152890,6 +153338,70 @@
       "date": "2026-10-10",
       "tier": null,
       "size_bytes": 8413
+    },
+    {
+      "file_name": "2026-10-11_master_dynamic_representation_wave38.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_master_dynamic_representation_wave38.md",
+      "date": "2026-10-11",
+      "tier": null,
+      "size_bytes": 7323
+    },
+    {
+      "file_name": "2026-10-11_master_dynamic_representation_wave39.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_master_dynamic_representation_wave39.md",
+      "date": "2026-10-11",
+      "tier": null,
+      "size_bytes": 7700
+    },
+    {
+      "file_name": "2026-10-11_useful_software_reverse_engineering_wave33.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_useful_software_reverse_engineering_wave33.md",
+      "date": "2026-10-11",
+      "tier": "B",
+      "size_bytes": 8577
+    },
+    {
+      "file_name": "2026-10-11_useful_software_reverse_engineering_wave34.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_useful_software_reverse_engineering_wave34.md",
+      "date": "2026-10-11",
+      "tier": "B",
+      "size_bytes": 8377
+    },
+    {
+      "file_name": "2026-10-11_useful_software_reverse_engineering_wave35.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_useful_software_reverse_engineering_wave35.md",
+      "date": "2026-10-11",
+      "tier": "B",
+      "size_bytes": 8436
+    },
+    {
+      "file_name": "2026-10-11_website_context_handoff_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_website_context_handoff_recovery.md",
+      "date": "2026-10-11",
+      "tier": null,
+      "size_bytes": 5029
+    },
+    {
+      "file_name": "2026-10-11_website_gate_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_website_gate_recovery.md",
+      "date": "2026-10-11",
+      "tier": null,
+      "size_bytes": 11970
+    },
+    {
+      "file_name": "2026-10-11_website_staged_handoff_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-11_website_staged_handoff_qualification.md",
+      "date": "2026-10-11",
+      "tier": null,
+      "size_bytes": 7347
     },
     {
       "file_name": "INDEX.md",
