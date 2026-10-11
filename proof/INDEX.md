@@ -1,12 +1,20 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-11T00:41:13.075983+00:00
-> Total receipts indexed: 21556
+> Last updated: 2026-10-11T06:41:08.819756+00:00
+> Total receipts indexed: 21620
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-11_master_dynamic_representation_wave38.md | sanji | 2026-10-11 | — | 7323 |
+| 2026-10-11_master_dynamic_representation_wave39.md | sanji | 2026-10-11 | — | 7700 |
+| 2026-10-11_useful_software_reverse_engineering_wave33.md | sanji | 2026-10-11 | B | 8577 |
+| 2026-10-11_useful_software_reverse_engineering_wave34.md | sanji | 2026-10-11 | B | 8377 |
+| 2026-10-11_useful_software_reverse_engineering_wave35.md | sanji | 2026-10-11 | B | 8436 |
+| 2026-10-11_website_context_handoff_recovery.md | sanji | 2026-10-11 | — | 5029 |
+| 2026-10-11_website_gate_recovery.md | sanji | 2026-10-11 | — | 11970 |
+| 2026-10-11_website_staged_handoff_qualification.md | sanji | 2026-10-11 | — | 7347 |
 | 2026-10-10_agent_efficiency_methods.md | zoro | 2026-10-10 | — | 11054 |
 | 2026-10-10_design_space_essay_intake_cia001.md | zoro | 2026-10-10 | A | 14161 |
 | 2026-10-10_frontier_closure_wave_and_seat_mail_heal.md | zoro | 2026-10-10 | — | 8378 |
@@ -14,7 +22,7 @@
 | 2026-10-10_jev_principal_gateway.md | zoro | 2026-10-10 | A | 14043 |
 | 2026-10-10_overnight_capacity_recovery.md | zoro | 2026-10-10 | — | 7043 |
 | 2026-10-10_review_continuation_starvation_hysteresis_c06_capabilities.md | zoro | 2026-10-10 | — | 14564 |
-| 2026-10-10_sunny_io_relief_intervention.md | zoro | 2026-10-10 | — | 2319 |
+| 2026-10-10_sunny_io_relief_intervention.md | zoro | 2026-10-10 | — | 2862 |
 | 2026-10-10_adaptive_operations_agent_gold.md | sanji | 2026-10-10 | — | 14681 |
 | 2026-10-10_adaptive_operations_backend_corpus.md | sanji | 2026-10-10 | — | 13318 |
 | 2026-10-10_adaptive_operations_execution.md | sanji | 2026-10-10 | — | 11519 |
@@ -95,7 +103,20 @@
 | 2026-10-10_master_dynamic_representation_wave22.md | sanji | 2026-10-10 | — | 6026 |
 | 2026-10-10_master_dynamic_representation_wave23.md | sanji | 2026-10-10 | — | 5403 |
 | 2026-10-10_master_dynamic_representation_wave24.md | sanji | 2026-10-10 | — | 5521 |
+| 2026-10-10_master_dynamic_representation_wave25.md | sanji | 2026-10-10 | — | 8419 |
+| 2026-10-10_master_dynamic_representation_wave26.md | sanji | 2026-10-10 | — | 8012 |
+| 2026-10-10_master_dynamic_representation_wave27.md | sanji | 2026-10-10 | — | 7974 |
+| 2026-10-10_master_dynamic_representation_wave28.md | sanji | 2026-10-10 | — | 6966 |
+| 2026-10-10_master_dynamic_representation_wave29.md | sanji | 2026-10-10 | — | 6991 |
 | 2026-10-10_master_dynamic_representation_wave3.md | sanji | 2026-10-10 | — | 5489 |
+| 2026-10-10_master_dynamic_representation_wave30.md | sanji | 2026-10-10 | — | 6748 |
+| 2026-10-10_master_dynamic_representation_wave31.md | sanji | 2026-10-10 | — | 7220 |
+| 2026-10-10_master_dynamic_representation_wave32.md | sanji | 2026-10-10 | — | 7573 |
+| 2026-10-10_master_dynamic_representation_wave33.md | sanji | 2026-10-10 | — | 7802 |
+| 2026-10-10_master_dynamic_representation_wave34.md | sanji | 2026-10-10 | — | 8343 |
+| 2026-10-10_master_dynamic_representation_wave35.md | sanji | 2026-10-10 | — | 7252 |
+| 2026-10-10_master_dynamic_representation_wave36.md | sanji | 2026-10-10 | — | 7152 |
+| 2026-10-10_master_dynamic_representation_wave37.md | sanji | 2026-10-10 | — | 6020 |
 | 2026-10-10_master_dynamic_representation_wave4.md | sanji | 2026-10-10 | — | 6049 |
 | 2026-10-10_master_dynamic_representation_wave5.md | sanji | 2026-10-10 | — | 5749 |
 | 2026-10-10_master_dynamic_representation_wave6.md | sanji | 2026-10-10 | — | 6152 |
@@ -148,13 +169,28 @@
 | 2026-10-10_overnight_productive_saturation_partial.md | sanji | 2026-10-10 | — | 7263 |
 | 2026-10-10_power_user_systems_intake.md | sanji | 2026-10-10 | — | 9374 |
 | 2026-10-10_private_basic_tar_metadata.md | sanji | 2026-10-10 | A | 10085 |
+| 2026-10-10_private_boundary_rule_spans.md | sanji | 2026-10-10 | A | 8150 |
 | 2026-10-10_private_bounded_source_excerpts.md | sanji | 2026-10-10 | A | 7580 |
+| 2026-10-10_private_delegate_write_cue.md | sanji | 2026-10-10 | A | 7743 |
+| 2026-10-10_private_env_declaration_metadata.md | sanji | 2026-10-10 | A | 6652 |
+| 2026-10-10_private_env_key_set_delta.md | sanji | 2026-10-10 | A | 6880 |
 | 2026-10-10_private_epoch_reuse_qualified.md | sanji | 2026-10-10 | — | 4749 |
 | 2026-10-10_private_expected_proof_input_draft.md | sanji | 2026-10-10 | A | 9696 |
 | 2026-10-10_private_guarded_markdown_section_excerpt.md | sanji | 2026-10-10 | A | 10065 |
+| 2026-10-10_private_header_name_delta.md | sanji | 2026-10-10 | A | 5762 |
+| 2026-10-10_private_http_diagnostic_delta.md | sanji | 2026-10-10 | A | 5634 |
+| 2026-10-10_private_http_diagnostic_metadata.md | sanji | 2026-10-10 | A | 6548 |
+| 2026-10-10_private_http_header_names.md | sanji | 2026-10-10 | A | 5727 |
+| 2026-10-10_private_json_pointer_shape.md | sanji | 2026-10-10 | A | 5409 |
+| 2026-10-10_private_json_shape_delta.md | sanji | 2026-10-10 | A | 5559 |
 | 2026-10-10_private_markdown_heading_section_metadata.md | sanji | 2026-10-10 | A | 10045 |
 | 2026-10-10_private_native_patch_footprint.md | sanji | 2026-10-10 | A | 10238 |
+| 2026-10-10_private_preflight_path_roles.md | sanji | 2026-10-10 | A | 5501 |
+| 2026-10-10_private_proof_declared_input_delta.md | sanji | 2026-10-10 | A | 9433 |
+| 2026-10-10_private_proof_input_file_capacity.md | sanji | 2026-10-10 | A | 7846 |
 | 2026-10-10_private_proof_manifest_entry_capacity.md | sanji | 2026-10-10 | A | 8605 |
+| 2026-10-10_private_python_api_delta.md | sanji | 2026-10-10 | A | 5340 |
+| 2026-10-10_private_python_callable_surface.md | sanji | 2026-10-10 | A | 8040 |
 | 2026-10-10_private_python_import_declarations.md | sanji | 2026-10-10 | A | 9644 |
 | 2026-10-10_private_python_module_candidates.md | sanji | 2026-10-10 | A | 10512 |
 | 2026-10-10_private_selected_csv_structure.md | sanji | 2026-10-10 | A | 9039 |
@@ -165,49 +201,13 @@
 | 2026-10-10_private_selected_sqlite_schema.md | sanji | 2026-10-10 | A | 10203 |
 | 2026-10-10_private_selected_xml_elements.md | sanji | 2026-10-10 | A | 10508 |
 | 2026-10-10_private_selected_zip_metadata.md | sanji | 2026-10-10 | A | 9477 |
+| 2026-10-10_private_text_line_layout_delta.md | sanji | 2026-10-10 | A | 4956 |
+| 2026-10-10_private_text_line_profile.md | sanji | 2026-10-10 | A | 4933 |
 | 2026-10-10_private_toml_key_structure.md | sanji | 2026-10-10 | A | 8314 |
-| 2026-10-10_proof_run_terminal_results.md | sanji | 2026-10-10 | A | 9243 |
-| 2026-10-10_rea_agent_run_continuation_binding.md | sanji | 2026-10-10 | A | 3509 |
-| 2026-10-10_rea_android_runtime_and_fresh_protocol.md | sanji | 2026-10-10 | A | 7269 |
-| 2026-10-10_rea_blind_apk_checkpoint_correction.md | sanji | 2026-10-10 | A | 8686 |
-| 2026-10-10_rea_blind_apk_comparison_checkpoint.md | sanji | 2026-10-10 | A | 7701 |
-| 2026-10-10_rea_callback_guard_and_run_binding.md | sanji | 2026-10-10 | A | 4007 |
-| 2026-10-10_rea_evaluation_closed.md | sanji | 2026-10-10 | A | 4966 |
-| 2026-10-10_rea_fresh_android_comparison.md | sanji | 2026-10-10 | A | 8470 |
-| 2026-10-10_rea_fresh_process_isolation.md | sanji | 2026-10-10 | A | 7269 |
-| 2026-10-10_rea_full_static_comparison.md | sanji | 2026-10-10 | A | 4664 |
-| 2026-10-10_rea_next_goal_and_snapshot_correction.md | sanji | 2026-10-10 | A | 4606 |
-| 2026-10-10_rea_owned_resource_observer.md | sanji | 2026-10-10 | A | 6400 |
-| 2026-10-10_rea_qualified_static_comparison.md | sanji | 2026-10-10 | A | 6867 |
-| 2026-10-10_rea_source_agreement_successor.md | sanji | 2026-10-10 | A | 7969 |
-| 2026-10-10_rea_submission_capture_gate.md | sanji | 2026-10-10 | A | 5336 |
-| 2026-10-10_readonly_kernel_lease_observations.md | sanji | 2026-10-10 | A | 9903 |
-| 2026-10-10_receipt_evidence_inspection.md | sanji | 2026-10-10 | A | 7374 |
-| 2026-10-10_retained_admission_observations.md | sanji | 2026-10-10 | A | 10418 |
-| 2026-10-10_retained_result_inventory.md | sanji | 2026-10-10 | A | 8556 |
-| 2026-10-10_saluki_local_intelligence_investigation.md | sanji | 2026-10-10 | — | 7275 |
-| 2026-10-10_saved_log_expectation_preview.md | sanji | 2026-10-10 | A | 7588 |
-| 2026-10-10_saved_receipt_observation_deltas.md | sanji | 2026-10-10 | A | 8664 |
-| 2026-10-10_selected_filesystem_capacity.md | sanji | 2026-10-10 | A | 10714 |
-| 2026-10-10_selected_json_value_comparison.md | sanji | 2026-10-10 | A | 12345 |
-| 2026-10-10_selected_process_observation.md | sanji | 2026-10-10 | A | 9024 |
-| 2026-10-10_selected_saved_input_bindings.md | sanji | 2026-10-10 | A | 10029 |
-| 2026-10-10_selected_tmux_pane_observation.md | sanji | 2026-10-10 | A | 12055 |
-| 2026-10-10_septabee_intake.md | sanji | 2026-10-10 | — | 9309 |
-| 2026-10-10_six_hour_aos_packet_diagnostic.md | sanji | 2026-10-10 | — | 3546 |
-| 2026-10-10_six_hour_choice_wave.md | sanji | 2026-10-10 | — | 3834 |
-| 2026-10-10_six_hour_copy_wave.md | sanji | 2026-10-10 | — | 4369 |
-| 2026-10-10_six_hour_drift_wave.md | sanji | 2026-10-10 | — | 4675 |
-| 2026-10-10_six_hour_finished_removal_wave.md | sanji | 2026-10-10 | — | 3924 |
-| 2026-10-10_six_hour_mutation_wave.md | sanji | 2026-10-10 | — | 7907 |
-| 2026-10-10_six_hour_restart_wave.md | sanji | 2026-10-10 | — | 4094 |
-| 2026-10-10_six_hour_room_resources_wave.md | sanji | 2026-10-10 | — | 4279 |
-| 2026-10-10_six_hour_rotation_wave.md | sanji | 2026-10-10 | — | 3743 |
-| 2026-10-10_six_hour_window_complete.md | sanji | 2026-10-10 | — | 3434 |
-| 2026-10-10_static_cli_help_template_candidates.md | sanji | 2026-10-10 | A | 9315 |
-| 2026-10-10_stop_deadline_and_reader_repair.md | sanji | 2026-10-10 | — | 4183 |
-| 2026-10-10_supply_chain_private_telemetry.md | sanji | 2026-10-10 | — | 7012 |
-| _(+21356 more — see full manifest JSON)_ | | | | |
+| 2026-10-10_private_tool_catalogue_expansion.md | sanji | 2026-10-10 | A | 5362 |
+| 2026-10-10_private_tool_evidence_index.md | sanji | 2026-10-10 | A | 7217 |
+| 2026-10-10_private_tool_portfolio_set.md | sanji | 2026-10-10 | A | 5515 |
+| _(+21420 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
