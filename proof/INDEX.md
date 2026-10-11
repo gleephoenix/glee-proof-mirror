@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-11T06:41:08.819756+00:00
-> Total receipts indexed: 21620
+> Last updated: 2026-10-11T12:41:09.385153+00:00
+> Total receipts indexed: 21663
 
 ## Receipt Manifest
 
@@ -9,11 +9,40 @@
 |------|------|------|------|------|
 | 2026-10-11_master_dynamic_representation_wave38.md | sanji | 2026-10-11 | — | 7323 |
 | 2026-10-11_master_dynamic_representation_wave39.md | sanji | 2026-10-11 | — | 7700 |
+| 2026-10-11_master_dynamic_representation_wave40.md | sanji | 2026-10-11 | — | 8003 |
+| 2026-10-11_master_dynamic_representation_wave41.md | sanji | 2026-10-11 | — | 7941 |
+| 2026-10-11_master_dynamic_representation_wave42.md | sanji | 2026-10-11 | — | 8780 |
+| 2026-10-11_master_dynamic_representation_wave43.md | sanji | 2026-10-11 | — | 8383 |
+| 2026-10-11_master_dynamic_representation_wave44.md | sanji | 2026-10-11 | — | 8846 |
+| 2026-10-11_master_dynamic_representation_wave45.md | sanji | 2026-10-11 | — | 10431 |
+| 2026-10-11_master_dynamic_representation_wave46.md | sanji | 2026-10-11 | — | 8075 |
+| 2026-10-11_master_dynamic_representation_wave47.md | sanji | 2026-10-11 | — | 7844 |
 | 2026-10-11_useful_software_reverse_engineering_wave33.md | sanji | 2026-10-11 | B | 8577 |
 | 2026-10-11_useful_software_reverse_engineering_wave34.md | sanji | 2026-10-11 | B | 8377 |
 | 2026-10-11_useful_software_reverse_engineering_wave35.md | sanji | 2026-10-11 | B | 8436 |
+| 2026-10-11_useful_software_reverse_engineering_wave36.md | sanji | 2026-10-11 | B | 9654 |
+| 2026-10-11_useful_software_reverse_engineering_wave37.md | sanji | 2026-10-11 | B | 9755 |
+| 2026-10-11_useful_software_reverse_engineering_wave38.md | sanji | 2026-10-11 | B | 9659 |
+| 2026-10-11_useful_software_reverse_engineering_wave39.md | sanji | 2026-10-11 | B | 6857 |
+| 2026-10-11_useful_software_reverse_engineering_wave40.md | sanji | 2026-10-11 | B | 7082 |
+| 2026-10-11_useful_software_reverse_engineering_wave41.md | sanji | 2026-10-11 | B | 5658 |
+| 2026-10-11_useful_software_reverse_engineering_wave42.md | sanji | 2026-10-11 | B | 6764 |
+| 2026-10-11_useful_software_reverse_engineering_wave43.md | sanji | 2026-10-11 | B | 7668 |
+| 2026-10-11_useful_software_reverse_engineering_wave44.md | sanji | 2026-10-11 | B | 7642 |
+| 2026-10-11_useful_software_reverse_engineering_wave45.md | sanji | 2026-10-11 | B | 7712 |
+| 2026-10-11_useful_software_reverse_engineering_wave46.md | sanji | 2026-10-11 | B | 8712 |
+| 2026-10-11_useful_software_reverse_engineering_wave47.md | sanji | 2026-10-11 | B | 7521 |
+| 2026-10-11_useful_software_reverse_engineering_wave48.md | sanji | 2026-10-11 | B | 8140 |
+| 2026-10-11_useful_software_reverse_engineering_wave49.md | sanji | 2026-10-11 | B | 7403 |
 | 2026-10-11_website_context_handoff_recovery.md | sanji | 2026-10-11 | — | 5029 |
 | 2026-10-11_website_gate_recovery.md | sanji | 2026-10-11 | — | 11970 |
+| 2026-10-11_website_hook_recovery_binding.md | sanji | 2026-10-11 | — | 8173 |
+| 2026-10-11_website_messages_ordering_and_guest_truth.md | sanji | 2026-10-11 | — | 6104 |
+| 2026-10-11_website_native_buyer_journey.md | sanji | 2026-10-11 | — | 10564 |
+| 2026-10-11_website_native_passport_and_mobile_repair.md | sanji | 2026-10-11 | — | 8253 |
+| 2026-10-11_website_private_source_review_ordering.md | sanji | 2026-10-11 | — | 4397 |
+| 2026-10-11_website_review_input_and_canonical_audit_repair.md | sanji | 2026-10-11 | — | 10715 |
+| 2026-10-11_website_sealed_inputs_and_rehearsal.md | sanji | 2026-10-11 | — | 7344 |
 | 2026-10-11_website_staged_handoff_qualification.md | sanji | 2026-10-11 | — | 7347 |
 | 2026-10-10_agent_efficiency_methods.md | zoro | 2026-10-10 | — | 11054 |
 | 2026-10-10_design_space_essay_intake_cia001.md | zoro | 2026-10-10 | A | 14161 |
@@ -176,38 +205,9 @@
 | 2026-10-10_private_env_key_set_delta.md | sanji | 2026-10-10 | A | 6880 |
 | 2026-10-10_private_epoch_reuse_qualified.md | sanji | 2026-10-10 | — | 4749 |
 | 2026-10-10_private_expected_proof_input_draft.md | sanji | 2026-10-10 | A | 9696 |
+| 2026-10-10_private_focused_binding_plan_reuse.md | sanji | 2026-10-10 | A | 5714 |
 | 2026-10-10_private_guarded_markdown_section_excerpt.md | sanji | 2026-10-10 | A | 10065 |
-| 2026-10-10_private_header_name_delta.md | sanji | 2026-10-10 | A | 5762 |
-| 2026-10-10_private_http_diagnostic_delta.md | sanji | 2026-10-10 | A | 5634 |
-| 2026-10-10_private_http_diagnostic_metadata.md | sanji | 2026-10-10 | A | 6548 |
-| 2026-10-10_private_http_header_names.md | sanji | 2026-10-10 | A | 5727 |
-| 2026-10-10_private_json_pointer_shape.md | sanji | 2026-10-10 | A | 5409 |
-| 2026-10-10_private_json_shape_delta.md | sanji | 2026-10-10 | A | 5559 |
-| 2026-10-10_private_markdown_heading_section_metadata.md | sanji | 2026-10-10 | A | 10045 |
-| 2026-10-10_private_native_patch_footprint.md | sanji | 2026-10-10 | A | 10238 |
-| 2026-10-10_private_preflight_path_roles.md | sanji | 2026-10-10 | A | 5501 |
-| 2026-10-10_private_proof_declared_input_delta.md | sanji | 2026-10-10 | A | 9433 |
-| 2026-10-10_private_proof_input_file_capacity.md | sanji | 2026-10-10 | A | 7846 |
-| 2026-10-10_private_proof_manifest_entry_capacity.md | sanji | 2026-10-10 | A | 8605 |
-| 2026-10-10_private_python_api_delta.md | sanji | 2026-10-10 | A | 5340 |
-| 2026-10-10_private_python_callable_surface.md | sanji | 2026-10-10 | A | 8040 |
-| 2026-10-10_private_python_import_declarations.md | sanji | 2026-10-10 | A | 9644 |
-| 2026-10-10_private_python_module_candidates.md | sanji | 2026-10-10 | A | 10512 |
-| 2026-10-10_private_selected_csv_structure.md | sanji | 2026-10-10 | A | 9039 |
-| 2026-10-10_private_selected_ini_scopes.md | sanji | 2026-10-10 | A | 8943 |
-| 2026-10-10_private_selected_json_keys.md | sanji | 2026-10-10 | A | 6985 |
-| 2026-10-10_private_selected_json_pointer_metadata.md | sanji | 2026-10-10 | A | 10102 |
-| 2026-10-10_private_selected_nested_json_diff.md | sanji | 2026-10-10 | A | 10650 |
-| 2026-10-10_private_selected_sqlite_schema.md | sanji | 2026-10-10 | A | 10203 |
-| 2026-10-10_private_selected_xml_elements.md | sanji | 2026-10-10 | A | 10508 |
-| 2026-10-10_private_selected_zip_metadata.md | sanji | 2026-10-10 | A | 9477 |
-| 2026-10-10_private_text_line_layout_delta.md | sanji | 2026-10-10 | A | 4956 |
-| 2026-10-10_private_text_line_profile.md | sanji | 2026-10-10 | A | 4933 |
-| 2026-10-10_private_toml_key_structure.md | sanji | 2026-10-10 | A | 8314 |
-| 2026-10-10_private_tool_catalogue_expansion.md | sanji | 2026-10-10 | A | 5362 |
-| 2026-10-10_private_tool_evidence_index.md | sanji | 2026-10-10 | A | 7217 |
-| 2026-10-10_private_tool_portfolio_set.md | sanji | 2026-10-10 | A | 5515 |
-| _(+21420 more — see full manifest JSON)_ | | | | |
+| _(+21463 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
