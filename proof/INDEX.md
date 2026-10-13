@@ -1,14 +1,19 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-13T00:41:13.339616+00:00
-> Total receipts indexed: 22090
+> Last updated: 2026-10-13T06:41:14.156194+00:00
+> Total receipts indexed: 22136
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-13_continuous_engineering_assurance_repairs_and_native_recovery.md | sanji | 2026-10-13 | — | 12891 |
+| 2026-10-13_prepared_multi_offer_experiment.md | sanji | 2026-10-13 | A | 7218 |
+| 2026-10-13_shared_chat_tools_live.md | sanji | 2026-10-13 | — | 12514 |
+| 2026-10-12_cit001_arms_content_carried_exchange.md | zoro | 2026-10-12 | — | 3059 |
 | 2026-10-12_cit001_freeze_and_cw001_rung1_runner.md | zoro | 2026-10-12 | — | 4484 |
 | 2026-10-12_detector_delivery_retry.md | zoro | 2026-10-12 | B | 2109 |
+| 2026-10-12_forge_fold_triage_integrated_and_canary_routing_review.md | zoro | 2026-10-12 | — | 4253 |
 | 2026-10-12_goal_budget_incident_repair.md | zoro | 2026-10-12 | — | 2634 |
 | 2026-10-12_native_orb_dependency_assessment.md | zoro | 2026-10-12 | B | 7836 |
 | 2026-10-12_native_orb_reflex_integration.md | zoro | 2026-10-12 | B | 8508 |
@@ -27,24 +32,41 @@
 | 2026-10-12_tsl1_r4_disambiguation_pilot.md | zoro | 2026-10-12 | — | 3143 |
 | 2026-10-12_tsl1_r5_robustness_calibration.md | zoro | 2026-10-12 | — | 2523 |
 | 2026-10-12_accelerating_learning_experiment.md | sanji | 2026-10-12 | — | 8167 |
+| 2026-10-12_agent_commerce_directory_email_followthrough.md | sanji | 2026-10-12 | — | 9194 |
 | 2026-10-12_agent_commerce_gap_remediation.md | sanji | 2026-10-12 | — | 9617 |
 | 2026-10-12_agent_commerce_revenue_investigation.md | sanji | 2026-10-12 | — | 6269 |
+| 2026-10-12_agent_commerce_source_coherence_followthrough.md | sanji | 2026-10-12 | — | 9585 |
+| 2026-10-12_agent_products_current_source_review.md | sanji | 2026-10-12 | — | 5691 |
 | 2026-10-12_agent_products_matching_intake.md | sanji | 2026-10-12 | — | 7586 |
+| 2026-10-12_agent_products_patch_pilot.md | sanji | 2026-10-12 | — | 8343 |
+| 2026-10-12_ai_runtime_theories_component_trials.md | sanji | 2026-10-12 | — | 5314 |
+| 2026-10-12_ai_runtime_theories_hybrid_search.md | sanji | 2026-10-12 | — | 7427 |
+| 2026-10-12_ai_runtime_theories_natural_codec.md | sanji | 2026-10-12 | — | 7207 |
+| 2026-10-12_ai_runtime_theories_online_prediction.md | sanji | 2026-10-12 | — | 7728 |
+| 2026-10-12_ai_runtime_theories_trained_trm.md | sanji | 2026-10-12 | — | 9606 |
+| 2026-10-12_ai_runtime_theories_verified_search.md | sanji | 2026-10-12 | — | 6014 |
 | 2026-10-12_bar_gaming_resource_adaptation.md | sanji | 2026-10-12 | — | 5347 |
 | 2026-10-12_bar_gaming_restoration.md | sanji | 2026-10-12 | — | 3607 |
 | 2026-10-12_bar_launch_and_historical_driver_warning.md | sanji | 2026-10-12 | — | 6179 |
 | 2026-10-12_bound_native_producer_and_current_response.md | sanji | 2026-10-12 | — | 4099 |
 | 2026-10-12_braid_supervision_execution_launch.md | sanji | 2026-10-12 | — | 11351 |
 | 2026-10-12_braid_supervision_intake.md | sanji | 2026-10-12 | — | 9673 |
+| 2026-10-12_buddy_android_adapter_trial.md | sanji | 2026-10-12 | — | 9178 |
 | 2026-10-12_cairn_continuity_reconciliation.md | sanji | 2026-10-12 | A | 7943 |
 | 2026-10-12_cairn_run_state_recovery.md | sanji | 2026-10-12 | A | 2875 |
 | 2026-10-12_cairn_scope_proposal_and_authority_recovery.md | sanji | 2026-10-12 | A | 4402 |
+| 2026-10-12_capability_acquisition_retention.md | sanji | 2026-10-12 | — | 9260 |
+| 2026-10-12_capability_engineering_intake.md | sanji | 2026-10-12 | — | 7791 |
 | 2026-10-12_chat_entry_pictures.md | sanji | 2026-10-12 | — | 8733 |
 | 2026-10-12_chat_research_redesign.md | sanji | 2026-10-12 | — | 14399 |
+| 2026-10-12_chat_research_review_recovery.md | sanji | 2026-10-12 | — | 7418 |
 | 2026-10-12_codex_activation_and_persisted_hook_review.md | sanji | 2026-10-12 | — | 3616 |
 | 2026-10-12_codex_cli_01621_update.md | sanji | 2026-10-12 | — | 3207 |
 | 2026-10-12_codex_cli_idle_refresh_requested.md | sanji | 2026-10-12 | — | 3969 |
+| 2026-10-12_codex_hook_import_precedence.md | sanji | 2026-10-12 | — | 4577 |
 | 2026-10-12_composed_authority_intake.md | sanji | 2026-10-12 | — | 11023 |
+| 2026-10-12_compute_efficient_ai_theories.md | sanji | 2026-10-12 | — | 5832 |
+| 2026-10-12_compute_efficient_architectures_01a13311.md | sanji | 2026-10-12 | — | 7478 |
 | 2026-10-12_context_weight_adaptation_intake.md | sanji | 2026-10-12 | — | 7224 |
 | 2026-10-12_continuous_engineering_admission_latency.md | sanji | 2026-10-12 | — | 7894 |
 | 2026-10-12_continuous_engineering_append_acceptance.md | sanji | 2026-10-12 | — | 6032 |
@@ -54,7 +76,9 @@
 | 2026-10-12_continuous_engineering_compact_output.md | sanji | 2026-10-12 | — | 6470 |
 | 2026-10-12_continuous_engineering_completion_adoption.md | sanji | 2026-10-12 | — | 9895 |
 | 2026-10-12_continuous_engineering_completion_calibration.md | sanji | 2026-10-12 | — | 11354 |
+| 2026-10-12_continuous_engineering_composed_quota_journal_and_membership.md | sanji | 2026-10-12 | — | 8839 |
 | 2026-10-12_continuous_engineering_delivery_recovery.md | sanji | 2026-10-12 | — | 8320 |
+| 2026-10-12_continuous_engineering_file_tools_quota_and_batch_loading.md | sanji | 2026-10-12 | — | 7311 |
 | 2026-10-12_continuous_engineering_goal_intake.md | sanji | 2026-10-12 | — | 5730 |
 | 2026-10-12_continuous_engineering_identity_acceptance.md | sanji | 2026-10-12 | — | 8061 |
 | 2026-10-12_continuous_engineering_job_cost_view.md | sanji | 2026-10-12 | — | 6458 |
@@ -65,9 +89,11 @@
 | 2026-10-12_continuous_engineering_nonbrowser_cost.md | sanji | 2026-10-12 | — | 7357 |
 | 2026-10-12_continuous_engineering_observer_failure.md | sanji | 2026-10-12 | — | 6953 |
 | 2026-10-12_continuous_engineering_preflight_diagnostics.md | sanji | 2026-10-12 | — | 7948 |
+| 2026-10-12_continuous_engineering_private_transport_and_source_qualification.md | sanji | 2026-10-12 | — | 5969 |
 | 2026-10-12_continuous_engineering_refusal_provenance.md | sanji | 2026-10-12 | — | 5741 |
 | 2026-10-12_continuous_engineering_retained_cost.md | sanji | 2026-10-12 | — | 6567 |
 | 2026-10-12_continuous_engineering_review_completion.md | sanji | 2026-10-12 | — | 9987 |
+| 2026-10-12_continuous_engineering_review_read_cost_and_assurance_scope.md | sanji | 2026-10-12 | — | 7732 |
 | 2026-10-12_continuous_engineering_schema_and_clock_recovery.md | sanji | 2026-10-12 | — | 7865 |
 | 2026-10-12_continuous_engineering_scope_adoption.md | sanji | 2026-10-12 | — | 10997 |
 | 2026-10-12_continuous_engineering_scope_identity.md | sanji | 2026-10-12 | — | 9807 |
@@ -78,6 +104,7 @@
 | 2026-10-12_cosmic_atlas_candidate.md | sanji | 2026-10-12 | — | 8403 |
 | 2026-10-12_cosmic_atlas_data_fidelity_assessment.md | sanji | 2026-10-12 | — | 3484 |
 | 2026-10-12_creative_compose_intake.md | sanji | 2026-10-12 | — | 7578 |
+| 2026-10-12_cross_model_notebook_outcome2.md | sanji | 2026-10-12 | — | 4437 |
 | 2026-10-12_current_attention_and_retained_outcome_cost.md | sanji | 2026-10-12 | — | 2958 |
 | 2026-10-12_current_executor_planning_guard.md | sanji | 2026-10-12 | — | 5169 |
 | 2026-10-12_developmental_software_execution_wave1.md | sanji | 2026-10-12 | — | 13643 |
@@ -89,6 +116,7 @@
 | 2026-10-12_environment_delivery_guarded_handoff.md | sanji | 2026-10-12 | — | 5807 |
 | 2026-10-12_environment_delivery_study.md | sanji | 2026-10-12 | — | 6103 |
 | 2026-10-12_environment_delivery_study_completion.md | sanji | 2026-10-12 | — | 4872 |
+| 2026-10-12_era_executable_research_trial.md | sanji | 2026-10-12 | — | 5593 |
 | 2026-10-12_experiment003_continuation_audit.md | sanji | 2026-10-12 | — | 6556 |
 | 2026-10-12_experiment_002_automatic_recovery.md | sanji | 2026-10-12 | — | 6830 |
 | 2026-10-12_experiment_002_controlled_probes.md | sanji | 2026-10-12 | — | 9393 |
@@ -98,6 +126,7 @@
 | 2026-10-12_experiment_002_output_recovery.md | sanji | 2026-10-12 | — | 10958 |
 | 2026-10-12_explanation_sufficiency_execution.md | sanji | 2026-10-12 | — | 7036 |
 | 2026-10-12_explanation_sufficiency_intake.md | sanji | 2026-10-12 | — | 7846 |
+| 2026-10-12_fireship_wajoP_5Cpw8_analysis.md | sanji | 2026-10-12 | — | 4950 |
 | 2026-10-12_foldspace_direct_drawing.md | sanji | 2026-10-12 | — | 6686 |
 | 2026-10-12_foldspace_gameplay_direction.md | sanji | 2026-10-12 | — | 7132 |
 | 2026-10-12_foldspace_last_light_chapter.md | sanji | 2026-10-12 | — | 9073 |
@@ -118,6 +147,7 @@
 | 2026-10-12_glee_chat_workspace.md | sanji | 2026-10-12 | — | 5967 |
 | 2026-10-12_glee_observatory.md | sanji | 2026-10-12 | — | 6229 |
 | 2026-10-12_gleedex_crew_entrypoint.md | sanji | 2026-10-12 | — | 7296 |
+| 2026-10-12_google_research_video_dxq-3pimV-E.md | sanji | 2026-10-12 | — | 8765 |
 | 2026-10-12_homepage_art_restoration.md | sanji | 2026-10-12 | — | 10055 |
 | 2026-10-12_homepage_chat_access.md | sanji | 2026-10-12 | — | 1851 |
 | 2026-10-12_host_memory_swap_heat_investigation.md | sanji | 2026-10-12 | — | 8960 |
@@ -128,6 +158,9 @@
 | 2026-10-12_jev_ordinary_work_feedback.md | sanji | 2026-10-12 | — | 6372 |
 | 2026-10-12_jev_production_cadence.md | sanji | 2026-10-12 | — | 8653 |
 | 2026-10-12_lecture_continuity_intake.md | sanji | 2026-10-12 | — | 8249 |
+| 2026-10-12_limited_compute_capability_strategy.md | sanji | 2026-10-12 | — | 7968 |
+| 2026-10-12_living_core_execution.md | sanji | 2026-10-12 | — | 6219 |
+| 2026-10-12_living_core_intake.md | sanji | 2026-10-12 | — | 7790 |
 | 2026-10-12_living_meaning_brief003.md | sanji | 2026-10-12 | — | 7219 |
 | 2026-10-12_living_meaning_research_intake.md | sanji | 2026-10-12 | — | 6420 |
 | 2026-10-12_local_model_scout_intake.md | sanji | 2026-10-12 | — | 9729 |
@@ -140,6 +173,8 @@
 | 2026-10-12_math_perspective_intake.md | sanji | 2026-10-12 | — | 8681 |
 | 2026-10-12_math_presentation_followup.md | sanji | 2026-10-12 | — | 6999 |
 | 2026-10-12_math_website_presentation.md | sanji | 2026-10-12 | — | 9088 |
+| 2026-10-12_model_forge_intake.md | sanji | 2026-10-12 | — | 9577 |
+| 2026-10-12_model_forge_measurement.md | sanji | 2026-10-12 | — | 6406 |
 | 2026-10-12_modifiable_specialist_ai_editable_snapshot.md | sanji | 2026-10-12 | — | 6155 |
 | 2026-10-12_modifiable_specialist_ai_wave1.md | sanji | 2026-10-12 | — | 6755 |
 | 2026-10-12_modifiable_specialist_ai_waves2_4.md | sanji | 2026-10-12 | — | 5561 |
@@ -152,6 +187,11 @@
 | 2026-10-12_niche_viability_intake.md | sanji | 2026-10-12 | — | 8982 |
 | 2026-10-12_normal_continuation_comparison.md | sanji | 2026-10-12 | — | 6239 |
 | 2026-10-12_object_world_and_responsive_control_intake.md | sanji | 2026-10-12 | — | 7370 |
+| 2026-10-12_old_work_ai_lab_comparison_revival.md | sanji | 2026-10-12 | A | 4995 |
+| 2026-10-12_old_work_ai_lab_stream_revival.md | sanji | 2026-10-12 | A | 6367 |
+| 2026-10-12_old_work_context_hygiene_revival.md | sanji | 2026-10-12 | A | 8421 |
+| 2026-10-12_old_work_context_pressure_guard.md | sanji | 2026-10-12 | A | 3737 |
+| 2026-10-12_old_work_remaining_candidate_qualification.md | sanji | 2026-10-12 | A | 4139 |
 | 2026-10-12_opencode_supervised_orchestration.md | sanji | 2026-10-12 | — | 6399 |
 | 2026-10-12_operate_integrated_specialist_workflow_with_durable_feedback_G0YK4P_receipt.md | sanji | 2026-10-12 | — | 4132 |
 | 2026-10-12_overview_effekt_relativistic_intake.md | sanji | 2026-10-12 | — | 6117 |
@@ -167,47 +207,7 @@
 | 2026-10-12_private_environment_tools_reused.md | sanji | 2026-10-12 | A | 4886 |
 | 2026-10-12_private_json_lines_structure_held.md | sanji | 2026-10-12 | A | 7339 |
 | 2026-10-12_private_module_initializer_comparison_qualified.md | sanji | 2026-10-12 | A | 6904 |
-| 2026-10-12_private_xml_and_seven_recoveries_qualified.md | sanji | 2026-10-12 | A | 7068 |
-| 2026-10-12_purposeful_art_study.md | sanji | 2026-10-12 | — | 8720 |
-| 2026-10-12_readonly_preflight_decision.md | sanji | 2026-10-12 | — | 5329 |
-| 2026-10-12_representation_operations_intake.md | sanji | 2026-10-12 | — | 9407 |
-| 2026-10-12_research_discovery_003_intake.md | sanji | 2026-10-12 | — | 7701 |
-| 2026-10-12_resource_pressure_investigation.md | sanji | 2026-10-12 | A | 4657 |
-| 2026-10-12_retained_calendar_intake.md | sanji | 2026-10-12 | — | 10118 |
-| 2026-10-12_river_native_test.md | sanji | 2026-10-12 | — | 4938 |
-| 2026-10-12_shared_chat_tools.md | sanji | 2026-10-12 | — | 10346 |
-| 2026-10-12_sol_automatic_context.md | sanji | 2026-10-12 | — | 7171 |
-| 2026-10-12_sol_long_context.md | sanji | 2026-10-12 | — | 4347 |
-| 2026-10-12_specialist_ai_structural_advantages_intake.md | sanji | 2026-10-12 | — | 6587 |
-| 2026-10-12_specialist_macro_execution.md | sanji | 2026-10-12 | — | 6367 |
-| 2026-10-12_steering_context_admission_recovered.md | sanji | 2026-10-12 | — | 4630 |
-| 2026-10-12_steering_context_execution_started.md | sanji | 2026-10-12 | — | 3478 |
-| 2026-10-12_steering_context_mechanism_audited.md | sanji | 2026-10-12 | — | 3646 |
-| 2026-10-12_steering_context_scenarios.md | sanji | 2026-10-12 | — | 2740 |
-| 2026-10-12_steering_disagreement_pilot.md | sanji | 2026-10-12 | — | 2505 |
-| 2026-10-12_steering_disagreement_started.md | sanji | 2026-10-12 | — | 3967 |
-| 2026-10-12_steering_discovery_pilot.md | sanji | 2026-10-12 | — | 4006 |
-| 2026-10-12_steering_discovery_transport_recovery.md | sanji | 2026-10-12 | — | 3779 |
-| 2026-10-12_steering_horizon_pilot.md | sanji | 2026-10-12 | — | 4017 |
-| 2026-10-12_steering_horizon_started.md | sanji | 2026-10-12 | — | 1132 |
-| 2026-10-12_symbolic_environment_review.md | sanji | 2026-10-12 | — | 4953 |
-| 2026-10-12_terminal_conflict_capacity_repair.md | sanji | 2026-10-12 | — | 13817 |
-| 2026-10-12_tft_fast_queue_control_and_live_resume.md | sanji | 2026-10-12 | — | 8649 |
-| 2026-10-12_tft_fix_all_captain.md | sanji | 2026-10-12 | — | 12986 |
-| 2026-10-12_tft_independent_system_intent.md | sanji | 2026-10-12 | — | 7369 |
-| 2026-10-12_tft_meaningful_fast_gameplay.md | sanji | 2026-10-12 | — | 10292 |
-| 2026-10-12_tft_mobile_week_feasibility.md | sanji | 2026-10-12 | — | 3912 |
-| 2026-10-12_tft_phone_control_and_jev_latency.md | sanji | 2026-10-12 | — | 10387 |
-| 2026-10-12_tft_phone_reboot_readiness_and_recovery.md | sanji | 2026-10-12 | — | 7822 |
-| 2026-10-12_tft_phone_stall_recovery.md | sanji | 2026-10-12 | — | 4602 |
-| 2026-10-12_tft_retained_learning_intake.md | sanji | 2026-10-12 | — | 13886 |
-| 2026-10-12_tft_traits_shop_captain_correction.md | sanji | 2026-10-12 | — | 7405 |
-| 2026-10-12_theory_learning_carrier_qualification.md | sanji | 2026-10-12 | — | 3092 |
-| 2026-10-12_theory_learning_compiler_kernel.md | sanji | 2026-10-12 | — | 6210 |
-| 2026-10-12_theory_learning_constructive_carrier.md | sanji | 2026-10-12 | — | 3171 |
-| 2026-10-12_theory_learning_count_and_real_software.md | sanji | 2026-10-12 | — | 4204 |
-| 2026-10-12_theory_learning_final_count_carrier.md | sanji | 2026-10-12 | — | 3169 |
-| _(+21890 more — see full manifest JSON)_ | | | | |
+| _(+21936 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
