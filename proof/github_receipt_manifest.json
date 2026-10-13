@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 22136,
+  "total_receipts": 22146,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -157404,12 +157404,84 @@
       "size_bytes": 7791
     },
     {
+      "file_name": "2026-10-13_ai_runtime_theories_author_build.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_ai_runtime_theories_author_build.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 2643
+    },
+    {
+      "file_name": "2026-10-13_ai_runtime_theories_executable_library.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_ai_runtime_theories_executable_library.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 8547
+    },
+    {
+      "file_name": "2026-10-13_ai_runtime_theories_geometric_incumbent.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_ai_runtime_theories_geometric_incumbent.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 7635
+    },
+    {
+      "file_name": "2026-10-13_ai_runtime_theories_incremental_acquisition.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_ai_runtime_theories_incremental_acquisition.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 6027
+    },
+    {
+      "file_name": "2026-10-13_ai_runtime_theories_probability_guidance.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_ai_runtime_theories_probability_guidance.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 5901
+    },
+    {
+      "file_name": "2026-10-13_ai_runtime_theories_verified_execution.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_ai_runtime_theories_verified_execution.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 6597
+    },
+    {
       "file_name": "2026-10-13_continuous_engineering_assurance_repairs_and_native_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-13_continuous_engineering_assurance_repairs_and_native_recovery.md",
       "date": "2026-10-13",
       "tier": null,
       "size_bytes": 12891
+    },
+    {
+      "file_name": "2026-10-13_continuous_engineering_default_replay_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_continuous_engineering_default_replay_integrity.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 10692
+    },
+    {
+      "file_name": "2026-10-13_continuous_engineering_native_catalog_private_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_continuous_engineering_native_catalog_private_repair.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 6488
+    },
+    {
+      "file_name": "2026-10-13_continuous_engineering_native_review_and_catalog_drift.md",
+      "home": "sanji",
+      "rel_path": "2026-10-13_continuous_engineering_native_review_and_catalog_drift.md",
+      "date": "2026-10-13",
+      "tier": null,
+      "size_bytes": 6428
     },
     {
       "file_name": "2026-10-13_prepared_multi_offer_experiment.md",
@@ -176426,6 +176498,14 @@
       "date": "2026-10-12",
       "tier": "B",
       "size_bytes": 8109
+    },
+    {
+      "file_name": "2026-10-13_ROBIN_LIVING_MEANING_BRIEF_04_RECEIPT.md",
+      "home": "robin",
+      "rel_path": "2026-10-13_ROBIN_LIVING_MEANING_BRIEF_04_RECEIPT.md",
+      "date": "2026-10-13",
+      "tier": "B",
+      "size_bytes": 2486
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
