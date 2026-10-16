@@ -1,19 +1,74 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-16T06:41:14.151385+00:00
-> Total receipts indexed: 22692
+> Last updated: 2026-10-16T12:41:14.390677+00:00
+> Total receipts indexed: 22747
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
 | 2026-10-16_completed_child_disconnect_attribution.md | zoro | 2026-10-16 | A | 8940 |
+| 2026-10-16_rsi_stack_paste_intake_hdc001.md | zoro | 2026-10-16 | A | 7214 |
+| 2026-10-16_sanji_exact_route_recheck_0915.md | zoro | 2026-10-16 | A | 8261 |
 | 2026-10-16_sanji_host_and_notification_recovery.md | zoro | 2026-10-16 | B | 11704 |
-| 2026-10-16_macro_projection_producer_consumers.md | sanji | 2026-10-16 | — | 7894 |
+| 2026-10-16_sanji_source21_23_independent_review.md | zoro | 2026-10-16 | A | 6113 |
+| 2026-10-16_agentic_scientist_intake.md | sanji | 2026-10-16 | — | 8084 |
+| 2026-10-16_ai_school_distributed_intake.md | sanji | 2026-10-16 | — | 8058 |
+| 2026-10-16_autonomous_research035.md | sanji | 2026-10-16 | — | 3178 |
+| 2026-10-16_autonomous_research036.md | sanji | 2026-10-16 | — | 3642 |
+| 2026-10-16_autonomous_research037.md | sanji | 2026-10-16 | — | 3586 |
+| 2026-10-16_autonomous_research038.md | sanji | 2026-10-16 | — | 3784 |
+| 2026-10-16_autonomous_research039.md | sanji | 2026-10-16 | — | 3745 |
+| 2026-10-16_autonomous_research040.md | sanji | 2026-10-16 | — | 4656 |
+| 2026-10-16_autonomous_research041_start.md | sanji | 2026-10-16 | — | 2142 |
+| 2026-10-16_canada_public_administration_intake.md | sanji | 2026-10-16 | — | 7165 |
+| 2026-10-16_canadian_capacity_continuation.md | sanji | 2026-10-16 | — | 7759 |
+| 2026-10-16_canadian_coordination_comparison.md | sanji | 2026-10-16 | — | 6257 |
+| 2026-10-16_canadian_coordination_evidence.md | sanji | 2026-10-16 | — | 5530 |
+| 2026-10-16_canadian_dairy_case.md | sanji | 2026-10-16 | — | 5728 |
+| 2026-10-16_canadian_household_bridge.md | sanji | 2026-10-16 | — | 6555 |
+| 2026-10-16_canadian_industry_baseline.md | sanji | 2026-10-16 | — | 6148 |
+| 2026-10-16_canadian_national_requirements.md | sanji | 2026-10-16 | — | 6056 |
+| 2026-10-16_canadian_robot_adoption_evidence.md | sanji | 2026-10-16 | — | 6208 |
+| 2026-10-16_capability_followthrough_blocked_audit.md | sanji | 2026-10-16 | — | 8384 |
+| 2026-10-16_capability_followthrough_canonical_source.md | sanji | 2026-10-16 | — | 8741 |
+| 2026-10-16_capability_followthrough_resident_boundary.md | sanji | 2026-10-16 | — | 9480 |
+| 2026-10-16_compositional_safety_intake.md | sanji | 2026-10-16 | — | 4558 |
+| 2026-10-16_continual_learning_intake.md | sanji | 2026-10-16 | — | 4931 |
+| 2026-10-16_coordination_capital_intake.md | sanji | 2026-10-16 | — | 7495 |
+| 2026-10-16_credential_lifecycle_metadata_controls.md | sanji | 2026-10-16 | A | 8075 |
+| 2026-10-16_credential_metadata_monitor_activation.md | sanji | 2026-10-16 | A | 8519 |
+| 2026-10-16_encountered_issues_repair.md | sanji | 2026-10-16 | — | 6699 |
+| 2026-10-16_global_compute_comparison.md | sanji | 2026-10-16 | — | 9945 |
+| 2026-10-16_global_compute_comparison_progress.md | sanji | 2026-10-16 | — | 7169 |
+| 2026-10-16_global_compute_intake.md | sanji | 2026-10-16 | — | 7132 |
+| 2026-10-16_institutional_engineering_intake.md | sanji | 2026-10-16 | — | 6546 |
+| 2026-10-16_macro_acceptance_recovery.md | sanji | 2026-10-16 | — | 2531 |
+| 2026-10-16_macro_binding_adoption_readiness.md | sanji | 2026-10-16 | — | 3533 |
+| 2026-10-16_macro_checkpoint_composition.md | sanji | 2026-10-16 | — | 3033 |
+| 2026-10-16_macro_evidence_publication.md | sanji | 2026-10-16 | — | 4382 |
+| 2026-10-16_macro_http_workflow_composition.md | sanji | 2026-10-16 | — | 2060 |
+| 2026-10-16_macro_objective_binding_identity.md | sanji | 2026-10-16 | — | 6611 |
+| 2026-10-16_macro_projection_producer_consumers.md | sanji | 2026-10-16 | — | 2960 |
+| 2026-10-16_macro_writer_rollback.md | sanji | 2026-10-16 | — | 3246 |
+| 2026-10-16_native_delivery_receipt_pull_01a14410.md | sanji | 2026-10-16 | A | 4803 |
+| 2026-10-16_price_of_freedom.md | sanji | 2026-10-16 | — | 9150 |
 | 2026-10-16_provider_admission_custody_final.md | sanji | 2026-10-16 | A | 10368 |
 | 2026-10-16_provider_credential_incident_clarification.md | sanji | 2026-10-16 | A | 6927 |
+| 2026-10-16_provider_independence_intake.md | sanji | 2026-10-16 | — | 5227 |
 | 2026-10-16_provider_resource_repairs.md | sanji | 2026-10-16 | A | 6163 |
 | 2026-10-16_provider_runtime_followup.md | sanji | 2026-10-16 | A | 5862 |
+| 2026-10-16_research_control_recovery47ca.md | sanji | 2026-10-16 | — | 2912 |
+| 2026-10-16_resource_responsibility_architecture.md | sanji | 2026-10-16 | — | 6834 |
+| 2026-10-16_scientific_ideation_calibration_ceiling.md | sanji | 2026-10-16 | — | 2766 |
+| 2026-10-16_scientific_ideation_intake.md | sanji | 2026-10-16 | — | 7897 |
+| 2026-10-16_scientific_ideation_recovery_binding.md | sanji | 2026-10-16 | — | 4282 |
+| 2026-10-16_scientific_ideation_release_transition.md | sanji | 2026-10-16 | — | 3084 |
+| 2026-10-16_scientific_ideation_study_preparation.md | sanji | 2026-10-16 | — | 8308 |
+| 2026-10-16_true_north_history.md | sanji | 2026-10-16 | — | 8351 |
+| 2026-10-16_true_north_origins.md | sanji | 2026-10-16 | — | 5768 |
+| 2026-10-16_vghost_intake.md | sanji | 2026-10-16 | — | 4264 |
+| 2026-10-16_ROBIN_LIVING_MEANING_BRIEF_07_RECEIPT.md | robin | 2026-10-16 | B | 2756 |
 | 2026-10-15_archlab_architecture_lab.md | zoro | 2026-10-15 | — | 12600 |
 | 2026-10-15_autonomy_kernel_verify_repair.md | zoro | 2026-10-15 | — | 14434 |
 | 2026-10-15_context_reset_v2_migration.md | zoro | 2026-10-15 | — | 3749 |
@@ -152,62 +207,7 @@
 | 2026-10-15_lm004_temporal_evidence.md | sanji | 2026-10-15 | — | 7159 |
 | 2026-10-15_lm004_utility_qualification.md | sanji | 2026-10-15 | — | 6180 |
 | 2026-10-15_local_model_scout_intake.md | sanji | 2026-10-15 | — | 9009 |
-| 2026-10-15_macro_actual_effect_closure.md | sanji | 2026-10-15 | — | 3781 |
-| 2026-10-15_macro_assessment_source_refresh.md | sanji | 2026-10-15 | — | 6529 |
-| 2026-10-15_macro_authority_execution_join.md | sanji | 2026-10-15 | — | 6004 |
-| 2026-10-15_macro_frozen_contract_join.md | sanji | 2026-10-15 | — | 2611 |
-| 2026-10-15_macro_host_execution_lease.md | sanji | 2026-10-15 | — | 3740 |
-| 2026-10-15_macro_host_handoff_boundaries.md | sanji | 2026-10-15 | — | 8312 |
-| 2026-10-15_macro_instance_claim_fence.md | sanji | 2026-10-15 | — | 4957 |
-| 2026-10-15_macro_invocation_custody.md | sanji | 2026-10-15 | — | 6104 |
-| 2026-10-15_macro_nondispatch_settlement_prototype.md | sanji | 2026-10-15 | — | 4149 |
-| 2026-10-15_macro_nondispatch_source_recovery.md | sanji | 2026-10-15 | — | 6113 |
-| 2026-10-15_macro_operation_scoped_nondispatch.md | sanji | 2026-10-15 | — | 5468 |
-| 2026-10-15_macro_preflight_roles.md | sanji | 2026-10-15 | — | 6209 |
-| 2026-10-15_macro_qualification_evidence.md | sanji | 2026-10-15 | — | 3664 |
-| 2026-10-15_macro_recovery_coherence.md | sanji | 2026-10-15 | — | 4537 |
-| 2026-10-15_macro_request_resource_joins.md | sanji | 2026-10-15 | — | 4982 |
-| 2026-10-15_macro_runtime_evidence.md | sanji | 2026-10-15 | — | 8497 |
-| 2026-10-15_macro_snapshot_custody.md | sanji | 2026-10-15 | — | 6224 |
-| 2026-10-15_macro_systems_interactions.md | sanji | 2026-10-15 | — | 4108 |
-| 2026-10-15_macro_task_provenance.md | sanji | 2026-10-15 | — | 3785 |
-| 2026-10-15_macro_terminal_reservation_reconciliation.md | sanji | 2026-10-15 | — | 7852 |
-| 2026-10-15_measured_self_improvement.md | sanji | 2026-10-15 | — | 4715 |
-| 2026-10-15_native_compute_release_proof.md | sanji | 2026-10-15 | A | 10713 |
-| 2026-10-15_opencode_execution_continuity.md | sanji | 2026-10-15 | — | 4633 |
-| 2026-10-15_opencode_macro_lineage.md | sanji | 2026-10-15 | — | 4194 |
-| 2026-10-15_post_inference_handoff.md | sanji | 2026-10-15 | — | 2700 |
-| 2026-10-15_reasoned_collaboration.md | sanji | 2026-10-15 | — | 8426 |
-| 2026-10-15_reddit_iofnmw1qi7_access.md | sanji | 2026-10-15 | — | 2184 |
-| 2026-10-15_research_brief006_intake.md | sanji | 2026-10-15 | — | 5678 |
-| 2026-10-15_research_control_recovery47ca.md | sanji | 2026-10-15 | — | 2406 |
-| 2026-10-15_research_funding_intake.md | sanji | 2026-10-15 | — | 9179 |
-| 2026-10-15_research_partnerships_intake.md | sanji | 2026-10-15 | — | 7948 |
-| 2026-10-15_research_partnerships_review.md | sanji | 2026-10-15 | — | 9341 |
-| 2026-10-15_reset_readiness_recovery_repairs.md | sanji | 2026-10-15 | — | 9250 |
-| 2026-10-15_resident_copy_review_calibration.md | sanji | 2026-10-15 | — | 8317 |
-| 2026-10-15_resident_copy_verification.md | sanji | 2026-10-15 | — | 7931 |
-| 2026-10-15_resource_blocker_diagnosis_repair.md | sanji | 2026-10-15 | — | 5459 |
-| 2026-10-15_resource_lifecycle_claim_teardown.md | sanji | 2026-10-15 | A | 9186 |
-| 2026-10-15_resource_lifecycle_e2e_acceptance.md | sanji | 2026-10-15 | A | 11020 |
-| 2026-10-15_resource_production_path_acceptance.md | sanji | 2026-10-15 | A | 10578 |
-| 2026-10-15_runpod_endpoint_cadence_readonly.md | sanji | 2026-10-15 | A | 7856 |
-| 2026-10-15_subtle_glee_defects.md | sanji | 2026-10-15 | — | 4948 |
-| 2026-10-15_systemic_delivery_campaign.md | sanji | 2026-10-15 | — | 8230 |
-| 2026-10-15_web_capability_compounding.md | sanji | 2026-10-15 | — | 5609 |
-| 2026-10-15_website_estate_audit.md | sanji | 2026-10-15 | — | 5784 |
-| 2026-10-15_website_usefulness.md | sanji | 2026-10-15 | — | 13698 |
-| 2026-10-15_weightless_synthesis_intake.md | sanji | 2026-10-15 | — | 6174 |
-| 2026-10-15_ROBIN_LIVING_MEANING_BRIEF_06_RECEIPT.md | robin | 2026-10-15 | B | 2588 |
-| 2026-10-14_agent_adoption_preview.md | sanji | 2026-10-14 | — | 7397 |
-| 2026-10-14_agent_run_recovery_binding_01a13867.md | sanji | 2026-10-14 | — | 3182 |
-| 2026-10-14_ai_native_project_platform_wave01.md | sanji | 2026-10-14 | — | 6734 |
-| 2026-10-14_ai_native_project_platform_wave02.md | sanji | 2026-10-14 | — | 13257 |
-| 2026-10-14_ai_native_project_platform_wave03.md | sanji | 2026-10-14 | — | 7149 |
-| 2026-10-14_ai_native_project_platform_wave04.md | sanji | 2026-10-14 | — | 9839 |
-| 2026-10-14_ai_native_project_platform_wave05.md | sanji | 2026-10-14 | — | 9093 |
-| 2026-10-14_ai_native_project_platform_wave06.md | sanji | 2026-10-14 | — | 7591 |
-| _(+22492 more — see full manifest JSON)_ | | | | |
+| _(+22547 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
