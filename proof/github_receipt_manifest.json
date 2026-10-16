@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 22747,
+  "total_receipts": 22787,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -161828,6 +161828,14 @@
       "size_bytes": 6174
     },
     {
+      "file_name": "2026-10-16_agent_adoption_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_agent_adoption_identity.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6416
+    },
+    {
       "file_name": "2026-10-16_agentic_scientist_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-16_agentic_scientist_intake.md",
@@ -161842,6 +161850,14 @@
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 8058
+    },
+    {
+      "file_name": "2026-10-16_ai_school_update.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_ai_school_update.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 7691
     },
     {
       "file_name": "2026-10-16_autonomous_research035.md",
@@ -161892,12 +161908,84 @@
       "size_bytes": 4656
     },
     {
+      "file_name": "2026-10-16_autonomous_research041.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research041.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4790
+    },
+    {
       "file_name": "2026-10-16_autonomous_research041_start.md",
       "home": "sanji",
       "rel_path": "2026-10-16_autonomous_research041_start.md",
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 2142
+    },
+    {
+      "file_name": "2026-10-16_autonomous_research042.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research042.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6508
+    },
+    {
+      "file_name": "2026-10-16_autonomous_research043.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research043.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 8069
+    },
+    {
+      "file_name": "2026-10-16_autonomous_research044.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research044.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6224
+    },
+    {
+      "file_name": "2026-10-16_autonomous_research045.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research045.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4606
+    },
+    {
+      "file_name": "2026-10-16_autonomous_research046.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research046.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4313
+    },
+    {
+      "file_name": "2026-10-16_autonomous_research047.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research047.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4973
+    },
+    {
+      "file_name": "2026-10-16_autonomous_research048.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_autonomous_research048.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 2922
+    },
+    {
+      "file_name": "2026-10-16_boundary_discovery_effect_information_identity_monitor.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_boundary_discovery_effect_information_identity_monitor.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 7733
     },
     {
       "file_name": "2026-10-16_canada_public_administration_intake.md",
@@ -161914,6 +162002,30 @@
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 7759
+    },
+    {
+      "file_name": "2026-10-16_canadian_construction_case.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_construction_case.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6488
+    },
+    {
+      "file_name": "2026-10-16_canadian_construction_measurement_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_construction_measurement_followup.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 5286
+    },
+    {
+      "file_name": "2026-10-16_canadian_construction_public_reproducibility.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_construction_public_reproducibility.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6669
     },
     {
       "file_name": "2026-10-16_canadian_coordination_comparison.md",
@@ -161940,12 +162052,68 @@
       "size_bytes": 5728
     },
     {
+      "file_name": "2026-10-16_canadian_empirical_calibration_search.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_empirical_calibration_search.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 5877
+    },
+    {
+      "file_name": "2026-10-16_canadian_energy_capacity_benchmark.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_energy_capacity_benchmark.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6872
+    },
+    {
+      "file_name": "2026-10-16_canadian_energy_public_update.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_energy_public_update.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6625
+    },
+    {
+      "file_name": "2026-10-16_canadian_experiment_priorities.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_experiment_priorities.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6749
+    },
+    {
+      "file_name": "2026-10-16_canadian_feasibility_decision_ledger.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_feasibility_decision_ledger.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6838
+    },
+    {
       "file_name": "2026-10-16_canadian_household_bridge.md",
       "home": "sanji",
       "rel_path": "2026-10-16_canadian_household_bridge.md",
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 6555
+    },
+    {
+      "file_name": "2026-10-16_canadian_independent_capability_map.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_independent_capability_map.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6882
+    },
+    {
+      "file_name": "2026-10-16_canadian_industrial_energy_case.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_industrial_energy_case.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 5889
     },
     {
       "file_name": "2026-10-16_canadian_industry_baseline.md",
@@ -161956,6 +162124,22 @@
       "size_bytes": 6148
     },
     {
+      "file_name": "2026-10-16_canadian_manufacturing_energy_bridge.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_manufacturing_energy_bridge.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6821
+    },
+    {
+      "file_name": "2026-10-16_canadian_national_portfolio_bridge.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_national_portfolio_bridge.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 9723
+    },
+    {
       "file_name": "2026-10-16_canadian_national_requirements.md",
       "home": "sanji",
       "rel_path": "2026-10-16_canadian_national_requirements.md",
@@ -161964,12 +162148,44 @@
       "size_bytes": 6056
     },
     {
+      "file_name": "2026-10-16_canadian_ontario_resource_screen.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_ontario_resource_screen.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6652
+    },
+    {
+      "file_name": "2026-10-16_canadian_production_input_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_production_input_contract.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6960
+    },
+    {
+      "file_name": "2026-10-16_canadian_release_source_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_release_source_binding.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 8292
+    },
+    {
       "file_name": "2026-10-16_canadian_robot_adoption_evidence.md",
       "home": "sanji",
       "rel_path": "2026-10-16_canadian_robot_adoption_evidence.md",
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 6208
+    },
+    {
+      "file_name": "2026-10-16_canadian_ui_verifier_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_canadian_ui_verifier_recovery.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4841
     },
     {
       "file_name": "2026-10-16_capability_followthrough_blocked_audit.md",
@@ -161996,6 +162212,14 @@
       "size_bytes": 9480
     },
     {
+      "file_name": "2026-10-16_capability_resident_unblock.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_capability_resident_unblock.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 9777
+    },
+    {
       "file_name": "2026-10-16_compositional_safety_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-16_compositional_safety_intake.md",
@@ -162010,6 +162234,14 @@
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 4931
+    },
+    {
+      "file_name": "2026-10-16_contribution_log_20261015_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_contribution_log_20261015_intake.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 8985
     },
     {
       "file_name": "2026-10-16_coordination_capital_intake.md",
@@ -162076,6 +162308,30 @@
       "size_bytes": 6546
     },
     {
+      "file_name": "2026-10-16_living_meaning_brief007.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_living_meaning_brief007.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 7622
+    },
+    {
+      "file_name": "2026-10-16_living_meaning_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_living_meaning_intake.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6700
+    },
+    {
+      "file_name": "2026-10-16_local_model_scout_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_local_model_scout_intake.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 7019
+    },
+    {
       "file_name": "2026-10-16_macro_acceptance_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-16_macro_acceptance_recovery.md",
@@ -162090,6 +162346,14 @@
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 3533
+    },
+    {
+      "file_name": "2026-10-16_macro_caller_metadata_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_macro_caller_metadata_readiness.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 3165
     },
     {
       "file_name": "2026-10-16_macro_checkpoint_composition.md",
@@ -162116,6 +162380,22 @@
       "size_bytes": 2060
     },
     {
+      "file_name": "2026-10-16_macro_legacy_admission.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_macro_legacy_admission.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4164
+    },
+    {
+      "file_name": "2026-10-16_macro_metadata_transport_operated.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_macro_metadata_transport_operated.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 9675
+    },
+    {
       "file_name": "2026-10-16_macro_objective_binding_identity.md",
       "home": "sanji",
       "rel_path": "2026-10-16_macro_objective_binding_identity.md",
@@ -162124,12 +162404,36 @@
       "size_bytes": 6611
     },
     {
+      "file_name": "2026-10-16_macro_paired_rollout.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_macro_paired_rollout.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4373
+    },
+    {
       "file_name": "2026-10-16_macro_projection_producer_consumers.md",
       "home": "sanji",
       "rel_path": "2026-10-16_macro_projection_producer_consumers.md",
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 2960
+    },
+    {
+      "file_name": "2026-10-16_macro_row_local_rollout.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_macro_row_local_rollout.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 3741
+    },
+    {
+      "file_name": "2026-10-16_macro_writer_launch_generation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_macro_writer_launch_generation.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 5768
     },
     {
       "file_name": "2026-10-16_macro_writer_rollback.md",
@@ -162196,6 +162500,14 @@
       "size_bytes": 5862
     },
     {
+      "file_name": "2026-10-16_research_brief007_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_research_brief007_intake.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 6825
+    },
+    {
       "file_name": "2026-10-16_research_control_recovery47ca.md",
       "home": "sanji",
       "rel_path": "2026-10-16_research_control_recovery47ca.md",
@@ -162250,6 +162562,14 @@
       "date": "2026-10-16",
       "tier": null,
       "size_bytes": 8308
+    },
+    {
+      "file_name": "2026-10-16_scientific_workflow_main.md",
+      "home": "sanji",
+      "rel_path": "2026-10-16_scientific_workflow_main.md",
+      "date": "2026-10-16",
+      "tier": null,
+      "size_bytes": 4294
     },
     {
       "file_name": "2026-10-16_true_north_history.md",
