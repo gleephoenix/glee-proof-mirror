@@ -1,12 +1,19 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-16T00:41:09.749292+00:00
-> Total receipts indexed: 22665
+> Last updated: 2026-10-16T06:41:14.151385+00:00
+> Total receipts indexed: 22692
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-16_completed_child_disconnect_attribution.md | zoro | 2026-10-16 | A | 8940 |
+| 2026-10-16_sanji_host_and_notification_recovery.md | zoro | 2026-10-16 | B | 11704 |
+| 2026-10-16_macro_projection_producer_consumers.md | sanji | 2026-10-16 | — | 7894 |
+| 2026-10-16_provider_admission_custody_final.md | sanji | 2026-10-16 | A | 10368 |
+| 2026-10-16_provider_credential_incident_clarification.md | sanji | 2026-10-16 | A | 6927 |
+| 2026-10-16_provider_resource_repairs.md | sanji | 2026-10-16 | A | 6163 |
+| 2026-10-16_provider_runtime_followup.md | sanji | 2026-10-16 | A | 5862 |
 | 2026-10-15_archlab_architecture_lab.md | zoro | 2026-10-15 | — | 12600 |
 | 2026-10-15_autonomy_kernel_verify_repair.md | zoro | 2026-10-15 | — | 14434 |
 | 2026-10-15_context_reset_v2_migration.md | zoro | 2026-10-15 | — | 3749 |
@@ -70,7 +77,18 @@
 | 2026-10-15_autonomous_research022.md | sanji | 2026-10-15 | — | 6651 |
 | 2026-10-15_autonomous_research023.md | sanji | 2026-10-15 | — | 5197 |
 | 2026-10-15_autonomous_research024.md | sanji | 2026-10-15 | — | 4825 |
+| 2026-10-15_autonomous_research025.md | sanji | 2026-10-15 | — | 4091 |
+| 2026-10-15_autonomous_research026.md | sanji | 2026-10-15 | — | 4491 |
+| 2026-10-15_autonomous_research027.md | sanji | 2026-10-15 | — | 3271 |
+| 2026-10-15_autonomous_research028.md | sanji | 2026-10-15 | — | 3249 |
+| 2026-10-15_autonomous_research029.md | sanji | 2026-10-15 | — | 3236 |
+| 2026-10-15_autonomous_research030.md | sanji | 2026-10-15 | — | 3210 |
+| 2026-10-15_autonomous_research031.md | sanji | 2026-10-15 | — | 3251 |
+| 2026-10-15_autonomous_research032.md | sanji | 2026-10-15 | — | 3300 |
+| 2026-10-15_autonomous_research033.md | sanji | 2026-10-15 | — | 3328 |
+| 2026-10-15_autonomous_research034.md | sanji | 2026-10-15 | — | 3260 |
 | 2026-10-15_biggest_glee_issues.md | sanji | 2026-10-15 | — | 5435 |
+| 2026-10-15_blocked_copy_review.md | sanji | 2026-10-15 | — | 4895 |
 | 2026-10-15_boundary_discovery_assurance_skill_disclosure.md | sanji | 2026-10-15 | — | 8281 |
 | 2026-10-15_canadian_mobilization_foundation.md | sanji | 2026-10-15 | — | 6222 |
 | 2026-10-15_canadian_productive_capacity.md | sanji | 2026-10-15 | — | 6243 |
@@ -87,6 +105,7 @@
 | 2026-10-15_chainalysis_x402_report_intake.md | sanji | 2026-10-15 | — | 6682 |
 | 2026-10-15_consciousness_mechanisms_intake.md | sanji | 2026-10-15 | — | 9905 |
 | 2026-10-15_contribution_log_20261014_intake.md | sanji | 2026-10-15 | — | 8242 |
+| 2026-10-15_conversation_clear_diagnostic.md | sanji | 2026-10-15 | — | 4257 |
 | 2026-10-15_external_capability_discovery_intake.md | sanji | 2026-10-15 | — | 7000 |
 | 2026-10-15_fleet_execution_reliability.md | sanji | 2026-10-15 | — | 6473 |
 | 2026-10-15_fleet_release_controller_followthrough.md | sanji | 2026-10-15 | — | 70087 |
@@ -133,18 +152,26 @@
 | 2026-10-15_lm004_temporal_evidence.md | sanji | 2026-10-15 | — | 7159 |
 | 2026-10-15_lm004_utility_qualification.md | sanji | 2026-10-15 | — | 6180 |
 | 2026-10-15_local_model_scout_intake.md | sanji | 2026-10-15 | — | 9009 |
+| 2026-10-15_macro_actual_effect_closure.md | sanji | 2026-10-15 | — | 3781 |
 | 2026-10-15_macro_assessment_source_refresh.md | sanji | 2026-10-15 | — | 6529 |
+| 2026-10-15_macro_authority_execution_join.md | sanji | 2026-10-15 | — | 6004 |
 | 2026-10-15_macro_frozen_contract_join.md | sanji | 2026-10-15 | — | 2611 |
 | 2026-10-15_macro_host_execution_lease.md | sanji | 2026-10-15 | — | 3740 |
 | 2026-10-15_macro_host_handoff_boundaries.md | sanji | 2026-10-15 | — | 8312 |
 | 2026-10-15_macro_instance_claim_fence.md | sanji | 2026-10-15 | — | 4957 |
+| 2026-10-15_macro_invocation_custody.md | sanji | 2026-10-15 | — | 6104 |
+| 2026-10-15_macro_nondispatch_settlement_prototype.md | sanji | 2026-10-15 | — | 4149 |
+| 2026-10-15_macro_nondispatch_source_recovery.md | sanji | 2026-10-15 | — | 6113 |
+| 2026-10-15_macro_operation_scoped_nondispatch.md | sanji | 2026-10-15 | — | 5468 |
 | 2026-10-15_macro_preflight_roles.md | sanji | 2026-10-15 | — | 6209 |
 | 2026-10-15_macro_qualification_evidence.md | sanji | 2026-10-15 | — | 3664 |
 | 2026-10-15_macro_recovery_coherence.md | sanji | 2026-10-15 | — | 4537 |
+| 2026-10-15_macro_request_resource_joins.md | sanji | 2026-10-15 | — | 4982 |
 | 2026-10-15_macro_runtime_evidence.md | sanji | 2026-10-15 | — | 8497 |
 | 2026-10-15_macro_snapshot_custody.md | sanji | 2026-10-15 | — | 6224 |
 | 2026-10-15_macro_systems_interactions.md | sanji | 2026-10-15 | — | 4108 |
 | 2026-10-15_macro_task_provenance.md | sanji | 2026-10-15 | — | 3785 |
+| 2026-10-15_macro_terminal_reservation_reconciliation.md | sanji | 2026-10-15 | — | 7852 |
 | 2026-10-15_measured_self_improvement.md | sanji | 2026-10-15 | — | 4715 |
 | 2026-10-15_native_compute_release_proof.md | sanji | 2026-10-15 | A | 10713 |
 | 2026-10-15_opencode_execution_continuity.md | sanji | 2026-10-15 | — | 4633 |
@@ -180,34 +207,7 @@
 | 2026-10-14_ai_native_project_platform_wave04.md | sanji | 2026-10-14 | — | 9839 |
 | 2026-10-14_ai_native_project_platform_wave05.md | sanji | 2026-10-14 | — | 9093 |
 | 2026-10-14_ai_native_project_platform_wave06.md | sanji | 2026-10-14 | — | 7591 |
-| 2026-10-14_ai_native_project_platform_wave07.md | sanji | 2026-10-14 | — | 7308 |
-| 2026-10-14_ai_native_project_platform_wave08.md | sanji | 2026-10-14 | — | 98769 |
-| 2026-10-14_ai_power_withdrawal_intake.md | sanji | 2026-10-14 | — | 8219 |
-| 2026-10-14_app_install_readiness.md | sanji | 2026-10-14 | A | 4110 |
-| 2026-10-14_app_install_readiness_zoro_correction.md | sanji | 2026-10-14 | A | 3608 |
-| 2026-10-14_app_quality_feedback.md | sanji | 2026-10-14 | A | 3219 |
-| 2026-10-14_audit_claude_preparation_boundary_01a13867.md | sanji | 2026-10-14 | — | 4708 |
-| 2026-10-14_audit_owned_review_route_refusal_01a13867.md | sanji | 2026-10-14 | — | 8096 |
-| 2026-10-14_audit_owner_and_review_qualification_01a13867.md | sanji | 2026-10-14 | — | 4662 |
-| 2026-10-14_audit_prepared_context_partition_01a13867.md | sanji | 2026-10-14 | — | 6844 |
-| 2026-10-14_audit_prepared_transport_initialize_01a13867.md | sanji | 2026-10-14 | — | 7026 |
-| 2026-10-14_audit_private_diagnostic_noninterference_01a13867.md | sanji | 2026-10-14 | — | 7919 |
-| 2026-10-14_audit_route_diagnostics_and_closed_successor_01a13867.md | sanji | 2026-10-14 | — | 9847 |
-| 2026-10-14_audit_timeout_lineage_private_qualification_01a13867.md | sanji | 2026-10-14 | — | 7205 |
-| 2026-10-14_autonomous_existence_research_frame.md | sanji | 2026-10-14 | — | 2652 |
-| 2026-10-14_autonomous_existence_review_followthrough.md | sanji | 2026-10-14 | — | 8324 |
-| 2026-10-14_autonomous_research_005_control.md | sanji | 2026-10-14 | — | 7157 |
-| 2026-10-14_autonomous_research_005_execution_closure.md | sanji | 2026-10-14 | — | 2181 |
-| 2026-10-14_autonomous_research_005_execution_horizon_repair.md | sanji | 2026-10-14 | — | 1005 |
-| 2026-10-14_autonomous_research_005_execution_ownership_and_recovery.md | sanji | 2026-10-14 | — | 2725 |
-| 2026-10-14_autonomous_research_005_recovery.md | sanji | 2026-10-14 | — | 7876 |
-| 2026-10-14_autonomous_research_loop_wave01.md | sanji | 2026-10-14 | — | 6395 |
-| 2026-10-14_autonomous_research_loop_wave02.md | sanji | 2026-10-14 | — | 4354 |
-| 2026-10-14_autonomous_research_loop_wave03.md | sanji | 2026-10-14 | — | 4418 |
-| 2026-10-14_boundary_discovery_standing_commit_lineage.md | sanji | 2026-10-14 | — | 7757 |
-| 2026-10-14_capability_market_specialization_intake.md | sanji | 2026-10-14 | — | 6372 |
-| 2026-10-14_codex_audit_evidence_corrections_01a13867.md | sanji | 2026-10-14 | — | 12896 |
-| _(+22465 more — see full manifest JSON)_ | | | | |
+| _(+22492 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
