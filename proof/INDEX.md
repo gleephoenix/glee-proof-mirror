@@ -1,12 +1,23 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-20T18:41:09.838294+00:00
-> Total receipts indexed: 23433
+> Last updated: 2026-10-21T06:41:12.495376+00:00
+> Total receipts indexed: 23482
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-21_terraria_successor_box_and_continuous_learner.md | zoro | 2026-10-21 | — | 9552 |
+| 2026-10-21_agentic_rl_data_scaling_2610_23946.md | sanji | 2026-10-21 | — | 6410 |
+| 2026-10-21_hierarchy42ad_ack_compatibility.md | sanji | 2026-10-21 | — | 4365 |
+| 2026-10-21_hierarchy_reserve_c0_reobservation.md | sanji | 2026-10-21 | — | 4293 |
+| 2026-10-21_retention_screen_execution.md | sanji | 2026-10-21 | — | 8859 |
+| 2026-10-21_terraria_completed_checkpoint_preservation.md | sanji | 2026-10-21 | A | 6644 |
+| 2026-10-21_terraria_final_budget_source_retirement.md | sanji | 2026-10-21 | A | 5967 |
+| 2026-10-21_terraria_migration_owner_budget_handoff.md | sanji | 2026-10-21 | A | 5054 |
+| 2026-10-21_terraria_original_budget_authorization.md | sanji | 2026-10-21 | A | 4843 |
+| 2026-10-21_terraria_successor_verified_final_checkpoint.md | sanji | 2026-10-21 | A | 5775 |
+| 2026-10-20_terraria_slow_progress_diagnosis.md | zoro | 2026-10-20 | — | 9511 |
 | 2026-10-20_terraria_stream_stalls.md | zoro | 2026-10-20 | — | 5590 |
 | 2026-10-20_wall_android_scroll_jump_fix.md | zoro | 2026-10-20 | — | 5225 |
 | 2026-10-20_agent_adoption_discoverability.md | sanji | 2026-10-20 | — | 5181 |
@@ -18,6 +29,7 @@
 | 2026-10-20_boundary_discovery_duplicate_recheck.md | sanji | 2026-10-20 | — | 4377 |
 | 2026-10-20_claude_ai_action_onset.md | sanji | 2026-10-20 | — | 10132 |
 | 2026-10-20_claude_ai_blocked_audit03.md | sanji | 2026-10-20 | — | 3143 |
+| 2026-10-20_claude_ai_continue_without_claude.md | sanji | 2026-10-20 | — | 3752 |
 | 2026-10-20_claude_ai_matched013_history_control.md | sanji | 2026-10-20 | — | 4316 |
 | 2026-10-20_claude_ai_matched013_transition.md | sanji | 2026-10-20 | — | 4263 |
 | 2026-10-20_claude_ai_media_checkpoint.md | sanji | 2026-10-20 | — | 3468 |
@@ -30,10 +42,16 @@
 | 2026-10-20_codex_hooks_audit_fix.md | sanji | 2026-10-20 | — | 4800 |
 | 2026-10-20_codex_hooks_native_review_recheck02.md | sanji | 2026-10-20 | — | 3084 |
 | 2026-10-20_codex_hooks_native_review_recheck03.md | sanji | 2026-10-20 | — | 3129 |
+| 2026-10-20_codex_rig_latency_and_live_learning.md | sanji | 2026-10-20 | — | 5539 |
+| 2026-10-20_cognition_dimensions_intake.md | sanji | 2026-10-20 | — | 5454 |
 | 2026-10-20_contribution_log_20261019_intake.md | sanji | 2026-10-20 | — | 9110 |
 | 2026-10-20_daily_operating_followthrough.md | sanji | 2026-10-20 | — | 4267 |
 | 2026-10-20_daily_operating_productive_reset.md | sanji | 2026-10-20 | — | 4727 |
+| 2026-10-20_declared_catalog_timing_trial.md | sanji | 2026-10-20 | — | 6185 |
+| 2026-10-20_efficient_continual_intelligence.md | sanji | 2026-10-20 | — | 9725 |
 | 2026-10-20_experiment011_incomplete.md | sanji | 2026-10-20 | — | 7322 |
+| 2026-10-20_explicit_waiting_controls_trial.md | sanji | 2026-10-20 | — | 5645 |
+| 2026-10-20_hidden_capabilities.md | sanji | 2026-10-20 | — | 6616 |
 | 2026-10-20_industry_watch.md | sanji | 2026-10-20 | — | 5287 |
 | 2026-10-20_living_meaning_brief011.md | sanji | 2026-10-20 | — | 7129 |
 | 2026-10-20_living_meaning_lm010_review.md | sanji | 2026-10-20 | — | 5175 |
@@ -44,36 +62,66 @@
 | 2026-10-20_lm011_strict_reference.md | sanji | 2026-10-20 | — | 7760 |
 | 2026-10-20_local_model_scout_reintake.md | sanji | 2026-10-20 | — | 6248 |
 | 2026-10-20_local_model_scout_revalidation.md | sanji | 2026-10-20 | — | 4812 |
+| 2026-10-20_main_tapping_and_game_understanding.md | sanji | 2026-10-20 | — | 5362 |
+| 2026-10-20_native_retention_and_capacity_refresh.md | sanji | 2026-10-20 | — | 7516 |
 | 2026-10-20_ncm_research_handoff.md | sanji | 2026-10-20 | — | 4740 |
+| 2026-10-20_peer015_custody_reconciled.md | sanji | 2026-10-20 | — | 5153 |
+| 2026-10-20_peer_hierarchy_source_coordination.md | sanji | 2026-10-20 | — | 4520 |
+| 2026-10-20_recovered_worker_and_temporal_perception.md | sanji | 2026-10-20 | — | 5485 |
+| 2026-10-20_recovery014_four_fixes_and_retirement.md | sanji | 2026-10-20 | — | 4985 |
 | 2026-10-20_research_brief011_intake.md | sanji | 2026-10-20 | — | 6782 |
+| 2026-10-20_shared_codex_comparison_and_clock.md | sanji | 2026-10-20 | — | 5744 |
+| 2026-10-20_temporal_perception_captured_validation.md | sanji | 2026-10-20 | — | 8104 |
 | 2026-10-20_terraria_action_observation.md | sanji | 2026-10-20 | — | 5340 |
 | 2026-10-20_terraria_action_trial_repair.md | sanji | 2026-10-20 | — | 6284 |
 | 2026-10-20_terraria_adaptive_native_failure.md | sanji | 2026-10-20 | — | 8733 |
 | 2026-10-20_terraria_adoption_feedback_and_fresh_world.md | sanji | 2026-10-20 | — | 7509 |
 | 2026-10-20_terraria_blocked_audit03.md | sanji | 2026-10-20 | — | 7090 |
 | 2026-10-20_terraria_blueprint_clearance_offline.md | sanji | 2026-10-20 | A | 6990 |
+| 2026-10-20_terraria_bounded_hierarchy_trial.md | sanji | 2026-10-20 | — | 3446 |
+| 2026-10-20_terraria_cascading_goals.md | sanji | 2026-10-20 | — | 6611 |
 | 2026-10-20_terraria_cloud_canonical.md | sanji | 2026-10-20 | — | 10180 |
 | 2026-10-20_terraria_conditional_memory.md | sanji | 2026-10-20 | — | 6614 |
 | 2026-10-20_terraria_evaluation_correction.md | sanji | 2026-10-20 | — | 4264 |
+| 2026-10-20_terraria_five_minute_feedback.md | sanji | 2026-10-20 | — | 4848 |
+| 2026-10-20_terraria_four_doors_and_curriculum_shapes.md | sanji | 2026-10-20 | — | 3047 |
 | 2026-10-20_terraria_fresh_world.md | sanji | 2026-10-20 | — | 4852 |
+| 2026-10-20_terraria_goalmap_operated_handoff.md | sanji | 2026-10-20 | — | 25251 |
+| 2026-10-20_terraria_goalmap_pending_review.md | sanji | 2026-10-20 | — | 4832 |
+| 2026-10-20_terraria_hierarchy_callback_reconciled.md | sanji | 2026-10-20 | — | 4044 |
+| 2026-10-20_terraria_hierarchy_hold_cleared.md | sanji | 2026-10-20 | — | 3402 |
+| 2026-10-20_terraria_hierarchy_proceed.md | sanji | 2026-10-20 | — | 7336 |
+| 2026-10-20_terraria_hierarchy_ui_architecture.md | sanji | 2026-10-20 | — | 6231 |
 | 2026-10-20_terraria_hosting_continuity_readonly.md | sanji | 2026-10-20 | A | 6124 |
 | 2026-10-20_terraria_house_mining_guidance.md | sanji | 2026-10-20 | — | 4129 |
 | 2026-10-20_terraria_inspect_loop.md | sanji | 2026-10-20 | — | 4512 |
+| 2026-10-20_terraria_learner_takeover.md | sanji | 2026-10-20 | — | 3564 |
+| 2026-10-20_terraria_lower_storey_native.md | sanji | 2026-10-20 | — | 2287 |
 | 2026-10-20_terraria_matched013_first_control.md | sanji | 2026-10-20 | — | 5908 |
 | 2026-10-20_terraria_matched013_native_restart.md | sanji | 2026-10-20 | — | 5194 |
 | 2026-10-20_terraria_model_refusal_repair.md | sanji | 2026-10-20 | — | 5171 |
 | 2026-10-20_terraria_native_comparison_and_timed_work.md | sanji | 2026-10-20 | — | 6711 |
 | 2026-10-20_terraria_native_memory_followthrough.md | sanji | 2026-10-20 | — | 7677 |
+| 2026-10-20_terraria_native_shaft_and_area_work.md | sanji | 2026-10-20 | — | 3174 |
 | 2026-10-20_terraria_native_timing_evidence.md | sanji | 2026-10-20 | — | 7299 |
+| 2026-10-20_terraria_native_wall_followthrough.md | sanji | 2026-10-20 | — | 2691 |
+| 2026-10-20_terraria_persistent_goals_native.md | sanji | 2026-10-20 | — | 3875 |
+| 2026-10-20_terraria_private_github_backup.md | sanji | 2026-10-20 | A | 6724 |
 | 2026-10-20_terraria_prompt_recovery013.md | sanji | 2026-10-20 | — | 5667 |
 | 2026-10-20_terraria_purpose_contract.md | sanji | 2026-10-20 | — | 7426 |
 | 2026-10-20_terraria_recovery014_review.md | sanji | 2026-10-20 | — | 8023 |
+| 2026-10-20_terraria_recovery_followup_and_destination_quote.md | sanji | 2026-10-20 | A | 7506 |
 | 2026-10-20_terraria_stone_search.md | sanji | 2026-10-20 | — | 2736 |
 | 2026-10-20_terraria_stream_controller_identity.md | sanji | 2026-10-20 | — | 6671 |
 | 2026-10-20_terraria_stuck_and_graveyard.md | sanji | 2026-10-20 | — | 6449 |
 | 2026-10-20_terraria_timing001_result_and_003_handoff.md | sanji | 2026-10-20 | — | 6953 |
 | 2026-10-20_terraria_tools_target_and_markers.md | sanji | 2026-10-20 | — | 7084 |
+| 2026-10-20_terraria_transfer_history_retention_addendum.md | sanji | 2026-10-20 | A | 6739 |
 | 2026-10-20_terraria_transfer_preparation.md | sanji | 2026-10-20 | A | 6985 |
+| 2026-10-20_terraria_v62_operated_gate.md | sanji | 2026-10-20 | — | 5907 |
+| 2026-10-20_terraria_work_area_operated.md | sanji | 2026-10-20 | — | 4120 |
+| 2026-10-20_terraria_work_area_repair.md | sanji | 2026-10-20 | — | 3987 |
+| 2026-10-20_waiting_controls_and_catalog_diagnosis.md | sanji | 2026-10-20 | — | 9604 |
 | 2026-10-19_ORP_terraria_learning_objective_recovery.md | zoro | 2026-10-19 | — | 10279 |
 | 2026-10-19_agent_adoption_brief_launchagentic_review_fail.md | zoro | 2026-10-19 | — | 4386 |
 | 2026-10-19_exp007_target_selection_pilot.md | zoro | 2026-10-19 | — | 12069 |
@@ -159,55 +207,7 @@
 | 2026-10-19_terraria_setup_clock_repair.md | sanji | 2026-10-19 | — | 4385 |
 | 2026-10-19_terraria_stream_fps.md | sanji | 2026-10-19 | — | 6435 |
 | 2026-10-19_terraria_stream_reliability_checkpoint.md | sanji | 2026-10-19 | A | 8093 |
-| 2026-10-19_terraria_structure_execution.md | sanji | 2026-10-19 | — | 21055 |
-| 2026-10-19_terraria_supported_descent_offline_import_handoff.md | sanji | 2026-10-19 | A | 9755 |
-| 2026-10-19_terraria_zoro_existing_incident_update.md | sanji | 2026-10-19 | A | 5503 |
-| 2026-10-18_franky_hardware_profiler_and_superoptimizer_audit_receipt.md | glee | 2026-10-18 | B | 7975 |
-| 2026-10-18_codex_0163_graceful_upgrade.md | glee | 2026-10-18 | A | 6895 |
-| 2026-10-18_ORP_terraria_progression_recovery.md | zoro | 2026-10-18 | — | 13997 |
-| 2026-10-18_actual_source_pass_resource_continuation.md | zoro | 2026-10-18 | B | 6938 |
-| 2026-10-18_amended_rerun_progress_1350Z.md | zoro | 2026-10-18 | B | 3764 |
-| 2026-10-18_aos_backoff_and_quad_fixes.md | zoro | 2026-10-18 | — | 9427 |
-| 2026-10-18_aos_source_intake_review.md | zoro | 2026-10-18 | — | 5198 |
-| 2026-10-18_benchmark_atomic_handover_checkpoint.md | zoro | 2026-10-18 | B | 7158 |
-| 2026-10-18_benchmark_scheduling_activation_boundary.md | zoro | 2026-10-18 | B | 3347 |
-| 2026-10-18_canonical_smoke_cpu_hold_and_round2.md | zoro | 2026-10-18 | B | 5721 |
-| 2026-10-18_checkpoint_policy_scope_decision.md | zoro | 2026-10-18 | B | 6276 |
-| 2026-10-18_checkpoint_provider_lane_reason.md | zoro | 2026-10-18 | B | 6685 |
-| 2026-10-18_cloud_delivery_model_import.md | zoro | 2026-10-18 | B | 7029 |
-| 2026-10-18_config_successor_candidate_and_qualification.md | zoro | 2026-10-18 | B | 9102 |
-| 2026-10-18_desktop_recovery_numeric_results_import.md | zoro | 2026-10-18 | B | 9340 |
-| 2026-10-18_dsh_wall_tab.md | zoro | 2026-10-18 | — | 8377 |
-| 2026-10-18_dynamic_quota_advice_source_candidate.md | zoro | 2026-10-18 | B | 7871 |
-| 2026-10-18_exact_release_test_admission_0939.md | zoro | 2026-10-18 | B | 3881 |
-| 2026-10-18_execute_all_envelope.md | zoro | 2026-10-18 | — | 4155 |
-| 2026-10-18_fe00371_exact_tests_and_closed_config_diagnostic.md | zoro | 2026-10-18 | B | 8672 |
-| 2026-10-18_fe00371_staged_exact_tests_held.md | zoro | 2026-10-18 | B | 5809 |
-| 2026-10-18_fund_the_lab_stripe_live.md | zoro | 2026-10-18 | — | 8120 |
-| 2026-10-18_glee_space_v3_handoff_ack.md | zoro | 2026-10-18 | — | 4690 |
-| 2026-10-18_harness_model_matrix_pilot.md | zoro | 2026-10-18 | — | 4822 |
-| 2026-10-18_import_smoke_result_and_canonical_boundary.md | zoro | 2026-10-18 | B | 7145 |
-| 2026-10-18_jsc001_judgment_step_circuit_design_frozen.md | zoro | 2026-10-18 | A | 4701 |
-| 2026-10-18_ledger_prefix_catchup_rereview.md | zoro | 2026-10-18 | — | 5290 |
-| 2026-10-18_ledger_prefix_catchup_review.md | zoro | 2026-10-18 | — | 3757 |
-| 2026-10-18_ledger_prefix_catchup_revision2_accept.md | zoro | 2026-10-18 | — | 3213 |
-| 2026-10-18_legacy_config_diagnosis_and_round1_boundary.md | zoro | 2026-10-18 | B | 8378 |
-| 2026-10-18_m1_replay_gate_independent_review.md | zoro | 2026-10-18 | — | 4596 |
-| 2026-10-18_native_acceptance_resource_bottleneck.md | zoro | 2026-10-18 | B | 13141 |
-| 2026-10-18_native_ai_quad_baseline_scorecard.md | zoro | 2026-10-18 | — | 10624 |
-| 2026-10-18_native_delivery_acceptance_repairs.md | zoro | 2026-10-18 | B | 10945 |
-| 2026-10-18_native_delivery_guarded_recovery_followup.md | zoro | 2026-10-18 | B | 18205 |
-| 2026-10-18_native_mutation_stage_review.md | zoro | 2026-10-18 | — | 8833 |
-| 2026-10-18_operator_runner_and_source_enrollment.md | zoro | 2026-10-18 | B | 10047 |
-| 2026-10-18_parser_verified_operator_observations_prepared.md | zoro | 2026-10-18 | B | 10093 |
-| 2026-10-18_production_import_cloud_bundle.md | zoro | 2026-10-18 | A | 6119 |
-| 2026-10-18_public_live_ai_lab_funding_intake.md | zoro | 2026-10-18 | — | 3467 |
-| 2026-10-18_public_spine_mount_boundary_judgment.md | zoro | 2026-10-18 | — | 5229 |
-| 2026-10-18_quota_advice_cloud_result_import.md | zoro | 2026-10-18 | A | 6596 |
-| 2026-10-18_quota_advice_cloud_transfer.md | zoro | 2026-10-18 | A | 7102 |
-| 2026-10-18_quota_decimal_boundary_successor.md | zoro | 2026-10-18 | B | 9577 |
-| 2026-10-18_quota_malformed_boundary_correction.md | zoro | 2026-10-18 | B | 8893 |
-| _(+23233 more — see full manifest JSON)_ | | | | |
+| _(+23282 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
