@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 23540,
+  "total_receipts": 23563,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -167732,6 +167732,14 @@
       "size_bytes": 5805
     },
     {
+      "file_name": "2026-10-21_ai_ceo_governance_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_ai_ceo_governance_intake.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 6517
+    },
+    {
       "file_name": "2026-10-21_ai_school_update.md",
       "home": "sanji",
       "rel_path": "2026-10-21_ai_school_update.md",
@@ -167740,12 +167748,44 @@
       "size_bytes": 7010
     },
     {
+      "file_name": "2026-10-21_already_clean_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_already_clean_intake.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 8733
+    },
+    {
       "file_name": "2026-10-21_boundary_discovery_relational.md",
       "home": "sanji",
       "rel_path": "2026-10-21_boundary_discovery_relational.md",
       "date": "2026-10-21",
       "tier": null,
       "size_bytes": 5835
+    },
+    {
+      "file_name": "2026-10-21_capability_access_practical_framing.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_capability_access_practical_framing.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 11701
+    },
+    {
+      "file_name": "2026-10-21_capability_allocation_minimum_learner.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_capability_allocation_minimum_learner.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 5736
+    },
+    {
+      "file_name": "2026-10-21_capability_questions.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_capability_questions.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 5511
     },
     {
       "file_name": "2026-10-21_contribution_log_20261020_intake.md",
@@ -167820,6 +167860,22 @@
       "size_bytes": 6162
     },
     {
+      "file_name": "2026-10-21_nonhuman_learning_foundations_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_nonhuman_learning_foundations_intake.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 4111
+    },
+    {
+      "file_name": "2026-10-21_php2shell_exposure.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_php2shell_exposure.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 2817
+    },
+    {
       "file_name": "2026-10-21_research_brief012_intake.md",
       "home": "sanji",
       "rel_path": "2026-10-21_research_brief012_intake.md",
@@ -167834,6 +167890,14 @@
       "date": "2026-10-21",
       "tier": null,
       "size_bytes": 8859
+    },
+    {
+      "file_name": "2026-10-21_scholarevolve_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_scholarevolve_intake.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 7847
     },
     {
       "file_name": "2026-10-21_self_understanding_delivery_complete.md",
@@ -167940,6 +168004,14 @@
       "size_bytes": 10037
     },
     {
+      "file_name": "2026-10-21_terraria_hidden_coin_ammo_outcomes.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_hidden_coin_ammo_outcomes.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 11894
+    },
+    {
       "file_name": "2026-10-21_terraria_housing_evidence.md",
       "home": "sanji",
       "rel_path": "2026-10-21_terraria_housing_evidence.md",
@@ -167961,7 +168033,7 @@
       "rel_path": "2026-10-21_terraria_housing_proof_loss_diagnostic.md",
       "date": "2026-10-21",
       "tier": null,
-      "size_bytes": 7600
+      "size_bytes": 8205
     },
     {
       "file_name": "2026-10-21_terraria_housing_rollout.md",
@@ -167996,6 +168068,14 @@
       "size_bytes": 10642
     },
     {
+      "file_name": "2026-10-21_terraria_live_spacing_retry.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_live_spacing_retry.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 8493
+    },
+    {
       "file_name": "2026-10-21_terraria_migration_owner_budget_handoff.md",
       "home": "sanji",
       "rel_path": "2026-10-21_terraria_migration_owner_budget_handoff.md",
@@ -168028,6 +168108,14 @@
       "size_bytes": 3879
     },
     {
+      "file_name": "2026-10-21_terraria_motor_limits_prompt_retention.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_motor_limits_prompt_retention.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 7897
+    },
+    {
       "file_name": "2026-10-21_terraria_motor_readiness_1814.md",
       "home": "sanji",
       "rel_path": "2026-10-21_terraria_motor_readiness_1814.md",
@@ -168052,6 +168140,14 @@
       "size_bytes": 3539
     },
     {
+      "file_name": "2026-10-21_terraria_native_integration_wait_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_native_integration_wait_audit.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 6467
+    },
+    {
       "file_name": "2026-10-21_terraria_native_outcomes.md",
       "home": "sanji",
       "rel_path": "2026-10-21_terraria_native_outcomes.md",
@@ -168066,6 +168162,14 @@
       "date": "2026-10-21",
       "tier": "A",
       "size_bytes": 4270
+    },
+    {
+      "file_name": "2026-10-21_terraria_ore_route_reach.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_ore_route_reach.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 5921
     },
     {
       "file_name": "2026-10-21_terraria_original_budget_authorization.md",
@@ -168140,6 +168244,22 @@
       "size_bytes": 8323
     },
     {
+      "file_name": "2026-10-21_terraria_return_access_speed.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_return_access_speed.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 9661
+    },
+    {
+      "file_name": "2026-10-21_terraria_return_motor_frontier.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_return_motor_frontier.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 6565
+    },
+    {
       "file_name": "2026-10-21_terraria_reviewer_launch_isolation.md",
       "home": "sanji",
       "rel_path": "2026-10-21_terraria_reviewer_launch_isolation.md",
@@ -168196,6 +168316,14 @@
       "size_bytes": 3819
     },
     {
+      "file_name": "2026-10-21_terraria_transport_partial_stop.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_transport_partial_stop.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 12424
+    },
+    {
       "file_name": "2026-10-21_terraria_v5_native_feedback_and_api_composition.md",
       "home": "sanji",
       "rel_path": "2026-10-21_terraria_v5_native_feedback_and_api_composition.md",
@@ -168212,6 +168340,14 @@
       "size_bytes": 9183
     },
     {
+      "file_name": "2026-10-21_terraria_wallet_observation_baseline_addendum.md",
+      "home": "sanji",
+      "rel_path": "2026-10-21_terraria_wallet_observation_baseline_addendum.md",
+      "date": "2026-10-21",
+      "tier": null,
+      "size_bytes": 8979
+    },
+    {
       "file_name": "2026-10-21_terraria_watcher_reset_1320.md",
       "home": "sanji",
       "rel_path": "2026-10-21_terraria_watcher_reset_1320.md",
@@ -168226,6 +168362,54 @@
       "date": "2026-10-21",
       "tier": "A",
       "size_bytes": 5471
+    },
+    {
+      "file_name": "2026-10-22_terraria_boundary_0500.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_boundary_0500.md",
+      "date": "2026-10-22",
+      "tier": "A",
+      "size_bytes": 3326
+    },
+    {
+      "file_name": "2026-10-22_terraria_boundary_0535.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_boundary_0535.md",
+      "date": "2026-10-22",
+      "tier": "A",
+      "size_bytes": 2567
+    },
+    {
+      "file_name": "2026-10-22_terraria_boundary_0619.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_boundary_0619.md",
+      "date": "2026-10-22",
+      "tier": "A",
+      "size_bytes": 3695
+    },
+    {
+      "file_name": "2026-10-22_terraria_ingestion_resolution.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_ingestion_resolution.md",
+      "date": "2026-10-22",
+      "tier": "A",
+      "size_bytes": 4349
+    },
+    {
+      "file_name": "2026-10-22_terraria_live_shaft_extension.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_live_shaft_extension.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 8751
+    },
+    {
+      "file_name": "2026-10-22_terraria_motor_scope_resume.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_motor_scope_resume.md",
+      "date": "2026-10-22",
+      "tier": "A",
+      "size_bytes": 4556
     },
     {
       "file_name": "INDEX.md",
