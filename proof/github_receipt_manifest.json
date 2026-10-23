@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 23718,
+  "total_receipts": 23749,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -45649,7 +45649,7 @@
       "rel_path": "2026-10-22_terraria_stream_house_mine_to_iron_pickaxe.md",
       "date": "2026-10-22",
       "tier": null,
-      "size_bytes": 37259
+      "size_bytes": 39873
     },
     {
       "file_name": "INDEX.md",
@@ -169500,6 +169500,158 @@
       "size_bytes": 7070
     },
     {
+      "file_name": "2026-10-23_agent_adoption.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_agent_adoption.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 6844
+    },
+    {
+      "file_name": "2026-10-23_agent_commerce_execution.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_agent_commerce_execution.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 4362
+    },
+    {
+      "file_name": "2026-10-23_agent_commerce_execution_wave2.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_agent_commerce_execution_wave2.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 5451
+    },
+    {
+      "file_name": "2026-10-23_agent_commerce_execution_wave3.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_agent_commerce_execution_wave3.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 4016
+    },
+    {
+      "file_name": "2026-10-23_codex_wall_launch_path_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_codex_wall_launch_path_repair.md",
+      "date": "2026-10-23",
+      "tier": "A",
+      "size_bytes": 7199
+    },
+    {
+      "file_name": "2026-10-23_deepseek_ui_plugins.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_deepseek_ui_plugins.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 4458
+    },
+    {
+      "file_name": "2026-10-23_efficient_perception_design.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_efficient_perception_design.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 2802
+    },
+    {
+      "file_name": "2026-10-23_efficient_perception_execution_wave01.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_efficient_perception_execution_wave01.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9806
+    },
+    {
+      "file_name": "2026-10-23_efficient_perception_execution_wave02.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_efficient_perception_execution_wave02.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 6557
+    },
+    {
+      "file_name": "2026-10-23_efficient_perception_execution_wave03.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_efficient_perception_execution_wave03.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 5421
+    },
+    {
+      "file_name": "2026-10-23_engineering_brief014_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_engineering_brief014_intake.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 7072
+    },
+    {
+      "file_name": "2026-10-23_experiment014_actual_pilot.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_experiment014_actual_pilot.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 4304
+    },
+    {
+      "file_name": "2026-10-23_experiment014_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_experiment014_followup.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9341
+    },
+    {
+      "file_name": "2026-10-23_living_meaning.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_living_meaning.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 7948
+    },
+    {
+      "file_name": "2026-10-23_living_meaning_brief014.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_living_meaning_brief014.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 6211
+    },
+    {
+      "file_name": "2026-10-23_living_meaning_completed.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_living_meaning_completed.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 6820
+    },
+    {
+      "file_name": "2026-10-23_living_meaning_execution.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_living_meaning_execution.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 8470
+    },
+    {
+      "file_name": "2026-10-23_non_neural_learning_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_non_neural_learning_intake.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 5911
+    },
+    {
+      "file_name": "2026-10-23_policy_bench_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_policy_bench_intake.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 5182
+    },
+    {
       "file_name": "2026-10-23_sunny_code_simplification_wave39.md",
       "home": "sanji",
       "rel_path": "2026-10-23_sunny_code_simplification_wave39.md",
@@ -169628,6 +169780,94 @@
       "size_bytes": 9822
     },
     {
+      "file_name": "2026-10-23_sunny_code_simplification_wave55.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave55.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10525
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave56.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave56.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 11132
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave57.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave57.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 12026
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave58.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave58.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 11056
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave59.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave59.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 12584
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave60.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave60.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10843
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave61.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave61.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9480
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave62.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave62.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10244
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave63.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave63.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10740
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave64.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave64.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10648
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave65.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave65.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 12571
+    },
+    {
       "file_name": "2026-10-23_terraria_ai_engineering_design.md",
       "home": "sanji",
       "rel_path": "2026-10-23_terraria_ai_engineering_design.md",
@@ -169650,6 +169890,14 @@
       "date": "2026-10-23",
       "tier": null,
       "size_bytes": 8386
+    },
+    {
+      "file_name": "2026-10-23_terraria_stream_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_terraria_stream_repair.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 4675
     },
     {
       "file_name": "INDEX.md",
