@@ -1,14 +1,15 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-23T00:41:09.336556+00:00
-> Total receipts indexed: 23677
+> Last updated: 2026-10-23T06:41:15.356200+00:00
+> Total receipts indexed: 23700
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-23_sunny_code_simplification_wave39.md | sanji | 2026-10-23 | — | 8086 |
 | 2026-10-22_r31_winze_review_by_sol.md | zoro | 2026-10-22 | — | 737 |
-| 2026-10-22_terraria_stream_house_mine_to_iron_pickaxe.md | zoro | 2026-10-22 | — | 17806 |
+| 2026-10-22_terraria_stream_house_mine_to_iron_pickaxe.md | zoro | 2026-10-22 | — | 25759 |
 | 2026-10-22_24k_gold402_probe_upgrade.md | sanji | 2026-10-22 | — | 12177 |
 | 2026-10-22_adversarial_understanding.md | sanji | 2026-10-22 | — | 4506 |
 | 2026-10-22_agent_adoption.md | sanji | 2026-10-22 | — | 7930 |
@@ -65,9 +66,21 @@
 | 2026-10-22_sunny_code_simplification_wave25.md | sanji | 2026-10-22 | — | 6904 |
 | 2026-10-22_sunny_code_simplification_wave26.md | sanji | 2026-10-22 | — | 6406 |
 | 2026-10-22_sunny_code_simplification_wave27.md | sanji | 2026-10-22 | — | 6765 |
+| 2026-10-22_sunny_code_simplification_wave28.md | sanji | 2026-10-22 | — | 7442 |
+| 2026-10-22_sunny_code_simplification_wave29.md | sanji | 2026-10-22 | — | 8463 |
+| 2026-10-22_sunny_code_simplification_wave30.md | sanji | 2026-10-22 | — | 9352 |
+| 2026-10-22_sunny_code_simplification_wave31.md | sanji | 2026-10-22 | — | 9469 |
+| 2026-10-22_sunny_code_simplification_wave32.md | sanji | 2026-10-22 | — | 9312 |
+| 2026-10-22_sunny_code_simplification_wave33.md | sanji | 2026-10-22 | — | 10613 |
+| 2026-10-22_sunny_code_simplification_wave34.md | sanji | 2026-10-22 | — | 10014 |
+| 2026-10-22_sunny_code_simplification_wave35.md | sanji | 2026-10-22 | — | 9182 |
+| 2026-10-22_sunny_code_simplification_wave36.md | sanji | 2026-10-22 | — | 10693 |
+| 2026-10-22_sunny_code_simplification_wave37.md | sanji | 2026-10-22 | — | 9603 |
+| 2026-10-22_sunny_code_simplification_wave38.md | sanji | 2026-10-22 | — | 7491 |
 | 2026-10-22_terraria_adoption_gate_2120.md | sanji | 2026-10-22 | A | 3016 |
 | 2026-10-22_terraria_adoption_stability_1827.md | sanji | 2026-10-22 | A | 3656 |
 | 2026-10-22_terraria_adoption_stability_2001.md | sanji | 2026-10-22 | A | 3040 |
+| 2026-10-22_terraria_ai_compute_explanation.md | sanji | 2026-10-22 | — | 6021 |
 | 2026-10-22_terraria_boundary_0500.md | sanji | 2026-10-22 | A | 3326 |
 | 2026-10-22_terraria_boundary_0535.md | sanji | 2026-10-22 | A | 2567 |
 | 2026-10-22_terraria_boundary_0619.md | sanji | 2026-10-22 | A | 3695 |
@@ -77,18 +90,22 @@
 | 2026-10-22_terraria_boundary_1026.md | sanji | 2026-10-22 | A | 1852 |
 | 2026-10-22_terraria_boundary_1128.md | sanji | 2026-10-22 | A | 2231 |
 | 2026-10-22_terraria_bounded_return_native43_stream_recovery.md | sanji | 2026-10-22 | — | 8478 |
+| 2026-10-22_terraria_checkpoint_race_source_fix_qualified.md | sanji | 2026-10-22 | — | 9483 |
 | 2026-10-22_terraria_commitment_request_1245.md | sanji | 2026-10-22 | A | 2955 |
 | 2026-10-22_terraria_control_lease_guard.md | sanji | 2026-10-22 | — | 8070 |
 | 2026-10-22_terraria_crafting_and_recipe_mine.md | sanji | 2026-10-22 | — | 8681 |
 | 2026-10-22_terraria_current_stock_public_correction.md | sanji | 2026-10-22 | — | 6899 |
+| 2026-10-22_terraria_darkness_live_audit.md | sanji | 2026-10-22 | — | 5267 |
 | 2026-10-22_terraria_discovery_assessment.md | sanji | 2026-10-22 | — | 6259 |
 | 2026-10-22_terraria_empty_return_diagnosed_and_r30_routed.md | sanji | 2026-10-22 | — | 8294 |
 | 2026-10-22_terraria_explicit_release_seat_handoff.md | sanji | 2026-10-22 | — | 3829 |
 | 2026-10-22_terraria_first_pickaxe_and_visibility.md | sanji | 2026-10-22 | — | 10743 |
 | 2026-10-22_terraria_frozen_cave_readiness.md | sanji | 2026-10-22 | — | 8540 |
+| 2026-10-22_terraria_guarded_route_testing_public.md | sanji | 2026-10-22 | — | 6859 |
 | 2026-10-22_terraria_handoff_reconcile_1754.md | sanji | 2026-10-22 | A | 3739 |
 | 2026-10-22_terraria_handoff_recovery_1716.md | sanji | 2026-10-22 | A | 4434 |
 | 2026-10-22_terraria_idle_and_ui_reset.md | sanji | 2026-10-22 | — | 4164 |
+| 2026-10-22_terraria_independent_learning_capacity.md | sanji | 2026-10-22 | — | 6733 |
 | 2026-10-22_terraria_ingestion_resolution.md | sanji | 2026-10-22 | A | 4349 |
 | 2026-10-22_terraria_iron_pickaxe_native_use_and_stream.md | sanji | 2026-10-22 | — | 10432 |
 | 2026-10-22_terraria_iron_pickaxe_obtained_and_next_use_repair.md | sanji | 2026-10-22 | — | 14841 |
@@ -100,6 +117,7 @@
 | 2026-10-22_terraria_n127_ui_and_exact_claude_recovery.md | sanji | 2026-10-22 | — | 9334 |
 | 2026-10-22_terraria_native_change_watcher_armed.md | sanji | 2026-10-22 | — | 6780 |
 | 2026-10-22_terraria_native_stations_k_landing_rebase.md | sanji | 2026-10-22 | — | 7620 |
+| 2026-10-22_terraria_native_timing_recovered_route_pending.md | sanji | 2026-10-22 | — | 11680 |
 | 2026-10-22_terraria_o_cave_trial_and_current_public.md | sanji | 2026-10-22 | — | 6170 |
 | 2026-10-22_terraria_owner_continuity_1711.md | sanji | 2026-10-22 | A | 4514 |
 | 2026-10-22_terraria_owner_reply_1322.md | sanji | 2026-10-22 | A | 3022 |
@@ -108,10 +126,15 @@
 | 2026-10-22_terraria_r29_acceptance_and_recovery.md | sanji | 2026-10-22 | — | 12689 |
 | 2026-10-22_terraria_r29b_bounded_trips_and_native_acceptance.md | sanji | 2026-10-22 | — | 15514 |
 | 2026-10-22_terraria_r30_native_water_and_r31_handoff.md | sanji | 2026-10-22 | — | 8952 |
-| 2026-10-22_terraria_r32_return_capture_armed.md | sanji | 2026-10-22 | — | 8635 |
-| 2026-10-22_terraria_r32_spawn_remaining_ore_and_video.md | sanji | 2026-10-22 | — | 9113 |
+| 2026-10-22_terraria_r32_return_capture_armed.md | sanji | 2026-10-22 | — | 12071 |
+| 2026-10-22_terraria_r32_spawn_remaining_ore_and_video.md | sanji | 2026-10-22 | — | 14088 |
+| 2026-10-22_terraria_r33_recovery_owner_binding.md | sanji | 2026-10-22 | — | 8264 |
+| 2026-10-22_terraria_r33_stall_control_repaired_r34_trial.md | sanji | 2026-10-22 | — | 11847 |
+| 2026-10-22_terraria_r34_native_planner_recovery.md | sanji | 2026-10-22 | — | 10583 |
+| 2026-10-22_terraria_r35_native_adopted_zero_column.md | sanji | 2026-10-22 | — | 17318 |
 | 2026-10-22_terraria_reservation_1233.md | sanji | 2026-10-22 | A | 3233 |
 | 2026-10-22_terraria_retained_adoption_native21.md | sanji | 2026-10-22 | — | 10593 |
+| 2026-10-22_terraria_return_gate_native_schema.md | sanji | 2026-10-22 | — | 8568 |
 | 2026-10-22_terraria_six_iron_gained_return_repair_owned.md | sanji | 2026-10-22 | — | 10387 |
 | 2026-10-22_terraria_six_ore_and_guarded_return_repair.md | sanji | 2026-10-22 | — | 14801 |
 | 2026-10-22_terraria_sprint_wave01.md | sanji | 2026-10-22 | — | 5644 |
@@ -184,30 +207,7 @@
 | 2026-10-21_terraria_motor_readiness_1814.md | sanji | 2026-10-21 | A | 2832 |
 | 2026-10-21_terraria_motor_window_order_1822.md | sanji | 2026-10-21 | A | 3608 |
 | 2026-10-21_terraria_native_admission.md | sanji | 2026-10-21 | — | 3539 |
-| 2026-10-21_terraria_native_integration_wait_audit.md | sanji | 2026-10-21 | — | 6467 |
-| 2026-10-21_terraria_native_outcomes.md | sanji | 2026-10-21 | — | 2221 |
-| 2026-10-21_terraria_navigation_1910.md | sanji | 2026-10-21 | A | 4270 |
-| 2026-10-21_terraria_ore_route_reach.md | sanji | 2026-10-21 | — | 5921 |
-| 2026-10-21_terraria_original_budget_authorization.md | sanji | 2026-10-21 | A | 4843 |
-| 2026-10-21_terraria_owner_review_live.md | sanji | 2026-10-21 | — | 2885 |
-| 2026-10-21_terraria_practice_strip.md | sanji | 2026-10-21 | A | 4045 |
-| 2026-10-21_terraria_rental_stall_r7.md | sanji | 2026-10-21 | — | 5453 |
-| 2026-10-21_terraria_retained_callable_catalog.md | sanji | 2026-10-21 | — | 6795 |
-| 2026-10-21_terraria_retained_execution_corrections.md | sanji | 2026-10-21 | — | 11202 |
-| 2026-10-21_terraria_retained_fast_path.md | sanji | 2026-10-21 | — | 8399 |
-| 2026-10-21_terraria_retained_v41_correction.md | sanji | 2026-10-21 | — | 6835 |
-| 2026-10-21_terraria_retained_v4_and_assisted_input.md | sanji | 2026-10-21 | — | 8323 |
-| 2026-10-21_terraria_return_access_speed.md | sanji | 2026-10-21 | — | 9661 |
-| 2026-10-21_terraria_return_motor_frontier.md | sanji | 2026-10-21 | — | 6565 |
-| 2026-10-21_terraria_reviewer_launch_isolation.md | sanji | 2026-10-21 | — | 12300 |
-| 2026-10-21_terraria_sensorimotor_priors_intake.md | sanji | 2026-10-21 | — | 5696 |
-| 2026-10-21_terraria_standby_evidence.md | sanji | 2026-10-21 | — | 10798 |
-| 2026-10-21_terraria_stream_idle_recovery.md | sanji | 2026-10-21 | — | 6727 |
-| 2026-10-21_terraria_successor_verified_final_checkpoint.md | sanji | 2026-10-21 | A | 5775 |
-| 2026-10-21_terraria_teaching_receipt_standby_qualification.md | sanji | 2026-10-21 | — | 6964 |
-| 2026-10-21_terraria_topup_balance_1309.md | sanji | 2026-10-21 | A | 3819 |
-| 2026-10-21_terraria_transport_partial_stop.md | sanji | 2026-10-21 | — | 12424 |
-| _(+23477 more — see full manifest JSON)_ | | | | |
+| _(+23500 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
