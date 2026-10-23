@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 23700,
+  "total_receipts": 23718,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -45649,7 +45649,7 @@
       "rel_path": "2026-10-22_terraria_stream_house_mine_to_iron_pickaxe.md",
       "date": "2026-10-22",
       "tier": null,
-      "size_bytes": 25759
+      "size_bytes": 37259
     },
     {
       "file_name": "INDEX.md",
@@ -169506,6 +169506,150 @@
       "date": "2026-10-23",
       "tier": null,
       "size_bytes": 8086
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave40.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave40.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 7682
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave41.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave41.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 7514
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave42.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave42.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 7681
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave43.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave43.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9018
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave44.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave44.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9616
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave45.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave45.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10278
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave46.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave46.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9274
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave47.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave47.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 8138
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave48.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave48.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 11155
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave49.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave49.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10080
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave50.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave50.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 10153
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave51.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave51.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 11066
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave52.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave52.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 11456
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave53.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave53.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9918
+    },
+    {
+      "file_name": "2026-10-23_sunny_code_simplification_wave54.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_sunny_code_simplification_wave54.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 9822
+    },
+    {
+      "file_name": "2026-10-23_terraria_ai_engineering_design.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_terraria_ai_engineering_design.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 8326
+    },
+    {
+      "file_name": "2026-10-23_terraria_local_learner_architecture.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_terraria_local_learner_architecture.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 6228
+    },
+    {
+      "file_name": "2026-10-23_terraria_shared_local_learner_prototype.md",
+      "home": "sanji",
+      "rel_path": "2026-10-23_terraria_shared_local_learner_prototype.md",
+      "date": "2026-10-23",
+      "tier": null,
+      "size_bytes": 8386
     },
     {
       "file_name": "INDEX.md",
