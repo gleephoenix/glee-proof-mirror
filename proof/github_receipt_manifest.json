@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 23637,
+  "total_receipts": 23677,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -45636,12 +45636,20 @@
       "size_bytes": 28769
     },
     {
+      "file_name": "2026-10-22_r31_winze_review_by_sol.md",
+      "home": "zoro",
+      "rel_path": "2026-10-22_r31_winze_review_by_sol.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 737
+    },
+    {
       "file_name": "2026-10-22_terraria_stream_house_mine_to_iron_pickaxe.md",
       "home": "zoro",
       "rel_path": "2026-10-22_terraria_stream_house_mine_to_iron_pickaxe.md",
       "date": "2026-10-22",
       "tier": null,
-      "size_bytes": 3454
+      "size_bytes": 17806
     },
     {
       "file_name": "INDEX.md",
@@ -168468,6 +168476,22 @@
       "size_bytes": 2398
     },
     {
+      "file_name": "2026-10-22_hardest_problems_host_boundary_2.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_hardest_problems_host_boundary_2.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 3913
+    },
+    {
+      "file_name": "2026-10-22_hardest_problems_host_boundary_3.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_hardest_problems_host_boundary_3.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 3969
+    },
+    {
       "file_name": "2026-10-22_hardest_problems_host_custody_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-22_hardest_problems_host_custody_recovery.md",
@@ -168668,12 +168692,164 @@
       "size_bytes": 8091
     },
     {
+      "file_name": "2026-10-22_sunny_code_simplification_wave11.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave11.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7311
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave12.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave12.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7705
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave13.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave13.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6740
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave14.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave14.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6806
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave15.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave15.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7923
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave16.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave16.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7776
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave17.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave17.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 9336
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave18.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave18.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7005
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave19.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave19.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6850
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave20.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave20.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7391
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave21.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave21.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 8378
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave22.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave22.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 8364
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave23.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave23.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 8870
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave24.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave24.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7381
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave25.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave25.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6904
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave26.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave26.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6406
+    },
+    {
+      "file_name": "2026-10-22_sunny_code_simplification_wave27.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_sunny_code_simplification_wave27.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6765
+    },
+    {
+      "file_name": "2026-10-22_terraria_adoption_gate_2120.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_adoption_gate_2120.md",
+      "date": "2026-10-22",
+      "tier": "A",
+      "size_bytes": 3016
+    },
+    {
       "file_name": "2026-10-22_terraria_adoption_stability_1827.md",
       "home": "sanji",
       "rel_path": "2026-10-22_terraria_adoption_stability_1827.md",
       "date": "2026-10-22",
       "tier": "A",
       "size_bytes": 3656
+    },
+    {
+      "file_name": "2026-10-22_terraria_adoption_stability_2001.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_adoption_stability_2001.md",
+      "date": "2026-10-22",
+      "tier": "A",
+      "size_bytes": 3040
     },
     {
       "file_name": "2026-10-22_terraria_boundary_0500.md",
@@ -168772,12 +168948,44 @@
       "size_bytes": 8681
     },
     {
+      "file_name": "2026-10-22_terraria_current_stock_public_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_current_stock_public_correction.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6899
+    },
+    {
       "file_name": "2026-10-22_terraria_discovery_assessment.md",
       "home": "sanji",
       "rel_path": "2026-10-22_terraria_discovery_assessment.md",
       "date": "2026-10-22",
       "tier": null,
       "size_bytes": 6259
+    },
+    {
+      "file_name": "2026-10-22_terraria_empty_return_diagnosed_and_r30_routed.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_empty_return_diagnosed_and_r30_routed.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 8294
+    },
+    {
+      "file_name": "2026-10-22_terraria_explicit_release_seat_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_explicit_release_seat_handoff.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 3829
+    },
+    {
+      "file_name": "2026-10-22_terraria_first_pickaxe_and_visibility.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_first_pickaxe_and_visibility.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 10743
     },
     {
       "file_name": "2026-10-22_terraria_frozen_cave_readiness.md",
@@ -168804,12 +169012,36 @@
       "size_bytes": 4434
     },
     {
+      "file_name": "2026-10-22_terraria_idle_and_ui_reset.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_idle_and_ui_reset.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 4164
+    },
+    {
       "file_name": "2026-10-22_terraria_ingestion_resolution.md",
       "home": "sanji",
       "rel_path": "2026-10-22_terraria_ingestion_resolution.md",
       "date": "2026-10-22",
       "tier": "A",
       "size_bytes": 4349
+    },
+    {
+      "file_name": "2026-10-22_terraria_iron_pickaxe_native_use_and_stream.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_iron_pickaxe_native_use_and_stream.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 10432
+    },
+    {
+      "file_name": "2026-10-22_terraria_iron_pickaxe_obtained_and_next_use_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_iron_pickaxe_obtained_and_next_use_repair.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 14841
     },
     {
       "file_name": "2026-10-22_terraria_landing25_native45_watchdog_selected.md",
@@ -168844,12 +169076,28 @@
       "size_bytes": 4556
     },
     {
+      "file_name": "2026-10-22_terraria_mutable_state_serialization_prototype.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_mutable_state_serialization_prototype.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6842
+    },
+    {
       "file_name": "2026-10-22_terraria_n127_ui_and_exact_claude_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-22_terraria_n127_ui_and_exact_claude_recovery.md",
       "date": "2026-10-22",
       "tier": null,
       "size_bytes": 9334
+    },
+    {
+      "file_name": "2026-10-22_terraria_native_change_watcher_armed.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_native_change_watcher_armed.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 6780
     },
     {
       "file_name": "2026-10-22_terraria_native_stations_k_landing_rebase.md",
@@ -168892,6 +169140,54 @@
       "size_bytes": 3276
     },
     {
+      "file_name": "2026-10-22_terraria_private_w2_counterexample_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_private_w2_counterexample_repair.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 9793
+    },
+    {
+      "file_name": "2026-10-22_terraria_r29_acceptance_and_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_r29_acceptance_and_recovery.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 12689
+    },
+    {
+      "file_name": "2026-10-22_terraria_r29b_bounded_trips_and_native_acceptance.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_r29b_bounded_trips_and_native_acceptance.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 15514
+    },
+    {
+      "file_name": "2026-10-22_terraria_r30_native_water_and_r31_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_r30_native_water_and_r31_handoff.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 8952
+    },
+    {
+      "file_name": "2026-10-22_terraria_r32_return_capture_armed.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_r32_return_capture_armed.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 8635
+    },
+    {
+      "file_name": "2026-10-22_terraria_r32_spawn_remaining_ore_and_video.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_r32_spawn_remaining_ore_and_video.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 9113
+    },
+    {
       "file_name": "2026-10-22_terraria_reservation_1233.md",
       "home": "sanji",
       "rel_path": "2026-10-22_terraria_reservation_1233.md",
@@ -168906,6 +169202,22 @@
       "date": "2026-10-22",
       "tier": null,
       "size_bytes": 10593
+    },
+    {
+      "file_name": "2026-10-22_terraria_six_iron_gained_return_repair_owned.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_six_iron_gained_return_repair_owned.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 10387
+    },
+    {
+      "file_name": "2026-10-22_terraria_six_ore_and_guarded_return_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_six_ore_and_guarded_return_repair.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 14801
     },
     {
       "file_name": "2026-10-22_terraria_sprint_wave01.md",
@@ -169002,6 +169314,14 @@
       "date": "2026-10-22",
       "tier": null,
       "size_bytes": 6756
+    },
+    {
+      "file_name": "2026-10-22_terraria_wet_handoff_and_fixture_fidelity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-22_terraria_wet_handoff_and_fixture_fidelity.md",
+      "date": "2026-10-22",
+      "tier": null,
+      "size_bytes": 7070
     },
     {
       "file_name": "INDEX.md",
