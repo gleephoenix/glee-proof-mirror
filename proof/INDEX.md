@@ -1,13 +1,39 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-26T00:41:16.333056+00:00
-> Total receipts indexed: 24002
+> Last updated: 2026-10-26T06:41:10.482323+00:00
+> Total receipts indexed: 24032
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-26_deepseek_wall_option.md | sanji | 2026-10-26 | — | 4584 |
+| 2026-10-26_rea_stage3_active_tool_child_release.md | sanji | 2026-10-26 | B | 3724 |
+| 2026-10-26_rea_stage3_bridge_admission_recheck.md | sanji | 2026-10-26 | B | 9133 |
+| 2026-10-26_rea_stage3_bridge_reconcile_queued.md | sanji | 2026-10-26 | A | 5208 |
+| 2026-10-26_rea_stage3_bridge_result.md | sanji | 2026-10-26 | B | 4223 |
+| 2026-10-26_rea_stage3_bridge_wake_followup.md | sanji | 2026-10-26 | B | 3468 |
+| 2026-10-26_rea_stage3_consumer_binding.md | sanji | 2026-10-26 | B | 4200 |
+| 2026-10-26_rea_stage3_consumer_binding_recovery.md | sanji | 2026-10-26 | B | 8481 |
+| 2026-10-26_rea_stage3_consumer_binding_required.md | sanji | 2026-10-26 | A | 2763 |
+| 2026-10-26_rea_stage3_consumer_seat_recheck.md | sanji | 2026-10-26 | A | 5360 |
+| 2026-10-26_rea_stage3_custody_recheck.md | sanji | 2026-10-26 | C | 5947 |
+| 2026-10-26_rea_stage3_delivery_custody_recheck.md | sanji | 2026-10-26 | B | 9058 |
+| 2026-10-26_rea_stage3_handoff_delivery_unknown.md | sanji | 2026-10-26 | A | 2801 |
+| 2026-10-26_rea_stage3_host_gate_recheck.md | sanji | 2026-10-26 | B | 7079 |
+| 2026-10-26_rea_stage3_live_bridge_handoff.md | sanji | 2026-10-26 | B | 8485 |
+| 2026-10-26_rea_stage3_live_bridge_reconcile.md | sanji | 2026-10-26 | B | 8580 |
+| 2026-10-26_rea_stage3_local_reconcile_result.md | sanji | 2026-10-26 | B | 7707 |
+| 2026-10-26_rea_stage3_objective_binding.md | sanji | 2026-10-26 | C | 4928 |
 | 2026-10-26_rea_stage3_pair_contract.md | sanji | 2026-10-26 | A | 5163 |
+| 2026-10-26_rea_stage3_release_handoff_queued.md | sanji | 2026-10-26 | A | 2947 |
+| 2026-10-26_rea_stage3_review_reconcile.md | sanji | 2026-10-26 | C | 4302 |
+| 2026-10-26_rea_stage3_review_reconcile_v2.md | sanji | 2026-10-26 | C | 4667 |
+| 2026-10-26_rea_stage3_successor_reconcile.md | sanji | 2026-10-26 | B | 4197 |
+| 2026-10-26_rea_stage3_typed_wait_handoff.md | sanji | 2026-10-26 | B | 6663 |
+| 2026-10-26_terraria_ai_group_plan.md | sanji | 2026-10-26 | A | 6157 |
+| 2026-10-26_terraria_ai_group_plan_continuation.md | sanji | 2026-10-26 | A | 3186 |
+| 2026-10-26_terraria_learning_assessment_and_engineering_principle.md | sanji | 2026-10-26 | — | 5603 |
 | 2026-10-25_agent_adoption_intake.md | sanji | 2026-10-25 | — | 8449 |
 | 2026-10-25_ai_creation_infrastructure_wave03.md | sanji | 2026-10-25 | — | 8308 |
 | 2026-10-25_artifact_consumer_delivery_fence_final_01a173df.md | sanji | 2026-10-25 | B | 8730 |
@@ -36,10 +62,14 @@
 | 2026-10-25_rea_recovery_authority_recheck.md | sanji | 2026-10-25 | A | 6174 |
 | 2026-10-25_rea_stage2_route_assessment.md | sanji | 2026-10-25 | A | 5245 |
 | 2026-10-25_rea_stage2_v5_rejection_v6_dispatch.md | sanji | 2026-10-25 | A | 3946 |
+| 2026-10-25_rea_stage3_case_input_hash_lock.md | sanji | 2026-10-25 | A | 5723 |
 | 2026-10-25_rea_stage3_comparator_integrity.md | sanji | 2026-10-25 | A | 4974 |
+| 2026-10-25_rea_stage3_custody_reconcile.md | sanji | 2026-10-25 | — | 4183 |
+| 2026-10-25_rea_stage3_custody_reconcile_v2.md | sanji | 2026-10-25 | A | 4859 |
 | 2026-10-25_rea_stage3_evaluator_preparation.md | sanji | 2026-10-25 | C | 7473 |
 | 2026-10-25_rea_stage3_holdout_design.md | sanji | 2026-10-25 | A | 3562 |
 | 2026-10-25_rea_stage3_local_authority_review.md | sanji | 2026-10-25 | A | 5167 |
+| 2026-10-25_rea_stage3_validator_keyfix.md | sanji | 2026-10-25 | A | 4409 |
 | 2026-10-25_repair_provenance_instrumentation.md | sanji | 2026-10-25 | — | 7160 |
 | 2026-10-25_routine_operations_efficiency_wave01.md | sanji | 2026-10-25 | — | 6217 |
 | 2026-10-25_songs_of_syx_launcher_english.md | sanji | 2026-10-25 | — | 4329 |
@@ -177,37 +207,7 @@
 | 2026-10-24_relation01_attempt09_resource_blocked.md | sanji | 2026-10-24 | B | 6039 |
 | 2026-10-24_relation01_attempt09_resource_wait.md | sanji | 2026-10-24 | B | 7084 |
 | 2026-10-24_relation01_cost_reconciliation.md | sanji | 2026-10-24 | A | 4278 |
-| 2026-10-24_replay_existing_host_recovery_claim.md | sanji | 2026-10-24 | A | 3575 |
-| 2026-10-24_representation_learning_attempt03_admission.md | sanji | 2026-10-24 | A | 4011 |
-| 2026-10-24_representation_learning_goal.md | sanji | 2026-10-24 | — | 20660 |
-| 2026-10-24_representation_learning_intake.md | sanji | 2026-10-24 | — | 6175 |
-| 2026-10-24_reserve_recovery_probe.md | sanji | 2026-10-24 | — | 3307 |
-| 2026-10-24_resource_deferral_critical_assessment.md | sanji | 2026-10-24 | — | 3092 |
-| 2026-10-24_retained_local_specialist_wave01.md | sanji | 2026-10-24 | — | 6914 |
-| 2026-10-24_retained_local_specialist_wave02.md | sanji | 2026-10-24 | — | 6323 |
-| 2026-10-24_retained_local_specialist_wave03.md | sanji | 2026-10-24 | — | 5682 |
-| 2026-10-24_rust_adoption_assessment.md | sanji | 2026-10-24 | — | 3146 |
-| 2026-10-24_rust_language_selection.md | sanji | 2026-10-24 | — | 2755 |
-| 2026-10-24_space_acceptance_current_baseline_reconciliation.md | sanji | 2026-10-24 | A | 7076 |
-| 2026-10-24_space_acceptance_exact_rebase_base.md | sanji | 2026-10-24 | A | 6218 |
-| 2026-10-24_space_acceptance_exact_version_source_capture.md | sanji | 2026-10-24 | A | 5510 |
-| 2026-10-24_space_acceptance_execution_wave01.md | sanji | 2026-10-24 | — | 4488 |
-| 2026-10-24_space_acceptance_execution_wave02.md | sanji | 2026-10-24 | — | 4633 |
-| 2026-10-24_space_acceptance_execution_wave03.md | sanji | 2026-10-24 | — | 4160 |
-| 2026-10-24_space_acceptance_resource_wait_wave04.md | sanji | 2026-10-24 | A | 6520 |
-| 2026-10-24_space_acceptance_waiter_reconciliation.md | sanji | 2026-10-24 | A | 5330 |
-| 2026-10-24_space_graph_navigation.md | sanji | 2026-10-24 | — | 7617 |
-| 2026-10-24_storage_autonomy_and_live_probe.md | sanji | 2026-10-24 | — | 6422 |
-| 2026-10-24_terminal_review_goal_audit.md | sanji | 2026-10-24 | — | 4109 |
-| 2026-10-24_terminal_review_repair.md | sanji | 2026-10-24 | — | 5104 |
-| 2026-10-24_terraria_improvement_execution_wave01.md | sanji | 2026-10-24 | — | 6224 |
-| 2026-10-24_terraria_improvement_execution_wave02.md | sanji | 2026-10-24 | — | 3467 |
-| 2026-10-24_terraria_improvement_execution_wave03.md | sanji | 2026-10-24 | — | 5081 |
-| 2026-10-24_terraria_improvement_execution_wave04.md | sanji | 2026-10-24 | — | 4582 |
-| 2026-10-24_terraria_improvement_execution_wave05.md | sanji | 2026-10-24 | — | 3584 |
-| 2026-10-24_terraria_improvement_loop.md | sanji | 2026-10-24 | — | 3392 |
-| 2026-10-24_terraria_motivation_execution_wave01.md | sanji | 2026-10-24 | — | 5791 |
-| _(+23802 more — see full manifest JSON)_ | | | | |
+| _(+23832 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
