@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 23981,
+  "total_receipts": 24002,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -171332,6 +171332,38 @@
       "size_bytes": 8308
     },
     {
+      "file_name": "2026-10-25_artifact_consumer_delivery_fence_final_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_artifact_consumer_delivery_fence_final_01a173df.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 8730
+    },
+    {
+      "file_name": "2026-10-25_artifact_consumer_pipeline_applied_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_artifact_consumer_pipeline_applied_01a173df.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 8755
+    },
+    {
+      "file_name": "2026-10-25_artifact_handoff_checkpoint_staged_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_artifact_handoff_checkpoint_staged_01a173df.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 8476
+    },
+    {
+      "file_name": "2026-10-25_automatic_artifact_delivery_wave01.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_automatic_artifact_delivery_wave01.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 9840
+    },
+    {
       "file_name": "2026-10-25_brief016_three_cranks.md",
       "home": "sanji",
       "rel_path": "2026-10-25_brief016_three_cranks.md",
@@ -171460,6 +171492,86 @@
       "size_bytes": 6143
     },
     {
+      "file_name": "2026-10-25_rea_blind_prediction_packet.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_blind_prediction_packet.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 7468
+    },
+    {
+      "file_name": "2026-10-25_rea_lifecycle_art_retry6.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_lifecycle_art_retry6.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 7565
+    },
+    {
+      "file_name": "2026-10-25_rea_oracle_causal_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_oracle_causal_reconciliation.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 6988
+    },
+    {
+      "file_name": "2026-10-25_rea_recovery_authority_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_recovery_authority_recheck.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 6174
+    },
+    {
+      "file_name": "2026-10-25_rea_stage2_route_assessment.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage2_route_assessment.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 5245
+    },
+    {
+      "file_name": "2026-10-25_rea_stage2_v5_rejection_v6_dispatch.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage2_v5_rejection_v6_dispatch.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 3946
+    },
+    {
+      "file_name": "2026-10-25_rea_stage3_comparator_integrity.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_comparator_integrity.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 4974
+    },
+    {
+      "file_name": "2026-10-25_rea_stage3_evaluator_preparation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_evaluator_preparation.md",
+      "date": "2026-10-25",
+      "tier": "C",
+      "size_bytes": 7473
+    },
+    {
+      "file_name": "2026-10-25_rea_stage3_holdout_design.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_holdout_design.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 3562
+    },
+    {
+      "file_name": "2026-10-25_rea_stage3_local_authority_review.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_local_authority_review.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 5167
+    },
+    {
       "file_name": "2026-10-25_repair_provenance_instrumentation.md",
       "home": "sanji",
       "rel_path": "2026-10-25_repair_provenance_instrumentation.md",
@@ -171580,12 +171692,44 @@
       "size_bytes": 4315
     },
     {
+      "file_name": "2026-10-25_terraria_cloud_codex_operation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_terraria_cloud_codex_operation.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 13609
+    },
+    {
       "file_name": "2026-10-25_terraria_cloud_development_and_isolation.md",
       "home": "sanji",
       "rel_path": "2026-10-25_terraria_cloud_development_and_isolation.md",
       "date": "2026-10-25",
       "tier": "B",
       "size_bytes": 8196
+    },
+    {
+      "file_name": "2026-10-25_terraria_cloud_native_and_provider.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_terraria_cloud_native_and_provider.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 6561
+    },
+    {
+      "file_name": "2026-10-25_terraria_cloud_restart_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_terraria_cloud_restart_guard.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 5211
+    },
+    {
+      "file_name": "2026-10-25_terraria_continuous_cloud_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_terraria_continuous_cloud_handoff.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 6760
     },
     {
       "file_name": "2026-10-25_terraria_experience_transition_staging.md",
@@ -171596,12 +171740,28 @@
       "size_bytes": 6845
     },
     {
+      "file_name": "2026-10-25_terraria_library_import_diagnosis.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_terraria_library_import_diagnosis.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 5837
+    },
+    {
       "file_name": "2026-10-25_terraria_motivation_recovery_rebase.md",
       "home": "sanji",
       "rel_path": "2026-10-25_terraria_motivation_recovery_rebase.md",
       "date": "2026-10-25",
       "tier": null,
       "size_bytes": 5497
+    },
+    {
+      "file_name": "2026-10-25_terraria_public_stream_and_development.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_terraria_public_stream_and_development.md",
+      "date": "2026-10-25",
+      "tier": "B",
+      "size_bytes": 10449
     },
     {
       "file_name": "2026-10-25_terraria_runtime_handoff_closure_repair.md",
@@ -171634,6 +171794,14 @@
       "date": "2026-10-25",
       "tier": "A",
       "size_bytes": 6144
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_pair_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_pair_contract.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 5163
     },
     {
       "file_name": "INDEX.md",
