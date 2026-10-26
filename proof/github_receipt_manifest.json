@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24002,
+  "total_receipts": 24032,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -171540,12 +171540,36 @@
       "size_bytes": 3946
     },
     {
+      "file_name": "2026-10-25_rea_stage3_case_input_hash_lock.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_case_input_hash_lock.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 5723
+    },
+    {
       "file_name": "2026-10-25_rea_stage3_comparator_integrity.md",
       "home": "sanji",
       "rel_path": "2026-10-25_rea_stage3_comparator_integrity.md",
       "date": "2026-10-25",
       "tier": "A",
       "size_bytes": 4974
+    },
+    {
+      "file_name": "2026-10-25_rea_stage3_custody_reconcile.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_custody_reconcile.md",
+      "date": "2026-10-25",
+      "tier": null,
+      "size_bytes": 4183
+    },
+    {
+      "file_name": "2026-10-25_rea_stage3_custody_reconcile_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_custody_reconcile_v2.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 4859
     },
     {
       "file_name": "2026-10-25_rea_stage3_evaluator_preparation.md",
@@ -171570,6 +171594,14 @@
       "date": "2026-10-25",
       "tier": "A",
       "size_bytes": 5167
+    },
+    {
+      "file_name": "2026-10-25_rea_stage3_validator_keyfix.md",
+      "home": "sanji",
+      "rel_path": "2026-10-25_rea_stage3_validator_keyfix.md",
+      "date": "2026-10-25",
+      "tier": "A",
+      "size_bytes": 4409
     },
     {
       "file_name": "2026-10-25_repair_provenance_instrumentation.md",
@@ -171796,12 +171828,220 @@
       "size_bytes": 6144
     },
     {
+      "file_name": "2026-10-26_deepseek_wall_option.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_deepseek_wall_option.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 4584
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_active_tool_child_release.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_active_tool_child_release.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 3724
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_bridge_admission_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_bridge_admission_recheck.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 9133
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_bridge_reconcile_queued.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_bridge_reconcile_queued.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 5208
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_bridge_result.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_bridge_result.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 4223
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_bridge_wake_followup.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_bridge_wake_followup.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 3468
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_consumer_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_consumer_binding.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 4200
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_consumer_binding_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_consumer_binding_recovery.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 8481
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_consumer_binding_required.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_consumer_binding_required.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 2763
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_consumer_seat_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_consumer_seat_recheck.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 5360
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_custody_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_custody_recheck.md",
+      "date": "2026-10-26",
+      "tier": "C",
+      "size_bytes": 5947
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_delivery_custody_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_delivery_custody_recheck.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 9058
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_handoff_delivery_unknown.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_handoff_delivery_unknown.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 2801
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_host_gate_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_host_gate_recheck.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 7079
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_live_bridge_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_live_bridge_handoff.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 8485
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_live_bridge_reconcile.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_live_bridge_reconcile.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 8580
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_local_reconcile_result.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_local_reconcile_result.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 7707
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_objective_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_objective_binding.md",
+      "date": "2026-10-26",
+      "tier": "C",
+      "size_bytes": 4928
+    },
+    {
       "file_name": "2026-10-26_rea_stage3_pair_contract.md",
       "home": "sanji",
       "rel_path": "2026-10-26_rea_stage3_pair_contract.md",
       "date": "2026-10-26",
       "tier": "A",
       "size_bytes": 5163
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_release_handoff_queued.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_release_handoff_queued.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 2947
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_review_reconcile.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_review_reconcile.md",
+      "date": "2026-10-26",
+      "tier": "C",
+      "size_bytes": 4302
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_review_reconcile_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_review_reconcile_v2.md",
+      "date": "2026-10-26",
+      "tier": "C",
+      "size_bytes": 4667
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_successor_reconcile.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_successor_reconcile.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 4197
+    },
+    {
+      "file_name": "2026-10-26_rea_stage3_typed_wait_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_rea_stage3_typed_wait_handoff.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 6663
+    },
+    {
+      "file_name": "2026-10-26_terraria_ai_group_plan.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_ai_group_plan.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 6157
+    },
+    {
+      "file_name": "2026-10-26_terraria_ai_group_plan_continuation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_ai_group_plan_continuation.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 3186
+    },
+    {
+      "file_name": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 5603
     },
     {
       "file_name": "INDEX.md",
