@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24032,
+  "total_receipts": 24045,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -6242,6 +6242,46 @@
       "date": "2026-10-24",
       "tier": null,
       "size_bytes": 4996
+    },
+    {
+      "file_name": "2026-10-26_codex_terraria_architecture_audit.md",
+      "home": "glee",
+      "rel_path": "2026-10-26_codex_terraria_architecture_audit.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 10804
+    },
+    {
+      "file_name": "2026-10-26_codex_terraria_transition_review.md",
+      "home": "glee",
+      "rel_path": "2026-10-26_codex_terraria_transition_review.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 10536
+    },
+    {
+      "file_name": "2026-10-26_terraria_craft_output_recovery_codex.md",
+      "home": "glee",
+      "rel_path": "2026-10-26_terraria_craft_output_recovery_codex.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 9889
+    },
+    {
+      "file_name": "2026-10-26_terraria_runtime_access_blocked_codex.md",
+      "home": "glee",
+      "rel_path": "2026-10-26_terraria_runtime_access_blocked_codex.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 8285
+    },
+    {
+      "file_name": "2026-10-26_terraria_stop_recovery_codex.md",
+      "home": "glee",
+      "rel_path": "2026-10-26_terraria_stop_recovery_codex.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 8894
     },
     {
       "file_name": "META.md",
@@ -172036,12 +172076,76 @@
       "size_bytes": 3186
     },
     {
+      "file_name": "2026-10-26_terraria_ai_group_plan_ownership.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_ai_group_plan_ownership.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 3643
+    },
+    {
+      "file_name": "2026-10-26_terraria_evaluation_contract_and_run_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_evaluation_contract_and_run_recovery.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 4536
+    },
+    {
+      "file_name": "2026-10-26_terraria_evaluator_and_shutdown_save.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_evaluator_and_shutdown_save.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 4465
+    },
+    {
+      "file_name": "2026-10-26_terraria_group_review_corrections.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_group_review_corrections.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 6791
+    },
+    {
+      "file_name": "2026-10-26_terraria_group_review_quota_checkpoint.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_group_review_quota_checkpoint.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 5592
+    },
+    {
       "file_name": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
       "home": "sanji",
       "rel_path": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
       "date": "2026-10-26",
       "tier": null,
       "size_bytes": 5603
+    },
+    {
+      "file_name": "2026-10-26_terraria_live_quality_checkpoint.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_live_quality_checkpoint.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 13332
+    },
+    {
+      "file_name": "2026-10-26_terraria_live_quality_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_live_quality_repair.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 12231
+    },
+    {
+      "file_name": "2026-10-26_terraria_shared_player_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_shared_player_candidate.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 5832
     },
     {
       "file_name": "INDEX.md",
