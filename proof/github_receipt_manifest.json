@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24045,
+  "total_receipts": 24053,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -171876,6 +171876,38 @@
       "size_bytes": 4584
     },
     {
+      "file_name": "2026-10-26_engineering_intelligence_brief017.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_engineering_intelligence_brief017.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 9107
+    },
+    {
+      "file_name": "2026-10-26_industry_watch.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_industry_watch.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 4033
+    },
+    {
+      "file_name": "2026-10-26_living_meaning_brief017.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_living_meaning_brief017.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 8096
+    },
+    {
+      "file_name": "2026-10-26_living_meaning_prior_budget_delivery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_living_meaning_prior_budget_delivery.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 6136
+    },
+    {
       "file_name": "2026-10-26_rea_stage3_active_tool_child_release.md",
       "home": "sanji",
       "rel_path": "2026-10-26_rea_stage3_active_tool_child_release.md",
@@ -172084,6 +172116,14 @@
       "size_bytes": 3643
     },
     {
+      "file_name": "2026-10-26_terraria_capture_qualification_checkpoint.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_capture_qualification_checkpoint.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 6435
+    },
+    {
       "file_name": "2026-10-26_terraria_evaluation_contract_and_run_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-26_terraria_evaluation_contract_and_run_recovery.md",
@@ -172116,6 +172156,14 @@
       "size_bytes": 5592
     },
     {
+      "file_name": "2026-10-26_terraria_integrated_successor_v8.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_integrated_successor_v8.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 4548
+    },
+    {
       "file_name": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
       "home": "sanji",
       "rel_path": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
@@ -172138,6 +172186,22 @@
       "date": "2026-10-26",
       "tier": "B",
       "size_bytes": 12231
+    },
+    {
+      "file_name": "2026-10-26_terraria_native_host_v10_canary_and_a5_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_native_host_v10_canary_and_a5_binding.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 6463
+    },
+    {
+      "file_name": "2026-10-26_terraria_native_kernel_save_and_cpu_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_native_kernel_save_and_cpu_guard.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 4396
     },
     {
       "file_name": "2026-10-26_terraria_shared_player_candidate.md",
