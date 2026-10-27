@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24053,
+  "total_receipts": 24069,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -172124,6 +172124,14 @@
       "size_bytes": 6435
     },
     {
+      "file_name": "2026-10-26_terraria_direct_play_retirement.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_direct_play_retirement.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 7004
+    },
+    {
       "file_name": "2026-10-26_terraria_evaluation_contract_and_run_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-26_terraria_evaluation_contract_and_run_recovery.md",
@@ -172156,6 +172164,14 @@
       "size_bytes": 5592
     },
     {
+      "file_name": "2026-10-26_terraria_idle_learning_data_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_idle_learning_data_repair.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 4699
+    },
+    {
       "file_name": "2026-10-26_terraria_integrated_successor_v8.md",
       "home": "sanji",
       "rel_path": "2026-10-26_terraria_integrated_successor_v8.md",
@@ -172164,12 +172180,36 @@
       "size_bytes": 4548
     },
     {
+      "file_name": "2026-10-26_terraria_jump_statistics_independent.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_jump_statistics_independent.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 4411
+    },
+    {
+      "file_name": "2026-10-26_terraria_learned_obstacle_crossing.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_learned_obstacle_crossing.md",
+      "date": "2026-10-26",
+      "tier": "C",
+      "size_bytes": 9467
+    },
+    {
       "file_name": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
       "home": "sanji",
       "rel_path": "2026-10-26_terraria_learning_assessment_and_engineering_principle.md",
       "date": "2026-10-26",
       "tier": null,
       "size_bytes": 5603
+    },
+    {
+      "file_name": "2026-10-26_terraria_live_feed_and_colour_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_live_feed_and_colour_repair.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 5443
     },
     {
       "file_name": "2026-10-26_terraria_live_quality_checkpoint.md",
@@ -172204,12 +172244,100 @@
       "size_bytes": 4396
     },
     {
+      "file_name": "2026-10-26_terraria_native_learning_cohort_and_perception.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_native_learning_cohort_and_perception.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 9236
+    },
+    {
+      "file_name": "2026-10-26_terraria_native_learning_pilot.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_native_learning_pilot.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 4872
+    },
+    {
+      "file_name": "2026-10-26_terraria_native_pointer_fix_and_wood_control.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_native_pointer_fix_and_wood_control.md",
+      "date": "2026-10-26",
+      "tier": null,
+      "size_bytes": 8066
+    },
+    {
+      "file_name": "2026-10-26_terraria_native_protocol_and_delivery_feedback.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_native_protocol_and_delivery_feedback.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 8093
+    },
+    {
+      "file_name": "2026-10-26_terraria_native_sample_statistics_independent.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_native_sample_statistics_independent.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 4999
+    },
+    {
+      "file_name": "2026-10-26_terraria_prospective_native_learning.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_prospective_native_learning.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 4816
+    },
+    {
+      "file_name": "2026-10-26_terraria_real_flat_learning_and_timing.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_real_flat_learning_and_timing.md",
+      "date": "2026-10-26",
+      "tier": "C",
+      "size_bytes": 5149
+    },
+    {
+      "file_name": "2026-10-26_terraria_reference_resumption_and_numeric_components.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_reference_resumption_and_numeric_components.md",
+      "date": "2026-10-26",
+      "tier": "B",
+      "size_bytes": 6882
+    },
+    {
       "file_name": "2026-10-26_terraria_shared_player_candidate.md",
       "home": "sanji",
       "rel_path": "2026-10-26_terraria_shared_player_candidate.md",
       "date": "2026-10-26",
       "tier": "B",
       "size_bytes": 5832
+    },
+    {
+      "file_name": "2026-10-26_terraria_statistics_v3_fast_independent.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_statistics_v3_fast_independent.md",
+      "date": "2026-10-26",
+      "tier": "A",
+      "size_bytes": 5516
+    },
+    {
+      "file_name": "2026-10-26_terraria_stopping_correction_native_review_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-10-26_terraria_stopping_correction_native_review_gate.md",
+      "date": "2026-10-26",
+      "tier": "C",
+      "size_bytes": 10992
+    },
+    {
+      "file_name": "2026-10-27_terraria_native_heldout_visibility_coverage.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_native_heldout_visibility_coverage.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 8796
     },
     {
       "file_name": "INDEX.md",
