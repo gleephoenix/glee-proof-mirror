@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24100,
+  "total_receipts": 24109,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -172436,12 +172436,44 @@
       "size_bytes": 12573
     },
     {
+      "file_name": "2026-10-27_terraria_capture_data_package_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_capture_data_package_audit.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 9818
+    },
+    {
       "file_name": "2026-10-27_terraria_fg_terminal_audit.md",
       "home": "sanji",
       "rel_path": "2026-10-27_terraria_fg_terminal_audit.md",
       "date": "2026-10-27",
       "tier": null,
       "size_bytes": 10572
+    },
+    {
+      "file_name": "2026-10-27_terraria_fresh_capture_preparation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_fresh_capture_preparation.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 12633
+    },
+    {
+      "file_name": "2026-10-27_terraria_guardian_candidate_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_guardian_candidate_audit.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 8264
+    },
+    {
+      "file_name": "2026-10-27_terraria_guardian_repair_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_guardian_repair_audit.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 7046
     },
     {
       "file_name": "2026-10-27_terraria_integrated_learning_loop.md",
@@ -172524,6 +172556,14 @@
       "size_bytes": 14610
     },
     {
+      "file_name": "2026-10-27_terraria_owner_delivery_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_owner_delivery_reconciliation.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 5889
+    },
+    {
       "file_name": "2026-10-27_terraria_owner_incorporation_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-10-27_terraria_owner_incorporation_reconciliation.md",
@@ -172561,7 +172601,15 @@
       "rel_path": "2026-10-27_terraria_revision03_replay_audit.md",
       "date": "2026-10-27",
       "tier": null,
-      "size_bytes": 6094
+      "size_bytes": 12089
+    },
+    {
+      "file_name": "2026-10-27_terraria_revision03_sequence_replay.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_revision03_sequence_replay.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 4778
     },
     {
       "file_name": "2026-10-27_terraria_source_group_capture_and_replay_gap.md",
@@ -172586,6 +172634,30 @@
       "date": "2026-10-27",
       "tier": "A",
       "size_bytes": 3100
+    },
+    {
+      "file_name": "2026-10-27_terraria_world_source_capsule.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_world_source_capsule.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 6416
+    },
+    {
+      "file_name": "2026-10-27_terraria_world_source_capsule_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_world_source_capsule_audit.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 9631
+    },
+    {
+      "file_name": "2026-10-27_terraria_world_source_first_execution.md",
+      "home": "sanji",
+      "rel_path": "2026-10-27_terraria_world_source_first_execution.md",
+      "date": "2026-10-27",
+      "tier": null,
+      "size_bytes": 6209
     },
     {
       "file_name": "INDEX.md",
