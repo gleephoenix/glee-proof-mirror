@@ -1,12 +1,13 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-26T18:41:17.918073+00:00
-> Total receipts indexed: 24053
+> Last updated: 2026-10-27T00:41:15.026573+00:00
+> Total receipts indexed: 24069
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-27_terraria_native_heldout_visibility_coverage.md | sanji | 2026-10-27 | — | 8796 |
 | 2026-10-26_codex_terraria_architecture_audit.md | glee | 2026-10-26 | A | 10804 |
 | 2026-10-26_codex_terraria_transition_review.md | glee | 2026-10-26 | A | 10536 |
 | 2026-10-26_terraria_craft_output_recovery_codex.md | glee | 2026-10-26 | A | 9889 |
@@ -44,17 +45,32 @@
 | 2026-10-26_terraria_ai_group_plan_continuation.md | sanji | 2026-10-26 | A | 3186 |
 | 2026-10-26_terraria_ai_group_plan_ownership.md | sanji | 2026-10-26 | A | 3643 |
 | 2026-10-26_terraria_capture_qualification_checkpoint.md | sanji | 2026-10-26 | A | 6435 |
+| 2026-10-26_terraria_direct_play_retirement.md | sanji | 2026-10-26 | — | 7004 |
 | 2026-10-26_terraria_evaluation_contract_and_run_recovery.md | sanji | 2026-10-26 | A | 4536 |
 | 2026-10-26_terraria_evaluator_and_shutdown_save.md | sanji | 2026-10-26 | A | 4465 |
 | 2026-10-26_terraria_group_review_corrections.md | sanji | 2026-10-26 | A | 6791 |
 | 2026-10-26_terraria_group_review_quota_checkpoint.md | sanji | 2026-10-26 | A | 5592 |
+| 2026-10-26_terraria_idle_learning_data_repair.md | sanji | 2026-10-26 | B | 4699 |
 | 2026-10-26_terraria_integrated_successor_v8.md | sanji | 2026-10-26 | A | 4548 |
+| 2026-10-26_terraria_jump_statistics_independent.md | sanji | 2026-10-26 | A | 4411 |
+| 2026-10-26_terraria_learned_obstacle_crossing.md | sanji | 2026-10-26 | C | 9467 |
 | 2026-10-26_terraria_learning_assessment_and_engineering_principle.md | sanji | 2026-10-26 | — | 5603 |
+| 2026-10-26_terraria_live_feed_and_colour_repair.md | sanji | 2026-10-26 | — | 5443 |
 | 2026-10-26_terraria_live_quality_checkpoint.md | sanji | 2026-10-26 | B | 13332 |
 | 2026-10-26_terraria_live_quality_repair.md | sanji | 2026-10-26 | B | 12231 |
 | 2026-10-26_terraria_native_host_v10_canary_and_a5_binding.md | sanji | 2026-10-26 | A | 6463 |
 | 2026-10-26_terraria_native_kernel_save_and_cpu_guard.md | sanji | 2026-10-26 | A | 4396 |
+| 2026-10-26_terraria_native_learning_cohort_and_perception.md | sanji | 2026-10-26 | — | 9236 |
+| 2026-10-26_terraria_native_learning_pilot.md | sanji | 2026-10-26 | B | 4872 |
+| 2026-10-26_terraria_native_pointer_fix_and_wood_control.md | sanji | 2026-10-26 | — | 8066 |
+| 2026-10-26_terraria_native_protocol_and_delivery_feedback.md | sanji | 2026-10-26 | A | 8093 |
+| 2026-10-26_terraria_native_sample_statistics_independent.md | sanji | 2026-10-26 | A | 4999 |
+| 2026-10-26_terraria_prospective_native_learning.md | sanji | 2026-10-26 | B | 4816 |
+| 2026-10-26_terraria_real_flat_learning_and_timing.md | sanji | 2026-10-26 | C | 5149 |
+| 2026-10-26_terraria_reference_resumption_and_numeric_components.md | sanji | 2026-10-26 | B | 6882 |
 | 2026-10-26_terraria_shared_player_candidate.md | sanji | 2026-10-26 | B | 5832 |
+| 2026-10-26_terraria_statistics_v3_fast_independent.md | sanji | 2026-10-26 | A | 5516 |
+| 2026-10-26_terraria_stopping_correction_native_review_gate.md | sanji | 2026-10-26 | C | 10992 |
 | 2026-10-25_agent_adoption_intake.md | sanji | 2026-10-25 | — | 8449 |
 | 2026-10-25_ai_creation_infrastructure_wave03.md | sanji | 2026-10-25 | — | 8308 |
 | 2026-10-25_artifact_consumer_delivery_fence_final_01a173df.md | sanji | 2026-10-25 | B | 8730 |
@@ -191,23 +207,7 @@
 | 2026-10-24_living_meaning_adequacy_question.md | sanji | 2026-10-24 | — | 3586 |
 | 2026-10-24_living_meaning_brief015.md | sanji | 2026-10-24 | — | 6450 |
 | 2026-10-24_living_meaning_execute_all.md | sanji | 2026-10-24 | — | 18316 |
-| 2026-10-24_living_meaning_rule_routing.md | sanji | 2026-10-24 | — | 4028 |
-| 2026-10-24_minimum_independent_intelligence_execution.md | sanji | 2026-10-24 | — | 8676 |
-| 2026-10-24_mobile_intelligence_intake.md | sanji | 2026-10-24 | — | 6234 |
-| 2026-10-24_model_role_routing.md | sanji | 2026-10-24 | — | 3465 |
-| 2026-10-24_muon_intake.md | sanji | 2026-10-24 | — | 7677 |
-| 2026-10-24_muon_postmortem_intake.md | sanji | 2026-10-24 | — | 5472 |
-| 2026-10-24_ncm_three_lane_wiring.md | sanji | 2026-10-24 | — | 2708 |
-| 2026-10-24_openui_generative_ui_intake.md | sanji | 2026-10-24 | — | 4314 |
-| 2026-10-24_optd_intake.md | sanji | 2026-10-24 | — | 4432 |
-| 2026-10-24_owned_resource_deferral_repair_plan.md | sanji | 2026-10-24 | — | 2210 |
-| 2026-10-24_owned_resource_deferral_wave01.md | sanji | 2026-10-24 | — | 7485 |
-| 2026-10-24_owned_resource_deferral_wave02.md | sanji | 2026-10-24 | — | 2019 |
-| 2026-10-24_owned_resource_deferral_wave03.md | sanji | 2026-10-24 | — | 2156 |
-| 2026-10-24_policy_micro_pilot.md | sanji | 2026-10-24 | — | 5718 |
-| 2026-10-24_predictive_paths_research_intake.md | sanji | 2026-10-24 | — | 7143 |
-| 2026-10-24_rea_lifecycle_causality_preparation.md | sanji | 2026-10-24 | A | 5442 |
-| _(+23853 more — see full manifest JSON)_ | | | | |
+| _(+23869 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
