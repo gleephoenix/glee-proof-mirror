@@ -1,23 +1,53 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-27T00:41:15.026573+00:00
-> Total receipts indexed: 24069
+> Last updated: 2026-10-27T06:41:15.228381+00:00
+> Total receipts indexed: 24100
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
-| 2026-10-27_terraria_native_heldout_visibility_coverage.md | sanji | 2026-10-27 | — | 8796 |
+| 2026-10-27_coordination_producer_seam_followup_01a173df.md | sanji | 2026-10-27 | A | 4931 |
+| 2026-10-27_retained_crew_scope_reader_applied_01a173df.md | sanji | 2026-10-27 | A | 7857 |
+| 2026-10-27_shared_coordination_architecture_vertical_01a173df.md | sanji | 2026-10-27 | A | 9064 |
+| 2026-10-27_terraria_architecture_correction_notice.md | sanji | 2026-10-27 | A | 6309 |
+| 2026-10-27_terraria_architecture_handoff_incorporation.md | sanji | 2026-10-27 | — | 12573 |
+| 2026-10-27_terraria_fg_terminal_audit.md | sanji | 2026-10-27 | — | 10572 |
+| 2026-10-27_terraria_integrated_learning_loop.md | sanji | 2026-10-27 | — | 8115 |
+| 2026-10-27_terraria_learning_loop_validation_repair.md | sanji | 2026-10-27 | — | 4993 |
+| 2026-10-27_terraria_loop_draft_audit.md | sanji | 2026-10-27 | — | 9720 |
+| 2026-10-27_terraria_loop_regression_verification.md | sanji | 2026-10-27 | — | 7542 |
+| 2026-10-27_terraria_native_adapter_and_replay_audit.md | sanji | 2026-10-27 | — | 9696 |
+| 2026-10-27_terraria_native_experience_adapter.md | sanji | 2026-10-27 | — | 4199 |
+| 2026-10-27_terraria_native_heldout_visibility_coverage.md | sanji | 2026-10-27 | — | 10093 |
+| 2026-10-27_terraria_offline_diagnosis_and_architecture.md | sanji | 2026-10-27 | — | 8332 |
+| 2026-10-27_terraria_offline_target_timing.md | sanji | 2026-10-27 | — | 9711 |
+| 2026-10-27_terraria_owner_context_delivery.md | sanji | 2026-10-27 | — | 14610 |
+| 2026-10-27_terraria_owner_incorporation_reconciliation.md | sanji | 2026-10-27 | — | 13248 |
+| 2026-10-27_terraria_protocol_evidence_advisory.md | sanji | 2026-10-27 | A | 4783 |
+| 2026-10-27_terraria_revision02_selected_audit.md | sanji | 2026-10-27 | — | 7836 |
+| 2026-10-27_terraria_revision02_target_compute_audit.md | sanji | 2026-10-27 | — | 8662 |
+| 2026-10-27_terraria_revision03_replay_audit.md | sanji | 2026-10-27 | — | 6094 |
+| 2026-10-27_terraria_source_group_capture_and_replay_gap.md | sanji | 2026-10-27 | — | 3726 |
+| 2026-10-27_terraria_stream_architecture_readonly_audit.md | sanji | 2026-10-27 | A | 5428 |
+| 2026-10-27_terraria_stream_audit_closure_addendum.md | sanji | 2026-10-27 | A | 3100 |
 | 2026-10-26_codex_terraria_architecture_audit.md | glee | 2026-10-26 | A | 10804 |
 | 2026-10-26_codex_terraria_transition_review.md | glee | 2026-10-26 | A | 10536 |
 | 2026-10-26_terraria_craft_output_recovery_codex.md | glee | 2026-10-26 | A | 9889 |
+| 2026-10-26_terraria_recovery_composition_deepseek.md | glee | 2026-10-26 | A | 7291 |
 | 2026-10-26_terraria_runtime_access_blocked_codex.md | glee | 2026-10-26 | A | 8285 |
 | 2026-10-26_terraria_stop_recovery_codex.md | glee | 2026-10-26 | A | 8894 |
+| 2026-10-26_completion_format_handoff_recovery.md | sanji | 2026-10-26 | — | 9762 |
+| 2026-10-26_completion_format_intake.md | sanji | 2026-10-26 | — | 7192 |
+| 2026-10-26_completion_format_sunny_verified.md | sanji | 2026-10-26 | — | 9327 |
 | 2026-10-26_deepseek_wall_option.md | sanji | 2026-10-26 | — | 4584 |
 | 2026-10-26_engineering_intelligence_brief017.md | sanji | 2026-10-26 | — | 9107 |
+| 2026-10-26_hui_interface_review.md | sanji | 2026-10-26 | — | 7538 |
 | 2026-10-26_industry_watch.md | sanji | 2026-10-26 | — | 4033 |
+| 2026-10-26_integrated_interface_creation.md | sanji | 2026-10-26 | — | 6020 |
 | 2026-10-26_living_meaning_brief017.md | sanji | 2026-10-26 | — | 8096 |
 | 2026-10-26_living_meaning_prior_budget_delivery.md | sanji | 2026-10-26 | — | 6136 |
+| 2026-10-26_outreach_delivery_reconciliation.md | sanji | 2026-10-26 | — | 5226 |
 | 2026-10-26_rea_stage3_active_tool_child_release.md | sanji | 2026-10-26 | B | 3724 |
 | 2026-10-26_rea_stage3_bridge_admission_recheck.md | sanji | 2026-10-26 | B | 9133 |
 | 2026-10-26_rea_stage3_bridge_reconcile_queued.md | sanji | 2026-10-26 | A | 5208 |
@@ -69,6 +99,7 @@
 | 2026-10-26_terraria_real_flat_learning_and_timing.md | sanji | 2026-10-26 | C | 5149 |
 | 2026-10-26_terraria_reference_resumption_and_numeric_components.md | sanji | 2026-10-26 | B | 6882 |
 | 2026-10-26_terraria_shared_player_candidate.md | sanji | 2026-10-26 | B | 5832 |
+| 2026-10-26_terraria_skill_progress_delivery_recovery.md | sanji | 2026-10-26 | — | 3972 |
 | 2026-10-26_terraria_statistics_v3_fast_independent.md | sanji | 2026-10-26 | A | 5516 |
 | 2026-10-26_terraria_stopping_correction_native_review_gate.md | sanji | 2026-10-26 | C | 10992 |
 | 2026-10-25_agent_adoption_intake.md | sanji | 2026-10-25 | — | 8449 |
@@ -176,38 +207,7 @@
 | 2026-10-24_capability_development_intake.md | sanji | 2026-10-24 | — | 7657 |
 | 2026-10-24_capability_execution_goal_wave1.md | sanji | 2026-10-24 | — | 7189 |
 | 2026-10-24_capability_execution_goal_wave2.md | sanji | 2026-10-24 | — | 5405 |
-| 2026-10-24_capability_execution_goal_wave3.md | sanji | 2026-10-24 | — | 6514 |
-| 2026-10-24_capability_execution_goal_wave4.md | sanji | 2026-10-24 | — | 9346 |
-| 2026-10-24_capability_execution_goal_wave5.md | sanji | 2026-10-24 | — | 8110 |
-| 2026-10-24_capability_execution_goal_wave6.md | sanji | 2026-10-24 | — | 9574 |
-| 2026-10-24_capability_execution_goal_wave7_blocked.md | sanji | 2026-10-24 | — | 6200 |
-| 2026-10-24_capability_lifecycle_experiment.md | sanji | 2026-10-24 | — | 9322 |
-| 2026-10-24_capability_registry_review.md | sanji | 2026-10-24 | — | 8010 |
-| 2026-10-24_coding_tool_automatic_updates.md | sanji | 2026-10-24 | — | 5141 |
-| 2026-10-24_commercial_skill_reuse_intake.md | sanji | 2026-10-24 | — | 9696 |
-| 2026-10-24_deepinfer_deepinfra_intake.md | sanji | 2026-10-24 | B | 6649 |
-| 2026-10-24_deepinfer_serving_applicability.md | sanji | 2026-10-24 | B | 3394 |
-| 2026-10-24_engineering_intelligence_brief015.md | sanji | 2026-10-24 | — | 8959 |
-| 2026-10-24_execution_review_20261023.md | sanji | 2026-10-24 | — | 6765 |
-| 2026-10-24_experiment014_revalidation.md | sanji | 2026-10-24 | — | 8084 |
-| 2026-10-24_git_repo_health_admission_recovery.md | sanji | 2026-10-24 | A | 5551 |
-| 2026-10-24_glee_industry_watch_minimax_openai.md | sanji | 2026-10-24 | — | 4897 |
-| 2026-10-24_host_handoff_recovery_checkpoint.md | sanji | 2026-10-24 | A | 4311 |
-| 2026-10-24_jev_outage_prevention.md | sanji | 2026-10-24 | — | 7117 |
-| 2026-10-24_jev_usage_diagnosis.md | sanji | 2026-10-24 | — | 5150 |
-| 2026-10-24_landing_phantom_zero_fix.md | sanji | 2026-10-24 | — | 2183 |
-| 2026-10-24_latent_reasoning_assessment_reconciliation.md | sanji | 2026-10-24 | A | 5272 |
-| 2026-10-24_latent_reasoning_boundary_recheck.md | sanji | 2026-10-24 | A | 5522 |
-| 2026-10-24_latent_reasoning_continuation_reconciliation.md | sanji | 2026-10-24 | A | 6104 |
-| 2026-10-24_latent_reasoning_exit_rule_correction.md | sanji | 2026-10-24 | A | 7793 |
-| 2026-10-24_latent_reasoning_followon_gate.md | sanji | 2026-10-24 | A | 7773 |
-| 2026-10-24_latent_reasoning_intake.md | sanji | 2026-10-24 | A | 4815 |
-| 2026-10-24_living_meaning.md | sanji | 2026-10-24 | — | 8013 |
-| 2026-10-24_living_meaning_adequacy_pilot.md | sanji | 2026-10-24 | — | 7294 |
-| 2026-10-24_living_meaning_adequacy_question.md | sanji | 2026-10-24 | — | 3586 |
-| 2026-10-24_living_meaning_brief015.md | sanji | 2026-10-24 | — | 6450 |
-| 2026-10-24_living_meaning_execute_all.md | sanji | 2026-10-24 | — | 18316 |
-| _(+23869 more — see full manifest JSON)_ | | | | |
+| _(+23900 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
