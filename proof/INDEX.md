@@ -1,37 +1,50 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-10-28T12:41:16.273154+00:00
-> Total receipts indexed: 24214
+> Last updated: 2026-10-28T18:41:13.566565+00:00
+> Total receipts indexed: 24227
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-10-28_authorized_recovery_health_partial_01a173df.md | sanji | 2026-10-28 | B | 8135 |
 | 2026-10-28_context_contract_and_effect_handoff_fence_01a173df.md | sanji | 2026-10-28 | B | 8591 |
+| 2026-10-28_controlled_managed_start_refusal_01a173df.md | sanji | 2026-10-28 | B | 7435 |
 | 2026-10-28_coordination_custody_and_unanswered_requests_01a173df.md | sanji | 2026-10-28 | A | 6654 |
 | 2026-10-28_coordination_status_retry_and_repair_plan_01a173df.md | sanji | 2026-10-28 | A | 5379 |
 | 2026-10-28_exact_native_host_membership_01a173df.md | sanji | 2026-10-28 | B | 5164 |
+| 2026-10-28_executor_custody_reconciliation_01a173df.md | sanji | 2026-10-28 | B | 6792 |
+| 2026-10-28_executor_release_preparation_01a173df.md | sanji | 2026-10-28 | B | 8170 |
 | 2026-10-28_existing_host_endpoint_diagnosis_01a173df.md | sanji | 2026-10-28 | B | 4981 |
+| 2026-10-28_fixture_incident_impact_trace_01a173df.md | sanji | 2026-10-28 | B | 6231 |
 | 2026-10-28_named_backend_capability_question_01a173df.md | sanji | 2026-10-28 | B | 5058 |
+| 2026-10-28_scientific_proof_intake.md | sanji | 2026-10-28 | — | 8309 |
 | 2026-10-28_staged_normal_start_host_observation_01a173df.md | sanji | 2026-10-28 | B | 7125 |
+| 2026-10-28_terraria_actor_latency_quota_diagnostic.md | sanji | 2026-10-28 | — | 7497 |
 | 2026-10-28_terraria_capture85_rss_source_audit.md | sanji | 2026-10-28 | — | 7305 |
 | 2026-10-28_terraria_capture86_prefix_closure_source_audit.md | sanji | 2026-10-28 | — | 6199 |
 | 2026-10-28_terraria_capture86_tail_source_audit.md | sanji | 2026-10-28 | — | 6968 |
+| 2026-10-28_terraria_capture_phase_split_candidate.md | sanji | 2026-10-28 | — | 9425 |
 | 2026-10-28_terraria_contact_exposure_and_fleet_evidence.md | sanji | 2026-10-28 | — | 11229 |
 | 2026-10-28_terraria_contact_pilot_v1_source_review.md | sanji | 2026-10-28 | — | 3494 |
 | 2026-10-28_terraria_contact_pilot_v2_source_review.md | sanji | 2026-10-28 | — | 5975 |
 | 2026-10-28_terraria_contact_pilot_v3_namespace_source_review.md | sanji | 2026-10-28 | — | 6364 |
 | 2026-10-28_terraria_contact_pilot_v4_ACK_source_review.md | sanji | 2026-10-28 | — | 6170 |
 | 2026-10-28_terraria_contact_pilot_v5_paired_source_review.md | sanji | 2026-10-28 | — | 6839 |
-| 2026-10-28_terraria_current_owner_capture_qualification.md | sanji | 2026-10-28 | — | 16675 |
+| 2026-10-28_terraria_current_owner_capture_qualification.md | sanji | 2026-10-28 | — | 15983 |
 | 2026-10-28_terraria_delivery_coverage_pilot.md | sanji | 2026-10-28 | — | 15580 |
+| 2026-10-28_terraria_execution_runtime_readiness.md | sanji | 2026-10-28 | — | 10249 |
 | 2026-10-28_terraria_interval_capture_full96_review.md | sanji | 2026-10-28 | — | 7605 |
 | 2026-10-28_terraria_interval_capture_full96_v2_review.md | sanji | 2026-10-28 | — | 6241 |
 | 2026-10-28_terraria_interval_frame_prototype_review.md | sanji | 2026-10-28 | — | 6144 |
 | 2026-10-28_terraria_interval_numeric_repair_v2_review.md | sanji | 2026-10-28 | — | 4964 |
+| 2026-10-28_terraria_retained_driver_incorporation.md | sanji | 2026-10-28 | — | 11299 |
 | 2026-10-28_terraria_serializer_five_source_audit.md | sanji | 2026-10-28 | — | 5867 |
+| 2026-10-28_terraria_stream_still_no_ai.md | sanji | 2026-10-28 | — | 6222 |
 | 2026-10-28_terraria_supported_capture_and_mission_recovery.md | sanji | 2026-10-28 | — | 14248 |
+| 2026-10-28_terraria_train_headroom_and_stream_handoff.md | sanji | 2026-10-28 | — | 9190 |
 | 2026-10-28_terraria_viewer_repair_and_capture_owner_recovery.md | sanji | 2026-10-28 | — | 11781 |
+| 2026-10-28_unknown_outcome_retirement_prototype_01a173df.md | sanji | 2026-10-28 | B | 9719 |
 | 2026-10-27_contribution_log_1026_intake.md | zoro | 2026-10-27 | — | 2848 |
 | 2026-10-27_glee_space_all_places_drilldown.md | zoro | 2026-10-27 | — | 3505 |
 | 2026-10-27_review_queue_independent_check.md | zoro | 2026-10-27 | — | 6095 |
@@ -194,20 +207,7 @@
 | 2026-10-26_terraria_evaluator_and_shutdown_save.md | sanji | 2026-10-26 | A | 4465 |
 | 2026-10-26_terraria_group_review_corrections.md | sanji | 2026-10-26 | A | 6791 |
 | 2026-10-26_terraria_group_review_quota_checkpoint.md | sanji | 2026-10-26 | A | 5592 |
-| 2026-10-26_terraria_idle_learning_data_repair.md | sanji | 2026-10-26 | B | 4699 |
-| 2026-10-26_terraria_integrated_successor_v8.md | sanji | 2026-10-26 | A | 4548 |
-| 2026-10-26_terraria_jump_statistics_independent.md | sanji | 2026-10-26 | A | 4411 |
-| 2026-10-26_terraria_learned_obstacle_crossing.md | sanji | 2026-10-26 | C | 9467 |
-| 2026-10-26_terraria_learning_assessment_and_engineering_principle.md | sanji | 2026-10-26 | — | 5603 |
-| 2026-10-26_terraria_live_feed_and_colour_repair.md | sanji | 2026-10-26 | — | 5443 |
-| 2026-10-26_terraria_live_quality_checkpoint.md | sanji | 2026-10-26 | B | 13332 |
-| 2026-10-26_terraria_live_quality_repair.md | sanji | 2026-10-26 | B | 12231 |
-| 2026-10-26_terraria_native_host_v10_canary_and_a5_binding.md | sanji | 2026-10-26 | A | 6463 |
-| 2026-10-26_terraria_native_kernel_save_and_cpu_guard.md | sanji | 2026-10-26 | A | 4396 |
-| 2026-10-26_terraria_native_learning_cohort_and_perception.md | sanji | 2026-10-26 | — | 9236 |
-| 2026-10-26_terraria_native_learning_pilot.md | sanji | 2026-10-26 | B | 4872 |
-| 2026-10-26_terraria_native_pointer_fix_and_wood_control.md | sanji | 2026-10-26 | — | 8066 |
-| _(+24014 more — see full manifest JSON)_ | | | | |
+| _(+24027 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
