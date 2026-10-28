@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24211,
+  "total_receipts": 24214,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -172721,7 +172721,7 @@
       "rel_path": "2026-10-27_terraria_capture_integration82.md",
       "date": "2026-10-27",
       "tier": null,
-      "size_bytes": 86138
+      "size_bytes": 89702
     },
     {
       "file_name": "2026-10-27_terraria_capture_source_candidate.md",
@@ -173428,6 +173428,14 @@
       "size_bytes": 6839
     },
     {
+      "file_name": "2026-10-28_terraria_current_owner_capture_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_current_owner_capture_qualification.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 16675
+    },
+    {
       "file_name": "2026-10-28_terraria_delivery_coverage_pilot.md",
       "home": "sanji",
       "rel_path": "2026-10-28_terraria_delivery_coverage_pilot.md",
@@ -173442,6 +173450,14 @@
       "date": "2026-10-28",
       "tier": null,
       "size_bytes": 7605
+    },
+    {
+      "file_name": "2026-10-28_terraria_interval_capture_full96_v2_review.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_interval_capture_full96_v2_review.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 6241
     },
     {
       "file_name": "2026-10-28_terraria_interval_frame_prototype_review.md",
@@ -173473,7 +173489,15 @@
       "rel_path": "2026-10-28_terraria_supported_capture_and_mission_recovery.md",
       "date": "2026-10-28",
       "tier": null,
-      "size_bytes": 12429
+      "size_bytes": 14248
+    },
+    {
+      "file_name": "2026-10-28_terraria_viewer_repair_and_capture_owner_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_viewer_repair_and_capture_owner_recovery.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 11781
     },
     {
       "file_name": "INDEX.md",
