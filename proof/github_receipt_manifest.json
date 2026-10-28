@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24214,
+  "total_receipts": 24227,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -173300,12 +173300,28 @@
       "size_bytes": 7844
     },
     {
+      "file_name": "2026-10-28_authorized_recovery_health_partial_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_authorized_recovery_health_partial_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 8135
+    },
+    {
       "file_name": "2026-10-28_context_contract_and_effect_handoff_fence_01a173df.md",
       "home": "sanji",
       "rel_path": "2026-10-28_context_contract_and_effect_handoff_fence_01a173df.md",
       "date": "2026-10-28",
       "tier": "B",
       "size_bytes": 8591
+    },
+    {
+      "file_name": "2026-10-28_controlled_managed_start_refusal_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_controlled_managed_start_refusal_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 7435
     },
     {
       "file_name": "2026-10-28_coordination_custody_and_unanswered_requests_01a173df.md",
@@ -173332,12 +173348,36 @@
       "size_bytes": 5164
     },
     {
+      "file_name": "2026-10-28_executor_custody_reconciliation_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_executor_custody_reconciliation_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 6792
+    },
+    {
+      "file_name": "2026-10-28_executor_release_preparation_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_executor_release_preparation_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 8170
+    },
+    {
       "file_name": "2026-10-28_existing_host_endpoint_diagnosis_01a173df.md",
       "home": "sanji",
       "rel_path": "2026-10-28_existing_host_endpoint_diagnosis_01a173df.md",
       "date": "2026-10-28",
       "tier": "B",
       "size_bytes": 4981
+    },
+    {
+      "file_name": "2026-10-28_fixture_incident_impact_trace_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_fixture_incident_impact_trace_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 6231
     },
     {
       "file_name": "2026-10-28_named_backend_capability_question_01a173df.md",
@@ -173348,12 +173388,28 @@
       "size_bytes": 5058
     },
     {
+      "file_name": "2026-10-28_scientific_proof_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_scientific_proof_intake.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 8309
+    },
+    {
       "file_name": "2026-10-28_staged_normal_start_host_observation_01a173df.md",
       "home": "sanji",
       "rel_path": "2026-10-28_staged_normal_start_host_observation_01a173df.md",
       "date": "2026-10-28",
       "tier": "B",
       "size_bytes": 7125
+    },
+    {
+      "file_name": "2026-10-28_terraria_actor_latency_quota_diagnostic.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_actor_latency_quota_diagnostic.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 7497
     },
     {
       "file_name": "2026-10-28_terraria_capture85_rss_source_audit.md",
@@ -173378,6 +173434,14 @@
       "date": "2026-10-28",
       "tier": null,
       "size_bytes": 6968
+    },
+    {
+      "file_name": "2026-10-28_terraria_capture_phase_split_candidate.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_capture_phase_split_candidate.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 9425
     },
     {
       "file_name": "2026-10-28_terraria_contact_exposure_and_fleet_evidence.md",
@@ -173433,7 +173497,7 @@
       "rel_path": "2026-10-28_terraria_current_owner_capture_qualification.md",
       "date": "2026-10-28",
       "tier": null,
-      "size_bytes": 16675
+      "size_bytes": 15983
     },
     {
       "file_name": "2026-10-28_terraria_delivery_coverage_pilot.md",
@@ -173442,6 +173506,14 @@
       "date": "2026-10-28",
       "tier": null,
       "size_bytes": 15580
+    },
+    {
+      "file_name": "2026-10-28_terraria_execution_runtime_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_execution_runtime_readiness.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 10249
     },
     {
       "file_name": "2026-10-28_terraria_interval_capture_full96_review.md",
@@ -173476,12 +173548,28 @@
       "size_bytes": 4964
     },
     {
+      "file_name": "2026-10-28_terraria_retained_driver_incorporation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_retained_driver_incorporation.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 11299
+    },
+    {
       "file_name": "2026-10-28_terraria_serializer_five_source_audit.md",
       "home": "sanji",
       "rel_path": "2026-10-28_terraria_serializer_five_source_audit.md",
       "date": "2026-10-28",
       "tier": null,
       "size_bytes": 5867
+    },
+    {
+      "file_name": "2026-10-28_terraria_stream_still_no_ai.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_stream_still_no_ai.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 6222
     },
     {
       "file_name": "2026-10-28_terraria_supported_capture_and_mission_recovery.md",
@@ -173492,12 +173580,28 @@
       "size_bytes": 14248
     },
     {
+      "file_name": "2026-10-28_terraria_train_headroom_and_stream_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_train_headroom_and_stream_handoff.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 9190
+    },
+    {
       "file_name": "2026-10-28_terraria_viewer_repair_and_capture_owner_recovery.md",
       "home": "sanji",
       "rel_path": "2026-10-28_terraria_viewer_repair_and_capture_owner_recovery.md",
       "date": "2026-10-28",
       "tier": null,
       "size_bytes": 11781
+    },
+    {
+      "file_name": "2026-10-28_unknown_outcome_retirement_prototype_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_unknown_outcome_retirement_prototype_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 9719
     },
     {
       "file_name": "INDEX.md",
