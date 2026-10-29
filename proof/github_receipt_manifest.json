@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24238,
+  "total_receipts": 24254,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -173452,6 +173452,22 @@
       "size_bytes": 6466
     },
     {
+      "file_name": "2026-10-28_memory_privacy_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_memory_privacy_intake.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 9524
+    },
+    {
+      "file_name": "2026-10-28_memory_privacy_intake_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_memory_privacy_intake_recheck.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 5480
+    },
+    {
       "file_name": "2026-10-28_named_backend_capability_question_01a173df.md",
       "home": "sanji",
       "rel_path": "2026-10-28_named_backend_capability_question_01a173df.md",
@@ -173482,6 +173498,22 @@
       "date": "2026-10-28",
       "tier": "B",
       "size_bytes": 7125
+    },
+    {
+      "file_name": "2026-10-28_task_language_benchmark_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_task_language_benchmark_intake.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 7343
+    },
+    {
+      "file_name": "2026-10-28_task_language_benchmark_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_task_language_benchmark_recheck.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 5313
     },
     {
       "file_name": "2026-10-28_terraria_actor_latency_quota_diagnostic.md",
@@ -173577,7 +173609,7 @@
       "rel_path": "2026-10-28_terraria_current_owner_capture_qualification.md",
       "date": "2026-10-28",
       "tier": null,
-      "size_bytes": 47009
+      "size_bytes": 42983
     },
     {
       "file_name": "2026-10-28_terraria_delivery_coverage_pilot.md",
@@ -173633,7 +173665,7 @@
       "rel_path": "2026-10-28_terraria_ppo_actual_learning_and_video_gap.md",
       "date": "2026-10-28",
       "tier": null,
-      "size_bytes": 9748
+      "size_bytes": 10609
     },
     {
       "file_name": "2026-10-28_terraria_retained_driver_incorporation.md",
@@ -173642,6 +173674,14 @@
       "date": "2026-10-28",
       "tier": null,
       "size_bytes": 11299
+    },
+    {
+      "file_name": "2026-10-28_terraria_review_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_review_reconciliation.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 13193
     },
     {
       "file_name": "2026-10-28_terraria_serializer_five_source_audit.md",
@@ -173690,6 +173730,94 @@
       "date": "2026-10-28",
       "tier": "B",
       "size_bytes": 9719
+    },
+    {
+      "file_name": "2026-10-29_controlled-native-message-work-handoff-01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_controlled-native-message-work-handoff-01a173df.md",
+      "date": "2026-10-29",
+      "tier": "B",
+      "size_bytes": 6259
+    },
+    {
+      "file_name": "2026-10-29_deployed-native-failure-diagnostics-01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_deployed-native-failure-diagnostics-01a173df.md",
+      "date": "2026-10-29",
+      "tier": "B",
+      "size_bytes": 4481
+    },
+    {
+      "file_name": "2026-10-29_native-failure-reconciliation-diagnostics-01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_native-failure-reconciliation-diagnostics-01a173df.md",
+      "date": "2026-10-29",
+      "tier": "B",
+      "size_bytes": 4425
+    },
+    {
+      "file_name": "2026-10-29_ordinary-adoption-durability-assessment-01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_ordinary-adoption-durability-assessment-01a173df.md",
+      "date": "2026-10-29",
+      "tier": "B",
+      "size_bytes": 3468
+    },
+    {
+      "file_name": "2026-10-29_ordinary-review-native-observation-failure-01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_ordinary-review-native-observation-failure-01a173df.md",
+      "date": "2026-10-29",
+      "tier": "B",
+      "size_bytes": 4686
+    },
+    {
+      "file_name": "2026-10-29_staged-durable-control-evidence-01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_staged-durable-control-evidence-01a173df.md",
+      "date": "2026-10-29",
+      "tier": "B",
+      "size_bytes": 3547
+    },
+    {
+      "file_name": "2026-10-29_terraria_owner_guard_repair_and_exam_integration.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_terraria_owner_guard_repair_and_exam_integration.md",
+      "date": "2026-10-29",
+      "tier": null,
+      "size_bytes": 8502
+    },
+    {
+      "file_name": "2026-10-29_terraria_process_control_audio_source.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_terraria_process_control_audio_source.md",
+      "date": "2026-10-29",
+      "tier": null,
+      "size_bytes": 6982
+    },
+    {
+      "file_name": "2026-10-29_terraria_reference_runtime_and_audio_boundaries.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_terraria_reference_runtime_and_audio_boundaries.md",
+      "date": "2026-10-29",
+      "tier": null,
+      "size_bytes": 8167
+    },
+    {
+      "file_name": "2026-10-29_terraria_seat_release.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_terraria_seat_release.md",
+      "date": "2026-10-29",
+      "tier": null,
+      "size_bytes": 3455
+    },
+    {
+      "file_name": "2026-10-29_terraria_source_flow_and_recovery_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-10-29_terraria_source_flow_and_recovery_binding.md",
+      "date": "2026-10-29",
+      "tier": null,
+      "size_bytes": 7212
     },
     {
       "file_name": "INDEX.md",
