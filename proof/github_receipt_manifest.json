@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24227,
+  "total_receipts": 24238,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -6290,6 +6290,14 @@
       "date": "2026-10-26",
       "tier": "A",
       "size_bytes": 8894
+    },
+    {
+      "file_name": "2026-10-28_open_lab_four_path_codex_review.md",
+      "home": "glee",
+      "rel_path": "2026-10-28_open_lab_four_path_codex_review.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 3353
     },
     {
       "file_name": "META.md",
@@ -45762,6 +45770,46 @@
       "date": "2026-10-27",
       "tier": null,
       "size_bytes": 6095
+    },
+    {
+      "file_name": "2026-10-28_exoproc_tool_evaluation.md",
+      "home": "zoro",
+      "rel_path": "2026-10-28_exoproc_tool_evaluation.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 4412
+    },
+    {
+      "file_name": "2026-10-28_gleephoenix_overhaul.md",
+      "home": "zoro",
+      "rel_path": "2026-10-28_gleephoenix_overhaul.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 12033
+    },
+    {
+      "file_name": "2026-10-28_gleephoenix_overhaul_closure.md",
+      "home": "zoro",
+      "rel_path": "2026-10-28_gleephoenix_overhaul_closure.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 15556
+    },
+    {
+      "file_name": "2026-10-28_gleephoenix_v3_dated_copy.md",
+      "home": "zoro",
+      "rel_path": "2026-10-28_gleephoenix_v3_dated_copy.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 5357
+    },
+    {
+      "file_name": "2026-10-28_moonshot_thin_glee_phase1_2.md",
+      "home": "zoro",
+      "rel_path": "2026-10-28_moonshot_thin_glee_phase1_2.md",
+      "date": "2026-10-28",
+      "tier": "A",
+      "size_bytes": 10063
     },
     {
       "file_name": "INDEX.md",
@@ -173300,6 +173348,14 @@
       "size_bytes": 7844
     },
     {
+      "file_name": "2026-10-28_ablation_source_known_evaluation.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_ablation_source_known_evaluation.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 7611
+    },
+    {
       "file_name": "2026-10-28_authorized_recovery_health_partial_01a173df.md",
       "home": "sanji",
       "rel_path": "2026-10-28_authorized_recovery_health_partial_01a173df.md",
@@ -173380,12 +173436,36 @@
       "size_bytes": 6231
     },
     {
+      "file_name": "2026-10-28_local_unknown_retirement_executor_live_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_local_unknown_retirement_executor_live_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 6516
+    },
+    {
+      "file_name": "2026-10-28_managed_path_compatibility_recovery_01a173df.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_managed_path_compatibility_recovery_01a173df.md",
+      "date": "2026-10-28",
+      "tier": "B",
+      "size_bytes": 6466
+    },
+    {
       "file_name": "2026-10-28_named_backend_capability_question_01a173df.md",
       "home": "sanji",
       "rel_path": "2026-10-28_named_backend_capability_question_01a173df.md",
       "date": "2026-10-28",
       "tier": "B",
       "size_bytes": 5058
+    },
+    {
+      "file_name": "2026-10-28_ncm_local_tests_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_ncm_local_tests_intake.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 6794
     },
     {
       "file_name": "2026-10-28_scientific_proof_intake.md",
@@ -173497,7 +173577,7 @@
       "rel_path": "2026-10-28_terraria_current_owner_capture_qualification.md",
       "date": "2026-10-28",
       "tier": null,
-      "size_bytes": 15983
+      "size_bytes": 47009
     },
     {
       "file_name": "2026-10-28_terraria_delivery_coverage_pilot.md",
@@ -173546,6 +173626,14 @@
       "date": "2026-10-28",
       "tier": null,
       "size_bytes": 4964
+    },
+    {
+      "file_name": "2026-10-28_terraria_ppo_actual_learning_and_video_gap.md",
+      "home": "sanji",
+      "rel_path": "2026-10-28_terraria_ppo_actual_learning_and_video_gap.md",
+      "date": "2026-10-28",
+      "tier": null,
+      "size_bytes": 9748
     },
     {
       "file_name": "2026-10-28_terraria_retained_driver_incorporation.md",
