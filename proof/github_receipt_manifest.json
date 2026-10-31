@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24320,
+  "total_receipts": 24322,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -6298,6 +6298,14 @@
       "date": "2026-10-28",
       "tier": "B",
       "size_bytes": 3353
+    },
+    {
+      "file_name": "2026-10-30_codex_infrastructure_execution_recovery.md",
+      "home": "glee",
+      "rel_path": "2026-10-30_codex_infrastructure_execution_recovery.md",
+      "date": "2026-10-30",
+      "tier": "A",
+      "size_bytes": 8564
     },
     {
       "file_name": "2026-10-30_codex_terraria_checkpoint_components.md",
@@ -45922,6 +45930,14 @@
       "date": "2026-10-29",
       "tier": "B",
       "size_bytes": 6041
+    },
+    {
+      "file_name": "2026-10-30_terminal_wall_close_race_and_codex_launch.md",
+      "home": "zoro",
+      "rel_path": "2026-10-30_terminal_wall_close_race_and_codex_launch.md",
+      "date": "2026-10-30",
+      "tier": null,
+      "size_bytes": 5748
     },
     {
       "file_name": "INDEX.md",
