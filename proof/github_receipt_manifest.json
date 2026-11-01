@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 24322,
+  "total_receipts": 24341,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -45938,6 +45938,30 @@
       "date": "2026-10-30",
       "tier": null,
       "size_bytes": 5748
+    },
+    {
+      "file_name": "2026-11-01_luna_swarm_sol_synthesis_pilot1.md",
+      "home": "zoro",
+      "rel_path": "2026-11-01_luna_swarm_sol_synthesis_pilot1.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 6819
+    },
+    {
+      "file_name": "2026-11-01_terraria_cloud_autolearn_and_v6_progress_learner.md",
+      "home": "zoro",
+      "rel_path": "2026-11-01_terraria_cloud_autolearn_and_v6_progress_learner.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 5368
+    },
+    {
+      "file_name": "2026-11-01_terraria_v6_amendment_memgate_and_improvement_loop.md",
+      "home": "zoro",
+      "rel_path": "2026-11-01_terraria_v6_amendment_memgate_and_improvement_loop.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 6896
     },
     {
       "file_name": "INDEX.md",
@@ -174362,6 +174386,134 @@
       "date": "2026-10-29",
       "tier": null,
       "size_bytes": 9127
+    },
+    {
+      "file_name": "2026-11-01_ai_priorities_advisory.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_ai_priorities_advisory.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 5740
+    },
+    {
+      "file_name": "2026-11-01_ai_school_update.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_ai_school_update.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 9273
+    },
+    {
+      "file_name": "2026-11-01_boundary_discovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_boundary_discovery.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 6551
+    },
+    {
+      "file_name": "2026-11-01_clingex_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_clingex_intake.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 6353
+    },
+    {
+      "file_name": "2026-11-01_contribution_log_20261031_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_contribution_log_20261031_intake.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 8428
+    },
+    {
+      "file_name": "2026-11-01_daily_scaling_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_daily_scaling_review.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 8165
+    },
+    {
+      "file_name": "2026-11-01_glee_video_identity.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_glee_video_identity.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 2208
+    },
+    {
+      "file_name": "2026-11-01_glee_youtube_editorial_direction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_glee_youtube_editorial_direction.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 2692
+    },
+    {
+      "file_name": "2026-11-01_mage_research_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_mage_research_intake.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 5105
+    },
+    {
+      "file_name": "2026-11-01_prospector_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_prospector_intake.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 6797
+    },
+    {
+      "file_name": "2026-11-01_public_experience_production_rebase.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_public_experience_production_rebase.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 7982
+    },
+    {
+      "file_name": "2026-11-01_public_experience_records.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_public_experience_records.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 8433
+    },
+    {
+      "file_name": "2026-11-01_studio_iteration_and_youtube.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_studio_iteration_and_youtube.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 2690
+    },
+    {
+      "file_name": "2026-11-01_studio_purpose_clarification.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_studio_purpose_clarification.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 2704
+    },
+    {
+      "file_name": "2026-11-01_terraria_saved_experiment_finished.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_terraria_saved_experiment_finished.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 7519
+    },
+    {
+      "file_name": "2026-11-01_unified_studio_workshop_foundation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-01_unified_studio_workshop_foundation.md",
+      "date": "2026-11-01",
+      "tier": null,
+      "size_bytes": 6733
     },
     {
       "file_name": "INDEX.md",
