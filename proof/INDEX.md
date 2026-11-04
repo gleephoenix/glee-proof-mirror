@@ -1,27 +1,48 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-04T06:41:17.142615+00:00
-> Total receipts indexed: 24974
+> Last updated: 2026-11-04T12:41:10.543656+00:00
+> Total receipts indexed: 24995
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
 | 2026-11-04_glee_resource_efficiency_wave10.md | sanji | 2026-11-04 | — | 10292 |
+| 2026-11-04_glee_resource_efficiency_wave11.md | sanji | 2026-11-04 | — | 8328 |
+| 2026-11-04_glee_resource_efficiency_wave12.md | sanji | 2026-11-04 | — | 6074 |
+| 2026-11-04_glee_resource_efficiency_wave13.md | sanji | 2026-11-04 | — | 6383 |
+| 2026-11-04_glee_resource_efficiency_wave14.md | sanji | 2026-11-04 | — | 7237 |
+| 2026-11-04_glee_resource_efficiency_wave15.md | sanji | 2026-11-04 | — | 7318 |
+| 2026-11-04_glee_resource_efficiency_wave16.md | sanji | 2026-11-04 | — | 7932 |
+| 2026-11-04_research_method_delivery_wave06.md | sanji | 2026-11-04 | — | 9853 |
+| 2026-11-04_research_scientific_process_wave04.md | sanji | 2026-11-04 | — | 9588 |
+| 2026-11-04_terraria_audio_viewer_fault_review.md | sanji | 2026-11-04 | — | 6530 |
+| 2026-11-04_terraria_browser_timeline_correction.md | sanji | 2026-11-04 | — | 2471 |
 | 2026-11-04_terraria_camera_probe_source_review.md | sanji | 2026-11-04 | B | 4027 |
 | 2026-11-04_terraria_camera_replay_canary2_review.md | sanji | 2026-11-04 | B | 6427 |
 | 2026-11-04_terraria_camera_replay_canary3_settlement.md | sanji | 2026-11-04 | B | 6960 |
+| 2026-11-04_terraria_canary0830_effect_boundary.md | sanji | 2026-11-04 | B | 5280 |
+| 2026-11-04_terraria_canary0830_handoff_reconciliation.md | sanji | 2026-11-04 | B | 5294 |
+| 2026-11-04_terraria_canary4_reconciliation.md | sanji | 2026-11-04 | B | 14480 |
 | 2026-11-04_terraria_decoder_attribution_parent_sync.md | sanji | 2026-11-04 | B | 7435 |
 | 2026-11-04_terraria_decoder_handoff_recovery.md | sanji | 2026-11-04 | B | 6289 |
 | 2026-11-04_terraria_decoder_offline_replay_handoff.md | sanji | 2026-11-04 | B | 4486 |
 | 2026-11-04_terraria_decoder_offline_replay_review.md | sanji | 2026-11-04 | B | 10606 |
 | 2026-11-04_terraria_decoder_owner_identity_reconcile.md | sanji | 2026-11-04 | A | 6031 |
 | 2026-11-04_terraria_decoder_source_binding_review.md | sanji | 2026-11-04 | B | 7109 |
+| 2026-11-04_terraria_diagnostic_review_and_learning_readback.md | sanji | 2026-11-04 | — | 20284 |
+| 2026-11-04_terraria_gen19_attribution_input_boundary.md | sanji | 2026-11-04 | C | 6659 |
+| 2026-11-04_terraria_gen19_group_plan_readback.md | sanji | 2026-11-04 | C | 5973 |
 | 2026-11-04_terraria_group_plan_decoder_seat_refresh.md | sanji | 2026-11-04 | A | 5127 |
+| 2026-11-04_terraria_group_plan_execution_reconciliation.md | sanji | 2026-11-04 | B | 12008 |
 | 2026-11-04_terraria_group_plan_live_owner_refresh.md | sanji | 2026-11-04 | A | 5751 |
 | 2026-11-04_terraria_group_plan_smoke_defer_update.md | sanji | 2026-11-04 | A | 5619 |
 | 2026-11-04_terraria_group_roster_freshness_revalidation.md | sanji | 2026-11-04 | A | 6124 |
 | 2026-11-04_terraria_live_pipeline_boundary.md | sanji | 2026-11-04 | — | 5843 |
+| 2026-11-04_terraria_stop_guard_reconciliation.md | sanji | 2026-11-04 | C | 6179 |
+| 2026-11-04_terraria_transport_release_reconciliation.md | sanji | 2026-11-04 | — | 18069 |
+| 2026-11-04_terraria_transport_worker_candidate_review.md | sanji | 2026-11-04 | B | 5942 |
+| 2026-11-04_terraria_waiting_scope_reconciliation.md | sanji | 2026-11-04 | C | 4729 |
 | 2026-11-04_terraria_zoro_handoff_acceptance_refresh.md | sanji | 2026-11-04 | A | 8629 |
 | 2026-11-03_deepseek_mosaic_v03.md | glee | 2026-11-03 | B | 7061 |
 | 2026-11-03_deepseek_mosaic_v03b.md | glee | 2026-11-03 | B | 4451 |
@@ -186,28 +207,7 @@
 | 2026-11-03_terraria_host_timing_reconcile_checkpoint.md | sanji | 2026-11-03 | B | 5614 |
 | 2026-11-03_terraria_host_timing_reconciliation_turn31.md | sanji | 2026-11-03 | B | 7372 |
 | 2026-11-03_terraria_host_timing_reconciliation_turn33.md | sanji | 2026-11-03 | B | 5805 |
-| 2026-11-03_terraria_host_wait_boundary_turn11.md | sanji | 2026-11-03 | B | 5004 |
-| 2026-11-03_terraria_jepa_git_anchor_reconcile.md | sanji | 2026-11-03 | A | 7633 |
-| 2026-11-03_terraria_jepa_manifest_mismatch_reconciliation.md | sanji | 2026-11-03 | B | 6746 |
-| 2026-11-03_terraria_jepa_probe3_readback.md | sanji | 2026-11-03 | B | 11994 |
-| 2026-11-03_terraria_jepa_source_integrity_reconcile.md | sanji | 2026-11-03 | A | 8149 |
-| 2026-11-03_terraria_media_canary1_rollback.md | sanji | 2026-11-03 | — | 6970 |
-| 2026-11-03_terraria_native_timing_host_handoff_reconciliation.md | sanji | 2026-11-03 | B | 6212 |
-| 2026-11-03_terraria_owner_gate_census_v13_fyi_close.md | sanji | 2026-11-03 | B | 6502 |
-| 2026-11-03_terraria_owner_lane_reconciliation.md | sanji | 2026-11-03 | A | 4667 |
-| 2026-11-03_terraria_package_integrity_recheck.md | sanji | 2026-11-03 | C | 5112 |
-| 2026-11-03_terraria_parent_frontier_checkpoint_turn27.md | sanji | 2026-11-03 | A | 6204 |
-| 2026-11-03_terraria_parent_gate_reconciliation.md | sanji | 2026-11-03 | B | 6197 |
-| 2026-11-03_terraria_plan_dedup_verification.md | sanji | 2026-11-03 | C | 5263 |
-| 2026-11-03_terraria_private_actor_33fps.md | sanji | 2026-11-03 | — | 6917 |
-| 2026-11-03_terraria_probe3_action_semantics_reconciliation.md | sanji | 2026-11-03 | B | 5749 |
-| 2026-11-03_terraria_probe3_action_world_coverage_audit.md | sanji | 2026-11-03 | B | 5847 |
-| 2026-11-03_terraria_probe3_camera_pan_plan_addendum.md | sanji | 2026-11-03 | C | 6014 |
-| 2026-11-03_terraria_recovery_reconciliation.md | sanji | 2026-11-03 | A | 4834 |
-| 2026-11-03_terraria_team_handoff_revalidation.md | sanji | 2026-11-03 | B | 5043 |
-| 2026-11-03_terraria_team_roster_revalidation_addendum_turn53.md | sanji | 2026-11-03 | C | 6379 |
-| 2026-11-03_terraria_team_roster_revalidation_turn53.md | sanji | 2026-11-03 | C | 6026 |
-| _(+24774 more — see full manifest JSON)_ | | | | |
+| _(+24795 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
