@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 25141,
+  "total_receipts": 25172,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -180292,6 +180292,22 @@
       "size_bytes": 8629
     },
     {
+      "file_name": "2026-11-05_current_codex_context_handoff_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_current_codex_context_handoff_reconciliation.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 6149
+    },
+    {
+      "file_name": "2026-11-05_current_codex_context_handoff_seat_transfer.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_current_codex_context_handoff_seat_transfer.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 5796
+    },
+    {
       "file_name": "2026-11-05_glee_resource_efficiency_wave42.md",
       "home": "sanji",
       "rel_path": "2026-11-05_glee_resource_efficiency_wave42.md",
@@ -180412,6 +180428,78 @@
       "size_bytes": 6727
     },
     {
+      "file_name": "2026-11-05_terraria_executor_route_recheck_turn54.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_executor_route_recheck_turn54.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6612
+    },
+    {
+      "file_name": "2026-11-05_terraria_fleet_role_reconciliation_turn53.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_fleet_role_reconciliation_turn53.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 5531
+    },
+    {
+      "file_name": "2026-11-05_terraria_fleet_role_reconciliation_turn53b.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_fleet_role_reconciliation_turn53b.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 6103
+    },
+    {
+      "file_name": "2026-11-05_terraria_fleet_role_reconciliation_turn53c.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_fleet_role_reconciliation_turn53c.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6105
+    },
+    {
+      "file_name": "2026-11-05_terraria_fleet_role_reconciliation_turn53d.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_fleet_role_reconciliation_turn53d.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 5257
+    },
+    {
+      "file_name": "2026-11-05_terraria_gen19_attribution_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_gen19_attribution_recheck.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 8288
+    },
+    {
+      "file_name": "2026-11-05_terraria_gen19_provenance_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_gen19_provenance_reconciliation.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 7761
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_owner_roster_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_owner_roster_refresh.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6496
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_plan_actionability_refresh_turn48.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_actionability_refresh_turn48.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6546
+    },
+    {
       "file_name": "2026-11-05_terraria_group_plan_authority_recheck.md",
       "home": "sanji",
       "rel_path": "2026-11-05_terraria_group_plan_authority_recheck.md",
@@ -180426,6 +180514,22 @@
       "date": "2026-11-05",
       "tier": "C",
       "size_bytes": 6640
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_plan_capacity_delta_turn50.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_capacity_delta_turn50.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 8554
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_plan_continuation_reconcile_turn52.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_continuation_reconcile_turn52.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6142
     },
     {
       "file_name": "2026-11-05_terraria_group_plan_continuation_reconciliation.md",
@@ -180484,6 +180588,14 @@
       "size_bytes": 6189
     },
     {
+      "file_name": "2026-11-05_terraria_group_plan_owner_refresh_turn51.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_owner_refresh_turn51.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 9468
+    },
+    {
       "file_name": "2026-11-05_terraria_group_plan_recovery_handoff.md",
       "home": "sanji",
       "rel_path": "2026-11-05_terraria_group_plan_recovery_handoff.md",
@@ -180524,6 +180636,30 @@
       "size_bytes": 7708
     },
     {
+      "file_name": "2026-11-05_terraria_group_plan_roster_refresh_turn47.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_roster_refresh_turn47.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6348
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_plan_route_reconciliation_turn60.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_route_reconciliation_turn60.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 6778
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_plan_routing_delta_turn49.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_routing_delta_turn49.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 7770
+    },
+    {
       "file_name": "2026-11-05_terraria_group_plan_staffing_refresh.md",
       "home": "sanji",
       "rel_path": "2026-11-05_terraria_group_plan_staffing_refresh.md",
@@ -180548,6 +180684,14 @@
       "size_bytes": 5769
     },
     {
+      "file_name": "2026-11-05_terraria_group_plan_team_focus_route_turn59.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_team_focus_route_turn59.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 5810
+    },
+    {
       "file_name": "2026-11-05_terraria_group_plan_timing_handoff_recheck.md",
       "home": "sanji",
       "rel_path": "2026-11-05_terraria_group_plan_timing_handoff_recheck.md",
@@ -180562,6 +180706,22 @@
       "date": "2026-11-05",
       "tier": "A",
       "size_bytes": 7188
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_plan_turn59_dispatch_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_plan_turn59_dispatch_boundary.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 8169
+    },
+    {
+      "file_name": "2026-11-05_terraria_group_refresh_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_group_refresh_handoff.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 4959
     },
     {
       "file_name": "2026-11-05_terraria_group_roster_refresh_0905z.md",
@@ -180668,6 +180828,14 @@
       "size_bytes": 5604
     },
     {
+      "file_name": "2026-11-05_terraria_native_handoff_reconciliation_turn57.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_native_handoff_reconciliation_turn57.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6448
+    },
+    {
       "file_name": "2026-11-05_terraria_native_review_packet_repair.md",
       "home": "sanji",
       "rel_path": "2026-11-05_terraria_native_review_packet_repair.md",
@@ -180682,6 +180850,22 @@
       "date": "2026-11-05",
       "tier": null,
       "size_bytes": 3012
+    },
+    {
+      "file_name": "2026-11-05_terraria_native_timing_and_keeper_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_native_timing_and_keeper_binding.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 9212
+    },
+    {
+      "file_name": "2026-11-05_terraria_native_timing_host_handoff_turn58.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_native_timing_host_handoff_turn58.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 6971
     },
     {
       "file_name": "2026-11-05_terraria_parent_frontier_handoff.md",
@@ -180708,6 +180892,14 @@
       "size_bytes": 5815
     },
     {
+      "file_name": "2026-11-05_terraria_route_seat_reconciliation_turn56.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_route_seat_reconciliation_turn56.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 6352
+    },
+    {
       "file_name": "2026-11-05_terraria_second_receiver_generation_proof.md",
       "home": "sanji",
       "rel_path": "2026-11-05_terraria_second_receiver_generation_proof.md",
@@ -180722,6 +180914,46 @@
       "date": "2026-11-05",
       "tier": null,
       "size_bytes": 8506
+    },
+    {
+      "file_name": "2026-11-05_terraria_sunny0_handoff_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_sunny0_handoff_boundary.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 4853
+    },
+    {
+      "file_name": "2026-11-05_terraria_targeted_owner_native_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_targeted_owner_native_refresh.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 6786
+    },
+    {
+      "file_name": "2026-11-05_terraria_team_focus_recheck_turn55.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_team_focus_recheck_turn55.md",
+      "date": "2026-11-05",
+      "tier": "A",
+      "size_bytes": 5803
+    },
+    {
+      "file_name": "2026-11-05_terraria_turn57_continuation_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_turn57_continuation_boundary.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 5361
+    },
+    {
+      "file_name": "2026-11-05_terraria_turn58_host_boundary_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_terraria_turn58_host_boundary_handoff.md",
+      "date": "2026-11-05",
+      "tier": "B",
+      "size_bytes": 5657
     },
     {
       "file_name": "2026-11-05_terraria_v5_integrated_source_review.md",
@@ -180770,6 +181002,22 @@
       "date": "2026-11-05",
       "tier": "B",
       "size_bytes": 7194
+    },
+    {
+      "file_name": "2026-11-06_codex_context_handoff_bounded_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_codex_context_handoff_bounded_reconciliation.md",
+      "date": "2026-11-06",
+      "tier": "A",
+      "size_bytes": 5846
+    },
+    {
+      "file_name": "2026-11-06_terraria_group_plan_current_focus_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_group_plan_current_focus_refresh.md",
+      "date": "2026-11-06",
+      "tier": "C",
+      "size_bytes": 6174
     },
     {
       "file_name": "INDEX.md",
