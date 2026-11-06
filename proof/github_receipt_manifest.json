@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 25172,
+  "total_receipts": 25203,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -180292,6 +180292,94 @@
       "size_bytes": 8629
     },
     {
+      "file_name": "2026-11-05_ai_code_quality.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_code_quality.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 11071
+    },
+    {
+      "file_name": "2026-11-05_ai_context_generalization.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_context_generalization.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7655
+    },
+    {
+      "file_name": "2026-11-05_ai_kernel_acquisition.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_kernel_acquisition.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7344
+    },
+    {
+      "file_name": "2026-11-05_ai_kernel_replication.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_kernel_replication.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7803
+    },
+    {
+      "file_name": "2026-11-05_ai_numeric_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_numeric_boundary.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7332
+    },
+    {
+      "file_name": "2026-11-05_ai_numeric_representation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_numeric_representation.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7675
+    },
+    {
+      "file_name": "2026-11-05_ai_operand_coverage.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_operand_coverage.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7294
+    },
+    {
+      "file_name": "2026-11-05_ai_record_lookup.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_record_lookup.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7032
+    },
+    {
+      "file_name": "2026-11-05_ai_structure_and_inference.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_ai_structure_and_inference.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 7984
+    },
+    {
+      "file_name": "2026-11-05_autonomous_science_operated_evidence.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_autonomous_science_operated_evidence.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 5979
+    },
+    {
+      "file_name": "2026-11-05_autonomous_science_path_and_repairs.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_autonomous_science_path_and_repairs.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 6527
+    },
+    {
       "file_name": "2026-11-05_current_codex_context_handoff_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-11-05_current_codex_context_handoff_reconciliation.md",
@@ -180330,6 +180418,46 @@
       "date": "2026-11-05",
       "tier": null,
       "size_bytes": 11041
+    },
+    {
+      "file_name": "2026-11-05_software_capability_efficiency.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_software_capability_efficiency.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 8480
+    },
+    {
+      "file_name": "2026-11-05_software_capability_efficiency_wave02.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_software_capability_efficiency_wave02.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 8132
+    },
+    {
+      "file_name": "2026-11-05_software_capability_efficiency_wave03.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_software_capability_efficiency_wave03.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 9923
+    },
+    {
+      "file_name": "2026-11-05_software_capability_efficiency_wave04.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_software_capability_efficiency_wave04.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 9587
+    },
+    {
+      "file_name": "2026-11-05_software_capability_efficiency_wave05.md",
+      "home": "sanji",
+      "rel_path": "2026-11-05_software_capability_efficiency_wave05.md",
+      "date": "2026-11-05",
+      "tier": null,
+      "size_bytes": 6746
     },
     {
       "file_name": "2026-11-05_terraria_ai_group_plan_decoder_review_update_0650.md",
@@ -181004,6 +181132,22 @@
       "size_bytes": 7194
     },
     {
+      "file_name": "2026-11-06_ai_code_quality_pilot.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_ai_code_quality_pilot.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 8055
+    },
+    {
+      "file_name": "2026-11-06_ai_record_equality.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_ai_record_equality.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7676
+    },
+    {
       "file_name": "2026-11-06_codex_context_handoff_bounded_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-11-06_codex_context_handoff_bounded_reconciliation.md",
@@ -181012,12 +181156,116 @@
       "size_bytes": 5846
     },
     {
+      "file_name": "2026-11-06_software_capability_efficiency_wave06.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave06.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7166
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave07.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave07.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4793
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave08.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave08.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5347
+    },
+    {
+      "file_name": "2026-11-06_terraria_ai_group_plan_and_handoff_recheck.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_ai_group_plan_and_handoff_recheck.md",
+      "date": "2026-11-06",
+      "tier": "A",
+      "size_bytes": 8818
+    },
+    {
+      "file_name": "2026-11-06_terraria_current_state_blocked_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_current_state_blocked_audit.md",
+      "date": "2026-11-06",
+      "tier": "B",
+      "size_bytes": 10637
+    },
+    {
       "file_name": "2026-11-06_terraria_group_plan_current_focus_refresh.md",
       "home": "sanji",
       "rel_path": "2026-11-06_terraria_group_plan_current_focus_refresh.md",
       "date": "2026-11-06",
       "tier": "C",
       "size_bytes": 6174
+    },
+    {
+      "file_name": "2026-11-06_terraria_group_plan_refresh.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_group_plan_refresh.md",
+      "date": "2026-11-06",
+      "tier": "B",
+      "size_bytes": 5823
+    },
+    {
+      "file_name": "2026-11-06_terraria_lineage_reconciliation_and_admission.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_lineage_reconciliation_and_admission.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7399
+    },
+    {
+      "file_name": "2026-11-06_terraria_no_target_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_no_target_handoff.md",
+      "date": "2026-11-06",
+      "tier": "A",
+      "size_bytes": 7519
+    },
+    {
+      "file_name": "2026-11-06_terraria_progress_record_lineage.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_progress_record_lineage.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 8389
+    },
+    {
+      "file_name": "2026-11-06_terraria_recovery_obligation_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_recovery_obligation_binding.md",
+      "date": "2026-11-06",
+      "tier": "B",
+      "size_bytes": 5334
+    },
+    {
+      "file_name": "2026-11-06_terraria_scope_refresh_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_scope_refresh_handoff.md",
+      "date": "2026-11-06",
+      "tier": "B",
+      "size_bytes": 10177
+    },
+    {
+      "file_name": "2026-11-06_terraria_scope_refresh_handoff_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_scope_refresh_handoff_correction.md",
+      "date": "2026-11-06",
+      "tier": "B",
+      "size_bytes": 9728
+    },
+    {
+      "file_name": "2026-11-06_terraria_training_goal_assignment.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_training_goal_assignment.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 8235
     },
     {
       "file_name": "INDEX.md",
