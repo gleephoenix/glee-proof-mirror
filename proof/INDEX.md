@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-06T06:41:16.914583+00:00
-> Total receipts indexed: 25203
+> Last updated: 2026-11-07T12:41:10.799840+00:00
+> Total receipts indexed: 25237
 
 ## Receipt Manifest
 
@@ -9,12 +9,46 @@
 |------|------|------|------|------|
 | 2026-11-06_ai_code_quality_pilot.md | sanji | 2026-11-06 | — | 8055 |
 | 2026-11-06_ai_record_equality.md | sanji | 2026-11-06 | — | 7676 |
+| 2026-11-06_ai_understanding_complete.md | sanji | 2026-11-06 | — | 7704 |
 | 2026-11-06_codex_context_handoff_bounded_reconciliation.md | sanji | 2026-11-06 | A | 5846 |
+| 2026-11-06_research_frontier_certified_learning.md | sanji | 2026-11-06 | — | 5911 |
+| 2026-11-06_research_frontier_coverage.md | sanji | 2026-11-06 | — | 4433 |
+| 2026-11-06_research_frontier_factorial.md | sanji | 2026-11-06 | — | 4924 |
+| 2026-11-06_research_frontier_margins.md | sanji | 2026-11-06 | — | 4884 |
+| 2026-11-06_research_frontier_pooling_learning.md | sanji | 2026-11-06 | — | 4582 |
+| 2026-11-06_research_frontier_presence.md | sanji | 2026-11-06 | — | 4938 |
+| 2026-11-06_research_frontier_subtypes.md | sanji | 2026-11-06 | — | 3899 |
+| 2026-11-06_software_capability_efficiency_complete.md | sanji | 2026-11-06 | — | 5456 |
+| 2026-11-06_software_capability_efficiency_complete_v2.md | sanji | 2026-11-06 | — | 5921 |
 | 2026-11-06_software_capability_efficiency_wave06.md | sanji | 2026-11-06 | — | 7166 |
 | 2026-11-06_software_capability_efficiency_wave07.md | sanji | 2026-11-06 | — | 4793 |
 | 2026-11-06_software_capability_efficiency_wave08.md | sanji | 2026-11-06 | — | 5347 |
+| 2026-11-06_software_capability_efficiency_wave09.md | sanji | 2026-11-06 | — | 6422 |
+| 2026-11-06_software_capability_efficiency_wave10.md | sanji | 2026-11-06 | — | 8022 |
+| 2026-11-06_software_capability_efficiency_wave11.md | sanji | 2026-11-06 | — | 5588 |
+| 2026-11-06_software_capability_efficiency_wave12.md | sanji | 2026-11-06 | — | 6352 |
+| 2026-11-06_software_capability_efficiency_wave13.md | sanji | 2026-11-06 | — | 5773 |
+| 2026-11-06_software_capability_efficiency_wave14.md | sanji | 2026-11-06 | — | 6183 |
+| 2026-11-06_software_capability_efficiency_wave15.md | sanji | 2026-11-06 | — | 5215 |
+| 2026-11-06_software_capability_efficiency_wave16.md | sanji | 2026-11-06 | — | 6632 |
+| 2026-11-06_software_capability_efficiency_wave17.md | sanji | 2026-11-06 | — | 7122 |
+| 2026-11-06_software_capability_efficiency_wave18.md | sanji | 2026-11-06 | — | 6675 |
+| 2026-11-06_software_capability_efficiency_wave19.md | sanji | 2026-11-06 | — | 7636 |
+| 2026-11-06_software_capability_efficiency_wave20.md | sanji | 2026-11-06 | — | 7691 |
+| 2026-11-06_software_capability_efficiency_wave21.md | sanji | 2026-11-06 | — | 7184 |
+| 2026-11-06_software_capability_efficiency_wave22.md | sanji | 2026-11-06 | — | 4994 |
+| 2026-11-06_software_capability_efficiency_wave23.md | sanji | 2026-11-06 | — | 5478 |
+| 2026-11-06_software_capability_efficiency_wave24.md | sanji | 2026-11-06 | — | 5430 |
+| 2026-11-06_software_capability_efficiency_wave25.md | sanji | 2026-11-06 | — | 5654 |
+| 2026-11-06_software_capability_efficiency_wave26.md | sanji | 2026-11-06 | — | 4711 |
+| 2026-11-06_software_capability_efficiency_wave27.md | sanji | 2026-11-06 | — | 2753 |
+| 2026-11-06_software_capability_efficiency_wave28.md | sanji | 2026-11-06 | — | 3355 |
+| 2026-11-06_software_capability_efficiency_wave29.md | sanji | 2026-11-06 | — | 4276 |
 | 2026-11-06_terraria_ai_group_plan_and_handoff_recheck.md | sanji | 2026-11-06 | A | 8818 |
+| 2026-11-06_terraria_checkpoint_recovery_and_live_cadence.md | sanji | 2026-11-06 | — | 9606 |
+| 2026-11-06_terraria_current_runtime_cadence.md | sanji | 2026-11-06 | — | 11680 |
 | 2026-11-06_terraria_current_state_blocked_audit.md | sanji | 2026-11-06 | B | 10637 |
+| 2026-11-06_terraria_evaluation_admission_and_rollover.md | sanji | 2026-11-06 | — | 6223 |
 | 2026-11-06_terraria_group_plan_current_focus_refresh.md | sanji | 2026-11-06 | C | 6174 |
 | 2026-11-06_terraria_group_plan_refresh.md | sanji | 2026-11-06 | B | 5823 |
 | 2026-11-06_terraria_lineage_reconciliation_and_admission.md | sanji | 2026-11-06 | — | 7399 |
@@ -173,41 +207,7 @@
 | 2026-11-04_research_scientific_process_wave04.md | sanji | 2026-11-04 | — | 9588 |
 | 2026-11-04_resource_admission_monitor_refinement.md | sanji | 2026-11-04 | — | 10780 |
 | 2026-11-04_terraria_adaptive_v4_real_budget.md | sanji | 2026-11-04 | — | 4046 |
-| 2026-11-04_terraria_ai_group_plan_fleet_refresh_1955z.md | sanji | 2026-11-04 | A | 5865 |
-| 2026-11-04_terraria_alarm_repair_and_review_scope_recovery.md | sanji | 2026-11-04 | — | 17333 |
-| 2026-11-04_terraria_audio_viewer_fault_review.md | sanji | 2026-11-04 | — | 6530 |
-| 2026-11-04_terraria_aux_a_repair_and_safety_r3.md | sanji | 2026-11-04 | — | 5292 |
-| 2026-11-04_terraria_browser_timeline_correction.md | sanji | 2026-11-04 | — | 2471 |
-| 2026-11-04_terraria_camera_admission_and_observer_repair.md | sanji | 2026-11-04 | — | 7170 |
-| 2026-11-04_terraria_camera_probe_source_review.md | sanji | 2026-11-04 | B | 4027 |
-| 2026-11-04_terraria_camera_replay_canary2_review.md | sanji | 2026-11-04 | B | 6427 |
-| 2026-11-04_terraria_camera_replay_canary3_settlement.md | sanji | 2026-11-04 | B | 6960 |
-| 2026-11-04_terraria_canary0830_effect_boundary.md | sanji | 2026-11-04 | B | 5280 |
-| 2026-11-04_terraria_canary0830_handoff_reconciliation.md | sanji | 2026-11-04 | B | 5294 |
-| 2026-11-04_terraria_canary4_reconciliation.md | sanji | 2026-11-04 | B | 14480 |
-| 2026-11-04_terraria_capture_capacity_and_rolefix.md | sanji | 2026-11-04 | — | 9136 |
-| 2026-11-04_terraria_current_baseline_oracle_correction.md | sanji | 2026-11-04 | — | 9848 |
-| 2026-11-04_terraria_decoder_attribution_parent_sync.md | sanji | 2026-11-04 | B | 7435 |
-| 2026-11-04_terraria_decoder_handoff_recovery.md | sanji | 2026-11-04 | B | 6289 |
-| 2026-11-04_terraria_decoder_offline_replay_handoff.md | sanji | 2026-11-04 | B | 4486 |
-| 2026-11-04_terraria_decoder_offline_replay_review.md | sanji | 2026-11-04 | B | 10606 |
-| 2026-11-04_terraria_decoder_owner_identity_reconcile.md | sanji | 2026-11-04 | A | 6031 |
-| 2026-11-04_terraria_decoder_source_binding_review.md | sanji | 2026-11-04 | B | 7109 |
-| 2026-11-04_terraria_diagnostic_review_and_learning_readback.md | sanji | 2026-11-04 | — | 31429 |
-| 2026-11-04_terraria_executor_failure_isolation_and_room_proof.md | sanji | 2026-11-04 | — | 17538 |
-| 2026-11-04_terraria_gen19_attribution_input_boundary.md | sanji | 2026-11-04 | C | 6659 |
-| 2026-11-04_terraria_gen19_group_plan_readback.md | sanji | 2026-11-04 | C | 5973 |
-| 2026-11-04_terraria_group_plan_aos_recovery_2026z.md | sanji | 2026-11-04 | B | 10553 |
-| 2026-11-04_terraria_group_plan_decoder_seat_refresh.md | sanji | 2026-11-04 | A | 5127 |
-| 2026-11-04_terraria_group_plan_execution_reconciliation.md | sanji | 2026-11-04 | B | 12008 |
-| 2026-11-04_terraria_group_plan_live_owner_refresh.md | sanji | 2026-11-04 | A | 5751 |
-| 2026-11-04_terraria_group_plan_native_pilot_refresh.md | sanji | 2026-11-04 | A | 7766 |
-| 2026-11-04_terraria_group_plan_owner_update_1803z.md | sanji | 2026-11-04 | B | 4772 |
-| 2026-11-04_terraria_group_plan_owner_update_1908z.md | sanji | 2026-11-04 | B | 7227 |
-| 2026-11-04_terraria_group_plan_owner_update_1927z.md | sanji | 2026-11-04 | B | 8240 |
-| 2026-11-04_terraria_group_plan_roster_gate_refresh.md | sanji | 2026-11-04 | B | 4971 |
-| 2026-11-04_terraria_group_plan_scope_handoff.md | sanji | 2026-11-04 | B | 5197 |
-| _(+25003 more — see full manifest JSON)_ | | | | |
+| _(+25037 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
