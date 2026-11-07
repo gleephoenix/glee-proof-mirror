@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 25203,
+  "total_receipts": 25237,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -181148,12 +181148,92 @@
       "size_bytes": 7676
     },
     {
+      "file_name": "2026-11-06_ai_understanding_complete.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_ai_understanding_complete.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7704
+    },
+    {
       "file_name": "2026-11-06_codex_context_handoff_bounded_reconciliation.md",
       "home": "sanji",
       "rel_path": "2026-11-06_codex_context_handoff_bounded_reconciliation.md",
       "date": "2026-11-06",
       "tier": "A",
       "size_bytes": 5846
+    },
+    {
+      "file_name": "2026-11-06_research_frontier_certified_learning.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_research_frontier_certified_learning.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5911
+    },
+    {
+      "file_name": "2026-11-06_research_frontier_coverage.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_research_frontier_coverage.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4433
+    },
+    {
+      "file_name": "2026-11-06_research_frontier_factorial.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_research_frontier_factorial.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4924
+    },
+    {
+      "file_name": "2026-11-06_research_frontier_margins.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_research_frontier_margins.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4884
+    },
+    {
+      "file_name": "2026-11-06_research_frontier_pooling_learning.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_research_frontier_pooling_learning.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4582
+    },
+    {
+      "file_name": "2026-11-06_research_frontier_presence.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_research_frontier_presence.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4938
+    },
+    {
+      "file_name": "2026-11-06_research_frontier_subtypes.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_research_frontier_subtypes.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 3899
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_complete.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_complete.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5456
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_complete_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_complete_v2.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5921
     },
     {
       "file_name": "2026-11-06_software_capability_efficiency_wave06.md",
@@ -181180,6 +181260,174 @@
       "size_bytes": 5347
     },
     {
+      "file_name": "2026-11-06_software_capability_efficiency_wave09.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave09.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 6422
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave10.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave10.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 8022
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave11.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave11.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5588
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave12.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave12.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 6352
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave13.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave13.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5773
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave14.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave14.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 6183
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave15.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave15.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5215
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave16.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave16.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 6632
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave17.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave17.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7122
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave18.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave18.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 6675
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave19.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave19.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7636
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave20.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave20.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7691
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave21.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave21.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 7184
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave22.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave22.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4994
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave23.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave23.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5478
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave24.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave24.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5430
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave25.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave25.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 5654
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave26.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave26.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4711
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave27.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave27.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 2753
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave28.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave28.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 3355
+    },
+    {
+      "file_name": "2026-11-06_software_capability_efficiency_wave29.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_software_capability_efficiency_wave29.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 4276
+    },
+    {
       "file_name": "2026-11-06_terraria_ai_group_plan_and_handoff_recheck.md",
       "home": "sanji",
       "rel_path": "2026-11-06_terraria_ai_group_plan_and_handoff_recheck.md",
@@ -181188,12 +181436,36 @@
       "size_bytes": 8818
     },
     {
+      "file_name": "2026-11-06_terraria_checkpoint_recovery_and_live_cadence.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_checkpoint_recovery_and_live_cadence.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 9606
+    },
+    {
+      "file_name": "2026-11-06_terraria_current_runtime_cadence.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_current_runtime_cadence.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 11680
+    },
+    {
       "file_name": "2026-11-06_terraria_current_state_blocked_audit.md",
       "home": "sanji",
       "rel_path": "2026-11-06_terraria_current_state_blocked_audit.md",
       "date": "2026-11-06",
       "tier": "B",
       "size_bytes": 10637
+    },
+    {
+      "file_name": "2026-11-06_terraria_evaluation_admission_and_rollover.md",
+      "home": "sanji",
+      "rel_path": "2026-11-06_terraria_evaluation_admission_and_rollover.md",
+      "date": "2026-11-06",
+      "tier": null,
+      "size_bytes": 6223
     },
     {
       "file_name": "2026-11-06_terraria_group_plan_current_focus_refresh.md",
