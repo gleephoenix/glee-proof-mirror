@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 25268,
+  "total_receipts": 25280,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -46810,6 +46810,14 @@
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 7442
+    },
+    {
+      "file_name": "2026-11-09_research_r1109-dream-engine.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_r1109-dream-engine.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8918
     },
     {
       "file_name": "2026-11-09_research_r1109-substrate-graduation.md",
@@ -181724,6 +181732,14 @@
       "size_bytes": 5182
     },
     {
+      "file_name": "2026-11-09_ai_harness_attempt3_native_route.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_attempt3_native_route.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 3806
+    },
+    {
       "file_name": "2026-11-09_ai_harness_continuation_binding.md",
       "home": "sanji",
       "rel_path": "2026-11-09_ai_harness_continuation_binding.md",
@@ -181738,6 +181754,22 @@
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 8341
+    },
+    {
+      "file_name": "2026-11-09_ai_harness_native_agent_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_native_agent_qualification.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 10508
+    },
+    {
+      "file_name": "2026-11-09_ai_harness_native_runtime_binding_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_native_runtime_binding_recovery.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 7772
     },
     {
       "file_name": "2026-11-09_ai_harness_probe_adjudication_and_workspace.md",
@@ -181756,6 +181788,14 @@
       "size_bytes": 8061
     },
     {
+      "file_name": "2026-11-09_ai_harness_route_accepted_realwork_preparation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_route_accepted_realwork_preparation.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 9909
+    },
+    {
       "file_name": "2026-11-09_ai_harness_trial_receipt_reader.md",
       "home": "sanji",
       "rel_path": "2026-11-09_ai_harness_trial_receipt_reader.md",
@@ -181770,6 +181810,62 @@
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 6563
+    },
+    {
+      "file_name": "2026-11-09_claude_research_resumed_verified.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_claude_research_resumed_verified.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4788
+    },
+    {
+      "file_name": "2026-11-09_container_bridge_prototype.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_container_bridge_prototype.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 3310
+    },
+    {
+      "file_name": "2026-11-09_container_mcp_prototype.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_container_mcp_prototype.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 3681
+    },
+    {
+      "file_name": "2026-11-09_frontier_native_attachment_and_incident_feasibility.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_native_attachment_and_incident_feasibility.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 7649
+    },
+    {
+      "file_name": "2026-11-09_frontier_real_repairs_and_public_route.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_real_repairs_and_public_route.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 12421
+    },
+    {
+      "file_name": "2026-11-09_frontier_recovery_binding_and_repair_dispatch.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_recovery_binding_and_repair_dispatch.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 5764
+    },
+    {
+      "file_name": "2026-11-09_native_container_attachment.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_native_container_attachment.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 3594
     },
     {
       "file_name": "INDEX.md",
