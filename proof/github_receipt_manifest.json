@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 25237,
+  "total_receipts": 25268,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -46666,6 +46666,166 @@
       "date": "2026-11-03",
       "tier": null,
       "size_bytes": 3041
+    },
+    {
+      "file_name": "2026-11-08_codex_seamless_release_qualification.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_codex_seamless_release_qualification.md",
+      "date": "2026-11-08",
+      "tier": null,
+      "size_bytes": 7107
+    },
+    {
+      "file_name": "2026-11-08_codex_wall_preflight_retry.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_codex_wall_preflight_retry.md",
+      "date": "2026-11-08",
+      "tier": null,
+      "size_bytes": 4574
+    },
+    {
+      "file_name": "2026-11-08_sunny_gpu_powermizer_link_flapping_mitigation.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_sunny_gpu_powermizer_link_flapping_mitigation.md",
+      "date": "2026-11-08",
+      "tier": null,
+      "size_bytes": 2906
+    },
+    {
+      "file_name": "2026-11-08_sunny_gpu_xid79_black_screen_diagnosis_and_guard.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_sunny_gpu_xid79_black_screen_diagnosis_and_guard.md",
+      "date": "2026-11-08",
+      "tier": null,
+      "size_bytes": 6502
+    },
+    {
+      "file_name": "2026-11-08_terraria_loop_at_chance_aim_head_unlearned_v15_spatial_aim_ab_launched.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_terraria_loop_at_chance_aim_head_unlearned_v15_spatial_aim_ab_launched.md",
+      "date": "2026-11-08",
+      "tier": "A",
+      "size_bytes": 13995
+    },
+    {
+      "file_name": "2026-11-08_terraria_stream_10fps_captain_feedback_study_text.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_terraria_stream_10fps_captain_feedback_study_text.md",
+      "date": "2026-11-08",
+      "tier": "A",
+      "size_bytes": 11977
+    },
+    {
+      "file_name": "2026-11-08_terraria_stream_lit_agent_twin_score_refresh_caption_interim_aim.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_terraria_stream_lit_agent_twin_score_refresh_caption_interim_aim.md",
+      "date": "2026-11-08",
+      "tier": "A",
+      "size_bytes": 13419
+    },
+    {
+      "file_name": "2026-11-08_tiny_ai_lab_v1.md",
+      "home": "zoro",
+      "rel_path": "2026-11-08_tiny_ai_lab_v1.md",
+      "date": "2026-11-08",
+      "tier": "A",
+      "size_bytes": 14611
+    },
+    {
+      "file_name": "2026-11-09_autonomous_revenue_channels.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_autonomous_revenue_channels.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4785
+    },
+    {
+      "file_name": "2026-11-09_crew_attention_lifecycle_and_request_responder.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_crew_attention_lifecycle_and_request_responder.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 6251
+    },
+    {
+      "file_name": "2026-11-09_crew_attention_lifecycle_and_request_responder_verifier_addendum.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_crew_attention_lifecycle_and_request_responder_verifier_addendum.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 3147
+    },
+    {
+      "file_name": "2026-11-09_how_glee_agents_research_map_and_yield_audit.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_how_glee_agents_research_map_and_yield_audit.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8274
+    },
+    {
+      "file_name": "2026-11-09_research_and_innovation_with_ai_agents.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_and_innovation_with_ai_agents.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 9666
+    },
+    {
+      "file_name": "2026-11-09_research_burn_campaign_r1109_setup.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_burn_campaign_r1109_setup.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4825
+    },
+    {
+      "file_name": "2026-11-09_research_lint_crank_carry_and_receipt_amendment.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_lint_crank_carry_and_receipt_amendment.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4386
+    },
+    {
+      "file_name": "2026-11-09_research_next_moves_executed.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_next_moves_executed.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 7357
+    },
+    {
+      "file_name": "2026-11-09_research_programs_drain_wave1.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_programs_drain_wave1.md",
+      "date": "2026-11-09",
+      "tier": "A",
+      "size_bytes": 10111
+    },
+    {
+      "file_name": "2026-11-09_research_r1109-claim-to-test-compiler.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_r1109-claim-to-test-compiler.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 7442
+    },
+    {
+      "file_name": "2026-11-09_research_r1109-substrate-graduation.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_r1109-substrate-graduation.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8692
+    },
+    {
+      "file_name": "2026-11-09_terraria_v16_hotbar_ab_launched_stream_on_h_study_text_release_blocked_by_load.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_terraria_v16_hotbar_ab_launched_stream_on_h_study_text_release_blocked_by_load.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4533
     },
     {
       "file_name": "INDEX.md",
@@ -181540,6 +181700,78 @@
       "size_bytes": 8235
     },
     {
+      "file_name": "2026-11-08_ai_harness_external_grading_progress.md",
+      "home": "sanji",
+      "rel_path": "2026-11-08_ai_harness_external_grading_progress.md",
+      "date": "2026-11-08",
+      "tier": null,
+      "size_bytes": 3013
+    },
+    {
+      "file_name": "2026-11-08_ai_harness_frontier_measurement_and_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-11-08_ai_harness_frontier_measurement_and_trial.md",
+      "date": "2026-11-08",
+      "tier": null,
+      "size_bytes": 4776
+    },
+    {
+      "file_name": "2026-11-08_ai_harness_live_pilot_and_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-08_ai_harness_live_pilot_and_recovery.md",
+      "date": "2026-11-08",
+      "tier": null,
+      "size_bytes": 5182
+    },
+    {
+      "file_name": "2026-11-09_ai_harness_continuation_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_continuation_binding.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4762
+    },
+    {
+      "file_name": "2026-11-09_ai_harness_ingestion_transfer.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_ingestion_transfer.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8341
+    },
+    {
+      "file_name": "2026-11-09_ai_harness_probe_adjudication_and_workspace.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_probe_adjudication_and_workspace.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 9420
+    },
+    {
+      "file_name": "2026-11-09_ai_harness_repair_comparison.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_repair_comparison.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8061
+    },
+    {
+      "file_name": "2026-11-09_ai_harness_trial_receipt_reader.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_harness_trial_receipt_reader.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 6055
+    },
+    {
+      "file_name": "2026-11-09_claude_research_reset_resume.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_claude_research_reset_resume.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 6563
+    },
+    {
       "file_name": "INDEX.md",
       "home": "sanji",
       "rel_path": "INDEX.md",
@@ -201234,6 +201466,22 @@
       "date": "2026-11-03",
       "tier": "B",
       "size_bytes": 9416
+    },
+    {
+      "file_name": "2026-11-09_agentic_research_system_for_real_science_and_innovation.md",
+      "home": "robin",
+      "rel_path": "2026-11-09_agentic_research_system_for_real_science_and_innovation.md",
+      "date": "2026-11-09",
+      "tier": "B",
+      "size_bytes": 7257
+    },
+    {
+      "file_name": "2026-11-09_science_engine_formal_logic_and_neural_inference.md",
+      "home": "robin",
+      "rel_path": "2026-11-09_science_engine_formal_logic_and_neural_inference.md",
+      "date": "2026-11-09",
+      "tier": "B",
+      "size_bytes": 4456
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
