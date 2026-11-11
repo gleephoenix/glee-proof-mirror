@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 25280,
+  "total_receipts": 25419,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -46732,6 +46732,14 @@
       "size_bytes": 14611
     },
     {
+      "file_name": "2026-11-09_ORP_terraria_learning_slow_progress_recovery.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_ORP_terraria_learning_slow_progress_recovery.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 17739
+    },
+    {
       "file_name": "2026-11-09_autonomous_revenue_channels.md",
       "home": "zoro",
       "rel_path": "2026-11-09_autonomous_revenue_channels.md",
@@ -46780,6 +46788,54 @@
       "size_bytes": 4825
     },
     {
+      "file_name": "2026-11-09_research_fi001_r5_tier_b_correction.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_fi001_r5_tier_b_correction.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 2434
+    },
+    {
+      "file_name": "2026-11-09_research_fi006_step3_carry_gate_ne_pilot_and_fi001_judge.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_fi006_step3_carry_gate_ne_pilot_and_fi001_judge.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 6886
+    },
+    {
+      "file_name": "2026-11-09_research_judge-r1109-claim-to-test-compiler.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_judge-r1109-claim-to-test-compiler.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 7056
+    },
+    {
+      "file_name": "2026-11-09_research_judge-r1109-dream-engine.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_judge-r1109-dream-engine.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 7991
+    },
+    {
+      "file_name": "2026-11-09_research_judge-r1109-fi-001.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_judge-r1109-fi-001.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 9147
+    },
+    {
+      "file_name": "2026-11-09_research_judge-r1109-substrate-graduation.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_judge-r1109-substrate-graduation.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8041
+    },
+    {
       "file_name": "2026-11-09_research_lint_crank_carry_and_receipt_amendment.md",
       "home": "zoro",
       "rel_path": "2026-11-09_research_lint_crank_carry_and_receipt_amendment.md",
@@ -46794,6 +46850,14 @@
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 7357
+    },
+    {
+      "file_name": "2026-11-09_research_overnight_resume_lane_and_fi006_encoder_bound_draft.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_overnight_resume_lane_and_fi006_encoder_bound_draft.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 6049
     },
     {
       "file_name": "2026-11-09_research_programs_drain_wave1.md",
@@ -46820,6 +46884,14 @@
       "size_bytes": 8918
     },
     {
+      "file_name": "2026-11-09_research_r1109-fi-001.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_r1109-fi-001.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8590
+    },
+    {
       "file_name": "2026-11-09_research_r1109-substrate-graduation.md",
       "home": "zoro",
       "rel_path": "2026-11-09_research_r1109-substrate-graduation.md",
@@ -46828,12 +46900,100 @@
       "size_bytes": 8692
     },
     {
+      "file_name": "2026-11-09_research_r1109_judges_and_campaign_close.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_r1109_judges_and_campaign_close.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 3510
+    },
+    {
+      "file_name": "2026-11-09_research_r1109_resume_fi006_e3b_e5_sealed_groq_lane.md",
+      "home": "zoro",
+      "rel_path": "2026-11-09_research_r1109_resume_fi006_e3b_e5_sealed_groq_lane.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 8923
+    },
+    {
       "file_name": "2026-11-09_terraria_v16_hotbar_ab_launched_stream_on_h_study_text_release_blocked_by_load.md",
       "home": "zoro",
       "rel_path": "2026-11-09_terraria_v16_hotbar_ab_launched_stream_on_h_study_text_release_blocked_by_load.md",
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 4533
+    },
+    {
+      "file_name": "2026-11-10_agentkit_cfn_control_audit_verified_and_gate_regression.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_agentkit_cfn_control_audit_verified_and_gate_regression.md",
+      "date": "2026-11-10",
+      "tier": "A",
+      "size_bytes": 9734
+    },
+    {
+      "file_name": "2026-11-10_jev_guard_halt_root_cause_and_recovery.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_jev_guard_halt_root_cause_and_recovery.md",
+      "date": "2026-11-10",
+      "tier": "C",
+      "size_bytes": 7704
+    },
+    {
+      "file_name": "2026-11-10_research_r1109-fi-002.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_research_r1109-fi-002.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 7676
+    },
+    {
+      "file_name": "2026-11-10_research_r1109-reliability-observatory.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_research_r1109-reliability-observatory.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 9621
+    },
+    {
+      "file_name": "2026-11-10_research_review-fi006-perfect-encoder-bound.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_research_review-fi006-perfect-encoder-bound.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 15466
+    },
+    {
+      "file_name": "2026-11-10_research_review_fi006_perfect_encoder_bound.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_research_review_fi006_perfect_encoder_bound.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 15466
+    },
+    {
+      "file_name": "2026-11-10_root_volume_recovery_seat_homes_and_estate_health_repairs.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_root_volume_recovery_seat_homes_and_estate_health_repairs.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4751
+    },
+    {
+      "file_name": "2026-11-10_terraria_no_destination_diagnosis_and_beat_the_game_ladder.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_terraria_no_destination_diagnosis_and_beat_the_game_ladder.md",
+      "date": "2026-11-10",
+      "tier": "B",
+      "size_bytes": 17314
+    },
+    {
+      "file_name": "2026-11-10_terraria_v17_destination_experiment_launched_and_ladder_referee_upgrade.md",
+      "home": "zoro",
+      "rel_path": "2026-11-10_terraria_v17_destination_experiment_launched_and_ladder_referee_upgrade.md",
+      "date": "2026-11-10",
+      "tier": "A",
+      "size_bytes": 17649
     },
     {
       "file_name": "INDEX.md",
@@ -48314,6 +48474,70 @@
       "date": null,
       "tier": null,
       "size_bytes": 30551
+    },
+    {
+      "file_name": "terraria_allocation.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-09_terraria_orp/terraria_allocation.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 20351
+    },
+    {
+      "file_name": "independent_review_2026-11-10.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-10_jev_outage/independent_review_2026-11-10.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 4382
+    },
+    {
+      "file_name": "HANDOFF_SANJI.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-10_jev_outage/recovery/HANDOFF_SANJI.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 5431
+    },
+    {
+      "file_name": "independent_verifier_report_and_disposition.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-10_terraria_ladder/independent_verifier_report_and_disposition.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 6811
+    },
+    {
+      "file_name": "wiki_verification_report.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-10_terraria_ladder/wiki_verification_report.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 6300
+    },
+    {
+      "file_name": "PREREG_v17_ADDENDUM_1.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-10_terraria_v17/PREREG_v17_ADDENDUM_1.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3949
+    },
+    {
+      "file_name": "PREREG_v17_destination.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-10_terraria_v17/PREREG_v17_destination.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 7387
+    },
+    {
+      "file_name": "independent_reviews_and_disposition.md",
+      "home": "zoro",
+      "rel_path": "evidence/2026-11-10_terraria_v17/independent_reviews_and_disposition.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 5301
     },
     {
       "file_name": "garl-iter-067-backoff-visibility-2026-06-20.md",
@@ -181804,6 +182028,14 @@
       "size_bytes": 6055
     },
     {
+      "file_name": "2026-11-09_ai_scientific_progress.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_ai_scientific_progress.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 2745
+    },
+    {
       "file_name": "2026-11-09_claude_research_reset_resume.md",
       "home": "sanji",
       "rel_path": "2026-11-09_claude_research_reset_resume.md",
@@ -181818,6 +182050,70 @@
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 4788
+    },
+    {
+      "file_name": "2026-11-09_conan_capture_repaired_phase.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_capture_repaired_phase.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1328
+    },
+    {
+      "file_name": "2026-11-09_conan_git_owner_safe_directory.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_git_owner_safe_directory.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1755
+    },
+    {
+      "file_name": "2026-11-09_conan_git_repaired_phase.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_git_repaired_phase.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1593
+    },
+    {
+      "file_name": "2026-11-09_conan_offline_git_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_offline_git_repair.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1988
+    },
+    {
+      "file_name": "2026-11-09_conan_output_capacity_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_output_capacity_correction.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1828
+    },
+    {
+      "file_name": "2026-11-09_conan_output_capture_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_output_capture_repair.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1567
+    },
+    {
+      "file_name": "2026-11-09_conan_owner_repaired_phase.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_owner_repaired_phase.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1394
+    },
+    {
+      "file_name": "2026-11-09_conan_stream_capture_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_conan_stream_capture_repair.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 1977
     },
     {
       "file_name": "2026-11-09_container_bridge_prototype.md",
@@ -181836,12 +182132,68 @@
       "size_bytes": 3681
     },
     {
+      "file_name": "2026-11-09_frontier_canary_oom_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_canary_oom_recovery.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4784
+    },
+    {
+      "file_name": "2026-11-09_frontier_canonical_ledger_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_canonical_ledger_correction.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4239
+    },
+    {
+      "file_name": "2026-11-09_frontier_controller_repair_and_causal_examiner.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_controller_repair_and_causal_examiner.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 6988
+    },
+    {
+      "file_name": "2026-11-09_frontier_examiner_verified_wait.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_examiner_verified_wait.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 2081
+    },
+    {
       "file_name": "2026-11-09_frontier_native_attachment_and_incident_feasibility.md",
       "home": "sanji",
       "rel_path": "2026-11-09_frontier_native_attachment_and_incident_feasibility.md",
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 7649
+    },
+    {
+      "file_name": "2026-11-09_frontier_native_config_and_resource_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_native_config_and_resource_boundary.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 16087
+    },
+    {
+      "file_name": "2026-11-09_frontier_native_workbench_canary_v2_partial.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_native_workbench_canary_v2_partial.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 3557
+    },
+    {
+      "file_name": "2026-11-09_frontier_original_canary_reconciled.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_original_canary_reconciled.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 5213
     },
     {
       "file_name": "2026-11-09_frontier_real_repairs_and_public_route.md",
@@ -181860,12 +182212,732 @@
       "size_bytes": 5764
     },
     {
+      "file_name": "2026-11-09_frontier_v2_unknown_and_owned_successor.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_frontier_v2_unknown_and_owned_successor.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 4101
+    },
+    {
       "file_name": "2026-11-09_native_container_attachment.md",
       "home": "sanji",
       "rel_path": "2026-11-09_native_container_attachment.md",
       "date": "2026-11-09",
       "tier": null,
       "size_bytes": 3594
+    },
+    {
+      "file_name": "2026-11-09_scientific_world_models_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-11-09_scientific_world_models_intake.md",
+      "date": "2026-11-09",
+      "tier": null,
+      "size_bytes": 7986
+    },
+    {
+      "file_name": "2026-11-10_actual_driver_proof_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_actual_driver_proof_correction.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4993
+    },
+    {
+      "file_name": "2026-11-10_ai_research_study_complete.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_ai_research_study_complete.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 5648
+    },
+    {
+      "file_name": "2026-11-10_ai_research_study_wave01.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_ai_research_study_wave01.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 5459
+    },
+    {
+      "file_name": "2026-11-10_beneficial_math_system.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_beneficial_math_system.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 8579
+    },
+    {
+      "file_name": "2026-11-10_cfn_bundle_readiness_and_review_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_bundle_readiness_and_review_gate.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2666
+    },
+    {
+      "file_name": "2026-11-10_cfn_changed_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_changed_trial.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2273
+    },
+    {
+      "file_name": "2026-11-10_cfn_exact_source_falsifier.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_exact_source_falsifier.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 3976
+    },
+    {
+      "file_name": "2026-11-10_cfn_final_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_final_trial.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2327
+    },
+    {
+      "file_name": "2026-11-10_cfn_first_control_selector_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_first_control_selector_repair.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 5218
+    },
+    {
+      "file_name": "2026-11-10_cfn_image_admission_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_image_admission_recovery.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 6888
+    },
+    {
+      "file_name": "2026-11-10_cfn_lint_examiner_preparation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_lint_examiner_preparation.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 6409
+    },
+    {
+      "file_name": "2026-11-10_cfn_publication_and_actual_control.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_publication_and_actual_control.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2808
+    },
+    {
+      "file_name": "2026-11-10_cfn_successor_execution.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_successor_execution.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 5481
+    },
+    {
+      "file_name": "2026-11-10_cfn_terminal_and_baseline_gap.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_cfn_terminal_and_baseline_gap.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 8612
+    },
+    {
+      "file_name": "2026-11-10_conan_streamed_phase.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_conan_streamed_phase.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1467
+    },
+    {
+      "file_name": "2026-11-10_envopt_manifest_repair_and_trajectory_gap.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_envopt_manifest_repair_and_trajectory_gap.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 7695
+    },
+    {
+      "file_name": "2026-11-10_envopt_source_and_native_index_probe.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_envopt_source_and_native_index_probe.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 6866
+    },
+    {
+      "file_name": "2026-11-10_execute_all_wave01.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_execute_all_wave01.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 12884
+    },
+    {
+      "file_name": "2026-11-10_first_original_remote_control_attempt.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_first_original_remote_control_attempt.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 10819
+    },
+    {
+      "file_name": "2026-11-10_frontier_artifact_serve_and_publication.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_artifact_serve_and_publication.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 10183
+    },
+    {
+      "file_name": "2026-11-10_frontier_artifact_transport_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_artifact_transport_boundary.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4062
+    },
+    {
+      "file_name": "2026-11-10_frontier_control_repairs_and_remote_capacity.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_control_repairs_and_remote_capacity.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 14916
+    },
+    {
+      "file_name": "2026-11-10_frontier_deferred_gate_and_async_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_deferred_gate_and_async_readiness.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 5981
+    },
+    {
+      "file_name": "2026-11-10_frontier_ibm_environment_admission.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_ibm_environment_admission.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 15103
+    },
+    {
+      "file_name": "2026-11-10_frontier_intent_and_startup_collision.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_intent_and_startup_collision.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4959
+    },
+    {
+      "file_name": "2026-11-10_frontier_lazy_publication_config_readback.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_lazy_publication_config_readback.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4557
+    },
+    {
+      "file_name": "2026-11-10_frontier_native_limits_operated_artifact_unverified.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_native_limits_operated_artifact_unverified.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4818
+    },
+    {
+      "file_name": "2026-11-10_frontier_native_optional_args_and_pint_timeout.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_native_optional_args_and_pint_timeout.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 6481
+    },
+    {
+      "file_name": "2026-11-10_frontier_output_capture_repair_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_output_capture_repair_review.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 3229
+    },
+    {
+      "file_name": "2026-11-10_frontier_output_capture_repair_review_v2.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_output_capture_repair_review_v2.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2016
+    },
+    {
+      "file_name": "2026-11-10_frontier_output_capture_repair_review_v3.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_output_capture_repair_review_v3.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2355
+    },
+    {
+      "file_name": "2026-11-10_frontier_owner_repaired_phase_guard_failure.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_owner_repaired_phase_guard_failure.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2296
+    },
+    {
+      "file_name": "2026-11-10_frontier_pint_archive_export_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_pint_archive_export_review.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2294
+    },
+    {
+      "file_name": "2026-11-10_frontier_startup_budget_and_original_resource_path.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_startup_budget_and_original_resource_path.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4294
+    },
+    {
+      "file_name": "2026-11-10_frontier_startup_component_observed.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_startup_component_observed.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 3724
+    },
+    {
+      "file_name": "2026-11-10_frontier_startup_ready_parent_reconciled.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_startup_ready_parent_reconciled.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 6365
+    },
+    {
+      "file_name": "2026-11-10_frontier_stream_capture_and_real_task_enrollment.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_stream_capture_and_real_task_enrollment.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 12496
+    },
+    {
+      "file_name": "2026-11-10_frontier_streamed_capture_repair_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_streamed_capture_repair_review.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2310
+    },
+    {
+      "file_name": "2026-11-10_frontier_v2_exact_reconciliation_and_examiner_followthrough.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_v2_exact_reconciliation_and_examiner_followthrough.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 3002
+    },
+    {
+      "file_name": "2026-11-10_frontier_v2_reviews_and_praison_spec.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_v2_reviews_and_praison_spec.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 13876
+    },
+    {
+      "file_name": "2026-11-10_frontier_valid_call_startup_contract.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontier_valid_call_startup_contract.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4567
+    },
+    {
+      "file_name": "2026-11-10_frontierphysics_cellcanon_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_frontierphysics_cellcanon_intake.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 6877
+    },
+    {
+      "file_name": "2026-11-10_goal_tree_and_coordination_assessment.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_goal_tree_and_coordination_assessment.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 11815
+    },
+    {
+      "file_name": "2026-11-10_ibm_examiner_preparation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_ibm_examiner_preparation.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 4937
+    },
+    {
+      "file_name": "2026-11-10_pint_clean_import_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_clean_import_repair.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1591
+    },
+    {
+      "file_name": "2026-11-10_pint_controller_ready.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_controller_ready.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 2337
+    },
+    {
+      "file_name": "2026-11-10_pint_export_parser_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_export_parser_binding.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1888
+    },
+    {
+      "file_name": "2026-11-10_pint_export_parser_gates.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_export_parser_gates.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1996
+    },
+    {
+      "file_name": "2026-11-10_pint_parser_schema_fix.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_parser_schema_fix.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1765
+    },
+    {
+      "file_name": "2026-11-10_pint_phase_capacity_ready.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_phase_capacity_ready.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1631
+    },
+    {
+      "file_name": "2026-11-10_pint_preflight_hardening.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_preflight_hardening.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1344
+    },
+    {
+      "file_name": "2026-11-10_pint_preparation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_pint_preparation.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 1925
+    },
+    {
+      "file_name": "2026-11-10_praison_archive_stdin_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_praison_archive_stdin_repair.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 10766
+    },
+    {
+      "file_name": "2026-11-10_praison_isolation_and_pint_successor.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_praison_isolation_and_pint_successor.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 7192
+    },
+    {
+      "file_name": "2026-11-10_recovery_owner_action_and_acceptance_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_recovery_owner_action_and_acceptance_binding.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 5300
+    },
+    {
+      "file_name": "2026-11-10_remaining_environment_admission.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_remaining_environment_admission.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 9786
+    },
+    {
+      "file_name": "2026-11-10_remote_ibm_untreated_bundle.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_remote_ibm_untreated_bundle.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 7120
+    },
+    {
+      "file_name": "2026-11-10_swarmevolve_review_corrections.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_swarmevolve_review_corrections.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 5329
+    },
+    {
+      "file_name": "2026-11-10_swarmevolve_source_check_and_routing.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_swarmevolve_source_check_and_routing.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 8512
+    },
+    {
+      "file_name": "2026-11-10_terraria_lab_handoff_intake.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_terraria_lab_handoff_intake.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 8675
+    },
+    {
+      "file_name": "2026-11-10_terraria_native_weight_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_terraria_native_weight_audit.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 3805
+    },
+    {
+      "file_name": "2026-11-10_terraria_prediction_shadow_pilot.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_terraria_prediction_shadow_pilot.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 8432
+    },
+    {
+      "file_name": "2026-11-10_terraria_recurrent_learner_prototype.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_terraria_recurrent_learner_prototype.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 12255
+    },
+    {
+      "file_name": "2026-11-10_terraria_recurrent_result_analysis_and_runtime.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_terraria_recurrent_result_analysis_and_runtime.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 7712
+    },
+    {
+      "file_name": "2026-11-10_terraria_retention_repairs_and_matched_training.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_terraria_retention_repairs_and_matched_training.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 8317
+    },
+    {
+      "file_name": "2026-11-10_third_original_remote_control.md",
+      "home": "sanji",
+      "rel_path": "2026-11-10_third_original_remote_control.md",
+      "date": "2026-11-10",
+      "tier": null,
+      "size_bytes": 7486
+    },
+    {
+      "file_name": "2026-11-11_compute_observatory_phoenix.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_compute_observatory_phoenix.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 6604
+    },
+    {
+      "file_name": "2026-11-11_frontier_contract_acceptance_and_runtime_hold.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_frontier_contract_acceptance_and_runtime_hold.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 17713
+    },
+    {
+      "file_name": "2026-11-11_frontier_recovery_contract_binding.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_frontier_recovery_contract_binding.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 10261
+    },
+    {
+      "file_name": "2026-11-11_humanity_ai_workbench.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_humanity_ai_workbench.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 8977
+    },
+    {
+      "file_name": "2026-11-11_humanity_ai_workbench_delivery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_humanity_ai_workbench_delivery.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 7043
+    },
+    {
+      "file_name": "2026-11-11_mcp_guard_adoption.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_mcp_guard_adoption.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 3505
+    },
+    {
+      "file_name": "2026-11-11_native_runtime_assembled.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_native_runtime_assembled.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1921
+    },
+    {
+      "file_name": "2026-11-11_native_runtime_assembled_v3.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_native_runtime_assembled_v3.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1746
+    },
+    {
+      "file_name": "2026-11-11_native_runtime_assembled_v4.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_native_runtime_assembled_v4.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1746
+    },
+    {
+      "file_name": "2026-11-11_pint_exact_sdk_and_public_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_exact_sdk_and_public_review.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 5358
+    },
+    {
+      "file_name": "2026-11-11_pint_execution_manager_20261111.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_execution_manager_20261111.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 4717
+    },
+    {
+      "file_name": "2026-11-11_pint_execution_manager_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_execution_manager_handoff.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 4649
+    },
+    {
+      "file_name": "2026-11-11_pint_ordinary_deadline_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_ordinary_deadline_correction.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1528
+    },
+    {
+      "file_name": "2026-11-11_pint_ordinary_resource_adapter.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_ordinary_resource_adapter.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1730
+    },
+    {
+      "file_name": "2026-11-11_pint_ordinary_resource_prototype.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_ordinary_resource_prototype.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1570
+    },
+    {
+      "file_name": "2026-11-11_pint_ordinary_runtime_wiring.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_ordinary_runtime_wiring.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1728
+    },
+    {
+      "file_name": "2026-11-11_pint_preflight_and_gate_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_preflight_and_gate_audit.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 6422
+    },
+    {
+      "file_name": "2026-11-11_pint_public_diagnostic_trial1.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_public_diagnostic_trial1.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 5778
+    },
+    {
+      "file_name": "2026-11-11_pint_publication_and_runtime_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_publication_and_runtime_review.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 4702
+    },
+    {
+      "file_name": "2026-11-11_pint_service_environment_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_service_environment_review.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 3131
+    },
+    {
+      "file_name": "2026-11-11_pint_untreated_timeout.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_pint_untreated_timeout.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 1111
+    },
+    {
+      "file_name": "2026-11-11_terraria_native_workspace.md",
+      "home": "sanji",
+      "rel_path": "2026-11-11_terraria_native_workspace.md",
+      "date": "2026-11-11",
+      "tier": null,
+      "size_bytes": 13228
     },
     {
       "file_name": "INDEX.md",
@@ -181890,6 +182962,22 @@
       "date": null,
       "tier": null,
       "size_bytes": 3583
+    },
+    {
+      "file_name": "praison_row_binding_20261110.md",
+      "home": "sanji",
+      "rel_path": "praison_row_binding_20261110.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3701
+    },
+    {
+      "file_name": "praison_row_binding_replay_20261110.md",
+      "home": "sanji",
+      "rel_path": "praison_row_binding_replay_20261110.md",
+      "date": null,
+      "tier": null,
+      "size_bytes": 3212
     },
     {
       "file_name": "2026-06-16_BOUNDED_SOVEREIGNTY_DOCTRINE_RATIFICATION_receipt.md",
@@ -201578,6 +202666,30 @@
       "date": "2026-11-09",
       "tier": "B",
       "size_bytes": 4456
+    },
+    {
+      "file_name": "2026-11-10_experience_consolidation_and_sleep_research_intake.md",
+      "home": "robin",
+      "rel_path": "2026-11-10_experience_consolidation_and_sleep_research_intake.md",
+      "date": "2026-11-10",
+      "tier": "B",
+      "size_bytes": 7267
+    },
+    {
+      "file_name": "2026-11-10_terraria_ai_behavior_and_stream_lighting_diagnosis.md",
+      "home": "robin",
+      "rel_path": "2026-11-10_terraria_ai_behavior_and_stream_lighting_diagnosis.md",
+      "date": "2026-11-10",
+      "tier": "B",
+      "size_bytes": 7814
+    },
+    {
+      "file_name": "2026-11-10_terraria_v18_light_masking_and_homestead_upgrades.md",
+      "home": "robin",
+      "rel_path": "2026-11-10_terraria_v18_light_masking_and_homestead_upgrades.md",
+      "date": "2026-11-10",
+      "tier": "B",
+      "size_bytes": 13326
     },
     {
       "file_name": "20260820_communication_compiler_empirical_continuation_receipt.md",
