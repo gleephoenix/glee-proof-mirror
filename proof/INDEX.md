@@ -1,24 +1,34 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-12T12:41:11.305249+00:00
-> Total receipts indexed: 25569
+> Last updated: 2026-11-12T18:41:10.678039+00:00
+> Total receipts indexed: 25616
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
 | 2026-11-12_capsule_serializer_refutation_explicit_edits_admitted.md | zoro | 2026-11-12 | B | 5469 |
+| 2026-11-12_guest_research_source_judgment_over_retained_reading.md | zoro | 2026-11-12 | B | 5722 |
+| 2026-11-12_guest_research_source_reading_request_withdrawn.md | zoro | 2026-11-12 | B | 7529 |
 | 2026-11-12_independent_delta_review_explore_workspace_v2_wave12.md | zoro | 2026-11-12 | B | 7587 |
+| 2026-11-12_independent_delta_review_explore_workspace_v3_wave12.md | zoro | 2026-11-12 | B | 6823 |
 | 2026-11-12_independent_rereview_deploy_seal_wiring_detector_v4.md | zoro | 2026-11-12 | B | 8668 |
 | 2026-11-12_independent_rereview_deploy_seal_wiring_detector_v5.md | zoro | 2026-11-12 | B | 11159 |
 | 2026-11-12_independent_review_deploy_seal_wiring_detector_v3.md | zoro | 2026-11-12 | B | 10883 |
 | 2026-11-12_independent_review_explore_workspace_lazy_iframe_wave12.md | zoro | 2026-11-12 | B | 11664 |
+| 2026-11-12_independent_review_lazy_workspace_release_contract_final.md | zoro | 2026-11-12 | B | 9293 |
+| 2026-11-12_independent_review_marker_test_four_literal_delta.md | zoro | 2026-11-12 | B | 5242 |
+| 2026-11-12_terraria_apprentice_planner_reads_body_refusal.md | zoro | 2026-11-12 | B | 7846 |
 | 2026-11-12_terraria_apprentice_rest_death_stop_and_craft_gap.md | zoro | 2026-11-12 | B | 11192 |
 | 2026-11-12_terraria_apprentice_restart_resume_deployed.md | zoro | 2026-11-12 | B | 8516 |
 | 2026-11-12_terraria_apprentice_restart_resume_refused_places_tested.md | zoro | 2026-11-12 | B | 4355 |
 | 2026-11-12_terraria_apprentice_room_feedback_and_restart_death_loop.md | zoro | 2026-11-12 | B | 8450 |
 | 2026-11-12_terraria_apprentice_room_feedback_and_restart_death_loop_correction.md | zoro | 2026-11-12 | B | 5607 |
+| 2026-11-12_terraria_apprentice_shaft_ladders_fall_guards_graveyard_flag.md | zoro | 2026-11-12 | B | 10143 |
+| 2026-11-12_terraria_claim_line_public_readback.md | zoro | 2026-11-12 | B | 6564 |
+| 2026-11-12_apprentice_provider_fallback.md | sanji | 2026-11-12 | — | 6539 |
 | 2026-11-12_crew_event_cold_partition_stage.md | sanji | 2026-11-12 | — | 5078 |
+| 2026-11-12_daw_loom_serum_study_and_prototype.md | sanji | 2026-11-12 | — | 15855 |
 | 2026-11-12_fleet_release_owner_resolution.md | sanji | 2026-11-12 | — | 13541 |
 | 2026-11-12_freeze_runtime_contracts.md | sanji | 2026-11-12 | — | 8795 |
 | 2026-11-12_frontier_existing_learning_speedrun_owner_route.md | sanji | 2026-11-12 | — | 5736 |
@@ -37,28 +47,61 @@
 | 2026-11-12_frontier_stop_control_placement_repair.md | sanji | 2026-11-12 | — | 5999 |
 | 2026-11-12_glee_bug_hunt_aos_canonical_repair.md | sanji | 2026-11-12 | — | 9790 |
 | 2026-11-12_glee_bug_hunt_aos_private_repair.md | sanji | 2026-11-12 | — | 7217 |
+| 2026-11-12_glee_bug_hunt_capsule_negation.md | sanji | 2026-11-12 | — | 11873 |
 | 2026-11-12_glee_bug_hunt_external_loader_consolidation.md | sanji | 2026-11-12 | — | 11477 |
 | 2026-11-12_glee_bug_hunt_replay_history.md | sanji | 2026-11-12 | — | 11481 |
+| 2026-11-12_glee_bug_hunt_review_diagnostic_race.md | sanji | 2026-11-12 | — | 9019 |
 | 2026-11-12_glee_bug_hunt_shared_root_quota.md | sanji | 2026-11-12 | — | 9493 |
 | 2026-11-12_glee_organization_awareness_acceptance.md | sanji | 2026-11-12 | — | 8039 |
-| 2026-11-12_readonly_controlled_contract_verified_review_inflight.md | sanji | 2026-11-12 | — | 5018 |
+| 2026-11-12_guest_review_terminal_footprint_reconciled.md | sanji | 2026-11-12 | — | 3976 |
+| 2026-11-12_guest_worker_054_activation.md | sanji | 2026-11-12 | — | 7791 |
+| 2026-11-12_independent_terraria_restart_judgment.md | sanji | 2026-11-12 | — | 5714 |
+| 2026-11-12_mainops_release_accounting_and_judge.md | sanji | 2026-11-12 | — | 10663 |
+| 2026-11-12_original_daw_study_and_design.md | sanji | 2026-11-12 | — | 8709 |
+| 2026-11-12_outbox_claim_custody_candidate.md | sanji | 2026-11-12 | — | 6014 |
+| 2026-11-12_portable_export_live.md | sanji | 2026-11-12 | — | 11392 |
+| 2026-11-12_portable_log_strategy.md | sanji | 2026-11-12 | — | 5102 |
+| 2026-11-12_postrelease_guest_qualification.md | sanji | 2026-11-12 | — | 7946 |
+| 2026-11-12_preview_watcher_runtime_recovery.md | sanji | 2026-11-12 | — | 5916 |
+| 2026-11-12_readonly_contract_refuted_and_effect_boundary_qualified.md | sanji | 2026-11-12 | — | 14167 |
+| 2026-11-12_readonly_controlled_contract_verified_review_inflight.md | sanji | 2026-11-12 | — | 5376 |
 | 2026-11-12_research_efficiency_wave03.md | sanji | 2026-11-12 | — | 8894 |
+| 2026-11-12_review_footprint_cleanup_private_reproduction.md | sanji | 2026-11-12 | — | 2523 |
+| 2026-11-12_review_recovery_footprint_cleanup.md | sanji | 2026-11-12 | — | 6284 |
 | 2026-11-12_seal_canonical_adoption.md | sanji | 2026-11-12 | — | 10355 |
 | 2026-11-12_seal_lexical_counterevidence.md | sanji | 2026-11-12 | — | 22354 |
+| 2026-11-12_self_research_collection_and_expansion_validity.md | sanji | 2026-11-12 | — | 7793 |
 | 2026-11-12_self_research_guard_qualification_and_readonly_recovery.md | sanji | 2026-11-12 | — | 8430 |
+| 2026-11-12_self_research_native_cost_and_accounting.md | sanji | 2026-11-12 | — | 6398 |
 | 2026-11-12_self_research_raw_benchmark_evidence.md | sanji | 2026-11-12 | — | 7569 |
 | 2026-11-12_self_research_real_source_record.md | sanji | 2026-11-12 | — | 6543 |
 | 2026-11-12_self_research_record_operation_scope.md | sanji | 2026-11-12 | — | 3175 |
 | 2026-11-12_self_research_source_provenance.md | sanji | 2026-11-12 | — | 5359 |
 | 2026-11-12_self_research_source_statistics_and_review.md | sanji | 2026-11-12 | — | 6684 |
+| 2026-11-12_song_clickable_terminal_link.md | sanji | 2026-11-12 | — | 2249 |
+| 2026-11-12_song_expansion_nightfall.md | sanji | 2026-11-12 | — | 5278 |
 | 2026-11-12_storage_history_query_regimes.md | sanji | 2026-11-12 | — | 7178 |
 | 2026-11-12_storage_history_reader_inventory.md | sanji | 2026-11-12 | — | 5279 |
+| 2026-11-12_telemetry_private_sink_isolation.md | sanji | 2026-11-12 | — | 5699 |
+| 2026-11-12_terminal_large_log_transfer.md | sanji | 2026-11-12 | — | 8351 |
+| 2026-11-12_terraria_claim_evidence_audit.md | sanji | 2026-11-12 | — | 6421 |
+| 2026-11-12_terraria_claimline_independent_judgment.md | sanji | 2026-11-12 | — | 4066 |
+| 2026-11-12_terraria_restart_full_promise_falsified.md | sanji | 2026-11-12 | — | 3190 |
 | 2026-11-12_terraria_stream_lighting_and_motion.md | sanji | 2026-11-12 | — | 6428 |
 | 2026-11-12_webhook_signature_qualification.md | sanji | 2026-11-12 | — | 13783 |
+| 2026-11-12_website_improvements_final.md | sanji | 2026-11-12 | — | 3768 |
 | 2026-11-12_website_improvements_wave10.md | sanji | 2026-11-12 | — | 11358 |
 | 2026-11-12_website_improvements_wave11.md | sanji | 2026-11-12 | — | 12999 |
 | 2026-11-12_website_improvements_wave12.md | sanji | 2026-11-12 | — | 15740 |
+| 2026-11-12_website_improvements_wave13.md | sanji | 2026-11-12 | — | 7945 |
+| 2026-11-12_website_improvements_wave14.md | sanji | 2026-11-12 | — | 6939 |
+| 2026-11-12_website_improvements_wave15.md | sanji | 2026-11-12 | — | 11680 |
+| 2026-11-12_website_improvements_wave16.md | sanji | 2026-11-12 | — | 6862 |
+| 2026-11-12_website_improvements_wave17.md | sanji | 2026-11-12 | — | 10873 |
+| 2026-11-12_website_improvements_wave18.md | sanji | 2026-11-12 | — | 10705 |
+| 2026-11-12_website_improvements_wave19.md | sanji | 2026-11-12 | — | 16856 |
 | 2026-11-12_website_improvements_wave2.md | sanji | 2026-11-12 | — | 7609 |
+| 2026-11-12_website_improvements_wave20.md | sanji | 2026-11-12 | — | 6407 |
 | 2026-11-12_website_improvements_wave3.md | sanji | 2026-11-12 | — | 6171 |
 | 2026-11-12_website_improvements_wave4.md | sanji | 2026-11-12 | — | 7361 |
 | 2026-11-12_website_improvements_wave5.md | sanji | 2026-11-12 | — | 6666 |
@@ -66,7 +109,11 @@
 | 2026-11-12_website_improvements_wave7.md | sanji | 2026-11-12 | — | 10640 |
 | 2026-11-12_website_improvements_wave8.md | sanji | 2026-11-12 | — | 9738 |
 | 2026-11-12_website_improvements_wave9.md | sanji | 2026-11-12 | — | 13583 |
+| 2026-11-12_worker_provider_reconciliation.md | sanji | 2026-11-12 | — | 10886 |
 | 2026-11-12_estate_wide_bug_hunt_and_defect_repairs.md | robin | 2026-11-12 | B | 7226 |
+| 2026-11-12_small_model_problem_presentation_system.md | robin | 2026-11-12 | A | 9082 |
+| 2026-11-12_terraria_ai_base_and_mining_architecture_fix.md | robin | 2026-11-12 | B | 7100 |
+| 2026-11-12_terraria_ai_base_and_mining_audit.md | robin | 2026-11-12 | B | 4946 |
 | 2026-11-11_fable52_video_intake_and_blender_probe.md | zoro | 2026-11-11 | A | 6793 |
 | 2026-11-11_research_systems_and_source_search.md | zoro | 2026-11-11 | A | 15186 |
 | 2026-11-11_terraria_apprentice_isolation_live_clock_public_honesty.md | zoro | 2026-11-11 | B | 20135 |
@@ -160,54 +207,7 @@
 | 2026-11-11_research_native_usage.md | sanji | 2026-11-11 | — | 7608 |
 | 2026-11-11_self_research_efficiency_wave01.md | sanji | 2026-11-11 | — | 7697 |
 | 2026-11-11_self_research_efficiency_wave02.md | sanji | 2026-11-11 | — | 6770 |
-| 2026-11-11_self_research_efficiency_wave03.md | sanji | 2026-11-11 | — | 7777 |
-| 2026-11-11_storage_history_codec_qualification.md | sanji | 2026-11-11 | — | 14997 |
-| 2026-11-11_system_level_intelligence_preservation.md | sanji | 2026-11-11 | — | 7851 |
-| 2026-11-11_temporal_memory_transcript_intake.md | sanji | 2026-11-11 | — | 7813 |
-| 2026-11-11_terminal_full_log_execution_evidence.md | sanji | 2026-11-11 | — | 9232 |
-| 2026-11-11_terraria_native_workspace.md | sanji | 2026-11-11 | — | 13228 |
-| 2026-11-11_terraria_reference_run_and_unknown_skill_learning.md | sanji | 2026-11-11 | — | 13316 |
-| 2026-11-11_terraria_source_interface_audit.md | sanji | 2026-11-11 | — | 5113 |
-| 2026-11-11_trainable_memory_and_handoff_followup.md | sanji | 2026-11-11 | — | 6006 |
-| 2026-11-11_website_critique_verified_intake.md | sanji | 2026-11-11 | — | 7619 |
-| 2026-11-11_website_improvements_wave1.md | sanji | 2026-11-11 | — | 18616 |
-| 2026-11-11_website_visual_audit.md | sanji | 2026-11-11 | — | 13732 |
-| 2026-11-11_website_visual_implementation.md | sanji | 2026-11-11 | — | 10856 |
-| 2026-11-11_advancing_glee_understanding_and_construction_of_ai_systems.md | robin | 2026-11-11 | — | 6314 |
-| 2026-11-11_ai_architecture_peer_review_and_empirical_validation.md | robin | 2026-11-11 | — | 5127 |
-| 2026-11-11_estate_neglect_audit_governance_digestion_and_autonomy_reconciliation.md | robin | 2026-11-11 | B | 8276 |
-| 2026-11-11_estate_neglect_wave2_coordination_leak_payments_and_public_surfaces.md | robin | 2026-11-11 | — | 7412 |
-| 2026-11-11_estate_neglect_wave3_review_scheduler_and_x402_contracts.md | robin | 2026-11-11 | B | 5100 |
-| 2026-11-11_glee_architecture_documentation_and_docmap_verification_engine.md | robin | 2026-11-11 | A | 6767 |
-| 2026-11-10_agentkit_cfn_control_audit_verified_and_gate_regression.md | zoro | 2026-11-10 | A | 9734 |
-| 2026-11-10_jev_guard_halt_root_cause_and_recovery.md | zoro | 2026-11-10 | C | 7704 |
-| 2026-11-10_research_r1109-fi-002.md | zoro | 2026-11-10 | — | 7676 |
-| 2026-11-10_research_r1109-reliability-observatory.md | zoro | 2026-11-10 | — | 9621 |
-| 2026-11-10_research_review-fi006-perfect-encoder-bound.md | zoro | 2026-11-10 | — | 15466 |
-| 2026-11-10_research_review_fi006_perfect_encoder_bound.md | zoro | 2026-11-10 | — | 15466 |
-| 2026-11-10_root_volume_recovery_seat_homes_and_estate_health_repairs.md | zoro | 2026-11-10 | — | 4751 |
-| 2026-11-10_terraria_no_destination_diagnosis_and_beat_the_game_ladder.md | zoro | 2026-11-10 | B | 17314 |
-| 2026-11-10_terraria_v17_destination_experiment_launched_and_ladder_referee_upgrade.md | zoro | 2026-11-10 | A | 17649 |
-| 2026-11-10_actual_driver_proof_correction.md | sanji | 2026-11-10 | — | 4993 |
-| 2026-11-10_ai_research_study_complete.md | sanji | 2026-11-10 | — | 5648 |
-| 2026-11-10_ai_research_study_wave01.md | sanji | 2026-11-10 | — | 5459 |
-| 2026-11-10_beneficial_math_system.md | sanji | 2026-11-10 | — | 8579 |
-| 2026-11-10_cfn_bundle_readiness_and_review_gate.md | sanji | 2026-11-10 | — | 2666 |
-| 2026-11-10_cfn_changed_trial.md | sanji | 2026-11-10 | — | 2273 |
-| 2026-11-10_cfn_exact_source_falsifier.md | sanji | 2026-11-10 | — | 3976 |
-| 2026-11-10_cfn_final_trial.md | sanji | 2026-11-10 | — | 2327 |
-| 2026-11-10_cfn_first_control_selector_repair.md | sanji | 2026-11-10 | — | 5218 |
-| 2026-11-10_cfn_image_admission_recovery.md | sanji | 2026-11-10 | — | 6888 |
-| 2026-11-10_cfn_lint_examiner_preparation.md | sanji | 2026-11-10 | — | 6409 |
-| 2026-11-10_cfn_publication_and_actual_control.md | sanji | 2026-11-10 | — | 2808 |
-| 2026-11-10_cfn_successor_execution.md | sanji | 2026-11-10 | — | 5481 |
-| 2026-11-10_cfn_terminal_and_baseline_gap.md | sanji | 2026-11-10 | — | 8612 |
-| 2026-11-10_conan_streamed_phase.md | sanji | 2026-11-10 | — | 1467 |
-| 2026-11-10_envopt_manifest_repair_and_trajectory_gap.md | sanji | 2026-11-10 | — | 7695 |
-| 2026-11-10_envopt_source_and_native_index_probe.md | sanji | 2026-11-10 | — | 6866 |
-| 2026-11-10_execute_all_wave01.md | sanji | 2026-11-10 | — | 12884 |
-| 2026-11-10_first_original_remote_control_attempt.md | sanji | 2026-11-10 | — | 10819 |
-| _(+25369 more — see full manifest JSON)_ | | | | |
+| _(+25416 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
