@@ -1,27 +1,70 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-15T18:41:11.576787+00:00
-> Total receipts indexed: 25851
+> Last updated: 2026-11-16T18:41:09.694471+00:00
+> Total receipts indexed: 25901
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-11-16_codex_efficient_small_ai_independent_review.md | glee | 2026-11-16 | A | 3787 |
+| 2026-11-16_codex_small_ai_survey_scoped_review_0619.md | glee | 2026-11-16 | B | 3564 |
+| 2026-11-16_efficient_small_ai_survey.md | zoro | 2026-11-16 | A | 8872 |
+| 2026-11-16_cumulative_invention_workflow.md | sanji | 2026-11-16 | — | 11540 |
+| 2026-11-16_enrolled_recovery_barrier.md | sanji | 2026-11-16 | — | 9955 |
+| 2026-11-16_invention_native_usefulness_pilot.md | sanji | 2026-11-16 | — | 11179 |
+| 2026-11-16_invention_ordinary_integration.md | sanji | 2026-11-16 | — | 16173 |
+| 2026-11-16_invention_v13_prospective_launch.md | sanji | 2026-11-16 | — | 5480 |
+| 2026-11-16_journal_cost_and_review_delivery.md | sanji | 2026-11-16 | — | 11158 |
+| 2026-11-16_journal_operating_enrollment.md | sanji | 2026-11-16 | — | 12529 |
+| 2026-11-16_retained_native_candidate_recovery.md | sanji | 2026-11-16 | — | 9225 |
+| 2026-11-16_s6_durable_append_recovery_in_progress.md | sanji | 2026-11-16 | — | 6352 |
+| 2026-11-16_s6_exact_custody_and_append_contracts.md | sanji | 2026-11-16 | — | 11607 |
+| 2026-11-16_s6_process_pulse_candidate_in_progress.md | sanji | 2026-11-16 | — | 7534 |
+| 2026-11-16_s6_process_pulse_cold_candidate.md | sanji | 2026-11-16 | — | 9605 |
+| 2026-11-16_s6_process_pulse_reader_recurring.md | sanji | 2026-11-16 | — | 12911 |
+| 2026-11-16_s6_producer_adapter_and_bounded_recovery.md | sanji | 2026-11-16 | — | 9954 |
+| 2026-11-16_s6_resident_readiness_and_review.md | sanji | 2026-11-16 | — | 13471 |
+| 2026-11-16_s6_transactional_dead_letter_prototype.md | sanji | 2026-11-16 | — | 6014 |
+| 2026-11-16_shared_journal_protocol.md | sanji | 2026-11-16 | — | 11771 |
+| 2026-11-16_studio_index_integration.md | sanji | 2026-11-16 | — | 12560 |
+| 2026-11-16_terraria_cold_route_memory_and_native_ore_admission.md | sanji | 2026-11-16 | — | 9062 |
+| 2026-11-16_terraria_depth_contract_and_explicit_return.md | sanji | 2026-11-16 | — | 8277 |
+| 2026-11-16_terraria_dry_rung_recovery_and_native_record_order.md | sanji | 2026-11-16 | — | 26463 |
+| 2026-11-16_terraria_guarded_route_return.md | sanji | 2026-11-16 | — | 15540 |
+| 2026-11-16_terraria_native_journal_and_route_composition.md | sanji | 2026-11-16 | — | 9468 |
+| 2026-11-16_terraria_native_tin_delivery.md | sanji | 2026-11-16 | — | 9718 |
+| 2026-11-16_terraria_persistent_route_network.md | sanji | 2026-11-16 | — | 7262 |
+| 2026-11-16_useful_invention_three_cycle.md | sanji | 2026-11-16 | — | 14043 |
+| 2026-11-15_codex_efficient_small_ai_survey_audit.md | glee | 2026-11-15 | A | 5371 |
+| 2026-11-15_efficient_small_ai_survey_codex_r4_review.md | glee | 2026-11-15 | B | 4878 |
+| 2026-11-15_efficient_small_ai_survey_reaudit_codex_r2.md | glee | 2026-11-15 | B | 4584 |
+| 2026-11-15_pbi_scoped_adversarial_review.md | glee | 2026-11-15 | A | 5413 |
 | 2026-11-15_pbi_scoped_review_codex.md | glee | 2026-11-15 | B | 3777 |
 | 2026-11-15_purpose_built_intelligence_adversarial_review_codex.md | glee | 2026-11-15 | B | 5187 |
+| 2026-11-15_scoped_purpose_built_intelligence_review.md | glee | 2026-11-15 | B | 4669 |
+| 2026-11-15_zoro_efficient_small_ai_survey_codex_r3.md | glee | 2026-11-15 | A | 4943 |
+| 2026-11-15_purpose_built_intelligence_canonical_delivery.md | zoro | 2026-11-15 | A | 5653 |
+| 2026-11-15_purpose_built_intelligence_study.md | zoro | 2026-11-15 | A | 39326 |
+| 2026-11-15_admission_path_residuals.md | sanji | 2026-11-15 | — | 8165 |
 | 2026-11-15_animation_capacity_route_recheck.md | sanji | 2026-11-15 | — | 3948 |
 | 2026-11-15_animation_native_goal_blocked.md | sanji | 2026-11-15 | — | 3770 |
 | 2026-11-15_jev_routine_adoption.md | sanji | 2026-11-15 | — | 9187 |
 | 2026-11-15_local_asset_integrity.md | sanji | 2026-11-15 | — | 4251 |
 | 2026-11-15_next_ai_evaluation_repair.md | sanji | 2026-11-15 | — | 6875 |
 | 2026-11-15_next_ai_inference_dependency.md | sanji | 2026-11-15 | — | 5654 |
+| 2026-11-15_provider_shape_followthrough_in_progress.md | sanji | 2026-11-15 | — | 9994 |
+| 2026-11-15_provider_shape_reviewable.md | sanji | 2026-11-15 | — | 10687 |
 | 2026-11-15_router_census_remaining_recovery.md | sanji | 2026-11-15 | — | 10970 |
 | 2026-11-15_router_fixture_and_relative_admission_recovery.md | sanji | 2026-11-15 | — | 11551 |
 | 2026-11-15_rule_discovery_curriculum_intake.md | sanji | 2026-11-15 | — | 11227 |
 | 2026-11-15_s6_bus_index_maintenance.md | sanji | 2026-11-15 | — | 10581 |
 | 2026-11-15_s6_bus_source_recovery.md | sanji | 2026-11-15 | — | 7167 |
+| 2026-11-15_s6_producer_qualification.md | sanji | 2026-11-15 | — | 6276 |
+| 2026-11-15_s6_recurring_receipt_shadow.md | sanji | 2026-11-15 | — | 9360 |
 | 2026-11-15_s6_source_coverage.md | sanji | 2026-11-15 | — | 5752 |
 | 2026-11-15_s6_source_diagnostics.md | sanji | 2026-11-15 | — | 6484 |
+| 2026-11-15_s6_supervisor_receipt_diagnostic.md | sanji | 2026-11-15 | — | 9371 |
 | 2026-11-15_seeded_benchmark_simulation.md | sanji | 2026-11-15 | — | 6805 |
 | 2026-11-15_spark_cost_outer_rereview_correction.md | sanji | 2026-11-15 | — | 8194 |
 | 2026-11-15_spark_cost_provenance.md | sanji | 2026-11-15 | — | 10116 |
@@ -32,17 +75,24 @@
 | 2026-11-15_spark_provenance.md | sanji | 2026-11-15 | — | 12376 |
 | 2026-11-15_spark_rereview_repairs_in_progress.md | sanji | 2026-11-15 | — | 8732 |
 | 2026-11-15_steerdistill_research_intake.md | sanji | 2026-11-15 | — | 6626 |
+| 2026-11-15_terraria_automatic_mining_and_route_memory.md | sanji | 2026-11-15 | — | 10574 |
+| 2026-11-15_terraria_default_window_preparation.md | sanji | 2026-11-15 | — | 9344 |
 | 2026-11-15_terraria_flat_route_knockback_and_safe_refusal.md | sanji | 2026-11-15 | — | 8358 |
 | 2026-11-15_terraria_incumbent_motor_and_frozen_bindings.md | sanji | 2026-11-15 | — | 7610 |
 | 2026-11-15_terraria_indoor_capture_and_material_empty_start.md | sanji | 2026-11-15 | — | 8801 |
 | 2026-11-15_terraria_native_collector_and_operated_watch.md | sanji | 2026-11-15 | — | 11479 |
 | 2026-11-15_terraria_native_delivery_and_motor_revision02.md | sanji | 2026-11-15 | — | 9673 |
+| 2026-11-15_terraria_native_memory_save_probe.md | sanji | 2026-11-15 | — | 11003 |
 | 2026-11-15_terraria_prepared_joint_access_and_independent_groups.md | sanji | 2026-11-15 | — | 10377 |
+| 2026-11-15_terraria_reusable_route_native_qualified.md | sanji | 2026-11-15 | — | 7107 |
+| 2026-11-15_terraria_route_alignment_and_arrival_contract.md | sanji | 2026-11-15 | — | 7180 |
 | 2026-11-15_terraria_supplies_checkpoint_and_actual_mining_failure.md | sanji | 2026-11-15 | — | 7261 |
 | 2026-11-15_thousand_sunny_pressure_gate_0007.md | sanji | 2026-11-15 | B | 4631 |
 | 2026-11-15_unseen_bench_intake.md | sanji | 2026-11-15 | — | 11107 |
 | 2026-11-15_tiny_stories_lab.md | robin | 2026-11-15 | B | 9402 |
 | 2026-11-15_tiny_stories_transfer_challenge.md | robin | 2026-11-15 | B | 9128 |
+| 2026-11-15_unique_ways_of_making_ai_2026.md | robin | 2026-11-15 | B | 4597 |
+| 2026-11-15_unique_ways_of_making_ai_2026_verified.md | robin | 2026-11-15 | B | 5056 |
 | 2026-11-14_alerts_admission_status.md | sanji | 2026-11-14 | — | 2819 |
 | 2026-11-14_animation_methods_research.md | sanji | 2026-11-14 | — | 3307 |
 | 2026-11-14_animation_owned_master_build.md | sanji | 2026-11-14 | — | 5573 |
@@ -157,57 +207,7 @@
 | 2026-11-13_history_cross_domain_review.md | sanji | 2026-11-13 | — | 7018 |
 | 2026-11-13_history_feedback_and_declared_intent.md | sanji | 2026-11-13 | — | 7185 |
 | 2026-11-13_history_late_feedback_disposition.md | sanji | 2026-11-13 | — | 2772 |
-| 2026-11-13_history_learning_completion.md | sanji | 2026-11-13 | — | 5399 |
-| 2026-11-13_history_learning_hooks_prototype.md | sanji | 2026-11-13 | — | 8163 |
-| 2026-11-13_history_learning_native_generator.md | sanji | 2026-11-13 | — | 7593 |
-| 2026-11-13_history_learning_review.md | sanji | 2026-11-13 | — | 7650 |
-| 2026-11-13_image_environments_courtyard_and_workflow.md | sanji | 2026-11-13 | — | 10508 |
-| 2026-11-13_image_environments_courtyard_structure_and_traversal.md | sanji | 2026-11-13 | — | 13047 |
-| 2026-11-13_image_environments_creator_workflow_and_native_proof.md | sanji | 2026-11-13 | — | 10080 |
-| 2026-11-13_image_environments_first_mesh.md | sanji | 2026-11-13 | — | 10158 |
-| 2026-11-13_image_environments_generic_engine_checks.md | sanji | 2026-11-13 | — | 9601 |
-| 2026-11-13_image_environments_generic_viewers.md | sanji | 2026-11-13 | — | 6630 |
-| 2026-11-13_image_environments_joined_room_and_courtyard.md | sanji | 2026-11-13 | — | 3772 |
-| 2026-11-13_image_environments_materials_support_and_repair.md | sanji | 2026-11-13 | — | 11544 |
-| 2026-11-13_image_environments_native_engine_and_playable.md | sanji | 2026-11-13 | — | 10120 |
-| 2026-11-13_image_environments_passage_completion_and_profile_v2.md | sanji | 2026-11-13 | — | 9855 |
-| 2026-11-13_image_environments_persistent_colliders.md | sanji | 2026-11-13 | — | 3578 |
-| 2026-11-13_image_environments_refinement_and_collision.md | sanji | 2026-11-13 | — | 10242 |
-| 2026-11-13_image_environments_reusable_scene_profiles.md | sanji | 2026-11-13 | — | 13685 |
-| 2026-11-13_image_environments_unreal_preparation_and_owned_wait.md | sanji | 2026-11-13 | — | 8450 |
-| 2026-11-13_living_worlds_build_wave01.md | sanji | 2026-11-13 | — | 10791 |
-| 2026-11-13_living_worlds_intake.md | sanji | 2026-11-13 | — | 10288 |
-| 2026-11-13_music_ai_methods_research.md | sanji | 2026-11-13 | — | 6397 |
-| 2026-11-13_native_voice_profiles_and_client_gates.md | sanji | 2026-11-13 | — | 10354 |
-| 2026-11-13_open_ai_research_catalog.md | sanji | 2026-11-13 | — | 6851 |
-| 2026-11-13_open_ai_review_integration.md | sanji | 2026-11-13 | — | 7949 |
-| 2026-11-13_original_media_voice_auditions.md | sanji | 2026-11-13 | — | 11188 |
-| 2026-11-13_original_media_voice_research.md | sanji | 2026-11-13 | — | 9847 |
-| 2026-11-13_original_voice_runtime_prepared.md | sanji | 2026-11-13 | — | 8270 |
-| 2026-11-13_phrase_narration_media_proof.md | sanji | 2026-11-13 | — | 8629 |
-| 2026-11-13_research_handoff_understanding.md | sanji | 2026-11-13 | — | 8916 |
-| 2026-11-13_resource_dispatch_eligibility_recovery.md | sanji | 2026-11-13 | — | 2900 |
-| 2026-11-13_skeletal_shape_animation_pipeline.md | sanji | 2026-11-13 | — | 12631 |
-| 2026-11-13_studio_contact_render_wait.md | sanji | 2026-11-13 | — | 5036 |
-| 2026-11-13_studio_directors_desk_closure.md | sanji | 2026-11-13 | — | 2942 |
-| 2026-11-13_studio_directors_desk_intake.md | sanji | 2026-11-13 | — | 8024 |
-| 2026-11-13_studio_sh050_directing.md | sanji | 2026-11-13 | — | 7045 |
-| 2026-11-13_studio_sh050_real_hand_asset.md | sanji | 2026-11-13 | — | 4352 |
-| 2026-11-13_studio_visual_quality_correction.md | sanji | 2026-11-13 | — | 5387 |
-| 2026-11-13_terraria_archive_assessment_intake.md | sanji | 2026-11-13 | — | 6230 |
-| 2026-11-13_terraria_learning_attribution_intake.md | sanji | 2026-11-13 | — | 10431 |
-| 2026-11-13_terraria_power_spike_live_wave.md | sanji | 2026-11-13 | — | 12616 |
-| 2026-11-13_terraria_power_spike_planning_correction.md | sanji | 2026-11-13 | — | 3604 |
-| 2026-11-13_terraria_provider_portability.md | sanji | 2026-11-13 | — | 11306 |
-| 2026-11-13_terraria_wiki_ai_improvement.md | sanji | 2026-11-13 | — | 7527 |
-| 2026-11-13_terraria_wiki_strategy_reference_intake.md | sanji | 2026-11-13 | — | 7002 |
-| 2026-11-13_unowned_colab_framework.md | sanji | 2026-11-13 | — | 9713 |
-| 2026-11-13_voice_admission_and_quality_boundary.md | sanji | 2026-11-13 | — | 7820 |
-| 2026-11-13_voice_bank_conditioned_reuse.md | sanji | 2026-11-13 | — | 12303 |
-| 2026-11-13_voice_media_handoff_and_admission.md | sanji | 2026-11-13 | — | 9366 |
-| 2026-11-13_creative_workshop_st008_task_plane_dispatch.md | robin | 2026-11-13 | B | 7826 |
-| 2026-11-13_fi010_e1_e1b_e2_method_transfer.md | robin | 2026-11-13 | B | 9204 |
-| _(+25651 more — see full manifest JSON)_ | | | | |
+| _(+25701 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
