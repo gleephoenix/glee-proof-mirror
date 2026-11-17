@@ -1,15 +1,19 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-17T00:41:12.383832+00:00
-> Total receipts indexed: 25926
+> Last updated: 2026-11-17T06:41:12.233942+00:00
+> Total receipts indexed: 25942
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-11-17_intelligence_engineering_wave03.md | sanji | 2026-11-17 | — | 4207 |
+| 2026-11-17_intelligence_engineering_wave04.md | sanji | 2026-11-17 | — | 4503 |
+| 2026-11-17_terraria_waypoint_measurement_and_live_rebase.md | sanji | 2026-11-17 | — | 11078 |
 | 2026-11-16_codex_efficient_small_ai_independent_review.md | glee | 2026-11-16 | A | 3787 |
 | 2026-11-16_codex_small_ai_survey_scoped_review_0619.md | glee | 2026-11-16 | B | 3564 |
 | 2026-11-16_efficient_small_ai_survey.md | zoro | 2026-11-16 | A | 8872 |
+| 2026-11-16_glee_ops_analysis_and_bounded_work_restart_bound.md | zoro | 2026-11-16 | A | 9344 |
 | 2026-11-16_terraria_hands_fix_materials_and_stream_cursor.md | zoro | 2026-11-16 | — | 9577 |
 | 2026-11-16_terraria_picture_slot_no_longer_teaches_null.md | zoro | 2026-11-16 | — | 2744 |
 | 2026-11-16_terraria_stream_codex_catalog_drift_retry_30s.md | zoro | 2026-11-16 | — | 3151 |
@@ -17,13 +21,17 @@
 | 2026-11-16_terraria_stream_placed_check_tightened_rest_routine_asked.md | zoro | 2026-11-16 | — | 3262 |
 | 2026-11-16_terraria_stream_prompt_cap_fixed_and_world2.md | zoro | 2026-11-16 | — | 8120 |
 | 2026-11-16_terraria_stream_rest_side_trip_autoreload_wake_check.md | zoro | 2026-11-16 | — | 7246 |
+| 2026-11-16_terraria_why_failing_research_review_standing_landed.md | zoro | 2026-11-16 | B | 8842 |
 | 2026-11-16_terraria_world2_promise_delivery_recorded.md | zoro | 2026-11-16 | — | 2094 |
 | 2026-11-16_algorithmic_progress_intake.md | sanji | 2026-11-16 | — | 16817 |
 | 2026-11-16_cumulative_invention_workflow.md | sanji | 2026-11-16 | — | 11540 |
+| 2026-11-16_current_real_data_segmented_qualification.md | sanji | 2026-11-16 | — | 10070 |
 | 2026-11-16_enrolled_recovery_barrier.md | sanji | 2026-11-16 | — | 11847 |
+| 2026-11-16_foreground_custody_projection.md | sanji | 2026-11-16 | — | 13368 |
 | 2026-11-16_full_private_migration_hold.md | sanji | 2026-11-16 | — | 9844 |
+| 2026-11-16_full_state_writer_profile.md | sanji | 2026-11-16 | — | 10379 |
 | 2026-11-16_intelligence_engineering_wave01.md | sanji | 2026-11-16 | — | 11284 |
-| 2026-11-16_intelligence_engineering_wave02.md | sanji | 2026-11-16 | — | 3453 |
+| 2026-11-16_intelligence_engineering_wave02.md | sanji | 2026-11-16 | — | 4738 |
 | 2026-11-16_intelligence_principles_intake.md | sanji | 2026-11-16 | — | 8905 |
 | 2026-11-16_invention_native_usefulness_pilot.md | sanji | 2026-11-16 | — | 11179 |
 | 2026-11-16_invention_ordinary_integration.md | sanji | 2026-11-16 | — | 16173 |
@@ -34,9 +42,13 @@
 | 2026-11-16_private_audit_only_adoption.md | sanji | 2026-11-16 | — | 7841 |
 | 2026-11-16_private_epoch_rollover.md | sanji | 2026-11-16 | — | 9479 |
 | 2026-11-16_rapid_ai_learning_completion_signal.md | sanji | 2026-11-16 | — | 5465 |
+| 2026-11-16_rapid_ai_learning_confirmed_recovery.md | sanji | 2026-11-16 | — | 9568 |
 | 2026-11-16_rapid_ai_learning_first_comparison.md | sanji | 2026-11-16 | — | 7809 |
+| 2026-11-16_rapid_ai_learning_llm_diagnostics.md | sanji | 2026-11-16 | — | 8829 |
+| 2026-11-16_rapid_ai_learning_native_admission_wait.md | sanji | 2026-11-16 | — | 6177 |
 | 2026-11-16_rapid_ai_learning_owned_resource_wait.md | sanji | 2026-11-16 | — | 6048 |
 | 2026-11-16_rapid_ai_learning_procedural_acquisition.md | sanji | 2026-11-16 | — | 9473 |
+| 2026-11-16_rapid_ai_learning_verified_generalization.md | sanji | 2026-11-16 | — | 9807 |
 | 2026-11-16_retained_native_candidate_recovery.md | sanji | 2026-11-16 | — | 9225 |
 | 2026-11-16_s6_durable_append_recovery_in_progress.md | sanji | 2026-11-16 | — | 6352 |
 | 2026-11-16_s6_exact_custody_and_append_contracts.md | sanji | 2026-11-16 | — | 11607 |
@@ -46,17 +58,21 @@
 | 2026-11-16_s6_producer_adapter_and_bounded_recovery.md | sanji | 2026-11-16 | — | 9954 |
 | 2026-11-16_s6_resident_readiness_and_review.md | sanji | 2026-11-16 | — | 13471 |
 | 2026-11-16_s6_transactional_dead_letter_prototype.md | sanji | 2026-11-16 | — | 6014 |
+| 2026-11-16_sealed_reader_cost_repair.md | sanji | 2026-11-16 | — | 7788 |
+| 2026-11-16_sealed_writer_cost_repair.md | sanji | 2026-11-16 | — | 9336 |
+| 2026-11-16_segmented_producer_reader_integration.md | sanji | 2026-11-16 | — | 10085 |
 | 2026-11-16_shared_journal_protocol.md | sanji | 2026-11-16 | — | 11771 |
 | 2026-11-16_studio_index_integration.md | sanji | 2026-11-16 | — | 12560 |
 | 2026-11-16_system_student_transfer_intake.md | sanji | 2026-11-16 | — | 8304 |
 | 2026-11-16_terraria_cold_route_memory_and_native_ore_admission.md | sanji | 2026-11-16 | — | 9062 |
 | 2026-11-16_terraria_depth_contract_and_explicit_return.md | sanji | 2026-11-16 | — | 8277 |
 | 2026-11-16_terraria_dry_rung_recovery_and_native_record_order.md | sanji | 2026-11-16 | — | 26463 |
-| 2026-11-16_terraria_flat_network_cold_reuse.md | sanji | 2026-11-16 | — | 27337 |
+| 2026-11-16_terraria_flat_network_cold_reuse.md | sanji | 2026-11-16 | — | 31462 |
 | 2026-11-16_terraria_guarded_route_return.md | sanji | 2026-11-16 | — | 15540 |
 | 2026-11-16_terraria_native_journal_and_route_composition.md | sanji | 2026-11-16 | — | 9468 |
 | 2026-11-16_terraria_native_tin_delivery.md | sanji | 2026-11-16 | — | 9718 |
 | 2026-11-16_terraria_persistent_route_network.md | sanji | 2026-11-16 | — | 7994 |
+| 2026-11-16_terraria_target_replay_and_shaft_reuse.md | sanji | 2026-11-16 | — | 18436 |
 | 2026-11-16_two_slot_invention_remainder.md | sanji | 2026-11-16 | — | 5346 |
 | 2026-11-16_useful_invention_three_cycle.md | sanji | 2026-11-16 | — | 14043 |
 | 2026-11-16_writer_and_maintenance_qualification.md | sanji | 2026-11-16 | — | 9133 |
@@ -191,23 +207,7 @@
 | 2026-11-13_terraria_stream_learner_stuck_false_ok_loop_judge_fixed.md | zoro | 2026-11-13 | — | 5546 |
 | 2026-11-13_adaptive_goal_assignments_and_selection.md | sanji | 2026-11-13 | — | 3674 |
 | 2026-11-13_adaptive_goal_feedback_and_context.md | sanji | 2026-11-13 | — | 9777 |
-| 2026-11-13_adaptive_goal_native_handoff.md | sanji | 2026-11-13 | — | 4088 |
-| 2026-11-13_adaptive_goal_runtime_operated.md | sanji | 2026-11-13 | — | 8209 |
-| 2026-11-13_agentkit_independent_addon.md | sanji | 2026-11-13 | — | 10352 |
-| 2026-11-13_animation_audio_grounding.md | sanji | 2026-11-13 | — | 10029 |
-| 2026-11-13_animation_cpu_native_handoff.md | sanji | 2026-11-13 | — | 6113 |
-| 2026-11-13_animation_craft_research.md | sanji | 2026-11-13 | — | 13484 |
-| 2026-11-13_animation_engine_interchange.md | sanji | 2026-11-13 | — | 10021 |
-| 2026-11-13_animation_native_admission_blocked.md | sanji | 2026-11-13 | — | 5502 |
-| 2026-11-13_animation_production_kit.md | sanji | 2026-11-13 | — | 9414 |
-| 2026-11-13_animation_unreal_native_handoff.md | sanji | 2026-11-13 | — | 11687 |
-| 2026-11-13_animation_visual_director_v03.md | sanji | 2026-11-13 | — | 12194 |
-| 2026-11-13_applied_intelligence_control_intake.md | sanji | 2026-11-13 | — | 8539 |
-| 2026-11-13_autonomous_creative_loop_native_control.md | sanji | 2026-11-13 | — | 10290 |
-| 2026-11-13_autonomous_director_v01.md | sanji | 2026-11-13 | — | 9591 |
-| 2026-11-13_autonomous_reasoning_wave01.md | sanji | 2026-11-13 | — | 7389 |
-| 2026-11-13_autonomous_reasoning_wave02.md | sanji | 2026-11-13 | — | 4394 |
-| _(+25726 more — see full manifest JSON)_ | | | | |
+| _(+25742 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
