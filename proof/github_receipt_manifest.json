@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 25942,
+  "total_receipts": 25957,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -47490,6 +47490,22 @@
       "date": "2026-11-16",
       "tier": null,
       "size_bytes": 2094
+    },
+    {
+      "file_name": "2026-11-17_glee_loom_wavetable_vst3_clap_review_fixes_windows.md",
+      "home": "zoro",
+      "rel_path": "2026-11-17_glee_loom_wavetable_vst3_clap_review_fixes_windows.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 7689
+    },
+    {
+      "file_name": "2026-11-17_terraria_handback_live_torch_wood_comparison_counting.md",
+      "home": "zoro",
+      "rel_path": "2026-11-17_terraria_handback_live_torch_wood_comparison_counting.md",
+      "date": "2026-11-17",
+      "tier": "B",
+      "size_bytes": 12803
     },
     {
       "file_name": "INDEX.md",
@@ -186820,6 +186836,14 @@
       "size_bytes": 9133
     },
     {
+      "file_name": "2026-11-17_completion_projection_adoption.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_completion_projection_adoption.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 11989
+    },
+    {
       "file_name": "2026-11-17_intelligence_engineering_wave03.md",
       "home": "sanji",
       "rel_path": "2026-11-17_intelligence_engineering_wave03.md",
@@ -186834,6 +186858,102 @@
       "date": "2026-11-17",
       "tier": null,
       "size_bytes": 4503
+    },
+    {
+      "file_name": "2026-11-17_intelligence_engineering_wave05.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_intelligence_engineering_wave05.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 4749
+    },
+    {
+      "file_name": "2026-11-17_intelligence_engineering_wave06.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_intelligence_engineering_wave06.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 4254
+    },
+    {
+      "file_name": "2026-11-17_intelligence_engineering_wave07.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_intelligence_engineering_wave07.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 4635
+    },
+    {
+      "file_name": "2026-11-17_journal_namespace_capacity_qualification.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_journal_namespace_capacity_qualification.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 7764
+    },
+    {
+      "file_name": "2026-11-17_provider_quota_reset_admission.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_provider_quota_reset_admission.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 6551
+    },
+    {
+      "file_name": "2026-11-17_rapid_ai_learning_attempt_capture_rpc_guard.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_rapid_ai_learning_attempt_capture_rpc_guard.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 7520
+    },
+    {
+      "file_name": "2026-11-17_rapid_ai_learning_real_failure_evidence.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_rapid_ai_learning_real_failure_evidence.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 8146
+    },
+    {
+      "file_name": "2026-11-17_rapid_ai_learning_verified_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_rapid_ai_learning_verified_recovery.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 10159
+    },
+    {
+      "file_name": "2026-11-17_terraria_dawn_entry_failure_and_deployed_base_ui_proof.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_terraria_dawn_entry_failure_and_deployed_base_ui_proof.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 15885
+    },
+    {
+      "file_name": "2026-11-17_terraria_native_guard_and_return_route_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_terraria_native_guard_and_return_route_repair.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 12545
+    },
+    {
+      "file_name": "2026-11-17_terraria_platform_landing_handoff.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_terraria_platform_landing_handoff.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 7538
+    },
+    {
+      "file_name": "2026-11-17_terraria_resource16_and_subtile_branch_progress.md",
+      "home": "sanji",
+      "rel_path": "2026-11-17_terraria_resource16_and_subtile_branch_progress.md",
+      "date": "2026-11-17",
+      "tier": null,
+      "size_bytes": 6499
     },
     {
       "file_name": "2026-11-17_terraria_waypoint_measurement_and_live_rebase.md",
