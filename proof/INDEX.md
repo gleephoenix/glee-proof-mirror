@@ -1,30 +1,74 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-17T12:41:15.845595+00:00
-> Total receipts indexed: 25957
+> Last updated: 2026-11-18T00:41:16.864619+00:00
+> Total receipts indexed: 26001
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-11-18_terraria_retained_memory_primary.md | sanji | 2026-11-18 | — | 5617 |
+| 2026-11-18_terraria_retry_prediction.md | sanji | 2026-11-18 | — | 3542 |
+| 2026-11-17_ai_progress_intake_and_frontier_progress_wave1_relaunch.md | zoro | 2026-11-17 | A | 7898 |
+| 2026-11-17_domain_limits_digest_and_reversal_prediction.md | zoro | 2026-11-17 | — | 4918 |
 | 2026-11-17_glee_loom_wavetable_vst3_clap_review_fixes_windows.md | zoro | 2026-11-17 | — | 7689 |
+| 2026-11-17_hard_problems_register_and_claude_capacity_probe.md | zoro | 2026-11-17 | — | 8834 |
 | 2026-11-17_terraria_handback_live_torch_wood_comparison_counting.md | zoro | 2026-11-17 | B | 12803 |
+| 2026-11-17_bounded_producer_cohort.md | sanji | 2026-11-17 | — | 7749 |
+| 2026-11-17_codex_01691_sol62_wall_migration.md | sanji | 2026-11-17 | — | 7894 |
+| 2026-11-17_completion_context_race_repair.md | sanji | 2026-11-17 | — | 16798 |
 | 2026-11-17_completion_projection_adoption.md | sanji | 2026-11-17 | — | 11989 |
+| 2026-11-17_encoded_frame_storage_admission.md | sanji | 2026-11-17 | — | 7320 |
+| 2026-11-17_integrated_journal_envelope_and_review.md | sanji | 2026-11-17 | — | 5461 |
 | 2026-11-17_intelligence_engineering_wave03.md | sanji | 2026-11-17 | — | 4207 |
 | 2026-11-17_intelligence_engineering_wave04.md | sanji | 2026-11-17 | — | 4503 |
 | 2026-11-17_intelligence_engineering_wave05.md | sanji | 2026-11-17 | — | 4749 |
 | 2026-11-17_intelligence_engineering_wave06.md | sanji | 2026-11-17 | — | 4254 |
 | 2026-11-17_intelligence_engineering_wave07.md | sanji | 2026-11-17 | — | 4635 |
 | 2026-11-17_journal_namespace_capacity_qualification.md | sanji | 2026-11-17 | — | 7764 |
+| 2026-11-17_new_actor_frame_recovery.md | sanji | 2026-11-17 | — | 5577 |
+| 2026-11-17_operation_owned_sqlite_reuse.md | sanji | 2026-11-17 | — | 6087 |
+| 2026-11-17_passive_producer_observer_prototype.md | sanji | 2026-11-17 | — | 6068 |
+| 2026-11-17_prepared_executable_identity_replay.md | sanji | 2026-11-17 | — | 8057 |
+| 2026-11-17_private_verified_cohort_adapter.md | sanji | 2026-11-17 | — | 11595 |
 | 2026-11-17_provider_quota_reset_admission.md | sanji | 2026-11-17 | — | 6551 |
-| 2026-11-17_rapid_ai_learning_attempt_capture_rpc_guard.md | sanji | 2026-11-17 | — | 7520 |
+| 2026-11-17_qualified_review_and_cohort_read_baseline.md | sanji | 2026-11-17 | — | 7741 |
+| 2026-11-17_rapid_ai_learning_attempt_capture_rpc_guard.md | sanji | 2026-11-17 | — | 12376 |
+| 2026-11-17_rapid_ai_learning_five_examiners_source_admission.md | sanji | 2026-11-17 | — | 14003 |
 | 2026-11-17_rapid_ai_learning_real_failure_evidence.md | sanji | 2026-11-17 | — | 8146 |
+| 2026-11-17_rapid_ai_learning_scoped_transfer_null.md | sanji | 2026-11-17 | — | 9149 |
+| 2026-11-17_rapid_ai_learning_semantic_memory_test.md | sanji | 2026-11-17 | — | 6962 |
+| 2026-11-17_rapid_ai_learning_structural_ceiling.md | sanji | 2026-11-17 | — | 9847 |
 | 2026-11-17_rapid_ai_learning_verified_recovery.md | sanji | 2026-11-17 | — | 10159 |
+| 2026-11-17_reader_shipped_completion_review_resumed.md | sanji | 2026-11-17 | — | 7060 |
+| 2026-11-17_recovery_failure_windows.md | sanji | 2026-11-17 | — | 6028 |
+| 2026-11-17_recovery_operator_concurrency.md | sanji | 2026-11-17 | — | 5549 |
+| 2026-11-17_recurring_private_operating_checks.md | sanji | 2026-11-17 | — | 7107 |
+| 2026-11-17_review_failure_executable_diagnostics.md | sanji | 2026-11-17 | — | 10721 |
+| 2026-11-17_sol62_next_turn_handoff.md | sanji | 2026-11-17 | — | 4000 |
+| 2026-11-17_sqlite_preconnect_admission.md | sanji | 2026-11-17 | — | 5624 |
+| 2026-11-17_studio_backend_restored_mobile_repair.md | sanji | 2026-11-17 | — | 7109 |
+| 2026-11-17_studio_producer_runtime_binding.md | sanji | 2026-11-17 | — | 6429 |
+| 2026-11-17_terraria_backtrack_and_reviewable_ui_candidate.md | sanji | 2026-11-17 | — | 7084 |
+| 2026-11-17_terraria_branch_levels_and_reuse.md | sanji | 2026-11-17 | — | 7827 |
+| 2026-11-17_terraria_cold_reuse_and_surface_preparation.md | sanji | 2026-11-17 | — | 7915 |
+| 2026-11-17_terraria_common_cargo_fixture.md | sanji | 2026-11-17 | — | 21032 |
 | 2026-11-17_terraria_dawn_entry_failure_and_deployed_base_ui_proof.md | sanji | 2026-11-17 | — | 15885 |
+| 2026-11-17_terraria_development_methods.md | sanji | 2026-11-17 | — | 10625 |
+| 2026-11-17_terraria_extension_protection_qualification.md | sanji | 2026-11-17 | — | 5168 |
+| 2026-11-17_terraria_model_transition_checkpoint.md | sanji | 2026-11-17 | — | 5918 |
+| 2026-11-17_terraria_native_backtrack_report_boundary.md | sanji | 2026-11-17 | — | 7622 |
 | 2026-11-17_terraria_native_guard_and_return_route_repair.md | sanji | 2026-11-17 | — | 12545 |
 | 2026-11-17_terraria_platform_landing_handoff.md | sanji | 2026-11-17 | — | 7538 |
+| 2026-11-17_terraria_primary_independent_judge.md | sanji | 2026-11-17 | — | 5015 |
+| 2026-11-17_terraria_progress_ui_publication.md | sanji | 2026-11-17 | — | 6194 |
+| 2026-11-17_terraria_protected_landing_route_consolidation.md | sanji | 2026-11-17 | — | 9291 |
+| 2026-11-17_terraria_recovery_settlement_and_transition.md | sanji | 2026-11-17 | — | 5690 |
 | 2026-11-17_terraria_resource16_and_subtile_branch_progress.md | sanji | 2026-11-17 | — | 6499 |
+| 2026-11-17_terraria_resource_delivery_and_progress_ui.md | sanji | 2026-11-17 | — | 16975 |
+| 2026-11-17_terraria_retained_memory_primary_judge.md | sanji | 2026-11-17 | — | 8261 |
 | 2026-11-17_terraria_waypoint_measurement_and_live_rebase.md | sanji | 2026-11-17 | — | 11078 |
+| 2026-11-17_verified_cohort_reader_installed.md | sanji | 2026-11-17 | — | 6555 |
 | 2026-11-16_codex_efficient_small_ai_independent_review.md | glee | 2026-11-16 | A | 3787 |
 | 2026-11-16_codex_small_ai_survey_scoped_review_0619.md | glee | 2026-11-16 | B | 3564 |
 | 2026-11-16_efficient_small_ai_survey.md | zoro | 2026-11-16 | A | 8872 |
@@ -163,51 +207,7 @@
 | 2026-11-14_daw_gui_slot_wait_wave08.md | sanji | 2026-11-14 | — | 3217 |
 | 2026-11-14_daw_live_agent_qualification_wave05.md | sanji | 2026-11-14 | — | 5442 |
 | 2026-11-14_daw_portable_session_wave02.md | sanji | 2026-11-14 | — | 10016 |
-| 2026-11-14_daw_resource_blocked_audit_wave09.md | sanji | 2026-11-14 | — | 4632 |
-| 2026-11-14_daw_session_interface_wave04.md | sanji | 2026-11-14 | — | 6526 |
-| 2026-11-14_est_admission_boundaries.md | sanji | 2026-11-14 | — | 21704 |
-| 2026-11-14_exact_cache_phase.md | sanji | 2026-11-14 | — | 8569 |
-| 2026-11-14_gateway_provenance_boundary.md | sanji | 2026-11-14 | — | 10949 |
-| 2026-11-14_goal_interface_consumer_and_peer_reviews.md | sanji | 2026-11-14 | — | 6549 |
-| 2026-11-14_goal_requests_context_and_completion.md | sanji | 2026-11-14 | — | 7701 |
-| 2026-11-14_image_environments_offline_cpu_adapter.md | sanji | 2026-11-14 | — | 10005 |
-| 2026-11-14_local_cache_identity.md | sanji | 2026-11-14 | — | 11260 |
-| 2026-11-14_mcp_est_structured_admission.md | sanji | 2026-11-14 | — | 15404 |
-| 2026-11-14_next_ai_execution.md | sanji | 2026-11-14 | — | 8041 |
-| 2026-11-14_next_ai_plan.md | sanji | 2026-11-14 | — | 5791 |
-| 2026-11-14_ollama_single_dispatch.md | sanji | 2026-11-14 | — | 13223 |
-| 2026-11-14_owned_editable_animation_direction.md | sanji | 2026-11-14 | — | 5211 |
-| 2026-11-14_provider_completion_cache.md | sanji | 2026-11-14 | — | 12368 |
-| 2026-11-14_provider_preflight_boundary.md | sanji | 2026-11-14 | — | 8566 |
-| 2026-11-14_quad_analysis_repair.md | sanji | 2026-11-14 | — | 12063 |
-| 2026-11-14_reference_benchmark_access_recheck_02.md | sanji | 2026-11-14 | — | 3009 |
-| 2026-11-14_reference_benchmark_blocked_03.md | sanji | 2026-11-14 | — | 3018 |
-| 2026-11-14_reference_motion_benchmark_preparation.md | sanji | 2026-11-14 | — | 7436 |
-| 2026-11-14_s4_remaining_callers.md | sanji | 2026-11-14 | — | 12114 |
-| 2026-11-14_structured_extract_completion.md | sanji | 2026-11-14 | — | 10125 |
-| 2026-11-14_terraria_native_routes_and_progress_view.md | sanji | 2026-11-14 | — | 13554 |
-| 2026-11-14_terraria_progress_ui_release.md | sanji | 2026-11-14 | — | 19995 |
-| 2026-11-14_terraria_route_costs_and_body_clearance.md | sanji | 2026-11-14 | — | 15083 |
-| 2026-11-14_terraria_routes_milestones_and_run_journal.md | sanji | 2026-11-14 | — | 12943 |
-| 2026-11-14_thousand_sunny_authority_resolved_1637.md | sanji | 2026-11-14 | B | 5206 |
-| 2026-11-14_thousand_sunny_device_interval_pressure_rebound_2350.md | sanji | 2026-11-14 | B | 4518 |
-| 2026-11-14_thousand_sunny_guarded_collector_prepared_2356.md | sanji | 2026-11-14 | B | 5273 |
-| 2026-11-14_thousand_sunny_host_lag.md | sanji | 2026-11-14 | — | 4335 |
-| 2026-11-14_thousand_sunny_host_lag_boundary.md | sanji | 2026-11-14 | — | 1935 |
-| 2026-11-14_thousand_sunny_postpause_1438.md | sanji | 2026-11-14 | B | 6323 |
-| 2026-11-14_thousand_sunny_pressure_hold_2342.md | sanji | 2026-11-14 | B | 3194 |
-| 2026-11-14_thousand_sunny_pressure_recheck_2353.md | sanji | 2026-11-14 | B | 3098 |
-| 2026-11-14_thousand_sunny_recheck.md | sanji | 2026-11-14 | — | 3202 |
-| 2026-11-14_thousand_sunny_recovery_followup_1405.md | sanji | 2026-11-14 | B | 7337 |
-| 2026-11-14_thousand_sunny_root_io_addendum.md | sanji | 2026-11-14 | — | 3813 |
-| 2026-11-14_thousand_sunny_root_io_candidates_1515.md | sanji | 2026-11-14 | B | 8111 |
-| 2026-11-14_thousand_sunny_root_io_correlation_1723.md | sanji | 2026-11-14 | B | 5404 |
-| 2026-11-14_thousand_sunny_wait_for_captain_1533.md | sanji | 2026-11-14 | B | 5085 |
-| 2026-11-14_unfinished_alerts_operator_phase.md | sanji | 2026-11-14 | — | 9822 |
-| 2026-11-14_unfinished_alerts_recurring_phase.md | sanji | 2026-11-14 | — | 11251 |
-| 2026-11-14_exchange_next_experiments_st009_st010_and_team_repairs.md | robin | 2026-11-14 | B | 13070 |
-| 2026-11-14_glee_agent_exchange_pr18_independent_check_and_live_acceptance_experiment.md | robin | 2026-11-14 | B | 9119 |
-| _(+25757 more — see full manifest JSON)_ | | | | |
+| _(+25801 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
