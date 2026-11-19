@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-19T06:41:11.343624+00:00
-> Total receipts indexed: 26247
+> Last updated: 2026-11-19T12:41:09.661492+00:00
+> Total receipts indexed: 26304
 
 ## Receipt Manifest
 
@@ -11,13 +11,70 @@
 | 2026-11-19_terraria_compare_primary_recorded_lab_records_corrected_armc_waits_codex_reset.md | zoro | 2026-11-19 | B | 8218 |
 | 2026-11-19_terraria_design_options_research_review_inc011.md | zoro | 2026-11-19 | B | 6333 |
 | 2026-11-19_terraria_design_review_implemented_n1_m2_live_m1_failed_l2_measured.md | zoro | 2026-11-19 | B | 8787 |
+| 2026-11-19_terraria_v13_complete_armc_not_supported_gemini_recompute_v2_pilot_started_on_credits.md | zoro | 2026-11-19 | B | 10502 |
+| 2026-11-19_terraria_v13_result_committed_canonical_promise_discharged.md | zoro | 2026-11-19 | B | 2465 |
+| 2026-11-19_bounded_caller_fixture_transfer.md | sanji | 2026-11-19 | — | 3892 |
+| 2026-11-19_bounded_caller_recovery_and_receipt_labels.md | sanji | 2026-11-19 | — | 3851 |
 | 2026-11-19_caller_replay_gate_and_dsh_inspection.md | sanji | 2026-11-19 | — | 3920 |
+| 2026-11-19_codex_sol62_wall_continuity.md | sanji | 2026-11-19 | — | 2545 |
+| 2026-11-19_codex_sol62_wall_update_live.md | sanji | 2026-11-19 | — | 2263 |
+| 2026-11-19_exact_receipt_lookup_and_draft_recovery_probe.md | sanji | 2026-11-19 | — | 3978 |
+| 2026-11-19_first_failure_query_and_receipt_availability.md | sanji | 2026-11-19 | — | 4184 |
+| 2026-11-19_focused_evidence_transfer_audio_and_studio.md | sanji | 2026-11-19 | — | 4477 |
+| 2026-11-19_focused_receipt_lookup_and_context.md | sanji | 2026-11-19 | — | 4914 |
+| 2026-11-19_focused_receipt_source_sqlite_recovery.md | sanji | 2026-11-19 | — | 4548 |
+| 2026-11-19_focused_section_and_native_headroom_repair.md | sanji | 2026-11-19 | — | 4636 |
+| 2026-11-19_glee_306_model_handoff_20261119T113816Z.md | sanji | 2026-11-19 | — | 3404 |
+| 2026-11-19_glee_306_ordinary_quota_readback.md | sanji | 2026-11-19 | — | 2265 |
+| 2026-11-19_glee_306_quota_freshness_and_s6_descriptor.md | sanji | 2026-11-19 | — | 4934 |
+| 2026-11-19_glee_306_request_boundary_20261119T083919Z.md | sanji | 2026-11-19 | — | 2391 |
+| 2026-11-19_glee_306_request_boundary_20261119T101100Z.md | sanji | 2026-11-19 | — | 2044 |
+| 2026-11-19_matched_real_caller_feedback_retry.md | sanji | 2026-11-19 | — | 3633 |
+| 2026-11-19_native_bounded_caller_recovery.md | sanji | 2026-11-19 | — | 3155 |
+| 2026-11-19_native_failure_anchor_recall.md | sanji | 2026-11-19 | — | 4134 |
+| 2026-11-19_negative_public_stage_resume.md | sanji | 2026-11-19 | — | 2934 |
+| 2026-11-19_ordinary_descriptor_recovery_and_throughput_abstention.md | sanji | 2026-11-19 | — | 3851 |
+| 2026-11-19_ordinary_repair_reuse_and_runtime_status.md | sanji | 2026-11-19 | — | 4362 |
+| 2026-11-19_preservation_feedback_cohort_and_native_fixes.md | sanji | 2026-11-19 | — | 4287 |
+| 2026-11-19_probe_before_retry_cargo_guard.md | sanji | 2026-11-19 | — | 5037 |
+| 2026-11-19_prospective_empty_recall_retry.md | sanji | 2026-11-19 | — | 4198 |
+| 2026-11-19_receipt_observation_deadline_and_partial_reuse.md | sanji | 2026-11-19 | — | 3502 |
+| 2026-11-19_retained_partial_edit_feedback_comparison.md | sanji | 2026-11-19 | — | 4520 |
 | 2026-11-19_retry_interface_ablation_and_mobile_context.md | sanji | 2026-11-19 | — | 3634 |
+| 2026-11-19_s4_ask_ordinary_preflight.md | sanji | 2026-11-19 | — | 7824 |
+| 2026-11-19_s4_local_inference_preflight.md | sanji | 2026-11-19 | — | 5965 |
+| 2026-11-19_s4_network_declaration_review_repair.md | sanji | 2026-11-19 | — | 6666 |
 | 2026-11-19_s4_numeric_execution_bounds.md | sanji | 2026-11-19 | — | 6862 |
+| 2026-11-19_s6_capture_append_phase.md | sanji | 2026-11-19 | — | 8041 |
 | 2026-11-19_s6_descriptor_transport_route_and_quota_followup.md | sanji | 2026-11-19 | — | 7762 |
+| 2026-11-19_s6_listener_handoff_and_ordinary_readback.md | sanji | 2026-11-19 | — | 5905 |
+| 2026-11-19_s6_listener_repair_and_standby_wire.md | sanji | 2026-11-19 | — | 5718 |
+| 2026-11-19_s6_owner_handshake_deadline.md | sanji | 2026-11-19 | — | 4932 |
+| 2026-11-19_s6_owner_resident_protocol.md | sanji | 2026-11-19 | — | 8787 |
+| 2026-11-19_s6_owner_rollout_environment.md | sanji | 2026-11-19 | — | 5846 |
+| 2026-11-19_terraria_bounded_settle_receipt_transfer.md | sanji | 2026-11-19 | — | 4670 |
+| 2026-11-19_terraria_cold_paid_route_and_saved_tin_recovery.md | sanji | 2026-11-19 | — | 5991 |
+| 2026-11-19_terraria_cold_tunnel_and_shallow_platform_shaft.md | sanji | 2026-11-19 | — | 8058 |
+| 2026-11-19_terraria_dusk_and_roof_entrance_trials.md | sanji | 2026-11-19 | — | 11725 |
+| 2026-11-19_terraria_first_matched_deposit_and_ordered_stream.md | sanji | 2026-11-19 | — | 7764 |
+| 2026-11-19_terraria_flat_tin_roof_build_and_bridge.md | sanji | 2026-11-19 | — | 8519 |
+| 2026-11-19_terraria_level_route_overview_and_overnight_trial.md | sanji | 2026-11-19 | — | 5724 |
+| 2026-11-19_terraria_main_shaft_handoff_and_covered_pair.md | sanji | 2026-11-19 | — | 6647 |
+| 2026-11-19_terraria_matched_paid_upper_and_lower_control.md | sanji | 2026-11-19 | — | 5623 |
+| 2026-11-19_terraria_middle_platforms_and_one_trip_gateway.md | sanji | 2026-11-19 | — | 11243 |
+| 2026-11-19_terraria_paid_level_mouth_and_cold_reuse.md | sanji | 2026-11-19 | — | 6803 |
+| 2026-11-19_terraria_paid_shallow_route_and_cold_reuse.md | sanji | 2026-11-19 | — | 5469 |
+| 2026-11-19_terraria_paid_sill_and_matched_timing_panel.md | sanji | 2026-11-19 | — | 7218 |
 | 2026-11-19_terraria_platform_intersection_and_refuge_cover.md | sanji | 2026-11-19 | — | 7611 |
-| 2026-11-19_terraria_roof_reentry_and_tin_drop.md | sanji | 2026-11-19 | — | 7729 |
+| 2026-11-19_terraria_return_recovery_decision_boundary.md | sanji | 2026-11-19 | — | 4421 |
+| 2026-11-19_terraria_roof_reentry_and_tin_drop.md | sanji | 2026-11-19 | — | 9556 |
+| 2026-11-19_terraria_saved_upper_route_and_cargo_recovery.md | sanji | 2026-11-19 | — | 7076 |
+| 2026-11-19_terraria_west_door_gate_and_covered_access.md | sanji | 2026-11-19 | — | 5692 |
+| 2026-11-19_terraria_west_retreat_recovery_comparison.md | sanji | 2026-11-19 | — | 4159 |
 | 2026-11-19_typed_repair_choices_and_loader_boundary.md | sanji | 2026-11-19 | — | 3619 |
+| 2026-11-19_west_gate_feedback_and_action_check.md | sanji | 2026-11-19 | — | 4005 |
+| 2026-11-19_west_road_floor_repair_feedback.md | sanji | 2026-11-19 | — | 4067 |
+| 2026-11-19_terraria_ai_page_reinvention.md | robin | 2026-11-19 | B | 17806 |
 | 2026-11-18_GLEE-306_model_transition_boundary.md | sanji | 2026-11-18 | — | 3323 |
 | 2026-11-18_aligned_tail_transfer_and_readers.md | sanji | 2026-11-18 | — | 3692 |
 | 2026-11-18_audio_intermediate_reuse_result.md | sanji | 2026-11-18 | — | 3056 |
@@ -150,64 +207,7 @@
 | 2026-11-18_s6_gap_owner_composition.md | sanji | 2026-11-18 | — | 5479 |
 | 2026-11-18_s6_interrupted_attempt_status.md | sanji | 2026-11-18 | — | 6705 |
 | 2026-11-18_s6_native_timer_recovery_window.md | sanji | 2026-11-18 | — | 3909 |
-| 2026-11-18_s6_observer_short_slot_wait.md | sanji | 2026-11-18 | — | 4942 |
-| 2026-11-18_s6_owner_coexistence_watchdog.md | sanji | 2026-11-18 | — | 6157 |
-| 2026-11-18_s6_owner_enrollment_and_legacy_capacity.md | sanji | 2026-11-18 | — | 5161 |
-| 2026-11-18_s6_owner_receipt_entry_points.md | sanji | 2026-11-18 | — | 5603 |
-| 2026-11-18_s6_owner_split_and_migration.md | sanji | 2026-11-18 | — | 4815 |
-| 2026-11-18_s6_physical_owner_installation.md | sanji | 2026-11-18 | — | 5829 |
-| 2026-11-18_s6_pressure_attribution_and_recovery.md | sanji | 2026-11-18 | — | 5450 |
-| 2026-11-18_s6_pressure_recurrence_and_composition.md | sanji | 2026-11-18 | — | 4104 |
-| 2026-11-18_s6_production_paths_repaired.md | sanji | 2026-11-18 | — | 6914 |
-| 2026-11-18_s6_queued_activation_and_reversal.md | sanji | 2026-11-18 | — | 5103 |
-| 2026-11-18_s6_sampler_classification_cadence.md | sanji | 2026-11-18 | — | 5651 |
-| 2026-11-18_s6_turnend_owner_capacity_join.md | sanji | 2026-11-18 | — | 6094 |
-| 2026-11-18_s6_two_ordinary_deferrals.md | sanji | 2026-11-18 | — | 3730 |
-| 2026-11-18_s6_watchdog_history_private_verification.md | sanji | 2026-11-18 | — | 4558 |
-| 2026-11-18_s6_watchdog_original_stall_recovered.md | sanji | 2026-11-18 | — | 4552 |
-| 2026-11-18_s6_watchdog_timeout_and_combined_owner.md | sanji | 2026-11-18 | — | 7029 |
-| 2026-11-18_schedule_measured_repair.md | sanji | 2026-11-18 | — | 4222 |
-| 2026-11-18_schedule_preservation_base.md | sanji | 2026-11-18 | — | 3867 |
-| 2026-11-18_scoped_blocks_and_executed_path_retry.md | sanji | 2026-11-18 | — | 4960 |
-| 2026-11-18_scoped_cli_and_binary_prefix_scope.md | sanji | 2026-11-18 | — | 4182 |
-| 2026-11-18_scoped_reply_recovery_in_glee_benchmark.md | sanji | 2026-11-18 | — | 5199 |
-| 2026-11-18_scoped_type_repair_cold_control.md | sanji | 2026-11-18 | — | 4492 |
-| 2026-11-18_selective_forecast_deadline_repair.md | sanji | 2026-11-18 | — | 6753 |
-| 2026-11-18_shape_diagnostic_stress_followup.md | sanji | 2026-11-18 | — | 2900 |
-| 2026-11-18_skip_hidden_after_unavailable.md | sanji | 2026-11-18 | — | 2412 |
-| 2026-11-18_source_bound_claim_revision_result.md | sanji | 2026-11-18 | — | 3764 |
-| 2026-11-18_studio_runtime_eligibility_and_boot_recovery.md | sanji | 2026-11-18 | — | 7549 |
-| 2026-11-18_temporal_split_scoped_repair_result.md | sanji | 2026-11-18 | — | 4709 |
-| 2026-11-18_terraria_career_milestone_audit_and_activation_boundary.md | sanji | 2026-11-18 | — | 8421 |
-| 2026-11-18_terraria_cargo_pickup_and_return_junction.md | sanji | 2026-11-18 | — | 8668 |
-| 2026-11-18_terraria_charged_tin_score_and_native_door_control.md | sanji | 2026-11-18 | — | 7094 |
-| 2026-11-18_terraria_checked_return_and_saved_spur.md | sanji | 2026-11-18 | — | 6875 |
-| 2026-11-18_terraria_closable_refuge_and_timed_return.md | sanji | 2026-11-18 | — | 9694 |
-| 2026-11-18_terraria_cold_route_daylight_and_shelter.md | sanji | 2026-11-18 | — | 8613 |
-| 2026-11-18_terraria_cold_six_platforms_and_return_limits.md | sanji | 2026-11-18 | — | 7081 |
-| 2026-11-18_terraria_common_cargo_and_second_seed.md | sanji | 2026-11-18 | — | 8262 |
-| 2026-11-18_terraria_connector_distance_and_batch_admission.md | sanji | 2026-11-18 | — | 8810 |
-| 2026-11-18_terraria_daylight_resupply_and_reusable_bow.md | sanji | 2026-11-18 | — | 9118 |
-| 2026-11-18_terraria_dry_meter_control_staged.md | sanji | 2026-11-18 | — | 6808 |
-| 2026-11-18_terraria_dry_round_trip_and_first_wood.md | sanji | 2026-11-18 | — | 8059 |
-| 2026-11-18_terraria_durable_delivery_and_first_house_reference.md | sanji | 2026-11-18 | — | 8004 |
-| 2026-11-18_terraria_first_accepted_house_and_cargo_admission.md | sanji | 2026-11-18 | — | 7395 |
-| 2026-11-18_terraria_first_boss_native_observer.md | sanji | 2026-11-18 | — | 6166 |
-| 2026-11-18_terraria_first_continuous_tin_delivery.md | sanji | 2026-11-18 | — | 8017 |
-| 2026-11-18_terraria_first_day_milestone_coverage.md | sanji | 2026-11-18 | — | 5650 |
-| 2026-11-18_terraria_first_house_and_saved_stone_survey.md | sanji | 2026-11-18 | — | 7969 |
-| 2026-11-18_terraria_first_iron_return_and_tin_history.md | sanji | 2026-11-18 | — | 7618 |
-| 2026-11-18_terraria_first_tin_and_repaired_shaft_dawn.md | sanji | 2026-11-18 | — | 9317 |
-| 2026-11-18_terraria_first_usable_furnace_trial.md | sanji | 2026-11-18 | — | 6171 |
-| 2026-11-18_terraria_full_cycle_and_local_furnace_qualification.md | sanji | 2026-11-18 | — | 6324 |
-| 2026-11-18_terraria_full_route_native_geometry_and_benchmark.md | sanji | 2026-11-18 | — | 8280 |
-| 2026-11-18_terraria_home_door_and_top_rung.md | sanji | 2026-11-18 | — | 6580 |
-| 2026-11-18_terraria_level_branch_and_protected_returns.md | sanji | 2026-11-18 | — | 8741 |
-| 2026-11-18_terraria_level_branch_under_trees.md | sanji | 2026-11-18 | — | 5648 |
-| 2026-11-18_terraria_lower_tin_access_and_ascent.md | sanji | 2026-11-18 | — | 7475 |
-| 2026-11-18_terraria_matched_tin_policies_and_native_preflight.md | sanji | 2026-11-18 | — | 7243 |
-| 2026-11-18_terraria_measured_flat_crossings_and_roof_cutoff.md | sanji | 2026-11-18 | — | 8080 |
-| _(+26047 more — see full manifest JSON)_ | | | | |
+| _(+26104 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
