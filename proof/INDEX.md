@@ -1,18 +1,46 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-22T06:41:11.380555+00:00
-> Total receipts indexed: 26726
+> Last updated: 2026-11-22T12:41:09.224654+00:00
+> Total receipts indexed: 26779
 
 ## Receipt Manifest
 
 | File | Home | Date | Tier | Size |
 |------|------|------|------|------|
+| 2026-11-22_terraria_outcomes_releases27_28_31_32.md | zoro | 2026-11-22 | — | 3408 |
+| 2026-11-22_terraria_release33_mind_plan_stall.md | zoro | 2026-11-22 | — | 6087 |
+| 2026-11-22_ai_systems_research_atlas_active_perception.md | sanji | 2026-11-22 | — | 3406 |
+| 2026-11-22_ai_systems_research_atlas_assistive_communication.md | sanji | 2026-11-22 | — | 3908 |
+| 2026-11-22_ai_systems_research_atlas_chinese_automation.md | sanji | 2026-11-22 | — | 4851 |
+| 2026-11-22_ai_systems_research_atlas_disciplinary_audit.md | sanji | 2026-11-22 | — | 4511 |
+| 2026-11-22_ai_systems_research_atlas_evaluation_budget.md | sanji | 2026-11-22 | — | 4098 |
+| 2026-11-22_ai_systems_research_atlas_field_evidence.md | sanji | 2026-11-22 | — | 3369 |
+| 2026-11-22_ai_systems_research_atlas_field_replication.md | sanji | 2026-11-22 | — | 4779 |
+| 2026-11-22_ai_systems_research_atlas_fleet_coordination.md | sanji | 2026-11-22 | — | 3407 |
+| 2026-11-22_ai_systems_research_atlas_memory_traffic.md | sanji | 2026-11-22 | — | 3795 |
+| 2026-11-22_ai_systems_research_atlas_model_compression.md | sanji | 2026-11-22 | — | 4375 |
+| 2026-11-22_ai_systems_research_atlas_networked_sensing.md | sanji | 2026-11-22 | — | 4825 |
+| 2026-11-22_ai_systems_research_atlas_posterior_decisions.md | sanji | 2026-11-22 | — | 3850 |
+| 2026-11-22_ai_systems_research_atlas_proof_search.md | sanji | 2026-11-22 | — | 3903 |
+| 2026-11-22_ai_systems_research_atlas_registered_detection.md | sanji | 2026-11-22 | — | 2671 |
+| 2026-11-22_ai_systems_research_atlas_signed_languages.md | sanji | 2026-11-22 | — | 3545 |
 | 2026-11-22_ai_systems_research_atlas_world_models.md | sanji | 2026-11-22 | — | 3797 |
 | 2026-11-22_cell_broadcast_receipt_and_response.md | sanji | 2026-11-22 | — | 5203 |
+| 2026-11-22_checking_numbers_in_generated_reports.md | sanji | 2026-11-22 | — | 5557 |
+| 2026-11-22_classroom_practice_order_and_transfer.md | sanji | 2026-11-22 | — | 4497 |
+| 2026-11-22_delayed_repair_and_answer_order.md | sanji | 2026-11-22 | — | 4827 |
 | 2026-11-22_delayed_response_to_randomized_reminders.md | sanji | 2026-11-22 | — | 4228 |
+| 2026-11-22_diagnostic_examples_rule_selection.md | sanji | 2026-11-22 | — | 5686 |
 | 2026-11-22_geomagnetic_warning_revisions.md | sanji | 2026-11-22 | — | 4912 |
+| 2026-11-22_gpu_generation_and_search_interference.md | sanji | 2026-11-22 | — | 5397 |
+| 2026-11-22_gpu_release_and_observed_work.md | sanji | 2026-11-22 | — | 4580 |
 | 2026-11-22_issued_warnings_and_preparation_time.md | sanji | 2026-11-22 | — | 5227 |
+| 2026-11-22_joint_placements_with_shared_workers.md | sanji | 2026-11-22 | — | 3360 |
+| 2026-11-22_lane_release_first_day.md | sanji | 2026-11-22 | — | 4034 |
+| 2026-11-22_personalized_review_and_delayed_learning.md | sanji | 2026-11-22 | — | 5376 |
+| 2026-11-22_queue_replay_and_start_promises.md | sanji | 2026-11-22 | — | 4224 |
 | 2026-11-22_queue_waiting_time_and_job_counts.md | sanji | 2026-11-22 | — | 5048 |
+| 2026-11-22_requested_time_and_early_finishes.md | sanji | 2026-11-22 | — | 3710 |
 | 2026-11-22_research_auditing_omissions_and_quiet_hours.md | sanji | 2026-11-22 | — | 6284 |
 | 2026-11-22_research_civil_clocks_and_installed_time_rules.md | sanji | 2026-11-22 | — | 3732 |
 | 2026-11-22_research_duration_fit_and_recorded_machine_removals.md | sanji | 2026-11-22 | — | 4751 |
@@ -25,10 +53,35 @@
 | 2026-11-22_research_randomized_notification_response.md | sanji | 2026-11-22 | — | 4816 |
 | 2026-11-22_research_running_jobs_and_lane_availability.md | sanji | 2026-11-22 | — | 3859 |
 | 2026-11-22_research_shared_queue_reads_and_claim_visibility.md | sanji | 2026-11-22 | — | 4725 |
+| 2026-11-22_research_timing_on_later_openings.md | sanji | 2026-11-22 | — | 5149 |
 | 2026-11-22_research_vacancies_waiting_demand_and_actual_admission.md | sanji | 2026-11-22 | — | 4863 |
+| 2026-11-22_reviewing_one_math_topic.md | sanji | 2026-11-22 | — | 5994 |
 | 2026-11-22_shared_processors_and_restored_queue_records.md | sanji | 2026-11-22 | — | 4465 |
+| 2026-11-22_short_summary_fidelity.md | sanji | 2026-11-22 | — | 4823 |
+| 2026-11-22_soft_forecasts_and_waiting_jobs.md | sanji | 2026-11-22 | — | 3830 |
+| 2026-11-22_terraria_bank_options_and_meadow_link.md | sanji | 2026-11-22 | — | 7126 |
+| 2026-11-22_terraria_first_dawn_lens_and_bank_stop.md | sanji | 2026-11-22 | — | 7351 |
+| 2026-11-22_terraria_fresh_arena_stock_and_lights.md | sanji | 2026-11-22 | — | 6592 |
+| 2026-11-22_terraria_fresh_west_passage_and_arena_bench.md | sanji | 2026-11-22 | — | 5585 |
+| 2026-11-22_terraria_iron_delivery_and_workshop.md | sanji | 2026-11-22 | — | 6025 |
+| 2026-11-22_terraria_level_tunnel_construction_and_reuse.md | sanji | 2026-11-22 | — | 5358 |
+| 2026-11-22_terraria_matched_meadow_and_east_bridge.md | sanji | 2026-11-22 | — | 7315 |
+| 2026-11-22_terraria_meadow_east_brake.md | sanji | 2026-11-22 | — | 4837 |
+| 2026-11-22_terraria_moving_bench_recovery_and_quarry_reuse.md | sanji | 2026-11-22 | — | 5084 |
 | 2026-11-22_terraria_normal_snow_reload.md | sanji | 2026-11-22 | — | 5270 |
+| 2026-11-22_terraria_ordinary_terrace_and_first_boss_coverage.md | sanji | 2026-11-22 | — | 5221 |
+| 2026-11-22_terraria_planned_quarry_and_fresh_supply.md | sanji | 2026-11-22 | — | 5234 |
+| 2026-11-22_terraria_quarry_roof_pause.md | sanji | 2026-11-22 | — | 5991 |
+| 2026-11-22_terraria_run34_and_center_recovery.md | sanji | 2026-11-22 | — | 7703 |
+| 2026-11-22_terraria_saved_snow_round_trip.md | sanji | 2026-11-22 | — | 5832 |
+| 2026-11-22_terraria_second_dawn_and_summon_route.md | sanji | 2026-11-22 | — | 6815 |
+| 2026-11-22_terraria_stone_return_and_platform_shafts.md | sanji | 2026-11-22 | — | 6016 |
+| 2026-11-22_terraria_stream_body_level_tunnel.md | sanji | 2026-11-22 | — | 5695 |
+| 2026-11-22_terraria_summon_shaft_reuse_and_repair.md | sanji | 2026-11-22 | — | 6167 |
+| 2026-11-22_terraria_terrace_and_campaign_times.md | sanji | 2026-11-22 | — | 5632 |
 | 2026-11-22_warning_coverage_at_episode_onset.md | sanji | 2026-11-22 | — | 5782 |
+| 2026-11-22_warning_time_after_delivery.md | sanji | 2026-11-22 | — | 4625 |
+| 2026-11-22_worker_placement_and_waiting_jobs.md | sanji | 2026-11-22 | — | 4147 |
 | 2026-11-21_terraria_release16_far_altar_and_box_disk_full.md | zoro | 2026-11-21 | — | 5105 |
 | 2026-11-21_terraria_release17_quick_heal_direct_and_blast_hint.md | zoro | 2026-11-21 | — | 7826 |
 | 2026-11-21_terraria_release18_keep_explosives_heal_tidy_station_boss_death.md | zoro | 2026-11-21 | — | 7749 |
@@ -154,60 +207,7 @@
 | 2026-11-21_terraria_east_bridge_and_conditional_journal.md | sanji | 2026-11-21 | — | 6634 |
 | 2026-11-21_terraria_east_passage_and_reversible_shelter.md | sanji | 2026-11-21 | — | 6138 |
 | 2026-11-21_terraria_eight_lens_dawn_and_west_access.md | sanji | 2026-11-21 | — | 5526 |
-| 2026-11-21_terraria_fifth_lens_and_capacity_release.md | sanji | 2026-11-21 | — | 6506 |
-| 2026-11-21_terraria_first_boss_clock_fresh_opening.md | sanji | 2026-11-21 | — | 4238 |
-| 2026-11-21_terraria_first_boss_preparation_and_guarded_wait.md | sanji | 2026-11-21 | — | 8152 |
-| 2026-11-21_terraria_first_boss_timeline_and_upper_watch.md | sanji | 2026-11-21 | — | 6899 |
-| 2026-11-21_terraria_first_lens_and_night_comparison.md | sanji | 2026-11-21 | — | 6823 |
-| 2026-11-21_terraria_first_night_and_benchmark_panel.md | sanji | 2026-11-21 | — | 8906 |
-| 2026-11-21_terraria_first_timed_tin_and_lens_milestones.md | sanji | 2026-11-21 | — | 6337 |
-| 2026-11-21_terraria_flat_ridge_dusk_and_eight_lens.md | sanji | 2026-11-21 | — | 7555 |
-| 2026-11-21_terraria_four_lens_level_arena_and_release.md | sanji | 2026-11-21 | — | 9005 |
-| 2026-11-21_terraria_fresh_dawn_comparison_and_earned_torches.md | sanji | 2026-11-21 | — | 5197 |
-| 2026-11-21_terraria_fresh_first_dusk_observation.md | sanji | 2026-11-21 | — | 4480 |
-| 2026-11-21_terraria_fresh_lens_comparison_and_west_scout.md | sanji | 2026-11-21 | — | 5242 |
-| 2026-11-21_terraria_lens_priority_and_platform_patrol.md | sanji | 2026-11-21 | — | 4914 |
-| 2026-11-21_terraria_loaded_return_and_workshop_door.md | sanji | 2026-11-21 | — | 4613 |
-| 2026-11-21_terraria_local_tin_replay_and_cargo_recovery.md | sanji | 2026-11-21 | — | 4977 |
-| 2026-11-21_terraria_matched_pickups_and_reusable_dusk.md | sanji | 2026-11-21 | — | 6812 |
-| 2026-11-21_terraria_meadow_repeatability_and_paid_snow.md | sanji | 2026-11-21 | — | 4727 |
-| 2026-11-21_terraria_mine_return_saved_latch.md | sanji | 2026-11-21 | — | 5949 |
-| 2026-11-21_terraria_paid_dawn_rearm_and_fresh_reserve.md | sanji | 2026-11-21 | — | 4226 |
-| 2026-11-21_terraria_patrol_foundation_and_retained_comparison.md | sanji | 2026-11-21 | — | 5003 |
-| 2026-11-21_terraria_precise_arrivals_and_eight_lens_bridge.md | sanji | 2026-11-21 | — | 4892 |
-| 2026-11-21_terraria_preparation_costs_and_later_results.md | sanji | 2026-11-21 | — | 5340 |
-| 2026-11-21_terraria_protected_return_options.md | sanji | 2026-11-21 | — | 6913 |
-| 2026-11-21_terraria_retained_hunt_and_release_rehearsal.md | sanji | 2026-11-21 | — | 7259 |
-| 2026-11-21_terraria_ridge_reuse_and_fresh_boss_history.md | sanji | 2026-11-21 | — | 4761 |
-| 2026-11-21_terraria_saved_bridge_construction_and_rejoin.md | sanji | 2026-11-21 | — | 6081 |
-| 2026-11-21_terraria_saved_career_and_level_shaft.md | sanji | 2026-11-21 | — | 7307 |
-| 2026-11-21_terraria_saved_mine_learner_and_dawn_reuse.md | sanji | 2026-11-21 | — | 5293 |
-| 2026-11-21_terraria_second_night_and_lens_followthrough.md | sanji | 2026-11-21 | — | 7851 |
-| 2026-11-21_terraria_shared_late_day_and_night_entry.md | sanji | 2026-11-21 | — | 8006 |
-| 2026-11-21_terraria_sheltered_extension_and_travel_splits.md | sanji | 2026-11-21 | — | 8583 |
-| 2026-11-21_terraria_sheltered_timing_and_dawn_reserve.md | sanji | 2026-11-21 | — | 5388 |
-| 2026-11-21_terraria_short_shaft_climb_and_milestone_board.md | sanji | 2026-11-21 | — | 6236 |
-| 2026-11-21_terraria_snow_route_and_next_dusk.md | sanji | 2026-11-21 | — | 7093 |
-| 2026-11-21_terraria_snow_shaft_and_route_overview.md | sanji | 2026-11-21 | — | 5548 |
-| 2026-11-21_terraria_station_trial_and_platform_return.md | sanji | 2026-11-21 | — | 4691 |
-| 2026-11-21_terraria_supported_lighting_and_fresh_arena.md | sanji | 2026-11-21 | — | 8040 |
-| 2026-11-21_terraria_surface_threat_and_shaft_reuse.md | sanji | 2026-11-21 | — | 8454 |
-| 2026-11-21_terraria_third_night_contact_and_aim.md | sanji | 2026-11-21 | — | 6011 |
-| 2026-11-21_terraria_tin_common_start_and_delivery_history.md | sanji | 2026-11-21 | — | 5260 |
-| 2026-11-21_terraria_west_desert_and_sealed_journal.md | sanji | 2026-11-21 | — | 5845 |
-| 2026-11-21_terraria_workshop_survey_and_mine_learning_view.md | sanji | 2026-11-21 | — | 5595 |
-| 2026-11-21_world_affairs_atlas.md | sanji | 2026-11-21 | — | 4485 |
-| 2026-11-21_world_affairs_desk.md | sanji | 2026-11-21 | — | 7427 |
-| 2026-11-21_world_affairs_population.md | sanji | 2026-11-21 | — | 5043 |
-| 2026-11-20_terraria_loose_ends_binding_route_reconcile_combat_damage.md | zoro | 2026-11-20 | — | 30624 |
-| 2026-11-20_terraria_release13_stuck_cell_cactus_live.md | zoro | 2026-11-20 | — | 8706 |
-| 2026-11-20_terraria_release14_repeat_failure_and_failure_streak_live.md | zoro | 2026-11-20 | — | 10905 |
-| 2026-11-20_terraria_release15_heal_truth_and_prompt_splice_live.md | zoro | 2026-11-20 | — | 6522 |
-| 2026-11-20_terraria_storage_salvage_vs_craft.md | zoro | 2026-11-20 | — | 6427 |
-| 2026-11-20_terraria_storage_salvage_vs_craft_closure.md | zoro | 2026-11-20 | — | 6665 |
-| 2026-11-20_automated_income_options.md | sanji | 2026-11-20 | — | 3553 |
-| 2026-11-20_automated_income_seller_package.md | sanji | 2026-11-20 | — | 3424 |
-| _(+26526 more — see full manifest JSON)_ | | | | |
+| _(+26579 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
