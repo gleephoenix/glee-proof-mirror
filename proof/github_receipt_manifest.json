@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 26836,
+  "total_receipts": 27007,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -47858,6 +47858,22 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 7542
+    },
+    {
+      "file_name": "2026-11-22_terraria_release34_outcome.md",
+      "home": "zoro",
+      "rel_path": "2026-11-22_terraria_release34_outcome.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 5996
+    },
+    {
+      "file_name": "2026-11-22_terraria_release35_fight_until_resolved.md",
+      "home": "zoro",
+      "rel_path": "2026-11-22_terraria_release35_fight_until_resolved.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 6805
     },
     {
       "file_name": "INDEX.md",
@@ -192884,6 +192900,22 @@
       "size_bytes": 5043
     },
     {
+      "file_name": "2026-11-22_advance_notice_cyclone_intensification.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_advance_notice_cyclone_intensification.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 13592
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_active_acquisition.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_active_acquisition.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3812
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_active_measurement.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_active_measurement.md",
@@ -192900,6 +192932,30 @@
       "size_bytes": 3406
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_african_ner.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_african_ner.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4388
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_afriqa.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_afriqa.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4009
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_analog_memory.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_analog_memory.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4797
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_assistive_communication.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_assistive_communication.md",
@@ -192914,6 +192970,14 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 4851
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_concept_alignment.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_concept_alignment.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4646
     },
     {
       "file_name": "2026-11-22_ai_systems_research_atlas_cross_language_search.md",
@@ -192940,6 +193004,38 @@
       "size_bytes": 4890
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_decision_focused.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_decision_focused.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4584
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_deployed_model_updates.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_deployed_model_updates.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4068
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_deployed_planning.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_deployed_planning.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4077
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_device_portability.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_device_portability.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 2987
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_disciplinary_audit.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_disciplinary_audit.md",
@@ -192948,12 +193044,28 @@
       "size_bytes": 4511
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_dual_control.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_dual_control.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4204
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_evaluation_budget.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_evaluation_budget.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 4098
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_expert_routing.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_expert_routing.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4581
     },
     {
       "file_name": "2026-11-22_ai_systems_research_atlas_failure_attribution.md",
@@ -192972,6 +193084,14 @@
       "size_bytes": 3369
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_field_priority_comparison.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_field_priority_comparison.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3552
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_field_replication.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_field_replication.md",
@@ -192988,12 +193108,36 @@
       "size_bytes": 3407
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_graphical_inference.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_graphical_inference.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 5275
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_hci.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_hci.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 4278
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_industrial_inventions.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_industrial_inventions.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3304
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_knowledge_engineering.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_knowledge_engineering.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 5583
     },
     {
       "file_name": "2026-11-22_ai_systems_research_atlas_learning_after_assistance.md",
@@ -193004,12 +193148,36 @@
       "size_bytes": 2968
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_learning_automata.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_learning_automata.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3354
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_maintenance_feedback.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_maintenance_feedback.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4340
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_memory_traffic.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_memory_traffic.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 3795
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_metareasoning.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_metareasoning.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3504
     },
     {
       "file_name": "2026-11-22_ai_systems_research_atlas_model_compression.md",
@@ -193068,6 +193236,14 @@
       "size_bytes": 3478
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_recurring_training.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_recurring_training.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3764
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_registered_detection.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_registered_detection.md",
@@ -193108,12 +193284,36 @@
       "size_bytes": 4395
     },
     {
+      "file_name": "2026-11-22_ai_systems_research_atlas_task_horizons.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_task_horizons.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4649
+    },
+    {
       "file_name": "2026-11-22_ai_systems_research_atlas_training_only_information.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ai_systems_research_atlas_training_only_information.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 3626
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_training_precision.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_training_precision.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3465
+    },
+    {
+      "file_name": "2026-11-22_ai_systems_research_atlas_visual_correction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_ai_systems_research_atlas_visual_correction.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4391
     },
     {
       "file_name": "2026-11-22_ai_systems_research_atlas_world_models.md",
@@ -193156,6 +193356,22 @@
       "size_bytes": 4497
     },
     {
+      "file_name": "2026-11-22_cyclone_alarm_replication_and_eight_service_forecasts.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_cyclone_alarm_replication_and_eight_service_forecasts.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 12030
+    },
+    {
+      "file_name": "2026-11-22_cyclone_intensification_and_six_hour_monitoring.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_cyclone_intensification_and_six_hour_monitoring.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 14233
+    },
+    {
       "file_name": "2026-11-22_delayed_repair_and_answer_order.md",
       "home": "sanji",
       "rel_path": "2026-11-22_delayed_repair_and_answer_order.md",
@@ -193196,6 +193412,14 @@
       "size_bytes": 8780
     },
     {
+      "file_name": "2026-11-22_economic_forecast_updates_and_later_targets.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_economic_forecast_updates_and_later_targets.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 13208
+    },
+    {
       "file_name": "2026-11-22_ensemble_vote_ties_and_station_history.md",
       "home": "sanji",
       "rel_path": "2026-11-22_ensemble_vote_ties_and_station_history.md",
@@ -193226,6 +193450,14 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 8478
+    },
+    {
+      "file_name": "2026-11-22_forecast_revision_size_economic_and_cyclone_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_forecast_revision_size_economic_and_cyclone_verification.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 14947
     },
     {
       "file_name": "2026-11-22_forecast_switching_across_variables_and_periods.md",
@@ -193300,6 +193532,14 @@
       "size_bytes": 9709
     },
     {
+      "file_name": "2026-11-22_municipal_monitoring_and_fourth_service_hour.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_municipal_monitoring_and_fourth_service_hour.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 11078
+    },
+    {
       "file_name": "2026-11-22_named_rainfall_stations_and_clock.md",
       "home": "sanji",
       "rel_path": "2026-11-22_named_rainfall_stations_and_clock.md",
@@ -193322,6 +193562,14 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 7003
+    },
+    {
+      "file_name": "2026-11-22_peer_slowdowns_and_first_three_service_hours.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_peer_slowdowns_and_first_three_service_hours.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4013
     },
     {
       "file_name": "2026-11-22_personalized_review_and_delayed_learning.md",
@@ -193556,6 +193804,22 @@
       "size_bytes": 7046
     },
     {
+      "file_name": "2026-11-22_terraria_arena_opportunities_and_route_archive.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_arena_opportunities_and_route_archive.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 5708
+    },
+    {
+      "file_name": "2026-11-22_terraria_arena_shelter_and_doorway.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_arena_shelter_and_doorway.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4223
+    },
+    {
       "file_name": "2026-11-22_terraria_bank_options_and_meadow_link.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_bank_options_and_meadow_link.md",
@@ -193564,12 +193828,60 @@
       "size_bytes": 7126
     },
     {
+      "file_name": "2026-11-22_terraria_benchmark_best_and_latest.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_benchmark_best_and_latest.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3757
+    },
+    {
       "file_name": "2026-11-22_terraria_callable_platform_shaft.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_callable_platform_shaft.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 7925
+    },
+    {
+      "file_name": "2026-11-22_terraria_clear_doorway_round_trip.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_clear_doorway_round_trip.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4970
+    },
+    {
+      "file_name": "2026-11-22_terraria_combined_progress_preview.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_combined_progress_preview.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 5383
+    },
+    {
+      "file_name": "2026-11-22_terraria_east_lens_timing.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_east_lens_timing.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4919
+    },
+    {
+      "file_name": "2026-11-22_terraria_east_lens_visibility_and_threat.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_east_lens_visibility_and_threat.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4094
+    },
+    {
+      "file_name": "2026-11-22_terraria_east_prepositioning_components.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_east_prepositioning_components.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3712
     },
     {
       "file_name": "2026-11-22_terraria_eastern_early_contact.md",
@@ -193604,12 +193916,28 @@
       "size_bytes": 5013
     },
     {
+      "file_name": "2026-11-22_terraria_existing_return_and_rope_bridge.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_existing_return_and_rope_bridge.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4390
+    },
+    {
       "file_name": "2026-11-22_terraria_first_dawn_lens_and_bank_stop.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_first_dawn_lens_and_bank_stop.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 7351
+    },
+    {
+      "file_name": "2026-11-22_terraria_five_landings_and_skill_reuse.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_five_landings_and_skill_reuse.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3788
     },
     {
       "file_name": "2026-11-22_terraria_fresh_arena_stock_and_lights.md",
@@ -193636,6 +193964,38 @@
       "size_bytes": 5198
     },
     {
+      "file_name": "2026-11-22_terraria_fresh_screened_quarry_timber_and_first_night.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_fresh_screened_quarry_timber_and_first_night.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3879
+    },
+    {
+      "file_name": "2026-11-22_terraria_fresh_shelter_opening_and_arena_repair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_fresh_shelter_opening_and_arena_repair.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4803
+    },
+    {
+      "file_name": "2026-11-22_terraria_fresh_timber_returns_and_crafting_budget.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_fresh_timber_returns_and_crafting_budget.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4672
+    },
+    {
+      "file_name": "2026-11-22_terraria_fresh_upper_platform_first_night.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_fresh_upper_platform_first_night.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4479
+    },
+    {
       "file_name": "2026-11-22_terraria_fresh_west_passage_and_arena_bench.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_fresh_west_passage_and_arena_bench.md",
@@ -193652,6 +194012,22 @@
       "size_bytes": 6567
     },
     {
+      "file_name": "2026-11-22_terraria_funded_quarry_and_fresh_night_frontier.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_funded_quarry_and_fresh_night_frontier.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4294
+    },
+    {
+      "file_name": "2026-11-22_terraria_incremental_archive_and_bow_replays.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_incremental_archive_and_bow_replays.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 5801
+    },
+    {
       "file_name": "2026-11-22_terraria_iron_delivery_and_workshop.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_iron_delivery_and_workshop.md",
@@ -193660,12 +194036,36 @@
       "size_bytes": 6025
     },
     {
+      "file_name": "2026-11-22_terraria_leading_aim_and_milestone_coverage.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_leading_aim_and_milestone_coverage.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 7941
+    },
+    {
       "file_name": "2026-11-22_terraria_learner_saved_route_choice.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_learner_saved_route_choice.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 6834
+    },
+    {
+      "file_name": "2026-11-22_terraria_lens_clock_and_review_replay.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_lens_clock_and_review_replay.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4651
+    },
+    {
+      "file_name": "2026-11-22_terraria_level_escape_lane_reuse.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_level_escape_lane_reuse.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4619
     },
     {
       "file_name": "2026-11-22_terraria_level_tunnel_construction_and_reuse.md",
@@ -193690,6 +194090,14 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 7315
+    },
+    {
+      "file_name": "2026-11-22_terraria_matched_zombie_height_trial.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_matched_zombie_height_trial.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4461
     },
     {
       "file_name": "2026-11-22_terraria_meadow_arrow_fate_and_first_boss_overview.md",
@@ -193732,6 +194140,14 @@
       "size_bytes": 5270
     },
     {
+      "file_name": "2026-11-22_terraria_observed_altar_craft_and_return.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_observed_altar_craft_and_return.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3817
+    },
+    {
       "file_name": "2026-11-22_terraria_ordinary_east_and_paid_career_rejoin.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_ordinary_east_and_paid_career_rejoin.md",
@@ -193746,6 +194162,14 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 5221
+    },
+    {
+      "file_name": "2026-11-22_terraria_pickup_site_replay_and_capture.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_pickup_site_replay_and_capture.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 5102
     },
     {
       "file_name": "2026-11-22_terraria_planned_quarry_and_fresh_supply.md",
@@ -193764,6 +194188,14 @@
       "size_bytes": 9013
     },
     {
+      "file_name": "2026-11-22_terraria_quarry_inside_the_west_wall.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_quarry_inside_the_west_wall.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4083
+    },
+    {
       "file_name": "2026-11-22_terraria_quarry_roof_pause.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_quarry_roof_pause.md",
@@ -193772,12 +194204,28 @@
       "size_bytes": 5991
     },
     {
+      "file_name": "2026-11-22_terraria_repaired_arena_night.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_repaired_arena_night.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4657
+    },
+    {
       "file_name": "2026-11-22_terraria_run34_and_center_recovery.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_run34_and_center_recovery.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 7703
+    },
+    {
+      "file_name": "2026-11-22_terraria_saved_quarry_grass_and_cargo_return.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_saved_quarry_grass_and_cargo_return.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3775
     },
     {
       "file_name": "2026-11-22_terraria_saved_route_planner.md",
@@ -193802,6 +194250,14 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 6815
+    },
+    {
+      "file_name": "2026-11-22_terraria_seed_milestone_frontier.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_seed_milestone_frontier.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 6364
     },
     {
       "file_name": "2026-11-22_terraria_shelf_learner_memory_pair.md",
@@ -193844,12 +194300,44 @@
       "size_bytes": 6016
     },
     {
+      "file_name": "2026-11-22_terraria_stone_route_full_budget.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_stone_route_full_budget.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 3703
+    },
+    {
+      "file_name": "2026-11-22_terraria_stream_altar_terrain.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_stream_altar_terrain.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4241
+    },
+    {
       "file_name": "2026-11-22_terraria_stream_body_level_tunnel.md",
       "home": "sanji",
       "rel_path": "2026-11-22_terraria_stream_body_level_tunnel.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 5695
+    },
+    {
+      "file_name": "2026-11-22_terraria_stream_eye_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_stream_eye_readiness.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4665
+    },
+    {
+      "file_name": "2026-11-22_terraria_stream_platform_shafts.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_stream_platform_shafts.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4065
     },
     {
       "file_name": "2026-11-22_terraria_summon_shaft_reuse_and_repair.md",
@@ -193866,6 +194354,14 @@
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 5632
+    },
+    {
+      "file_name": "2026-11-22_terraria_tin_saved_session_accounting.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_terraria_tin_saved_session_accounting.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 4377
     },
     {
       "file_name": "2026-11-22_terraria_workshop_heldout_routes.md",
@@ -193900,12 +194396,884 @@
       "size_bytes": 7081
     },
     {
+      "file_name": "2026-11-22_witnessed_host_forecast_decisions.md",
+      "home": "sanji",
+      "rel_path": "2026-11-22_witnessed_host_forecast_decisions.md",
+      "date": "2026-11-22",
+      "tier": null,
+      "size_bytes": 9831
+    },
+    {
       "file_name": "2026-11-22_worker_placement_and_waiting_jobs.md",
       "home": "sanji",
       "rel_path": "2026-11-22_worker_placement_and_waiting_jobs.md",
       "date": "2026-11-22",
       "tier": null,
       "size_bytes": 4147
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_adaptive_budget_tests.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_adaptive_budget_tests.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4778
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_answer_selection.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_answer_selection.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4755
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_context_and_review.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_context_and_review.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5316
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_cross_field_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_cross_field_audit.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4898
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_deferred_cases.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_deferred_cases.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4585
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_expanded_audit.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_expanded_audit.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4071
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_feasibility_certificates.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_feasibility_certificates.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6916
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_field_economics.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_field_economics.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4221
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_independent_catalog.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_independent_catalog.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5238
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_intervention_allocation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_intervention_allocation.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4600
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_intervention_prediction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_intervention_prediction.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6233
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_library_learning.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_library_learning.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4605
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_map_matching.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_map_matching.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5059
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_repair_choice.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_repair_choice.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5407
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_score_following.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_score_following.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 3578
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_selective_feedback.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_selective_feedback.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5625
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_selective_verification.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_selective_verification.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4520
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_service_capacity.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_service_capacity.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4970
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_spoken_turns.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_spoken_turns.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4273
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_stream_updates.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_stream_updates.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5786
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_temporal_abstraction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_temporal_abstraction.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4539
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_tokenization.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_tokenization.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4127
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_training_or_serving.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_training_or_serving.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5944
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_training_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_training_recovery.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4905
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_training_repetition.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_training_repetition.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 3163
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_trial_registry.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_trial_registry.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4545
+    },
+    {
+      "file_name": "2026-11-23_ai_systems_research_atlas_unseen_events.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_ai_systems_research_atlas_unseen_events.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4022
+    },
+    {
+      "file_name": "2026-11-23_bulletin_disagreement_transfer_and_field_checks.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_bulletin_disagreement_transfer_and_field_checks.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 17388
+    },
+    {
+      "file_name": "2026-11-23_daytime_cpu_forecast_before_settlement.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_daytime_cpu_forecast_before_settlement.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5625
+    },
+    {
+      "file_name": "2026-11-23_disagreement_timing_and_review_cost.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_disagreement_timing_and_review_cost.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5504
+    },
+    {
+      "file_name": "2026-11-23_equal_budget_monitoring_and_matched_week_registration.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_equal_budget_monitoring_and_matched_week_registration.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 8362
+    },
+    {
+      "file_name": "2026-11-23_forecast_availability_and_design_timing.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_forecast_availability_and_design_timing.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 9864
+    },
+    {
+      "file_name": "2026-11-23_forecast_gaps_and_publication_selection.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_forecast_gaps_and_publication_selection.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5561
+    },
+    {
+      "file_name": "2026-11-23_forecast_values_before_publication.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_forecast_values_before_publication.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6272
+    },
+    {
+      "file_name": "2026-11-23_forecasts_for_future_jobs.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_forecasts_for_future_jobs.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6793
+    },
+    {
+      "file_name": "2026-11-23_forecasts_for_subscribed_river_gauges.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_forecasts_for_subscribed_river_gauges.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 8036
+    },
+    {
+      "file_name": "2026-11-23_gpu_activity_search_and_summary_replication.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_gpu_activity_search_and_summary_replication.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7572
+    },
+    {
+      "file_name": "2026-11-23_holiday_311_forecasts_and_calendar_mix.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_holiday_311_forecasts_and_calendar_mix.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5570
+    },
+    {
+      "file_name": "2026-11-23_joint_river_stage_coverage_and_field_grade.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_joint_river_stage_coverage_and_field_grade.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 8920
+    },
+    {
+      "file_name": "2026-11-23_live_queue_release_scores.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_live_queue_release_scores.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5234
+    },
+    {
+      "file_name": "2026-11-23_missing_readings_and_forecast_rankings.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_missing_readings_and_forecast_rankings.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7910
+    },
+    {
+      "file_name": "2026-11-23_municipal_schedule_changes_and_release_timeliness.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_municipal_schedule_changes_and_release_timeliness.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7162
+    },
+    {
+      "file_name": "2026-11-23_older_clock_cpu_forecasts.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_older_clock_cpu_forecasts.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 8694
+    },
+    {
+      "file_name": "2026-11-23_partial_hour_updates_for_later_forecasts.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_partial_hour_updates_for_later_forecasts.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6579
+    },
+    {
+      "file_name": "2026-11-23_post_restart_service_outcome.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_post_restart_service_outcome.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6158
+    },
+    {
+      "file_name": "2026-11-23_queue_rank_before_final_claims.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_queue_rank_before_final_claims.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6364
+    },
+    {
+      "file_name": "2026-11-23_reading_breadth_and_thermal_feedback.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_reading_breadth_and_thermal_feedback.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7598
+    },
+    {
+      "file_name": "2026-11-23_recoverable_forecast_components.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_recoverable_forecast_components.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5991
+    },
+    {
+      "file_name": "2026-11-23_release_rank_revisable_deadline.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_release_rank_revisable_deadline.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5899
+    },
+    {
+      "file_name": "2026-11-23_research_handoff_clock_and_report_links.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_research_handoff_clock_and_report_links.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5133
+    },
+    {
+      "file_name": "2026-11-23_river_lead_time_and_short_cpu_outcome.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_river_lead_time_and_short_cpu_outcome.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 12540
+    },
+    {
+      "file_name": "2026-11-23_river_mixtures_and_live_delivery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_river_mixtures_and_live_delivery.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 9078
+    },
+    {
+      "file_name": "2026-11-23_scheduled_research_checks_and_dispatch_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_scheduled_research_checks_and_dispatch_recovery.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5615
+    },
+    {
+      "file_name": "2026-11-23_screening_first_archive_requests.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_screening_first_archive_requests.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 9006
+    },
+    {
+      "file_name": "2026-11-23_service_monitoring_and_field_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_service_monitoring_and_field_recovery.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 8557
+    },
+    {
+      "file_name": "2026-11-23_telemetry_packet_recovery_and_actual_read_time.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_telemetry_packet_recovery_and_actual_read_time.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5478
+    },
+    {
+      "file_name": "2026-11-23_terraria_altar_approach_atlas.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_altar_approach_atlas.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4211
+    },
+    {
+      "file_name": "2026-11-23_terraria_altar_career_checkpoint.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_altar_career_checkpoint.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4244
+    },
+    {
+      "file_name": "2026-11-23_terraria_altar_level_connector.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_altar_level_connector.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4409
+    },
+    {
+      "file_name": "2026-11-23_terraria_altar_lower_shelf.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_altar_lower_shelf.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 3988
+    },
+    {
+      "file_name": "2026-11-23_terraria_altar_platform_bypass.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_altar_platform_bypass.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4568
+    },
+    {
+      "file_name": "2026-11-23_terraria_benchmark_hosted_release_pair.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_benchmark_hosted_release_pair.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5035
+    },
+    {
+      "file_name": "2026-11-23_terraria_closed_hour_and_eye_progress.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_closed_hour_and_eye_progress.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5741
+    },
+    {
+      "file_name": "2026-11-23_terraria_daylight_level_landing.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_daylight_level_landing.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4582
+    },
+    {
+      "file_name": "2026-11-23_terraria_east_passage_tool_gate.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_east_passage_tool_gate.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5528
+    },
+    {
+      "file_name": "2026-11-23_terraria_eastern_passage_live_reuse_and_boss_checkpoint.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_eastern_passage_live_reuse_and_boss_checkpoint.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6273
+    },
+    {
+      "file_name": "2026-11-23_terraria_eastern_station_observation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_eastern_station_observation.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6681
+    },
+    {
+      "file_name": "2026-11-23_terraria_existing_drop_survey_and_return_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_existing_drop_survey_and_return_boundary.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 9249
+    },
+    {
+      "file_name": "2026-11-23_terraria_eye_exposure_follow_up.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_eye_exposure_follow_up.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4306
+    },
+    {
+      "file_name": "2026-11-23_terraria_eye_preparation_progress.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_eye_preparation_progress.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5160
+    },
+    {
+      "file_name": "2026-11-23_terraria_first_lens_native_capture.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_first_lens_native_capture.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 3680
+    },
+    {
+      "file_name": "2026-11-23_terraria_first_lens_seed_reconciliation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_first_lens_seed_reconciliation.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5344
+    },
+    {
+      "file_name": "2026-11-23_terraria_fresh_attempt_history.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_fresh_attempt_history.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4985
+    },
+    {
+      "file_name": "2026-11-23_terraria_fresh_recipe_boundary.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_fresh_recipe_boundary.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4506
+    },
+    {
+      "file_name": "2026-11-23_terraria_idle_feedback_and_tunnel_continuity.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_idle_feedback_and_tunnel_continuity.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7007
+    },
+    {
+      "file_name": "2026-11-23_terraria_idle_pause_attribution.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_idle_pause_attribution.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6096
+    },
+    {
+      "file_name": "2026-11-23_terraria_journal_sealed_release.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_journal_sealed_release.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4070
+    },
+    {
+      "file_name": "2026-11-23_terraria_level_floor_and_later_reuse.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_level_floor_and_later_reuse.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7642
+    },
+    {
+      "file_name": "2026-11-23_terraria_linked_altar_return.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_linked_altar_return.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5965
+    },
+    {
+      "file_name": "2026-11-23_terraria_native_finish_witness.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_native_finish_witness.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5197
+    },
+    {
+      "file_name": "2026-11-23_terraria_native_highway_trial_runner.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_native_highway_trial_runner.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 3368
+    },
+    {
+      "file_name": "2026-11-23_terraria_platform_landing_credit.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_platform_landing_credit.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5366
+    },
+    {
+      "file_name": "2026-11-23_terraria_platform_stock_preparation_and_wood_sources.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_platform_stock_preparation_and_wood_sources.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5567
+    },
+    {
+      "file_name": "2026-11-23_terraria_prepared_highway_journal.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_prepared_highway_journal.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4625
+    },
+    {
+      "file_name": "2026-11-23_terraria_prepared_highway_reuse.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_prepared_highway_reuse.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4182
+    },
+    {
+      "file_name": "2026-11-23_terraria_prepared_mine_time_breakdown.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_prepared_mine_time_breakdown.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5612
+    },
+    {
+      "file_name": "2026-11-23_terraria_prepared_route_footing.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_prepared_route_footing.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4903
+    },
+    {
+      "file_name": "2026-11-23_terraria_remembered_altar_lookup.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_remembered_altar_lookup.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6533
+    },
+    {
+      "file_name": "2026-11-23_terraria_retained_ascent_links.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_retained_ascent_links.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4239
+    },
+    {
+      "file_name": "2026-11-23_terraria_rope_rejoin_and_workshop_bypass.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_rope_rejoin_and_workshop_bypass.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5986
+    },
+    {
+      "file_name": "2026-11-23_terraria_round_trip_meter_and_held_judge.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_round_trip_meter_and_held_judge.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 9813
+    },
+    {
+      "file_name": "2026-11-23_terraria_route_passage_grading.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_route_passage_grading.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5196
+    },
+    {
+      "file_name": "2026-11-23_terraria_route_preparation_journal_and_stock_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_route_preparation_journal_and_stock_preflight.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6125
+    },
+    {
+      "file_name": "2026-11-23_terraria_shaft_landing_and_material_readiness.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_shaft_landing_and_material_readiness.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7122
+    },
+    {
+      "file_name": "2026-11-23_terraria_shaft_repair_and_closed_hour.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_shaft_repair_and_closed_hour.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6574
+    },
+    {
+      "file_name": "2026-11-23_terraria_shaft_return_preparation_and_closed_hour.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_shaft_return_preparation_and_closed_hour.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7631
+    },
+    {
+      "file_name": "2026-11-23_terraria_stream_eye_milestone_trend.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_stream_eye_milestone_trend.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4050
+    },
+    {
+      "file_name": "2026-11-23_terraria_stream_goto_signature_preflight.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_stream_goto_signature_preflight.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5589
+    },
+    {
+      "file_name": "2026-11-23_terraria_stream_milestone_chronology.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_stream_milestone_chronology.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4370
+    },
+    {
+      "file_name": "2026-11-23_terraria_stream_milestone_ingestion.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_stream_milestone_ingestion.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4217
+    },
+    {
+      "file_name": "2026-11-23_terraria_thinking_handoff_and_repeat_journal.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_thinking_handoff_and_repeat_journal.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6046
+    },
+    {
+      "file_name": "2026-11-23_terraria_travel_budget.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_travel_budget.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 4609
+    },
+    {
+      "file_name": "2026-11-23_terraria_west_reuse_before_building.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_west_reuse_before_building.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5003
+    },
+    {
+      "file_name": "2026-11-23_terraria_western_route_and_waypoint_journal.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_terraria_western_route_and_waypoint_journal.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 8078
+    },
+    {
+      "file_name": "2026-11-23_warning_delivery_and_archive_recovery.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_warning_delivery_and_archive_recovery.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 6717
+    },
+    {
+      "file_name": "2026-11-23_warning_outcome_effort_and_gauge_replication.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_warning_outcome_effort_and_gauge_replication.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 10903
+    },
+    {
+      "file_name": "2026-11-23_when_to_correct_a_forecast.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_when_to_correct_a_forecast.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 7927
+    },
+    {
+      "file_name": "2026-11-23_witnessed_overnight_publication_gaps.md",
+      "home": "sanji",
+      "rel_path": "2026-11-23_witnessed_overnight_publication_gaps.md",
+      "date": "2026-11-23",
+      "tier": null,
+      "size_bytes": 5254
     },
     {
       "file_name": "INDEX.md",
