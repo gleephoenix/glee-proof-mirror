@@ -1,7 +1,7 @@
 {
   "schema": "glee-github-proof-v2",
   "privacy": "metadata-only; no receipt content, no local paths",
-  "total_receipts": 27133,
+  "total_receipts": 27140,
   "receipts": [
     {
       "file_name": "2026-04-25_W7-smoke-2026-05_pipeline_evidence.md",
@@ -195812,6 +195812,14 @@
       "size_bytes": 4893
     },
     {
+      "file_name": "2026-11-24_ai_systems_research_atlas_deep_exploration.md",
+      "home": "sanji",
+      "rel_path": "2026-11-24_ai_systems_research_atlas_deep_exploration.md",
+      "date": "2026-11-24",
+      "tier": null,
+      "size_bytes": 5167
+    },
+    {
       "file_name": "2026-11-24_ai_systems_research_atlas_ensemble_work.md",
       "home": "sanji",
       "rel_path": "2026-11-24_ai_systems_research_atlas_ensemble_work.md",
@@ -195874,6 +195882,14 @@
       "date": "2026-11-24",
       "tier": null,
       "size_bytes": 5296
+    },
+    {
+      "file_name": "2026-11-24_ai_systems_research_atlas_historical_dissertations.md",
+      "home": "sanji",
+      "rel_path": "2026-11-24_ai_systems_research_atlas_historical_dissertations.md",
+      "date": "2026-11-24",
+      "tier": null,
+      "size_bytes": 5914
     },
     {
       "file_name": "2026-11-24_ai_systems_research_atlas_historical_japanese_evidence.md",
@@ -195956,12 +195972,28 @@
       "size_bytes": 4785
     },
     {
+      "file_name": "2026-11-24_ai_systems_research_atlas_robot_demonstrations.md",
+      "home": "sanji",
+      "rel_path": "2026-11-24_ai_systems_research_atlas_robot_demonstrations.md",
+      "date": "2026-11-24",
+      "tier": null,
+      "size_bytes": 5550
+    },
+    {
       "file_name": "2026-11-24_ai_systems_research_atlas_robot_supervision.md",
       "home": "sanji",
       "rel_path": "2026-11-24_ai_systems_research_atlas_robot_supervision.md",
       "date": "2026-11-24",
       "tier": null,
       "size_bytes": 4202
+    },
+    {
+      "file_name": "2026-11-24_ai_systems_research_atlas_selective_deduction.md",
+      "home": "sanji",
+      "rel_path": "2026-11-24_ai_systems_research_atlas_selective_deduction.md",
+      "date": "2026-11-24",
+      "tier": null,
+      "size_bytes": 5975
     },
     {
       "file_name": "2026-11-24_ai_systems_research_atlas_selective_review.md",
@@ -196044,6 +196076,14 @@
       "size_bytes": 27027
     },
     {
+      "file_name": "2026-11-24_cross_basin_rise_probabilities_and_2026_validation.md",
+      "home": "sanji",
+      "rel_path": "2026-11-24_cross_basin_rise_probabilities_and_2026_validation.md",
+      "date": "2026-11-24",
+      "tier": null,
+      "size_bytes": 9728
+    },
+    {
       "file_name": "2026-11-24_displayed_river_rises_and_late_readings.md",
       "home": "sanji",
       "rel_path": "2026-11-24_displayed_river_rises_and_late_readings.md",
@@ -196074,6 +196114,14 @@
       "date": "2026-11-24",
       "tier": null,
       "size_bytes": 9360
+    },
+    {
+      "file_name": "2026-11-24_five_new_rivers_local_calibration_and_bulletin_dates.md",
+      "home": "sanji",
+      "rel_path": "2026-11-24_five_new_rivers_local_calibration_and_bulletin_dates.md",
+      "date": "2026-11-24",
+      "tier": null,
+      "size_bytes": 8387
     },
     {
       "file_name": "2026-11-24_forecast_winners_and_river_precision.md",
@@ -196234,6 +196282,14 @@
       "date": "2026-11-24",
       "tier": null,
       "size_bytes": 11312
+    },
+    {
+      "file_name": "2026-11-24_two_reading_river_rises_and_a_host_crossover.md",
+      "home": "sanji",
+      "rel_path": "2026-11-24_two_reading_river_rises_and_a_host_crossover.md",
+      "date": "2026-11-24",
+      "tier": null,
+      "size_bytes": 8980
     },
     {
       "file_name": "2026-11-24_value_of_one_river_gauge.md",
