@@ -1,7 +1,7 @@
 # GLEE Sovereign Proof Index
 
-> Last updated: 2026-11-24T18:41:10.421700+00:00
-> Total receipts indexed: 27133
+> Last updated: 2026-11-25T06:41:10.018207+00:00
+> Total receipts indexed: 27140
 
 ## Receipt Manifest
 
@@ -17,6 +17,7 @@
 | 2026-11-24_ai_systems_research_atlas_cost_and_coverage.md | sanji | 2026-11-24 | — | 5491 |
 | 2026-11-24_ai_systems_research_atlas_cost_of_choice.md | sanji | 2026-11-24 | — | 5153 |
 | 2026-11-24_ai_systems_research_atlas_cross_dataset_decisions.md | sanji | 2026-11-24 | — | 4893 |
+| 2026-11-24_ai_systems_research_atlas_deep_exploration.md | sanji | 2026-11-24 | — | 5167 |
 | 2026-11-24_ai_systems_research_atlas_ensemble_work.md | sanji | 2026-11-24 | — | 5193 |
 | 2026-11-24_ai_systems_research_atlas_evidence_balance.md | sanji | 2026-11-24 | — | 5968 |
 | 2026-11-24_ai_systems_research_atlas_feedback_value.md | sanji | 2026-11-24 | — | 5166 |
@@ -25,6 +26,7 @@
 | 2026-11-24_ai_systems_research_atlas_field_transfer_and_grid_rules.md | sanji | 2026-11-24 | — | 4438 |
 | 2026-11-24_ai_systems_research_atlas_game_transfer.md | sanji | 2026-11-24 | — | 4688 |
 | 2026-11-24_ai_systems_research_atlas_hidden_tasks.md | sanji | 2026-11-24 | — | 5296 |
+| 2026-11-24_ai_systems_research_atlas_historical_dissertations.md | sanji | 2026-11-24 | — | 5914 |
 | 2026-11-24_ai_systems_research_atlas_historical_japanese_evidence.md | sanji | 2026-11-24 | — | 4353 |
 | 2026-11-24_ai_systems_research_atlas_human_decisions.md | sanji | 2026-11-24 | — | 4982 |
 | 2026-11-24_ai_systems_research_atlas_learning_and_field_costs.md | sanji | 2026-11-24 | — | 4469 |
@@ -35,7 +37,9 @@
 | 2026-11-24_ai_systems_research_atlas_representation_and_memory.md | sanji | 2026-11-24 | — | 4131 |
 | 2026-11-24_ai_systems_research_atlas_representation_limits.md | sanji | 2026-11-24 | — | 4719 |
 | 2026-11-24_ai_systems_research_atlas_review_allocation.md | sanji | 2026-11-24 | — | 4785 |
+| 2026-11-24_ai_systems_research_atlas_robot_demonstrations.md | sanji | 2026-11-24 | — | 5550 |
 | 2026-11-24_ai_systems_research_atlas_robot_supervision.md | sanji | 2026-11-24 | — | 4202 |
+| 2026-11-24_ai_systems_research_atlas_selective_deduction.md | sanji | 2026-11-24 | — | 5975 |
 | 2026-11-24_ai_systems_research_atlas_selective_review.md | sanji | 2026-11-24 | — | 3991 |
 | 2026-11-24_ai_systems_research_atlas_storage_transfer.md | sanji | 2026-11-24 | — | 4483 |
 | 2026-11-24_ai_systems_research_atlas_successive_updates.md | sanji | 2026-11-24 | — | 5448 |
@@ -46,10 +50,12 @@
 | 2026-11-24_columbia_two_hour_updates.md | sanji | 2026-11-24 | — | 7483 |
 | 2026-11-24_cost_of_monitoring_cpu_pressure.md | sanji | 2026-11-24 | — | 23809 |
 | 2026-11-24_counter_notice_and_ordinary_hour_field.md | sanji | 2026-11-24 | — | 27027 |
+| 2026-11-24_cross_basin_rise_probabilities_and_2026_validation.md | sanji | 2026-11-24 | — | 9728 |
 | 2026-11-24_displayed_river_rises_and_late_readings.md | sanji | 2026-11-24 | — | 6865 |
 | 2026-11-24_earliest_cpu_pressure_check.md | sanji | 2026-11-24 | — | 16355 |
 | 2026-11-24_eastern_gauge_validation_and_third_cpu_close.md | sanji | 2026-11-24 | — | 6409 |
 | 2026-11-24_field_evidence_reuse.md | sanji | 2026-11-24 | — | 9360 |
+| 2026-11-24_five_new_rivers_local_calibration_and_bulletin_dates.md | sanji | 2026-11-24 | — | 8387 |
 | 2026-11-24_forecast_winners_and_river_precision.md | sanji | 2026-11-24 | — | 7266 |
 | 2026-11-24_gauge_read_order_and_missing_stations.md | sanji | 2026-11-24 | — | 15044 |
 | 2026-11-24_live_pressure_decision_and_timestamps.md | sanji | 2026-11-24 | — | 29799 |
@@ -70,6 +76,7 @@
 | 2026-11-24_stall_warning_measurement.md | sanji | 2026-11-24 | — | 25391 |
 | 2026-11-24_supplemental_alerts_and_observation_length.md | sanji | 2026-11-24 | — | 22560 |
 | 2026-11-24_two_hour_river_forecasts.md | sanji | 2026-11-24 | — | 11312 |
+| 2026-11-24_two_reading_river_rises_and_a_host_crossover.md | sanji | 2026-11-24 | — | 8980 |
 | 2026-11-24_value_of_one_river_gauge.md | sanji | 2026-11-24 | — | 12446 |
 | 2026-11-24_vancouver_bridge_forecast_uncertainty.md | sanji | 2026-11-24 | — | 7226 |
 | 2026-11-24_vancouver_delayed_stage_and_osceola.md | sanji | 2026-11-24 | — | 5962 |
@@ -200,14 +207,7 @@
 | 2026-11-23_terraria_journal_sealed_release.md | sanji | 2026-11-23 | — | 4070 |
 | 2026-11-23_terraria_later_tunnel_trips_and_workshop_stall.md | sanji | 2026-11-23 | — | 5485 |
 | 2026-11-23_terraria_level_floor_and_later_reuse.md | sanji | 2026-11-23 | — | 7642 |
-| 2026-11-23_terraria_linked_altar_return.md | sanji | 2026-11-23 | — | 5965 |
-| 2026-11-23_terraria_measure_first_night_lens_milestones.md | sanji | 2026-11-23 | — | 5292 |
-| 2026-11-23_terraria_merged_journal_and_arena_cost.md | sanji | 2026-11-23 | — | 5839 |
-| 2026-11-23_terraria_native_and_hosted_resume_conditions.md | sanji | 2026-11-23 | — | 5611 |
-| 2026-11-23_terraria_native_finish_witness.md | sanji | 2026-11-23 | — | 5197 |
-| 2026-11-23_terraria_native_highway_trial_runner.md | sanji | 2026-11-23 | — | 3368 |
-| 2026-11-23_terraria_platform_landing_credit.md | sanji | 2026-11-23 | — | 5366 |
-| _(+26933 more — see full manifest JSON)_ | | | | |
+| _(+26940 more — see full manifest JSON)_ | | | | |
 
 ---
 _Generated by GLEE Push Mirror Daemon_
